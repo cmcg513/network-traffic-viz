@@ -1,31 +1,19 @@
-# Group-4: Visualizing Trends in Email Communication Over Time
-### Authors: Casey McGinley, Athanasios Papadopoulos
+# Visualizing Trends in Network Communication Over Time
 
-### Screenshot of the application
-![](https://github.com/nyu-cs6313-fall2015/Group-4/blob/master/images/app_scrnshot_20151220.png)
+## What is it?
+This is a web application visualizing trends in communication between pairs of IP addresses over time. It is built with HTML and JavaScript and Python was used to pre-process PCAP data into a format that the application can ingest.
 
-### Description
-When government investigators are looking into some party or entity, one of the critical things they need to understand is with whom this party is communicating, to what extent, and how this might have changed over time. To that end, email represents a rich format from which to draw conclusions about the communication patterns of some party or parties. However, when dealing with a large volume of email communications, it is time-consuming and impractical for the investigator to look through individual emails in order to extract the relevant details pertaining to communication trends. Our visualization will address this issue, providing a visual means for the investigator to quickly grasp the aforementioned trends.
+## Who made it?
+This project was authored by **Casey McGinley** (cmm771@nyu.edu) as a final project for **Digital Forensics (CS-GY 6963)** taught by **Prof. Marc Budofsky**
+
+## What external libraries/sources does it use?
+This application is a fork from a previous project, authored by myself and Athanasios Papadopoulos, which visualized email communications over time. More information on this project can be found by following the link below:
+https://github.com/nyu-cs6313-fall2015/Group-4
 <br/><br/>
-Our application provides investigators with a timeline of sorts, mapping time (in months) to the x-axis and users (email addresses) to the y-axis. The timeline/chart displayed is always given in the context of a single selected user. The other users on the y-axis are the users that they communicated. On the chart, using area to encode email volume, red nodes indicate emails sent by the selected user and green nodes indicate emails that the selected user received (in other words, the emails sent by to the selected user by the other user). In this way, our visualization allows an investigator tp easily view and understand the variances in communication patterns for a given user.
-<br/><br/>
-This visualization was created as a final project for the Information Visualization (CS-GY 6313) class taught by Prof. Enrico Bertini at the NYU Tandon School of Engineering.
-
-### Video
-A video detailing the problem our visualization solves and how our viz can be used can be found below:
-* [Video](https://vimeo.com/149631861)
-
-### Demo
-A live demo of this visualization tool is available at:
-* [Demo](http://nyu-cs6313-fall2015.github.io/Group-4/)
-
-### Final Report
-The final report we compiled, detailing all aspects of this project can be found below:
-* [Final Report](https://drive.google.com/file/d/0B56UXIxhbu9qLW16enlmTHRfc1U/view?usp=sharing)
-
-### Data
-The original, unprocessed dataset can be found below:
-* [Raw Data](https://www.cs.cmu.edu/~./enron/)
-
-The significantly smaller and more structured dataset we derived from the above can be found here:
-* [Processed Data](https://github.com/nyu-cs6313-fall2015/Group-4/blob/master/data.json)
+In addition, this project makes use of the following libraries:
+- d3
+  - manipulating and loading data
+  - https://d3js.org/
+- Sortable
+  - enabling pretty sortable tables
+  - http://github.hubspot.com/sortable/docs/welcome/ 
