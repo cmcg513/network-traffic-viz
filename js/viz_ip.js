@@ -261,7 +261,7 @@ var Selection = {
         var other_ips = get_other_ips(node_list);
         var total_comm = get_other_ips_numbers(other_ips, this.chosen_ip);
         var protocs = get_protocs(node_list);
-        var payload = [node_list, other_ips, total_comm, protocs];
+        var payload = [node_list, other_ips, total_comm, protocs, this.maxNodeRad];
         if (this.chunk_index == 1) {
             d3.select("#prevArrow").style("display","inline");
         }
@@ -278,7 +278,7 @@ var Selection = {
         var other_ips = get_other_ips(node_list);
         var total_comm = get_other_ips_numbers(other_ips, this.chosen_ip);
         var protocs = get_protocs(node_list);
-        var payload = [node_list, other_ips, total_comm, protocs];
+        var payload = [node_list, other_ips, total_comm, protocs, this.maxNodeRad];
         if (this.chunk_index == 0) {
             d3.select("#prevArrow").style("display","none");
         }
