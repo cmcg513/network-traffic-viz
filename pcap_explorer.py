@@ -121,10 +121,11 @@ def process_tcpout(stats):
 	print ">>> Processing tcpout..."
 	for dirpath, dirnames, filenames in os.walk("tcpout"):
 		for filename in filenames: 
-			if "report" in filename:
-				continue
 			pattern = re.compile(r"(\d{10})T(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}\-(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}")
-			timestamp, ip_src, ip_dst = re.search(pattern, filename).groups()
+            try:
+                timestamp, ip_src, ip_dst = re.search(pattern, filename).groups()
+            except:
+                continue
 			ip_src = ".".join([str(int(x)) for x in ip_src.split(".")])
 			ip_dst = ".".join([str(int(x)) for x in ip_dst.split(".")])
 			rel_path = "/"+os.path.join(dirpath,filename)
