@@ -1,0 +1,10 @@
+GET /cgi-bin/m?ci=us-204044h&cg=0&cc=1&si=http%3A//www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/&rp=http%3A//news.google.com/&ts=compact&rnd=1461648993156 HTTP/1.1
+Host: secure-us.imrworldwide.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: IMRID=ee382405-e82f-4471-be40-1904c7cb97dd; CAMPAIGN=35309-2
+

@@ -1,0 +1,5 @@
+GET /ftue_us_v2.json HTTP/1.1
+Host: android-ftue-carousel.s3.amazonaws.com
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/UNAVAILABLE (java 1.4)
+

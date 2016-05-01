@@ -1,0 +1,10 @@
+GET /adscores/g.js?sid=9212244187&_kdpid=2111c0af-fc3a-446f-ab07-63aa74fbde8e HTTP/1.1
+Host: adadvisor.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ab=0001%3A%2FpG6xPXWqWta%2B3OIYK0kSI7skRS1FRj%2B1ywfLew%2FCjn4tZMBQfH5Hw%3D%3D
+

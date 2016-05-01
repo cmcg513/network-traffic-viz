@@ -1,0 +1,14 @@
+GET /AB11EBC0-8808-4BC1-BC43-FD7473C7AC89.txt HTTP/1.1
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: d2b67tzkr07lta.cloudfront.net
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /AB11EBC0-8808-4BC1-BC43-FD7473C7AC89.txt HTTP/1.1
+Cache-Control: no-cache
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: d2b67tzkr07lta.cloudfront.net
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

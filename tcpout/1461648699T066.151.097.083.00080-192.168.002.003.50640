@@ -1,0 +1,71 @@
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 26 Apr 2016 05:31:40 GMT
+Content-Type: text/xml;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: http://www.bbc.com
+Access-Control-Allow-Credentials: true
+
+15d
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VAST version="2.0">
+    <Ad id="5225">
+        <Wrapper>
+            <AdSystem>EngageBDR</AdSystem>
+            <VASTAdTagURI><![CDATA[http://video.bnmla.com/video?vzid=5225&vast=1&vWidth=300&vHeight=250&ohname=bbc.com&cb=954536238&sw=1]]></VASTAdTagURI>
+        </Wrapper>
+    </Ad>
+</VAST>
+
+0
+
+HTTP/1.1 200 OK
+Server: nginx/1.8.1
+Date: Tue, 26 Apr 2016 05:31:40 GMT
+Content-Type: text/xml;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Access-Control-Allow-Origin: http://www.bbc.com
+Access-Control-Allow-Credentials: true
+
+116a
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VAST version="2.0">
+    <Ad id="5225">
+        <Wrapper>
+            <AdSystem>EngageBDR</AdSystem>
+            <VASTAdTagURI><![CDATA[http://ssp.lkqd.net/ad?pid=26&sid=16480&env=1&format=1&width=300&height=250&dnt=[DO_NOT_TRACK]&output=vast&ip=72.69.84.183&ua=Mozilla%2F5.0+%28Linux%3B+Android+5.0.1%3B+HTC6525LVW+Build%2FLRX22C%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F38.0.2125.509+Mobile+Safari%2F537.36&rnd=1355894142&pageurl=bbc.com]]></VASTAdTagURI>
+            <Error><![CDATA[http://video.bnmla.com/count?vTracking=ERROR&vStatus=[ERRORCODE]&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Error>
+            <Impression><![CDATA[http://video.bnmla.com/count?vTracking=IMPRESSION&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Impression>
+            <Impression><![CDATA[https://pixel.quantserve.com/pixel/p-5cQi-4FllkxXo.gif]]></Impression>
+            <Impression><![CDATA[https://sb.scorecardresearch.com/p?c1=1&c2=7405591&c3=&c4=&c5=&c6=&c10=&cv=2.0&cj=1]]></Impression>
+            <Impression><![CDATA[http://ib.adnxs.com/getuid?http%3A%2F%2Fvideo.bnmla.com%2Fusersync%3Fdsp_id%3Ddsp_1402%26dsp_uid%3D%24UID]]></Impression>
+            <Impression><![CDATA[http://sync.1rx.io/usersync2/engagebdr?redir=http%3A%2F%2Fvideo.bnmla.com%2Fusersync%3Fdsp_id%3Ddsp_1307%26dsp_uid%3D%5BRX_UUID%5D]]></Impression>
+            <Impression><![CDATA[https://www.fqtag.com/pixel.cgi?org=sJTW0osi5bMxNczzm8jT&rt=displayImg&sl=1&fq=1&s=2360b754-839e-48dd-a362-3c631c560fe1&p=459&a=5225&cmp=6834&fmt=video&rd=bbc.com&ad=8278]]></Impression>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <TrackingEvents>
+                            <Tracking event="start"><![CDATA[http://video.bnmla.com/count?vTracking=START&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="firstQuartile"><![CDATA[http://video.bnmla.com/count?vTracking=FIRSTQ&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="midpoint"><![CDATA[http://video.bnmla.com/count?vTracking=MIDPOINT&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="thirdQuartile"><![CDATA[http://video.bnmla.com/count?vTracking=THIRDQ&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="complete"><![CDATA[http://video.bnmla.com/count?vTracking=COMPLETE&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="pause"><![CDATA[http://video.bnmla.com/count?vTracking=PAUSE&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="resume"><![CDATA[http://video.bnmla.com/count?vTracking=RESUME&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="close"><![CDATA[http://video.bnmla.com/count?vTracking=CLOSE&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="closeLinear"><![CDATA[http://video.bnmla.com/count?vTracking=CLOSELINEAR&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="skip"><![CDATA[http://video.bnmla.com/count?vTracking=SKIP&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="mute"><![CDATA[http://video.bnmla.com/count?vTracking=MUTE&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                            <Tracking event="unmute"><![CDATA[http://video.bnmla.com/count?vTracking=UNMUTE&vStatus=1&vCId=6834&vBaId=8278&vZId=5225&VGuid=2360b754-839e-48dd-a362-3c631c560fe1]]></Tracking>
+                        </TrackingEvents>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </Wrapper>
+    </Ad>
+</VAST>
+
+0
+

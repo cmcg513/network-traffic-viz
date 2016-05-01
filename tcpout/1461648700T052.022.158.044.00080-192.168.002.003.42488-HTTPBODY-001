@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VAST version="2.0">
+    <Ad id="VPAID">
+        <InLine>
+            <AdSystem version="5">Aniview</AdSystem>
+            <AdTitle>Aniview Ad Manager</AdTitle>
+            <Impression/>
+            <Creatives>
+                <Creative>
+                    <Linear>
+                        <Duration>00:00:15</Duration>
+                        <MediaFiles>
+                            <MediaFile delivery="progressive" width="640" height="480" scalable="1" type="application/javascript" apiFramework="VPAID">
+                                <![CDATA[http://data1.ani-view.com/script/5/AdManager.js?tgt=1&AV_PUBLISHERID=5649e874181f462c1d8b4567&AV_CHANNELID=56966091181f4637588b4573&AV_URL=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&format=json&cb=RandomNumber]]>
+                            </MediaFile>
+                        </MediaFiles>
+                    </Linear>
+                </Creative>
+            </Creatives>
+        </InLine>
+    </Ad>
+</VAST>

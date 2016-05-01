@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: private, max-age=0, s-max-age=0
+Content-Type: text/javascript
+Date: Tue, 26 Apr 2016 05:36:48 GMT
+P3P: policyref="http://cdn.krxd.net/kruxcontent/p3p.xml", CP="NON DSP COR NID OUR DEL SAM OTR UNR COM NAV INT DEM CNT STA PRE LOC OTC"
+Server: Apache
+Set-Cookie: ServedBy=beacon-a186; path=/; domain=.krxd.net; expires=Sun, 23-Oct-2016 18:56:48 GMT
+X-Request-Time: D=218 t=1461649008824718
+X-Served-By: beacon-a186.krxd.net
+Content-Length: 90
+Connection: keep-alive
+
+Krux.ns._default.kxjsonp_optOutCheck({
+  status: 200,
+  body: { "_kuid_": "KfyFW1Et" }
+});

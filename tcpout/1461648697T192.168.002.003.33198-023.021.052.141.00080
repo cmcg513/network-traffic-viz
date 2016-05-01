@@ -1,0 +1,50 @@
+GET /optout_check?callback=Krux.ns._default.kxjsonp_optOutCheck HTTP/1.1
+Host: beacon.krxd.net
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ServedBy=beacon-a110; _kuid_=KfyFW1Et
+
+GET /data.gif?_kdpid=2111c0af-fc3a-446f-ab07-63aa74fbde8e&_kua_seg=146&_kua_zip=10011&_kua_age=&_kua_gender=&_k_adadvisor_key=163850501942000252706 HTTP/1.1
+Host: beacon.krxd.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: _kuid_=KfyFW1Et; ServedBy=beacon-a180
+
+GET /pixel.gif?source=smarttag&fired=user_data_timeout&confid=JZTWpGsM&_kpid=5d7aaa39-eeed-454f-bb7d-ecea38d770fc&_kcp_s=BBC.com%20News&_kcp_d=www.bbc.com&_knifr=13&_kpref_=https%3A%2F%2Fwww.google.com%2F&_kua_kx_tz=240&geo_country=us&geo_region=ny&geo_dma=501&_kua_kx_lang=en-us&_kua_kx_tech_browser_language=en-us&_kua_kx_geo_country=us&_kua_kx_geo_region=ny&_kua_kx_geo_dma=501&_kua_kx_tech_browser=Chrome%20Mobile&_kua_kx_tech_manufacturer=Google%20Inc.&_kua_kx_tech_device=Mobile&_kua_kx_tech_os=Android%20Mobile&_kua_kx_whistle=0&_kpa_url_path_1=news&_kpa_url_path_2=world-europe-34897645&_kpa_sections=News%2C%20News%20-%20europe%2C%20News%20-%20STY%2C%20News%20-%20europe%20-%20STY&_kpa_cb_path=bbc.co.uk%2Fnews%2Fworld-europe-34897645&_kpa_dfpsite=ads%3Fclient%3Dca-bbccom%26output%3Djs%26adk%3D1893803208%26lmt%3D1461648692%26num_ads%3D3%26channel%3Dglobalnews%26ad_type%3Dtext%26ea%3D0%26flash%3D0%26url%3Dhttp%253A%252F%252Fwww.bbc.com%252Fnews%252Fworld-europe-34897645%26wgl%3D1%26dt%3D1461648691680%26bdt%3D1984%26idt%3D325%26shv%3Dr20160419%26cbv%3Dr20151006%26saldr%3Dsb%26correlator%3D6999503108097%26frm%3D20%26ga_vid%3D860689304.1461648692%26ga_sid%3D1461648692%26ga_hid%3D1111391307%26ga_fc%3D0%26pv%3D2%26iag%3D0%26icsg%3D10%26dssz%3D86%26mdo%3D0%26mso%3D0%26u_tz%3D-240%26u_his%3D4%26u_java%3D1%26u_h%3D640%26u_w%3D360%26u_ah%3D640%26u_aw%3D360%26u_cd%3D32%26u_nplug%3D0%26u_nmime%3D0%26dff%3Dhelmet%26dfs%3D16%26biw%3D360%26bih%3D511%26eid%3D575144605%26oid%3D3%26ref%3Dhttps%253A%252F%252Fwww.google.com%252F%26rx%3D0%26eae%3D2%26fc%3D251%26pc%3D1%26brdim%3D0%252C0%252C0%252C0%252C360%252C0%252C360%252C511%252C360%252C511%26vis%3D1%26rsz%3D%257C%257Co%257C%26abl%3DCS%26ppjl%3Du1%26fu%3D16%26bc%3D1%26ifi%3D1%26dtd%3D460&t_navigation_type=0&t_dns=31&t_tcp=29&t_http_request=-1&t_http_response=62&t_content_ready=3136&t_window_load=9011&t_redirect=0&interchange_ran=true&store_user=qndzgyain&userdata_was_requested=true&userdata_did_respond=true&store_user_after=qndzgyain&userdata_user=KfyFW1Et%2Cqndzgyain&sview=1&kplt0=49625&kplt1=67842&kplt2=34358&kplt3=29292&kplt4=29293&kplt5=29294&kplt6=35500&kplt7=43697&kplt8=59095&kplt10=37151&kplt11=48940&kplt12=34352&kplt13=35502&kplt14=43208&kplt15=44488&kplt16=43732&kplt17=40186&jsonp_requests=%2F%2Fbeacon.krxd.net%2Foptout_check%2C1215%2C%2F%2Fcdn.krxd.net%2Fuserdata%2Fget%2C1220 HTTP/1.1
+Host: beacon.krxd.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ServedBy=beacon-a141; _kuid_=KfyFW1Et
+
+GET /usermatch.gif?partner=madisonlogic&partner_uid=5978151275635303454 HTTP/1.1
+Host: beacon.krxd.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ServedBy=beacon-a123; _kuid_=KfyFW1Et
+
+GET /usermatch.gif?partner=aol&partner_uid=VA26f52dbc-0b70-11e6-8720-0e53c29e9a52 HTTP/1.1
+Host: beacon.krxd.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://dtm.advertising.com/ids/411f1e96-3bde-4d85-b17e-63749e5f0695
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ServedBy=beacon-a140; _kuid_=KfyFW1Et
+

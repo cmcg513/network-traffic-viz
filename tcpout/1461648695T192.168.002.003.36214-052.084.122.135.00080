@@ -1,0 +1,46 @@
+GET /serve/pure.js?format=1&vpaid=true&apt=auto&ear=100&pid=44&sid=15173&tagqa=&elementid=&containerid=ad662928235&width=300&height=250&mode=normal&companionid=&tracki=http%3A%2F%2Fads.creative-serving.com%2Fpixel%3Fid%3D3134578%26type%3Djs&trackc=http%3A%2F%2Fads.creative-serving.com%2Fclick%2FFEUJaFfwoXv47SJSdHY-0GphKPXRJPGHYdp5Yj.Ljpx7EoB5tNQaT-C3l2hW3e75Nh6CGHIxzJGiMYYoeyMnq1i1XO3R3D55HIEO5Pxs9Lb9v2Xu4Pbr25-bmm88YBD64oFR8bCkep5IhUquldRTvs5iPRwVa5Y8PcbRcH7t8MohmxQ6EEeF44yIk6Fn5a4H.acZdHlnUQ7kTV72wJQVp8-s4Zm7jvsmdJ4fE3UhMWGv6LE90QPd2pTpLrTwvsWyc5Nur01YOrqESRWeROc4bDV.gBSRmzPWNhRTx8zaOEGCGXPZ3PzoheEtiDqDyAi3x9rTDbH7BrJOL.BJ9gOEF5DnGKJk7f6kzuwC7NmI8ZOa2FPJ492Suqmn13LHgRAxn5jPdLL9MQuZs8lj5kq7LZ4t8I4Le-M0Qc7lrrGc8M2FtUZWDFWZiT0DujU--XnJNxIzvyk9BMhkFM37atXizwFhljlRQDWwnyHWaUtfzPNQipaz32F9qR7ffTTuUDQ-zbM.W1jNtILtHY0qvHg3kPwAbiMpMvj-qlONNiPuNH.kGWhHZ8Bm.iFQ4i47R-FK43teySFUCS3R.Ivf89WK65GMOq.xewBO9mPD4thPXSzfItkhayLH8ALf2nkpjRZhq-A726-jBAariQzQ1V1Y1rTETvvwqJq-2b-OzIYv0gIfd-6kZIe00Gb.BpgA1UcS-U69l-zzwGKGxYgCJDZDGN8igNoTxHLHBjTgHMajRdHNv1w6EtNPfso2keoFmFJuk7MkzHyu5eWye8V3of2mvGMhRBJT0Ete1DW0E9Ur-qlkOswhZdim24q3IzNaWGvSnMgqvwKsfunocBAUSDihQzJOTklMI96QLmssq74M7ZC-N0Y21D3.FL7TGgVg.Jhgv0DVJ6Iw898TapdEmMh.ykdDG17KKkW1j38FWg1x13iree48v9e5vtfEKL5eSXaoCWT2BZZaZIPkgi0DUcl5jvCNQgshQX-wCh0Ux91zyxPnCDFoqIOV.8VVQj52SDO3iUYm837I8FKkhZFelCUBZwdRZqcs4vY1FgHrPehiQ7V6jBTeldliYMBYU2.aphHBOQwKdd.5JoKm.AG5OWuExUBReMP3jg9dygM9116gBRi1ufySS56ohWiG.wCFXERjbnB6cfA5aeAy7k5WuTN-5xaBq7LPmG1FysdM782i26caS5VSpOKKDtxoHfASo9qRypQeznrwK1I4OI0L1KeGioNiqkRXohtk4HlLuTSiQF8fxnmctLv6L1gO-X1W8lATMHfdHuwOPyT5D7AdKSziTw%3D%3D%2F1%2F&c1=bbc.com&c2=2151082&c3=bsw_centro&videourl=&rnd=75833404&m=&csync=false HTTP/1.1
+Host: ad.lkqd.net
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+GET /serve/ls.html HTTP/1.1
+Host: ad.lkqd.net
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+GET /serve/loading.gif HTTP/1.1
+Host: ad.lkqd.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=fnuAhCltbgg
+
+GET /serve/audio_white_flat.png HTTP/1.1
+Host: ad.lkqd.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /serve/play.png HTTP/1.1
+Host: ad.lkqd.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+

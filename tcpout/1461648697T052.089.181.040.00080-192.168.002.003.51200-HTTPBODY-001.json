@@ -1,0 +1,16 @@
+{
+  "ip": "72.69.84.183",
+  "countryIso2": "US",
+  "isp": "Verizon FiOS",
+  "netSpeed": "Cable/DSL",
+  "userAgent": "Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36",
+  "deviceCategory": "Smartphone",
+  "deviceId": 3,
+  "osName": "Android",
+  "osId": 4,
+  "osVersionMajor": "5",
+  "osVersionMinor": "0",
+  "browser": "Chrome Mobile",
+  "browserVersionMajor": "38",
+  "browserVersionMinor": "0"
+}

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VAST version="2.0" >
+<Ad id="1">
+<InLine>
+<AdSystem>2.0</AdSystem>
+<AdTitle>DashBid Media Inc.: VPAID2</AdTitle>
+<Impression/>
+<Creatives>
+<Creative sequence="1" id="2" >
+<Linear>
+<Duration>00:00:60</Duration>
+<AdParameters>
+  db:d2Y9eyJYWCI6W1szMyxbImlucmFmcG0xIiwic3hmcDQ2Iiwic3hmcDQ5Iiwic3hmcDQ1Il1dLFszMyxbInN4ZnA0OSIsImlucmFmcG0xIiwic3hmcDQ1Iiwic3hmcDQ2Il1dLFszNCxbInN4ZnA0NSIsInN4ZnA0NiIsInN4ZnA0OSIsImlucmFmcG0xIl1dXX07ZHVyYXRpb249NjA7Yz1neWJ1ZC1keWZ5ZztwPWFzY2VmcC1ucHItMjEyNy0xO2NpZD00Mzg7cGlkPTI1MTM7ZGJpZD0zMTkwNTtkYmF1aWQ9MTA1O3RuPTE0NjAwNDk3NzI7Y2NzPTs=;;_dB_uid=AD131EAC3CFD1E57310B73720261F208;cc=US;referrer=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645;z=;ip=72.69.84.183;tosc=0;adapt=0;zip=10011;dma=501;geoloc=US_New-York_10011;rsi=request-021;lists={"l":[[1,3,4,9,19,23,24,36,40,43,44,51,54,58,65,66,68,83,90,95,98,122,125,126,130,131,140,141,163,164,175,187,189,195,196,197,198,210,211,216], [40,42,83,94,135,140,145,153,210,212,216], [], [99]]};
+</AdParameters>
+<MediaFiles>
+<MediaFile apiFramework="VPAID" width="400" height="300" type="application/javascript" delivery="progressive">
+<![CDATA[http://cdn2.dashbida.com/prod/dashbid-vpaid-js.min.js]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+</InLine>
+</Ad>
+</VAST>

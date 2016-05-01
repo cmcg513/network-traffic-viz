@@ -1,0 +1,34 @@
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 106
+Connection: keep-alive
+Date: Tue, 19 Apr 2016 23:55:03 GMT
+Last-Modified: Mon, 19 Nov 2012 21:13:29 GMT
+ETag: "67a2332f4704a7d0eab3128978e88e52"
+Accept-Ranges: bytes
+Server: AmazonS3
+Age: 20384
+X-Cache: Hit from cloudfront
+Via: 1.1 aa9a6b87feabe1a30d21428a24c1a7d8.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: Bg17P_KrZw9Ks0ix67gDjHbbydEB3RH_exG60T1_ecExLxR7MD7ufA==
+
+com.imdb.mobile/defaultMobileVideoQuality=0
+com.amazon.kindle.otter.oobe/OOBE_SHOW_WAN_DATA_SCREENS=true
+
+HTTP/1.1 200 OK
+Content-Type: text/plain
+Content-Length: 106
+Connection: keep-alive
+Date: Tue, 19 Apr 2016 23:55:03 GMT
+Last-Modified: Mon, 19 Nov 2012 21:13:29 GMT
+ETag: "67a2332f4704a7d0eab3128978e88e52"
+Accept-Ranges: bytes
+Server: AmazonS3
+Age: 20433
+X-Cache: Hit from cloudfront
+Via: 1.1 aa9a6b87feabe1a30d21428a24c1a7d8.cloudfront.net (CloudFront)
+X-Amz-Cf-Id: umN98qL0cQzm1r8YsRLarlwInd7NG6rOVetXT8p1FM6ZxCIoTud1Kw==
+
+com.imdb.mobile/defaultMobileVideoQuality=0
+com.amazon.kindle.otter.oobe/OOBE_SHOW_WAN_DATA_SCREENS=true
+

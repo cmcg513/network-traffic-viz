@@ -1,0 +1,11 @@
+GET /tag/js/gpt.js HTTP/1.1
+Host: www.googletagservices.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Resource-Freshness: max-age=900,stale-while-revalidate=3600,age=2194
+If-Modified-Since: Thu, 21 Apr 2016 18:37:28 GMT
+

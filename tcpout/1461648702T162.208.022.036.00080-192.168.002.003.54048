@@ -1,0 +1,13 @@
+HTTP/1.1 302 Found
+Server: nginx/1.8.0
+Date: Tue, 26 Apr 2016 05:31:43 GMT
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: BR_APS=3Vx79N2XxJEwB_logWA; Expires=Wed, 26 Apr 2017 05:31:43 GMT; Path=/; Domain=.btrll.com
+P3P: CP="IDC DSP COR CURa ADMa OUR IND PHY ONL COM STA"
+Access-Control-Allow-Origin: *
+Expires: Tue, 01 Jan 1980 00:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate
+Pragma: no-cache
+Location: http://b.scorecardresearch.com/p?&c1=8&c2=6000006&c3=149355&c4=3864974&c5=34544&c6=6836405&c10=232700&cv=1.7&cj=1&rn=1461648699&r=http%3A%2F%2Fpixel.quantserve.com%2Fpixel%2Fp-cb6C0zFF7dWjI.gif%3Flabels%3Dp.6836405.3864974.0%2Ca.34544.149355.232700%2Cu.968.640x480%3Bmedia%3Dad%3Br%3D1461648699
+

@@ -23,7 +23,7 @@ div#topLeft {
 div#topRight {
     position: absolute;
     right: 0px;
-    width: 800px;
+    width: 900px;
     float: right;
 }
 
@@ -282,6 +282,21 @@ li.emailHeader {
 span.emailDetailHeader {
     margin-right: 5px;
     font-weight: bold;
+}
+
+div#summaryBlock ul {
+    list-style-position: inside;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+div#summaryBlock {
+    padding-bottom: 30px;
+}
+
+div#summaryBlock li {
+    list-style-type:square;
 }
 
 nodeDetails {

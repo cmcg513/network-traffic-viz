@@ -1,0 +1,10 @@
+GET /t?ntv_url=http%3A%2F%2Fwww.cnn.com%2F2016%2F04%2F25%2Fpolitics%2Fted-cruz-john-kasich-donald-trump%2F&prx_referrer=http%3A%2F%2Fnews.google.com%2F HTTP/1.1
+Host: jadserve.postrelease.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: visitor=e0-82ba4383-2b13-4a60-87c6-e3e3535b4b2c; has_data=0
+

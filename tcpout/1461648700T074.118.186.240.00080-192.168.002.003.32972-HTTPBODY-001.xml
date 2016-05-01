@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<VAST version="2.0"> 
+	<Ad id="8111980"> 
+		<InLine> 
+			<AdSystem>YuMe</AdSystem> 
+			<AdTitle><![CDATA[Ad Creative]]></AdTitle> 
+			<Impression><![CDATA[http://plg1.yumenetworks.com/yvp/21/dmtr/static_dm_beacon_0_0_vbs.gif]]></Impression>
+			<Creatives> 
+				<Creative sequence='1' id='331'>
+					<Linear> 
+						<Duration>00:00:15</Duration>
+						<MediaFiles> 
+							<MediaFile delivery="progressive" height="360" width="480" type="application/javascript" apiFramework="VPAID">
+							<![CDATA[http://plg1.yumenetworks.com/yvp/21/vpaid/js_3.1.7.21/yume_vpaid.js?ad_server_url=http%3A%2F%2Fplg2.yumenetworks.com&domain=2416gUqpekDW]]>
+							</MediaFile> 
+						</MediaFiles> 
+					</Linear> 
+				</Creative>
+				<Creative id='331'> 
+					<CompanionAds> 
+						<Companion width='300' height='250'> 
+							<HTMLResource> 
+								<![CDATA[<div id="yume_cb_medrect_div" style="width:300px;height:250px;"></div>]]>  
+							</HTMLResource> 
+							<CompanionClickThrough></CompanionClickThrough>
+						</Companion>
+						<Companion width="468" height="60">
+							<HTMLResource> 
+								<![CDATA[<div id="yume_cb_fullban_div" style="width:468px;height:60px;"></div>]]> 
+							</HTMLResource> 
+							<CompanionClickThrough></CompanionClickThrough>
+						</Companion>
+						<Companion width="160" height="600">
+							<HTMLResource> 
+								<![CDATA[<div id="yume_cb_widesky_div" style="width:160px;height:600px;"></div>]]> 
+							</HTMLResource>
+							<CompanionClickThrough></CompanionClickThrough>
+						</Companion>
+						<Companion width="728" height="90">
+							<HTMLResource> 
+								<![CDATA[<div id="yume_cb_leaderboard_div" style="width:728px;height:90px;"></div>]]> 
+							</HTMLResource>
+							<CompanionClickThrough></CompanionClickThrough>
+						</Companion>
+						<Companion width="234" height="60">
+							<HTMLResource> 
+								<![CDATA[<div id="yume_cb_halfban_div" style="width:234px;height:60px;"></div>]]> 
+							</HTMLResource>
+							<CompanionClickThrough></CompanionClickThrough>
+						</Companion>
+						<Companion width="300" height="100">
+							<HTMLResource> 
+								<![CDATA[<div id="yume_cb_rect31_div" style="width:300px;height:100px;"></div>]]> 
+							</HTMLResource>
+							<CompanionClickThrough></CompanionClickThrough>
+						</Companion>
+					</CompanionAds> 
+				</Creative>				
+			</Creatives>
+		</InLine> 
+	</Ad> 
+</VAST>

@@ -1,0 +1,20 @@
+HTTP/1.1 302 Found
+Date: Tue, 26 Apr 2016 05:36:34 GMT
+Server: Omniture DC/2.0.0
+Access-Control-Allow-Origin: *
+Set-Cookie: s_vi=[CS]v1|2B8F7978051D5660-600019042000139D[CE]; Expires=Thu, 26 Apr 2018 05:36:34 GMT; Domain=cnn.com; Path=/
+X-C: ms-4.9.11
+Expires: Mon, 25 Apr 2016 05:36:34 GMT
+Last-Modified: Wed, 27 Apr 2016 05:36:34 GMT
+Cache-Control: no-cache, no-store, max-age=0, no-transform, private
+Pragma: no-cache
+ETag: "571EFE62-2A7C-4DC3C809"
+Vary: *
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID PSA OUR IND COM NAV STA"
+Location: http://b.scorecardresearch.com/r?c2=6035748&d.c=gif&d.o=cnn-adbp-domestic&d.x=143792178&d.t=page&d.u=http%3A%2F%2Fwww.cnn.com%2F2016%2F04%2F25%2Fpolitics%2Fted-cruz-john-kasich-donald-trump%2F
+xserver: www35
+Content-Length: 0
+Keep-Alive: timeout=15
+Connection: Keep-Alive
+Content-Type: text/plain
+

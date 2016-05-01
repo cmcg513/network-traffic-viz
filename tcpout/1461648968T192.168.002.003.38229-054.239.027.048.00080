@@ -1,0 +1,8 @@
+POST /api3/update_dev_info?sha1_serial=3fe4f75cf263549c6055a5c0f311d4fd3ae5c5c7&adId=A1zDXX5EsEDRg4sJjHi2itw&sdkVer=amznAdSDK-android-5.4.83&aud=amazon.com&sha1_mac=ec4579647f8b9c9035a89a07889e8c2e6f339c82&appId=3e27ca024d104cc9b4644a0dd64fc5e9&app=cloudplayer&sha1_udid=de615500cb6b27ba7e6c3a31b901d3ee2ab1f113&pkg=%7B%22lbl%22%3A%22Amazon%20Music%22%2C%22pn%22%3A%22com.amazon.mp3%22%2C%22v%22%3A%224020110%22%2C%22vn%22%3A%224.2.1%22%7D&dinfo=%7B%22make%22%3A%22HTC%22%2C%22model%22%3A%22HTC6525LVW%22%2C%22os%22%3A%22Android%22%2C%22osVersion%22%3A%225.0.1%22%7D&dt=android HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: s.amazon-adsystem.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 0
+

@@ -1,0 +1,18 @@
+GET /webservice/?partnerID=rjMx06Wyjbln&pageURL=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&cb=407242840&zone=Olive_Test&output=vast&ss=1&userIP=72.69.84.183&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.0.1%3B%20HTC6525LVW%20Build%2FLRX22C%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F38.0.2125.509%20Mobile%20Safari%2F537.36&page_host=bbc.com HTTP/1.1
+Host: mob.ssp.optimatic.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+GET /webservice/?partnerID=tZo2MPMqYr5v&pageURL=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&cb=1155123823&zone=default&output=vast&ss=1&userIP=72.69.84.183&useragent=Mozilla%2F5.0%20%28Linux%3B%20Android%205.0.1%3B%20HTC6525LVW%20Build%2FLRX22C%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F38.0.2125.509%20Mobile%20Safari%2F537.36&page_host=bbc.com HTTP/1.1
+Host: mob.ssp.optimatic.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

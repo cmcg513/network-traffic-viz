@@ -1,0 +1,10 @@
+GET /ad/tag?adCode=1iwhs&playerWidth=300&playerHeight=250&mediaId=17799&mediaUrl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&videoQuality=1&srcPageUrl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645 HTTP/1.1
+Host: 57z64.ads.tremorhub.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: tvid=a2e57a21233f4d2faa579c002f17b124; tvrg_60271="1,1461648699"
+

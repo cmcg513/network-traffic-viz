@@ -1,0 +1,21 @@
+GET /pagead/osd.js HTTP/1.1
+Host: pagead2.googlesyndication.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+X-Client-Data: CKW2yQE=
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-None-Match: 14002055074034607369
+
+GET /activeview?avi=BIgK4Zv4eV9ukKcOB3QGM0YSIBQAAAAAQATgByAEJwAIC4AIA4AQBoAYg&cid=5Gg_3OzZcQxZxNhIYnU6v8E8F6c&id=osdim&ti=1&adk=3674297386&p=0,0,0,0&tos=0,0,0,0,0&mtos=0,0,0,0,0&rs=3&ht=0&mc=0&lte=-1&bas=0&bac=0&fp=correlator%3D872987217625088%26eid%3D108809080%26iu%3D%252F8663477%252FCNN%252Fpolitics%252Fleaf%252Fvls%26oid%3D3%26url%3Dhttp%253A%252F%252Fwww.cnn.com%252F2016%252F04%252F25%252Fpolitics%252Fted-cruz-john-kasich-donald-trump%252F&afp=%26output%3Djson_html%26impl%3Dfif%26dt%3D1461648999333%26adx%3D0%26ady%3D0%26ifi%3D6%26flash%3D0&r=u&bs=360,511&bos=360,511&ps=360,4193&ss=360,640&tt=2845&pt=-1&deb=1-0-3-14-3--1&tvt=1758&uc=1&tgt=IMG&cl=1 HTTP/1.1
+Host: pagead2.googlesyndication.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+X-Client-Data: CKW2yQE=
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

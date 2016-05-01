@@ -1,0 +1,12 @@
+HTTP/1.1 302 Found
+Server: Apache-Coyote/1.1
+P3P: CP="NOI DSP COR NID CUR OUR NOR"
+Set-Cookie: cid_41ab637298934afb90c3482ae43e7aaa=1; path=/; domain=.ctnsnet.com; expires=Wed, 26-Apr-2017 05:31:37 GMT;
+Set-Cookie: opt=0; path=/; domain=.ctnsnet.com; expires=Wed, 26-Apr-2017 05:31:37 GMT;
+Pragma: no-cache
+Cache-Control: private, no-cache, no-store, max-age=0
+Location: http://dsum.casalemedia.com/crum?cm_dsp_id=109&external_user_id=41ab637298934afb90c3482ae43e7aaa&expiration=1464240697
+Content-Length: 0
+Date: Tue, 26 Apr 2016 05:31:36 GMT
+Connection: close
+

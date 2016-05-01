@@ -1,0 +1,24 @@
+GET /download/image?asin=B017WRZO9U&image_size=600 HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: cds.audible.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /download/image?asin=B0145UL4MI&image_size=600 HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: cds.audible.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /download/image?asin=B018EM84IA&image_size=600 HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: cds.audible.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /download/image?asin=B00VGJLPBC&image_size=600 HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: cds.audible.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

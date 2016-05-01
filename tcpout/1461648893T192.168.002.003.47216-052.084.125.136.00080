@@ -1,0 +1,12 @@
+GET /images/I/911x0jweKaL._SCRMZZZZZZ__SL600_.jpg HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: ecx.images-amazon.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /images/I/818KE3Kw1hL._SCRMZZZZZZ__SL600_.jpg HTTP/1.1
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
+Host: ecx.images-amazon.com
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

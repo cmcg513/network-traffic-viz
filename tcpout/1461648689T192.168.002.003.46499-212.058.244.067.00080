@@ -1,0 +1,12 @@
+GET /wwscripts/flag HTTP/1.1
+Host: www.bbc.co.uk
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: BGUID=c507e1bebf00f82dd5ea35ed41d95518ccb27f246e580349e3f5ca2df7ee0928; s1=73.27.24571EF08F00AD1F0205A1862985
+If-None-Match: "97eb2f391887a79b10304b3682065a77"
+If-Modified-Since: Tue, 26 Apr 2016 05:00:19 GMT
+

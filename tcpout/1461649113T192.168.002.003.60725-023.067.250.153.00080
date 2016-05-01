@@ -1,0 +1,31 @@
+GET /p?c1=2&c9=m.facebook.com&c2=6768151&c4=https%3A%2F%2Fwww.buzzfeed.com%2Fgracespelman%2F30-tweets-that-girls-with-no-fucks-to-give-will-relate-to HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBIA/FB4A;FBAV/74.0.0.21.69;]
+Referer: http://m.facebook.com/
+Accept-Encoding: gzip,deflate
+Accept-Language: en-US
+X-Requested-With: com.facebook.katana
+
+GET /p2?c1=2&c9=m.facebook.com&c2=6768151&c4=https%3A%2F%2Fwww.buzzfeed.com%2Fgracespelman%2F30-tweets-that-girls-with-no-fucks-to-give-will-relate-to HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBIA/FB4A;FBAV/74.0.0.21.69;]
+Referer: http://m.facebook.com/
+Accept-Encoding: gzip,deflate
+Accept-Language: en-US
+Cookie: UID=1D023a67a2501491573421g1461649113; UIDR=1461649113
+X-Requested-With: com.facebook.katana
+
+GET /favicon.ico HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36
+Accept-Encoding: gzip,deflate
+Accept-Language: en-US
+Cookie: UID=1D023a67a2501491573421g1461649113; UIDR=1461649113
+X-Requested-With: com.facebook.katana
+

@@ -1,0 +1,28 @@
+HTTP/1.1 302 Found
+Location: /adaptv/1/get2?sType=sync&sInitiator=external&sExtCookieId=VA26f52dbc-0b70-11e6-8720-0e53c29e9a52&_url=http://pixel.advertising.com/ups/236/sync?sInitiator=internal&uid=${UIPID()}
+UIP-Response-Status: Ok
+Frontend-ID: 4
+Set-Cookie: SEUNCY=8F08E94890F649D0; Expires=Sun, 23 Oct 2016 05:31:41 GMT; Path=/; Domain=.semasio.net; HttpOnly
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Sat, 01 Jan 2011 12:00:00 GMT
+P3P: policyref="http://uip.semasio.net/w3c/p3p.xml", CP="NOI PSAa PSDa OUR IND UNI CNT"
+Pragma: no-cache
+Date: Tue, 26 Apr 2016 05:31:41 GMT
+Content-Length: 0
+Routing-Server-ID: 1
+Access-Control-Allow-Origin: *
+
+HTTP/1.1 302 Found
+Location: http://pixel.advertising.com/ups/236/sync?sInitiator=internal&uid=8F08E94890F649D0
+UIP-Response-Status: Ok
+Frontend-ID: 1
+Set-Cookie: SEUNCY=8F08E94890F649D0; Expires=Sun, 23 Oct 2016 05:31:42 GMT; Path=/; Domain=.semasio.net; HttpOnly
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Sat, 01 Jan 2011 12:00:00 GMT
+P3P: policyref="http://uip.semasio.net/w3c/p3p.xml", CP="NOI PSAa PSDa OUR IND UNI CNT"
+Pragma: no-cache
+Date: Tue, 26 Apr 2016 05:31:42 GMT
+Content-Length: 0
+Routing-Server-ID: 3
+Access-Control-Allow-Origin: *
+

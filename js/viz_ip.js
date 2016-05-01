@@ -22,6 +22,8 @@ function getIP(){
 function closeLoadingOverlay() {
     d3.select("#loading").style("display", "none");
     d3.select("#overlayBkgrd").style("display", "none");
+    d3.select("#headTitle").text(Controller.title);
+    d3.select("#pageTitle").text(Controller.title);
 }
 
 function openUserSelectOverlay() {
@@ -62,18 +64,27 @@ function return_area(radius) {
 //generates the node objects for the viz based on the given IP address
 function get_node_list(chosen_user) {
     var user_data_dict = Controller.user_data_dict;
+    var files = Controller.files;
+    console.log(files)
     var chunked_node_list = [];
     var node_list = [];
     var i = 0;
     for (other_user in user_data_dict[chosen_user]['per_other_ip']) {
         i += 1;
         for (protoc in user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc']) {
+            var fnames = [];
+            if (chosen_user in files) {
+                if (other_user in files[chosen_user]) {
+                    fnames = Object.keys(files[chosen_user][other_user]);
+                }
+            }
             node = {
                 name: other_user,
                 protoc: protoc,
                 nSent: user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['sent'],
                 nRecvd: user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['rcvd'],
-                nTotal: user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['rcvd']
+                nTotal: user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['rcvd'],
+                fnames: fnames
             };
             node_list.push(node);
         }
@@ -92,18 +103,27 @@ function get_node_list(chosen_user) {
 //(this function could be refactored to better fit the current use-case)
 function get_other_users_numbers(other_users, chosen_user) {
     var user_data_dict = Controller.user_data_dict;
+    var files = Controller.files;
     console.log(user_data_dict);
     var total_comm = [];
     total_comm[0] = {};
     total_comm[0]["name"] = "Total (" + chosen_user + ")";
     total_comm[0]["sent"] = user_data_dict[chosen_user]['agg']['total']['sent'];
     total_comm[0]["received"] = user_data_dict[chosen_user]['agg']['total']['rcvd'];
+    total_comm[0]['fnames'] = []
 
     for (var i = 1; i <= other_users.length; i++) {
+        var fnames = [];
+        if (other_users[i-1] in files) {
+            if (chosen_user in files[other_users[i-1]]) {
+                fnames = Object.keys(files[other_users[i-1]][chosen_user]);
+            }
+        }
         total_comm[i] = {};
         total_comm[i]["name"] = other_users[i-1];
         total_comm[i]["sent"] = user_data_dict[other_users[i-1]]['per_other_ip'][chosen_user]['total']['sent'];
         total_comm[i]["received"] = user_data_dict[other_users[i-1]]['per_other_ip'][chosen_user]['total']['rcvd'];
+        total_comm[i]["fnames"] = fnames;
     }
     return total_comm;
 }
@@ -159,6 +179,8 @@ var Controller = {
     init: function() {
         self = this;
         d3.json("data.json", function(data) {
+            self.title = data.pcap;
+            self.files = data.files;
             self.agg_data = data.agg;
             self.user_list = Object.keys(data.per_ip);
             self.user_data_dict = data.per_ip;
@@ -440,7 +462,7 @@ var Timeline = {
             Dispatcher.notify('onMouseout', d);
         }).on('click', function(d) {
             Dispatcher.notify('onMouseout', d);
-//                        EmailList.call(d);
+            Summary.call(d);
         }).on('contextmenu', function(d){
             Dispatcher.notify('onMouseout', d);
             d3.event.preventDefault();
@@ -467,7 +489,7 @@ var Timeline = {
             Dispatcher.notify('onMouseout', d);
         }).on('click', function(d) {
             Dispatcher.notify('onMouseout', d);
-//                        EmailList.call(d);
+            Summary.call(d);
         }).on('contextmenu', function(d){
             Dispatcher.notify('onMouseout', d);
             d3.event.preventDefault();
@@ -700,7 +722,7 @@ var SideBar = {
                 Dispatcher.notify('onMouseoutList', d);
             }).on('click', function(d, i) {
                 Dispatcher.notify('onMouseoutList', d);
-//                            EmailList.call(d);
+                Summary.call(d);
             }).on('contextmenu', function(d, i){
                 Dispatcher.notify('onMouseoutList', d);
                 d3.event.preventDefault();
@@ -739,52 +761,113 @@ var SideBar = {
     }
 }
 
-var EmailList = {
+//an overlay displaying more granular information about the communication between two IPs, including the 
+//files exchanged between them (as carved by tcpflow)
+var Summary = {
     init: function() {
-        this.list = d3.select("#emailListBlock").select("#emailList");
+        this.file_list = d3.select("#emailListBlock").select("#emailList");
+        this.summary_block = d3.select("#summaryBlock");
     },
     call: function(node) {
         var self = this;
-        var email_dict = Controller.email_dict;
-
-        this.list.selectAll("ul").remove();
-        var unionIds = unionOfArrays(node.sentIds, node.recvdIds);
-        unionIds.sort(function(a, b) {
-            var a_date = new Date(email_dict[a].date);
-            var b_date = new Date(email_dict[b].date);
-            if (a_date > b_date) { return 1; }
-            if (a_date < b_date) { return -1; }
+        var files = Controller.files;
+        var chosen_user = Selection.chosen_user;
+        var user_data_dict = Controller.user_data_dict;
+        this.file_list.selectAll("ul").remove();
+        this.summary_block.selectAll("h1").remove();
+        this.summary_block.selectAll("ul").remove();
+//        var unionIds = unionOfArrays(node.sentIds, node.recvdIds);
+//        unionIds.sort(function(a, b) {
+//            var a_date = new Date(email_dict[a].date);
+//            var b_date = new Date(email_dict[b].date);
+//            if (a_date > b_date) { return 1; }
+//            if (a_date < b_date) { return -1; }
+//            else { return 0; }
+//        });
+        var fnames = node.fnames;
+        console.log(node);
+        console.log(fnames);
+        fnames.sort(function(a, b) {
+            var timestamp_a = files[chosen_user][node.name][a];
+            var timestamp_b = files[chosen_user][node.name][b];
+            if (timestamp_a > timestamp_b) { return 1; }
+            if (timestamp_a < timestamp_b) { return -1; }
             else { return 0; }
-        });
-        var selection = this.list.selectAll("ul").data(unionIds);
+        })
+        var title = this.summary_block.append("h1").text("Summary: " + chosen_user + " - " + node.name);
+        var stats = title.append("ul");
+        var total = user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd'];
+        var agg_traffic = stats.append("li").text("Aggregate traffic:").style("font-weight","bold");
+        agg_traffic = agg_traffic.append("ul");
+        agg_traffic.append("li")
+            .text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent']);
+        agg_traffic.append("li")
+            .text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd']);
+        agg_traffic.append("li")
+            .text("Total: " + total);
+        var per_protocol = stats.append("li").text("Traffic by protocol:").style("font-weight","bold");
+        per_protocol = per_protocol.append("ul");
+        for (protoc in user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc']) {
+            var protoc_total = user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd'];
+            var percentage = Math.round(protoc_total/total*100*100)/100;
+            var protocol = per_protocol.append("li").text(protoc + " (" + percentage + "%) " + ":").style("font-weight","bold");
+            protocol = protocol.append("ul");
+            protocol.append("li")
+                .text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent']);
+            protocol.append("li")
+                .text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']);
+            protocol.append("li")
+                .text("Total: " + protoc_total);
+        }
+        
+        var known_image_extensions = ['gif','jpg','jpeg','png','tif','tiff','jif','jfif','bmp'];
+        
+        var selection = this.file_list.selectAll("ul").data(fnames);
         selection.enter().append("ul").classed("fullEmail", true);
 
         var header = selection.append("li").classed("emailHeader", true).append("ul");
-        var id = header.append("li");
-        id.append("span").text("Message ID:").classed("emailDetailHeader", true);
-        id.append("span").text(function(d) { return email_dict[d].message_id; });
-        var date = header.append("li");
-        date.append("span").text("Date:").classed("emailDetailHeader", true);
-        date.append("span").text(function(d) { return new Date(email_dict[d].date); });
-        var subj = header.append("li");
-        subj.append("span").text("Subject:").classed("emailDetailHeader", true);
-        subj.append("span").text(function(d) { return email_dict[d].subject; });
-        var from = header.append("li");
-        from.append("span").text("From:").classed("emailDetailHeader", true);
-        from.append("span").text(function(d) { return email_dict[d].from; })
-        var to = header.append("li");
-        to.append("span").text("To:").classed("emailDetailHeader", true);
-        to.append("span").text(function(d) { return formatListToString(email_dict[d].to); });
-        var cc = header.append("li");
-        cc.append("span").text("Cc:").classed("emailDetailHeader", true);
-        cc.append("span").text(function(d) { return formatListToString(email_dict[d].cc); })
-        var bcc = header.append("li");
-        bcc.append("span").text("Bcc:").classed("emailDetailHeader", true);
-        bcc.append("span").text(function(d) { return formatListToString(email_dict[d].bcc); })
-
-        var body = selection.append("li");
-        body.text(function(d) { return email_dict[d].body; })
-            .classed("emailBody", true);
+        var file = header.append("li");
+        file.append("span")
+            .text("File:")
+            .classed("emailDetailHeader", true);
+        file.append("a")
+            .attr("href",function(d) {return files[chosen_user][node.name][d]["path"];})
+            .attr("target","_blank").text(function(d) {return d;})
+            .classed("emailDetailHeader", true);
+        var timestring = header.append("li");
+        timestring.append("span")
+            .text("Date/Time:")
+            .classed("emailDetailHeader", true);
+        timestring.append("span")
+            .text(function(d) {return files[chosen_user][node.name][d]["time_string"];})
+            .classed("emailDetailHeader", true);
+        var timestamp = header.append("li");
+        timestamp.append("span")
+            .text("Unix Timestamp:")
+            .classed("emailDetailHeader", true);
+        timestamp.append("span")
+            .text(function(d) {return files[chosen_user][node.name][d]["timestamp"];})
+            .classed("emailDetailHeader", true);
+        var img = header.append("li");
+        img.append("img")
+            .attr("src",function(d) {
+            var split = d.split(".");
+            var ext = split[split.length-1];
+            console.log(ext)
+            if (known_image_extensions.indexOf(ext) >= 0) {
+                return files[chosen_user][node.name][d]["path"];
+            } else {
+                return "#";
+            }
+        }).style("display",function(d) {
+            var split = d.split(".");
+            var ext = split[split.length-1];
+            if (known_image_extensions.indexOf(ext) >= 0) {
+                return "block";
+            } else {
+                return "none";
+            }
+        }).style("max-width","500px");
         d3.select("#emailListBlock").style("display", "block");
         d3.select("#overlayBkgrd").style("display", "block");
     }
@@ -890,7 +973,7 @@ function getIPGrandTotals(user_data_dict) {
 
 Timeline.init();
 SideBar.init();
-EmailList.init();
+Summary.init();
 Dispatcher.add(Timeline);
 Dispatcher.add(SideBar);
 Controller.init();
