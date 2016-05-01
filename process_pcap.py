@@ -90,15 +90,14 @@ def process_tcpout(stats):
 			timestamp, ip_src, ip_dst = re.search(pattern, filename).groups()
 			ip_src = ".".join([str(int(x)) for x in ip_src.split(".")])
 			ip_dst = ".".join([str(int(x)) for x in ip_dst.split(".")])
-			path = os.path.join(dirpath,filename)
-			full_path = os.path.join(os.getcwd(),path)
+			rel_path = "/"+os.path.join(dirpath,filename)
 			if ip_src not in stats['files']:
 				stats['files'][ip_src] = dict()
 				stats['files'][ip_src][ip_dst] = dict()
 			else:
 				if ip_dst not in stats['files'][ip_src]:
 					stats['files'][ip_src][ip_dst] = dict()
-			stats['files'][ip_src][ip_dst][filename] = {"path":full_path, "timestamp":timestamp}
+			stats['files'][ip_src][ip_dst][filename] = {"path":rel_path, "timestamp":timestamp}
 
 			if ip_dst not in stats['files']:
 				stats['files'][ip_dst] = dict()
@@ -106,7 +105,7 @@ def process_tcpout(stats):
 			else:
 				if ip_src not in stats['files'][ip_dst]:
 					stats['files'][ip_dst][ip_src] = dict()
-			stats['files'][ip_dst][ip_src][filename] = {"path":full_path, "timestamp":timestamp}
+			stats['files'][ip_dst][ip_src][filename] = {"path":rel_path, "timestamp":timestamp}
 	print ">>> Done!"
 
 def run_tcpflow(pcap_filename):
