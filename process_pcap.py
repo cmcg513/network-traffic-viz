@@ -88,6 +88,8 @@ def process_tcpout(stats):
 				continue
 			pattern = re.compile(r"(\d{10})T(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}\-(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}")
 			timestamp, ip_src, ip_dst = re.search(pattern, filename).groups()
+			ip_src = ".".join([str(int(x)) for x in ip_src.split(".")])
+			ip_dst = ".".join([str(int(x)) for x in ip_dst.split(".")])
 			path = os.path.join(dirpath,filename)
 			full_path = os.path.join(os.getcwd(),path)
 			if ip_src not in stats['files']:
