@@ -251,11 +251,12 @@ var Selection = {
         });
         
         //sets up the dropdown action allowing users to select how large the nodes scale to (new feature)
-        this.rad_select = d3.select("#setMaxNodeSize").on('change', function() {
-            Selection.maxNodeRad = parseInt(d3.select(this).property('value'));
-            Selection.select(Selection.chosen_ip);
-        });
-
+        //disabling this feature due to ongoing bugs
+//        this.rad_select = d3.select("#setMaxNodeSize").on('change', function() {
+//            Selection.maxNodeRad = parseInt(d3.select(this).property('value'));
+//            Selection.select(Selection.chosen_ip);
+//        });
+        
         //selects the first IP in the list by default
         Selection.select(this.chosen_ip);
     },
@@ -311,17 +312,18 @@ var Selection = {
         }).text(function(d) { return d; });
         
         //assigns values for the node size dropdown
-        var rad_sizes = generate_numbers(15,100);
-        opt_elements = this.rad_select.selectAll("option").data(rad_sizes);
-        opt_elements.exit().remove();
-        opt_elements.enter().append("option");
-        opt_elements.transition().attr({
-            selected: function(d) {
-                if (d == Selection.maxNodeRad) { return "selected"; }
-                else { return null; }
-            },
-            value: function(d) { return d; },
-        }).text(function(d) { return d; });
+        //disabling this feature due to ongoing bugs
+//        var rad_sizes = generate_numbers(15,100);
+//        opt_elements = this.rad_select.selectAll("option").data(rad_sizes);
+//        opt_elements.exit().remove();
+//        opt_elements.enter().append("option");
+//        opt_elements.transition().attr({
+//            selected: function(d) {
+//                if (d == Selection.maxNodeRad) { return "selected"; }
+//                else { return null; }
+//            },
+//            value: function(d) { return d; },
+//        }).text(function(d) { return d; });
 
         //notify the Dispatcher that the data has changed
         Dispatcher.notify('update', payload);
