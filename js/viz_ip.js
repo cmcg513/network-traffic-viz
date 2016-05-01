@@ -765,14 +765,17 @@ var SideBar = {
 //files exchanged between them (as carved by tcpflow)
 var Summary = {
     init: function() {
-        this.list = d3.select("#emailListBlock").select("#emailList");
+        this.file_list = d3.select("#emailListBlock").select("#emailList");
+        this.summary_block = d3.select("#summaryBlock");
     },
     call: function(node) {
         var self = this;
         var files = Controller.files;
         var chosen_user = Selection.chosen_user;
-
-        this.list.selectAll("ul").remove();
+        var user_data_dict = Controller.user_data_dict;
+        this.file_list.selectAll("ul").remove();
+        this.summary_block.selectAll("h1").remove();
+        this.summary_block.selectAll("ul").remove();
 //        var unionIds = unionOfArrays(node.sentIds, node.recvdIds);
 //        unionIds.sort(function(a, b) {
 //            var a_date = new Date(email_dict[a].date);
@@ -791,23 +794,40 @@ var Summary = {
             if (timestamp_a < timestamp_b) { return -1; }
             else { return 0; }
         })
-        var selection = this.list.selectAll("ul").data(fnames);
+        var title = this.summary_block.append("h1").text("Summary: " + chosen_user + " - " + node.name);
+        var stats = title.append("ul");
+        var agg_traffic = stats.append("li").text("Aggregate traffic:");
+        agg_traffic = agg_traffic.append("ul");
+        agg_traffic.append("li").text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent']);
+        agg_traffic.append("li").text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd']);
+        agg_traffic.append("li").text("Total: " + (user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd']));
+        var per_protocol = stats.append("li").text("Traffic by protocol:");
+        per_protocol = per_protocol.append("ul");
+        var protocol = null;
+        for (protoc in user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc']) {
+            protocol = per_protocol.append("li").text(protoc + ":");
+            protocol = protocol.append("ul");
+            protocol.append("li").text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent']);
+            protocol.append("li").text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']);
+            protocol.append("li").text("Total: " + (user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']));
+        }
+        
+        var selection = this.file_list.selectAll("ul").data(fnames);
         selection.enter().append("ul").classed("fullEmail", true);
 //
         var header = selection.append("li").classed("emailHeader", true).append("ul");
-        var filename = header.append("li");
-        filename.append("span").text("Filename:").classed("emailDetailHeader", true);
-        filename.append("span").text(function(d) {return d;}).classed("emailDetailHeader", true);
+        var file = header.append("li");
+        file.append("span").text("File:").classed("emailDetailHeader", true);
+        file.append("a")
+            .attr("href",function(d) {return files[chosen_user][node.name][d]["path"];})
+            .attr("target","_blank").text(function(d) {return d;})
+            .classed("emailDetailHeader", true);
+        var timestring = header.append("li");
+        timestring.append("span").text("Date/Time:").classed("emailDetailHeader", true);
+        timestring.append("span").text(function(d) {return files[chosen_user][node.name][d]["time_string"];}).classed("emailDetailHeader", true);
         var timestamp = header.append("li");
-        timestamp.append("span").text("Timestamp:").classed("emailDetailHeader", true);
+        timestamp.append("span").text("Unix Timestamp:").classed("emailDetailHeader", true);
         timestamp.append("span").text(function(d) {return files[chosen_user][node.name][d]["timestamp"];}).classed("emailDetailHeader", true);
-        var filepath = header.append("li");
-        filepath.append("span").text("Filepath:").classed("emailDetailHeader", true);
-        filepath.append("a").attr("href",function(d) {return files[chosen_user][node.name][d]["path"];}).text(function(d) {return files[chosen_user][node.name][d]["path"];}).classed("emailDetailHeader", true);
-
-//        var body = selection.append("li");
-//        body.text(function(d) { return email_dict[d].body; })
-//            .classed("emailBody", true);
         d3.select("#emailListBlock").style("display", "block");
         d3.select("#overlayBkgrd").style("display", "block");
     }

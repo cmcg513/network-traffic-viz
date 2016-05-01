@@ -284,6 +284,21 @@ span.emailDetailHeader {
     font-weight: bold;
 }
 
+div#summaryBlock ul {
+    list-style-position: inside;
+    margin-left: 30px;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+div#summaryBlock {
+    padding-bottom: 30px;
+}
+
+div#summaryBlock li {
+    list-style-type:square;
+}
+
 nodeDetails {
     display: block;
 }
