@@ -1,16 +1,43 @@
 import pyshark
 import argparse
 import json
+import SimpleHTTPServer
+import SocketServer
+import webbrowser
 
 def parse_args():
-	parser = argparse.ArgumentParser(description="Outputs PCAP data to display")
-	parser.add_argument("pcap", metavar="PCAP", type=str, help="filepath for PCAP")
-	parser.add_argument("out", metavar="PCAP", type=str, help="filepath for for the JSON output")
-	return parser.parse_args()
+	parser = argparse.ArgumentParser(description="Python script to process PCAP data and/or launch the web application. At least one (and possibly both) of the following options must be provided at runtime: -i -s")
+	parser.add_argument("-i", "--in_file", metavar="PCAP", type=str, help="Filepath for input file (PCAP)")
+	parser.add_argument("-o", "--out_file", metavar="OUT", type=str, help="Filepath for for the JSON output. data.json by default")
+	parser.add_argument("-s", "--server", action="store_true", help="Launch the web app")
+	parser.add_argument("-p", "--port", metavar="PORT", type=int, help="Port number to bind web app too. 8000 by default")
+	args = parser.parse_args()
+	print args
+	if not args.in_file and not args.server:
+		raise Exception("Neither -p nor -s was specified, at least one is required. Run again with -h for more information.")
+	return args
 
 def main():
 	args = parse_args()
-	cap = pyshark.FileCapture(args.pcap)
+	if args.in_file:
+		if args.out_file:
+			parse_pcap(args.in_file,args.out_file)
+		else:
+			parse_pcap(args.in_file)
+	if args.server:
+		if args.port:
+			serve_app(args.port)
+		else:
+			serve_app()
+
+def serve_app(port=8000):
+	handler = SimpleHTTPServer.SimpleHTTPRequestHandler
+	httpd = SocketServer.TCPServer(("", port), handler)
+	webbrowser.open("http://localhost:" + str(port) + "/")
+	httpd.serve_forever()
+
+def parse_pcap(pcap_filename,out_filename="data.json"):
+	cap = pyshark.FileCapture(pcap_filename)
 
 	stats = dict()
 	stats['agg'] = dict()
@@ -29,7 +56,7 @@ def main():
 		update_agg_stats(stats,ip,protoc)
 		update_per_ip_stats(stats,ip,protoc)
 
-	stats_json = open(args.out,"w")
+	stats_json = open(out_filename,"w")
 	stats_json.write(json.dumps(
 		stats,
 		indent=4,
