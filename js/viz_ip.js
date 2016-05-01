@@ -796,38 +796,78 @@ var Summary = {
         })
         var title = this.summary_block.append("h1").text("Summary: " + chosen_user + " - " + node.name);
         var stats = title.append("ul");
-        var agg_traffic = stats.append("li").text("Aggregate traffic:");
+        var total = user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd'];
+        var agg_traffic = stats.append("li").text("Aggregate traffic:").style("font-weight","bold");
         agg_traffic = agg_traffic.append("ul");
-        agg_traffic.append("li").text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent']);
-        agg_traffic.append("li").text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd']);
-        agg_traffic.append("li").text("Total: " + (user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd']));
-        var per_protocol = stats.append("li").text("Traffic by protocol:");
+        agg_traffic.append("li")
+            .text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent']);
+        agg_traffic.append("li")
+            .text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd']);
+        agg_traffic.append("li")
+            .text("Total: " + total);
+        var per_protocol = stats.append("li").text("Traffic by protocol:").style("font-weight","bold");
         per_protocol = per_protocol.append("ul");
-        var protocol = null;
         for (protoc in user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc']) {
-            protocol = per_protocol.append("li").text(protoc + ":");
+            var protoc_total = user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd'];
+            var percentage = Math.round(protoc_total/total*100*100)/100;
+            var protocol = per_protocol.append("li").text(protoc + " (" + percentage + "%) " + ":").style("font-weight","bold");
             protocol = protocol.append("ul");
-            protocol.append("li").text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent']);
-            protocol.append("li").text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']);
-            protocol.append("li").text("Total: " + (user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']));
+            protocol.append("li")
+                .text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent']);
+            protocol.append("li")
+                .text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']);
+            protocol.append("li")
+                .text("Total: " + protoc_total);
         }
+        
+        var known_image_extensions = ['gif','jpg','jpeg','png','tif','tiff','jif','jfif','bmp'];
         
         var selection = this.file_list.selectAll("ul").data(fnames);
         selection.enter().append("ul").classed("fullEmail", true);
-//
+
         var header = selection.append("li").classed("emailHeader", true).append("ul");
         var file = header.append("li");
-        file.append("span").text("File:").classed("emailDetailHeader", true);
+        file.append("span")
+            .text("File:")
+            .classed("emailDetailHeader", true);
         file.append("a")
             .attr("href",function(d) {return files[chosen_user][node.name][d]["path"];})
             .attr("target","_blank").text(function(d) {return d;})
             .classed("emailDetailHeader", true);
         var timestring = header.append("li");
-        timestring.append("span").text("Date/Time:").classed("emailDetailHeader", true);
-        timestring.append("span").text(function(d) {return files[chosen_user][node.name][d]["time_string"];}).classed("emailDetailHeader", true);
+        timestring.append("span")
+            .text("Date/Time:")
+            .classed("emailDetailHeader", true);
+        timestring.append("span")
+            .text(function(d) {return files[chosen_user][node.name][d]["time_string"];})
+            .classed("emailDetailHeader", true);
         var timestamp = header.append("li");
-        timestamp.append("span").text("Unix Timestamp:").classed("emailDetailHeader", true);
-        timestamp.append("span").text(function(d) {return files[chosen_user][node.name][d]["timestamp"];}).classed("emailDetailHeader", true);
+        timestamp.append("span")
+            .text("Unix Timestamp:")
+            .classed("emailDetailHeader", true);
+        timestamp.append("span")
+            .text(function(d) {return files[chosen_user][node.name][d]["timestamp"];})
+            .classed("emailDetailHeader", true);
+        var img = header.append("li");
+        img.append("img")
+            .attr("src",function(d) {
+            var split = d.split(".");
+            var ext = split[split.length-1];
+            console.log(ext)
+            if (known_image_extensions.indexOf(ext) >= 0) {
+                return files[chosen_user][node.name][d]["path"];
+            } else {
+                return "#";
+            }
+        }).style("display",function(d) {
+            var split = d.split(".");
+            var ext = split[split.length-1];
+            if (known_image_extensions.indexOf(ext) >= 0) {
+                return "block";
+            } else {
+                return "none";
+            }
+        }).style("max-width","500px");
         d3.select("#emailListBlock").style("display", "block");
         d3.select("#overlayBkgrd").style("display", "block");
     }
