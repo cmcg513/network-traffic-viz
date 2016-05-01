@@ -13,6 +13,10 @@ and add new features, though much of the core infrastructure and visual elements
 were preserved from the original project. Things explicitly marked old were largely
 untouched. Things explicitly marked new are entirely new features. Things left unmarked
 are a mix of the old and new
+
+Other attributions:
+  - http://github.hubspot.com/sortable/docs/welcome/
+  - https://d3js.org/
 */
 
 //Closes the loading window
