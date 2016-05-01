@@ -56,6 +56,7 @@ def serve_app(open_browser,port=8000):
 
 def process_pcap(pcap_filename,tcpflow_enabled,out_filename="data.json"):
 	stats = dict()
+	stats['pcap'] = pcap_filename
 	stats['agg'] = dict()
 	stats['agg']['total'] = 0
 	stats['agg']['per_protoc'] = dict()
@@ -82,12 +83,11 @@ def process_pcap(pcap_filename,tcpflow_enabled,out_filename="data.json"):
 def process_tcpout(stats):
 	print ">>> Processing tcpout..."
 	for dirpath, dirnames, filenames in os.walk("tcpout"):
-		for filename in filenames:
-			pattern = re.compile(r"(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}\-(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}")
-			try:
-				ip_src, ip_dst = re.search(pattern, filename).groups()
-			except:
+		for filename in filenames: 
+			if "report" in filename:
 				continue
+			pattern = re.compile(r"(\d{10})T(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}\-(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}")
+			timestamp, ip_src, ip_dst = re.search(pattern, filename).groups()
 			path = os.path.join(dirpath,filename)
 			full_path = os.path.join(os.getcwd(),path)
 			if ip_src not in stats['files']:
@@ -96,7 +96,7 @@ def process_tcpout(stats):
 			else:
 				if ip_dst not in stats['files'][ip_src]:
 					stats['files'][ip_src][ip_dst] = dict()
-			stats['files'][ip_src][ip_dst][filename] = full_path
+			stats['files'][ip_src][ip_dst][filename] = {"path":full_path, "timestamp":timestamp}
 
 			if ip_dst not in stats['files']:
 				stats['files'][ip_dst] = dict()
@@ -104,7 +104,7 @@ def process_tcpout(stats):
 			else:
 				if ip_src not in stats['files'][ip_dst]:
 					stats['files'][ip_dst][ip_src] = dict()
-			stats['files'][ip_dst][ip_src][filename] = full_path
+			stats['files'][ip_dst][ip_src][filename] = {"path":full_path, "timestamp":timestamp}
 	print ">>> Done!"
 
 def run_tcpflow(pcap_filename):
