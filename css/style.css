@@ -1,3 +1,13 @@
+/*
+Author: Casey McGinley
+Class: CS-GY 6963 Digital Forensics
+Instructor: Marc Budosky
+
+Final Project: PCAP Explorer
+
+The style.css file. Farily straighforward.
+*/
+
 html, body, div, h1, h2, h3, span, ul, li, svg{
     margin: 0;
     padding: 0;

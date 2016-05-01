@@ -1,3 +1,21 @@
+/*
+Author: Casey McGinley
+Class: CS-GY 6963 Digital Forensics
+Instructor: Marc Budosky
+
+Final Project: PCAP Explorer
+
+The UI component of this project was based heavily off a previous project
+of mine which can be found here: https://github.com/nyu-cs6313-fall2015/Group-4
+
+The code had to be modified very heavily in order to support the new data set
+and add new features, though much of the core infrastructure and visual elements 
+were preserved from the original project. Things explicitly marked old were largely
+untouched. Things explicitly marked new are entirely new features. Things left unmarked
+are a mix of the old and new
+*/
+
+//Closes the loading window
 function closeLoadingOverlay() {
     d3.select("#loading").style("display", "none");
     d3.select("#overlayBkgrd").style("display", "none");
@@ -5,61 +23,73 @@ function closeLoadingOverlay() {
     d3.select("#pageTitle").text(Controller.title);
 }
 
+//Opens an overlay for selecting a new IP
 function openIPSelectOverlay() {
     d3.select("#IPSelectBlock").style("display","block");
     d3.select("#overlayBkgrd").style("display", "block");
 }
 
+//Closes the summary overlay
 function closeSummaryOverlay() {
     d3.select("#summaryListBlock").style("display","none");
     d3.select("#overlayBkgrd").style("display", "none");
 }
 
+//Closes the overlay for selecting an IP
 function closeIPSelectOverlay() {
     d3.select("#IPSelectBlock").style("display","none");
     d3.select("#overlayBkgrd").style("display", "none");
 }
 
+//Opens a configruation overlay
 function openConfigureOverlay() {
     d3.select("#configureWindow").style("display", "block");
     d3.select("#overlayBkgrd").style("display", "block");
 }
 
+//Closes a configuration overlay
 function closeConfigureOverlay() {
     d3.select("#configureWindow").style("display", "none");
     d3.select("#overlayBkgrd").style("display", "none");
 }
 
+//Advances the paging (paging implemented when too many IPs
+//are on the y-axis at once; this threshold is configurable)
 function goToNextPage() {
     Selection.nextPage();
 }
 
+//Return to the previous set of y-axis values
 function goToPrevPage() {
     Selection.prevPage();
 }
 
-// return the radius for a given area
+// return the radius for a given area (old)
 function return_radius(area) {
     return Math.sqrt(area/Math.PI);
 }
 
-//returns the area for a given radius
+//returns the area for a given radius (old)
 function return_area(radius) {
-    // return Math.exp(Math.round(Math.PI*Math.pow(radius, 2)));
-    // return Math.round(Math.PI*Math.pow(radius, 2));
     return Math.round(Math.PI*Math.pow(radius, 2));
 }
 
 //generates the node objects for the viz based on the given IP address
+//modified from the old code fit the data and to "chunk" the the list of node objects
+//in order to support paging
 function get_node_list(chosen_ip,chunk_size) {
     var ip_data = Controller.ip_data;
     var files = Controller.files;
     var chunked_node_list = [];
     var node_list = [];
     var i = 0;
+    
+    //construct nodes based on the chosen IP and the IP's that IP communicated with
+    //"chunk" them so that the y-axis is not too crowded
     for (other_user in ip_data[chosen_ip]['per_other_ip']) {
         i += 1;
         for (protoc in ip_data[chosen_ip]['per_other_ip'][other_user]['per_protoc']) {
+            //generate a list of the filenames exchanged between these IPs
             var fnames = [];
             if (chosen_ip in files) {
                 if (other_user in files[chosen_ip]) {
@@ -81,6 +111,7 @@ function get_node_list(chosen_ip,chunk_size) {
             node_list = [];
         }
     }
+    //make sure the last chunk is pushed on
     if (i % chunk_size != 0) {
         chunked_node_list.push(node_list);
     }
@@ -88,18 +119,21 @@ function get_node_list(chosen_ip,chunk_size) {
 }
 
 //returns a list of the aggregated communication statistics for each IP 
-//(this function could be refactored to better fit the current use-case)
+//based on old code, modified to support the new data and structure
+//the returned data is used to populate the SideBar element
 function get_other_ips_numbers(other_ips, chosen_ip) {
     var ip_data = Controller.ip_data;
     var files = Controller.files;
-    console.log(ip_data);
     var total_comm = [];
+    
+    //get aggregate data for the chosen ip
     total_comm[0] = {};
     total_comm[0]["name"] = "Total (" + chosen_ip + ")";
     total_comm[0]["sent"] = ip_data[chosen_ip]['agg']['total']['sent'];
     total_comm[0]["received"] = ip_data[chosen_ip]['agg']['total']['rcvd'];
     total_comm[0]['fnames'] = []
 
+    //get aggregate data as it relates to chosen ip and every other IP
     for (var i = 1; i <= other_ips.length; i++) {
         var fnames = [];
         if (other_ips[i-1] in files) {
@@ -117,7 +151,7 @@ function get_other_ips_numbers(other_ips, chosen_ip) {
 }
 
 //returns a list of the IP addresses that the currently selected IP communicated with
-//(may also be refactored for current use-case)
+//based on old code and mostly unchanged, aside from the custom sort function
 function get_other_ips(node_list) {
     var other_ips = [];
     for (var i = 0; i < node_list.length; i++) {
@@ -125,10 +159,22 @@ function get_other_ips(node_list) {
             other_ips.push(node_list[i].name);
         }
     }
-
-    return other_ips.sort();
+    return other_ips.sort(function(a,b) {
+        var split_a = a.split(".");
+        var split_b = b.split(".");
+        for (var i = 0; i < split_a.length; i++) {
+            if (parseInt(split_a[i]) > parseInt(split_b[i])) {
+                return 1;
+            }
+            if (parseInt(split_a[i]) < parseInt(split_b[i])) {
+                return -1;
+            }
+        }
+        return 0;
+    });
 }
 
+//returns a list of protocols (new)
 function get_protocs(node_list) {
     var protocs = [];
     for (var i = 0; i < node_list.length; i++) {
@@ -139,6 +185,7 @@ function get_protocs(node_list) {
     return protocs;
 }
 
+//generates a list of numbers between start and end, inclusive (new)
 function generate_numbers(start,end) {
     var nums = [];
     for (var i = start; i <= end; i++) {
@@ -149,13 +196,29 @@ function generate_numbers(start,end) {
 
 
 //manages the whole viz, imports the data and starts the init process
+//the Controller, Dispatcher and Selection entities were first implemented
+//in the original project; they manage all of the event-based changes to the 
+//data and the constraints
+//this posrtion was modifief only to suit the new data
 var Controller = {
     init: function() {
         self = this;
         d3.json("data.json", function(data) {
             self.title = data.pcap;
             self.files = data.files;
-            self.ip_list = Object.keys(data.per_ip);
+            self.ip_list = Object.keys(data.per_ip).sort(function(a,b) {
+                var split_a = a.split(".");
+                var split_b = b.split(".");
+                for (var i = 0; i < split_a.length; i++) {
+                    if (parseInt(split_a[i]) > parseInt(split_b[i])) {
+                        return 1;
+                    }
+                    if (parseInt(split_a[i]) < parseInt(split_b[i])) {
+                        return -1;
+                    }
+                }
+                return 0;
+            });
             self.ip_data = data.per_ip;
 
             Selection.init(self.ip_list);
@@ -166,6 +229,8 @@ var Controller = {
 }
 
 //handles the context switches from one IP to another
+//same basic structure as in the orgiinal project, but some hefty additions
+//to support new features and more complex data in this project
 var Selection = {
     //initialization
     init: function(ip_list) {
@@ -179,11 +244,13 @@ var Selection = {
             Selection.select(d3.select(this).property('value'));
         });
         
+        //sets up the dropdown action allowing users to select how many entries appear on the y-axis at once (new feature)
         this.chunk_select = d3.select("#setChunkSize").on('change', function() {
             Selection.chunk_size = parseInt(d3.select(this).property('value'));
             Selection.select(Selection.chosen_ip);
         });
         
+        //sets up the dropdown action allowing users to select how large the nodes scale to (new feature)
         this.rad_select = d3.select("#setMaxNodeSize").on('change', function() {
             Selection.maxNodeRad = parseInt(d3.select(this).property('value'));
             Selection.select(Selection.chosen_ip);
@@ -198,24 +265,27 @@ var Selection = {
         this.chosen_ip = chosen_ip;
         this.chunked_node_list = get_node_list(chosen_ip,this.chunk_size);
         this.chunk_index = 0;
-        console.log(this.chunked_node_list.length);
         var node_list = this.chunked_node_list[0];
+        
+        //enable the next arrow if there is more than one chunk/page (new)
         if (this.chunked_node_list.length > 1) {
             d3.select("#nextArrow").style("display","inline");
             var ipRange = d3.select("#ipRange");
             ipRange.style("display","inline");
             ipRange.text("Page " + 1 + " of " + this.chunked_node_list.length);
-        } else {
+        } else { //otherwise ensure the arrows are hidden
             d3.select("#prevArrow").style("display","none");
             d3.select("#nextArrow").style("display","none");
             d3.select("#ipRange").style("display","none");
         }
+        
+        //setup the payload
         var other_ips = get_other_ips(node_list);
         var total_comm = get_other_ips_numbers(other_ips, chosen_ip);
         var protocs = get_protocs(node_list);
         var payload = [node_list, other_ips, total_comm, protocs, this.maxNodeRad];
 
-        //assigns the user list to the dropdown values
+        //assigns the user list to the dropdown values for the IP selection dropdown
         var opt_elements = this.ddown.selectAll("option").data(this.ip_list);
         opt_elements.exit().remove();
         opt_elements.enter().append("option");
@@ -227,6 +297,7 @@ var Selection = {
             value: function(d) { return d; },
         }).text(function(d) { return d; });
         
+        //assigns values for the paging dropdown (new)
         var chunk_sizes = generate_numbers(1,100);
         opt_elements = this.chunk_select.selectAll("option").data(chunk_sizes);
         opt_elements.exit().remove();
@@ -239,6 +310,7 @@ var Selection = {
             value: function(d) { return d; },
         }).text(function(d) { return d; });
         
+        //assigns values for the node size dropdown
         var rad_sizes = generate_numbers(15,100);
         opt_elements = this.rad_select.selectAll("option").data(rad_sizes);
         opt_elements.exit().remove();
@@ -255,6 +327,7 @@ var Selection = {
         Dispatcher.notify('update', payload);
     },
     
+    //advance the paging (e.g. the next chunk) (new)
     nextPage: function() {
         this.chunk_index += 1;
         var node_list = this.chunked_node_list[this.chunk_index];
@@ -262,6 +335,8 @@ var Selection = {
         var total_comm = get_other_ips_numbers(other_ips, this.chosen_ip);
         var protocs = get_protocs(node_list);
         var payload = [node_list, other_ips, total_comm, protocs, this.maxNodeRad];
+        
+        //hide and display the arrows as needed
         if (this.chunk_index == 1) {
             d3.select("#prevArrow").style("display","inline");
         }
@@ -269,9 +344,12 @@ var Selection = {
             d3.select("#nextArrow").style("display","none");
         }
         d3.select("#ipRange").text("Page " + (this.chunk_index + 1) + " of " + this.chunked_node_list.length);
+        
+        //update the payload for the new chunk of IPs
         Dispatcher.notify('update', payload);
     },
     
+    //go back a page (the previous chunk) (new)
     prevPage: function() {
         this.chunk_index -= 1;
         var node_list = this.chunked_node_list[this.chunk_index];
@@ -291,6 +369,8 @@ var Selection = {
 }
 
 //notifies its subscribers when data changes
+//almost entirely unchanged; just an entity that ensures the synchonizaiton of it's
+//subscribers
 var Dispatcher = {
     //add a new subscriber
     add: function(view) {
@@ -308,6 +388,9 @@ var Dispatcher = {
 }
 
 //the visualization itself
+//largely unchanged from the original project
+//modifications here were solely to get the visualization to fit the new data (e.g. making the scale ordinal 
+//for the protocols on the x-axis, etc.)
 var Timeline = {
     //initialization
     init: function() {
@@ -527,6 +610,7 @@ var Timeline = {
 
         //the remaining code was poorly commented and written by a collaborator on the project that this projcet was forked from
         //it sets up the legend, but its logic is a bit opaque; still working through it myself
+        //as far as future work goes, cleaning up the legend and it's code is high on the list
         var rMargin = 15;
 
         var r = [ { "radius": minR, "height": (self.X_AXIS_OFFSET_Y - area_scale(minR) - rMargin), } ];
@@ -646,7 +730,6 @@ var Timeline = {
 
         //bring up the tooltip
         var tooltip = d3.select("#tooltip");
-//                    tooltip.select("#nodeNameDate").text(d.name + " - " + abbr_list[d.date.getMonth()] + " " + String(d.date.getFullYear()) + ":");
         tooltip.select("#nodeNameDate").text(d.name + " - " + d.protoc);
         tooltip.select("#nodeSent").text("sent: " + String(d.nSent));
         tooltip.select("#nodeRecvd").text("received: " + String(d.nRecvd));
@@ -693,6 +776,7 @@ var Timeline = {
 }
 
 //the list of other IPs on the left
+//also largely unchanged from the original project, other than to fit the new data
 var SideBar = {
     //initialization
     init: function() {
@@ -744,10 +828,6 @@ var SideBar = {
         selection.select("ul").append("li").text(function(d) { return "received: " + d.received; }).classed("subList", true);
     },
 
-    // getElement: function(d) {
-    //     // return this.list.selectAll("li").filter(function(e) { return d.name == e.name });
-    // },
-
     onMouseover: function(d) {
         this.list.selectAll("li")
             .classed('highlighted', function(e) { return d.name == e.name });
@@ -768,8 +848,10 @@ var SideBar = {
 }
 
 //an overlay displaying more granular information about the communication between two IPs, including the 
-//files exchanged between them (as carved by tcpflow)
+//files exchanged between them (as carved by tcpflow) and various statistics
+//this feature is entirely new to the project
 var Summary = {
+    //initialize
     init: function() {
         this.file_list = d3.select("#summaryListBlock").select("#fileList");
         this.summary_block = d3.select("#summaryBlock");
@@ -783,6 +865,7 @@ var Summary = {
         this.summary_block.selectAll("h1").remove();
         this.summary_block.selectAll("ul").remove();
 
+        //sort the filenames by timestamp
         var fnames = node.fnames;
         fnames.sort(function(a, b) {
             var timestamp_a = files[chosen_ip][node.name][a];
@@ -791,9 +874,13 @@ var Summary = {
             if (timestamp_a < timestamp_b) { return -1; }
             else { return 0; }
         })
+        
+        //add the statistical data
         var title = this.summary_block.append("h1").text("Summary: " + chosen_ip + " - " + node.name);
         var stats = title.append("ul");
         var total = ip_data[chosen_ip]['per_other_ip'][node.name]['total']['sent'] + ip_data[chosen_ip]['per_other_ip'][node.name]['total']['rcvd'];
+        
+        //the numbers representing the total traffic passing between the two parites
         var agg_traffic = stats.append("li").text("Aggregate traffic:").style("font-weight","bold");
         agg_traffic = agg_traffic.append("ul");
         agg_traffic.append("li")
@@ -802,10 +889,13 @@ var Summary = {
             .text(node.name+ " to " + chosen_ip + ": " + ip_data[chosen_ip]['per_other_ip'][node.name]['total']['rcvd']);
         agg_traffic.append("li")
             .text("Total: " + total);
+        
+        //the numbers representing the traffic passing between the two parties on a per-protocol basis
         var per_protocol = stats.append("li").text("Traffic by protocol:").style("font-weight","bold");
         per_protocol = per_protocol.append("ul");
         for (protoc in ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc']) {
             var protoc_total = ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc'][protoc]['sent'] + ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd'];
+            //determine the percentage of total traffic this protocol comprises
             var percentage = Math.round(protoc_total/total*100*100)/100;
             var protocol = per_protocol.append("li").text(protoc + " (" + percentage + "%) " + ":").style("font-weight","bold");
             protocol = protocol.append("ul");
@@ -817,11 +907,13 @@ var Summary = {
                 .text("Total: " + protoc_total);
         }
         
+        //a list of known image format extensions
         var known_image_extensions = ['gif','jpg','jpeg','png','tif','tiff','jif','jfif','bmp'];
         
         var selection = this.file_list.selectAll("ul").data(fnames);
         selection.enter().append("ul").classed("fullFile", true);
 
+        //for each file, add a link to the file, a date string and a Unix timestamp
         var header = selection.append("li").classed("fileHeader", true).append("ul");
         var file = header.append("li");
         file.append("span")
@@ -845,6 +937,7 @@ var Summary = {
         timestamp.append("span")
             .text(function(d) {return files[chosen_ip][node.name][d]["timestamp"];})
             .classed("fileDetailHeader", true);
+        //additonally, if the extension of the file matches one of the image extension, display the image inline in addition to the link
         var img = header.append("li");
         img.append("img")
             .attr("src",function(d) {
@@ -865,12 +958,16 @@ var Summary = {
                 return "none";
             }
         }).style("max-width","500px");
+        
+        //set the overlay to display
         d3.select("#summaryListBlock").style("display", "block");
         d3.select("#overlayBkgrd").style("display", "block");
     }
 }
 
 //an overlay allowing us to view and sort all IP addresses by the amount of traffic they generated and received
+//largely unchanged other than to fit the new data and to add a new column for the total number of
+//other IPs a given IP communicated with
 var IPSelectList = {
     //initialization
     init: function(ip_data) {
@@ -917,7 +1014,7 @@ var IPSelectList = {
         selection.append("td")
             .attr("data-value", function(d) { return d.nTotal; })
             .text(function(d) { return d.nTotal; });
-        selection.append("td")
+        selection.append("td") //the new column
             .attr("data-value", function(d) { return Object.keys(ip_data[d.name]['per_other_ip']).length; })
             .text(function(d) { return Object.keys(ip_data[d.name]['per_other_ip']).length; });
     },
@@ -933,6 +1030,7 @@ var IPSelectList = {
 }
 
 //returns a list of the aggregate statistics for each IP
+//modified to fit the new data
 function getIPGrandTotals(ip_data) {
     var totals = [];
     for (ip in ip_data) {
@@ -946,6 +1044,7 @@ function getIPGrandTotals(ip_data) {
     return totals;
 }
 
+//initialize all the entities
 Timeline.init();
 SideBar.init();
 Summary.init();
