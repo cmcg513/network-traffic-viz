@@ -5,6 +5,7 @@ import json
 def parse_args():
 	parser = argparse.ArgumentParser(description="Outputs PCAP data to display")
 	parser.add_argument("pcap", metavar="PCAP", type=str, help="filepath for PCAP")
+	parser.add_argument("out", metavar="PCAP", type=str, help="filepath for for the JSON output")
 	return parser.parse_args()
 
 def main():
@@ -28,7 +29,7 @@ def main():
 		update_agg_stats(stats,ip,protoc)
 		update_per_ip_stats(stats,ip,protoc)
 
-	stats_json = open("stats.json","w")
+	stats_json = open(args.out,"w")
 	stats_json.write(json.dumps(
 		stats,
 		indent=4,
