@@ -803,7 +803,7 @@ var Summary = {
         timestamp.append("span").text(function(d) {return files[chosen_user][node.name][d]["timestamp"];}).classed("emailDetailHeader", true);
         var filepath = header.append("li");
         filepath.append("span").text("Filepath:").classed("emailDetailHeader", true);
-        filepath.append("a").attr("href",function(d) {return files[chosen_user][node.name][d]["path"];}).text(function(d) {return files[chosen_user][node.name][d]["path"];}).classed("emailDetailHeader", true);
+        filepath.append("a").attr("href",function(d) {return "file://" + files[chosen_user][node.name][d]["path"];}).text(function(d) {return files[chosen_user][node.name][d]["path"];}).classed("emailDetailHeader", true);
 
 //        var body = selection.append("li");
 //        body.text(function(d) { return email_dict[d].body; })
