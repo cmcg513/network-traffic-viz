@@ -1,0 +1,22 @@
+GET /news/url?sa=t&fd=R&ct2=us&usg=AFQjCNHTzZLQou4g4bNYfJhkOBEZ1Mepvw&cnm=a272426d351454f0e30df6b365c65d9f&sr=1&clid=a272426d351454f0e30df6b365c65d9f&cid=52779095132692&ei=DPseV_D6OofD3gHFtLCYCQ&sig2=jPaSLeGn19GXg9rfPqR3Sw&rid=76d4cc3e-f346-4e0a-bf8f-730c1a1ad465&url=http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/&ct4=Cg4KA3RvcBIHZW5fdXM6aBgKKAk4A0gE%0A HTTP/1.1
+Host: news.google.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+X-Client-Data: CKW2yQE=
+X-Chrome-Connected: id=103049150608439015343,mode=0,enable_account_consistency=true
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: SID=NQP-T4_OvdC3wfIEqus2EQTBq5sAqUmKjGq6Becok9Auxt_4AxsPWnuoBFp6GSCDiXEs8Q.; HSID=ADC1PkQvqETAI1vrq; APISID=kCIkEVyuBhd4JyIb/A_MgdR9SNv18NltTX; NID=78=CAoLxejYv_rB4X35T1z6BJiFrQC4i1mWHT1vsPB_8LyKH6_rQijUVFAftx_UbvHefYZyh1FHbBdeJmRM5LugMVsNfJGda4OhC2u6HJBWqHIbKkgEWjUAIkcqP-Sy1lV5IkWL6jaDLhn2DCmH3lLCxJkHBEc-sK9nvMZ3b2dVxn7ATDKLRjsZlSi9U1dyIZDR6fM54oCmihxFCXn5iQ
+
+GET /favicon.ico HTTP/1.1
+Host: news.google.com
+Connection: keep-alive
+Accept: */*
+X-Client-Data: CKW2yQE=
+X-Chrome-Connected: id=103049150608439015343,mode=0,enable_account_consistency=true
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: SID=NQP-T4_OvdC3wfIEqus2EQTBq5sAqUmKjGq6Becok9Auxt_4AxsPWnuoBFp6GSCDiXEs8Q.; HSID=ADC1PkQvqETAI1vrq; APISID=kCIkEVyuBhd4JyIb/A_MgdR9SNv18NltTX; NID=78=CAoLxejYv_rB4X35T1z6BJiFrQC4i1mWHT1vsPB_8LyKH6_rQijUVFAftx_UbvHefYZyh1FHbBdeJmRM5LugMVsNfJGda4OhC2u6HJBWqHIbKkgEWjUAIkcqP-Sy1lV5IkWL6jaDLhn2DCmH3lLCxJkHBEc-sK9nvMZ3b2dVxn7ATDKLRjsZlSi9U1dyIZDR6fM54oCmihxFCXn5iQ
+

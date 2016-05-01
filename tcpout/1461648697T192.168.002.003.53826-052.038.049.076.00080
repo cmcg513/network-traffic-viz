@@ -1,0 +1,219 @@
+GET /ad?pid=44&sid=15173&ad=&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+GET /ad?pid=44&sid=15173&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=jsrtb&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=134&sid=23238&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=30&sid=34442&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=119&sid=35773&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=9&sid=1135&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=52&sid=2631&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=121&sid=18661&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=90&sid=30730&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=36&sid=16654&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=25&sid=22379&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=42&sid=18602&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=220&sid=37375&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=121&sid=23725&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=37&sid=22383&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=121&sid=15886&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=52&sid=8234&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=69&sid=14049&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=122&sid=21322&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=206&sid=25903&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=107&sid=37303&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+
+GET /ad?pid=129&sid=12526&env=1&format=1&did=3&osid=4&width=300&height=250&lkqdid=1461648697560330891131&host=www.bbc.com&dnt=0&lsid=c22e7ae8-200c-9ad1-a920-204af1324af2&lsidts=1461648698&pubtagtype=javascript&output=json&support=html5&pageurl=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&refurl=&rtv=2&m= HTTP/1.1
+Host: ssp.lkqd.net
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: lkqdidts=1461648697; lkqdid=OB6cvM1TvIQ
+

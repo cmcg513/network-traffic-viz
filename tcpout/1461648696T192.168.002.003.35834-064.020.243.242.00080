@@ -1,0 +1,9 @@
+GET /rubicon.ashx?ver=1 HTTP/1.1
+Host: rbp.mxptint.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/21342&geo=na&co=us
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

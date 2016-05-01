@@ -1,0 +1,9 @@
+GET /z/57136cd8ae8c50407b8b45a7?cachbuster=1926127318&url=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&width=300&height=250&ua=Mozilla%2F5.0%20%28Linux%3B%20Android%205.0.1%3B%20HTC6525LVW%20Build%2FLRX22C%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F38.0.2125.509%20Mobile%20Safari%2F537.36&ip_address=72.69.84.183&device_dnt=0 HTTP/1.1
+Host: s-tag.z5x.net:8001
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Origin: http://www.bbc.com
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

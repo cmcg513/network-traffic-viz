@@ -1,0 +1,10 @@
+GET /a/9176/21342/72686-15.js?&cb=0.04487617174163461&tk_st=1&rf=http%3A//www.bbc.com/news/world-europe-34897645&rp_s=c&tg_i.site=news&tg_i.section=worldeurope&tg_i.slot=mpu&p_pos=atf&p_screen_res=360x640 HTTP/1.1
+Host: optimized-by.rubiconproject.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ruid=55e55ba9571ef602484554b766f54e^1^1461646850^1212503223; ses15=21342^1; vis15=21342^1; csi15=; csc15=; rpb=""; khaos=INGYSOAV-E-K410; cd=false; au=INGZ17QB-1FJD-10.41.169.47
+

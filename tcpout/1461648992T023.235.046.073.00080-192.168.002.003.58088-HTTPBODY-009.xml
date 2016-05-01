@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/.element/video/video-xml-stylesheet.xsl"?><video id="politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn" timestamp="Mon Apr 25 20:16:58 EDT 2016">
+<headline>Kasich: I don&#39;t see my alliance with Cruz as a big deal</headline>
+<description>Presidential candidate John Kasich talks about not spending resources in Indiana and focusing on other states with CNN&#39;s &lt;a href=&quot;http://www.cnn.com/profiles/anderson-cooper-profile&quot;&gt;Anderson Cooper&lt;/a&gt;.</description>
+<trt>136</trt>
+<isAdSensitive>no</isAdSensitive>
+<isEmbeddable>no</isEmbeddable>
+<toggleFullscreenQuality>off</toggleFullscreenQuality>
+<slates/>
+<files>
+<groupFiles id="AkamaiHDN1" type="hdn">
+<file>http://ht.cdn.turner.com/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn.smil</file>
+</groupFiles>
+<groupFiles id="AkamaiHDS" type="hds">
+<file>http://cnn-vh.akamaihd.net/z/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_,512x288_550k,640x360_900k,768x432_1300k,896x504_1850k,1280x720_3500k,.mp4.csmil/manifest.f4m</file>
+</groupFiles>
+<file bitrate="iOSHLSFallback" fallback="iOS">http://cnnios-f.akamaihd.net/i/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_,150,440,650,840,1240,.mp4.csmil/master.m3u8?__b__=650</file>
+<file bitrate="connectedTV">http://cnnios-f.akamaihd.net/i/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_,650,840,1240,3000,.mp4.csmil/master.m3u8?__a__=off&amp;__b__=1240</file>
+<file bitrate="hls_1080p">http://cnnios-f.akamaihd.net/i/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_,150,440,650,840,1240,3000,5500,.mp4.csmil/master.m3u8?__b__=650</file>
+<file bitrate="iOS_iPad">http://cnnios-f.akamaihd.net/i/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_,150,440,650,840,1240,3000,.mp4.csmil/master.m3u8?__b__=650</file>
+<file bitrate="768x432_1300k_mp4">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_768x432_1300k.mp4</file>
+<file bitrate="640x360">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_640x360_dl.flv</file>
+<file bitrate="ios_150">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_150.mp4</file>
+<file bitrate="smil">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn.smil</file>
+<file bitrate="cnn_iphone_cell">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_cnn_iphone_cell.mp4</file>
+<file bitrate="474956_ios_5500">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_5500.mp4</file>
+<file bitrate="srt">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn.srt</file>
+<file bitrate="474956_ios_650">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_650.mp4</file>
+<file bitrate="ios_audio">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_audio.mp4</file>
+<file bitrate="1920x1080_5500k_mp4">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_5500.mp4</file>
+<file bitrate="640x360_900k_mp4">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_640x360_900k.mp4</file>
+<file bitrate="1280x720_3500k_mp4">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_1280x720_3500k.mp4</file>
+<file bitrate="474956_ios_3000">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_3000.mp4</file>
+<file bitrate="640x360_900k">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_640x360_900k.mp4</file>
+<file bitrate="webvtt">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios__en.vtt</file>
+<file bitrate="cnn_iphone_wifi_hi">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_iphone_wifi_hi.mp4</file>
+<file bitrate="ios_1240">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_1240.mp4</file>
+<file bitrate="474956_ios_1240">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_1240.mp4</file>
+<file bitrate="ios_440">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_440.mp4</file>
+<file bitrate="474956_ios_440">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_440.mp4</file>
+<file bitrate="474956_ios_150">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_150.mp4</file>
+<file bitrate="320x180">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_320x180_dl.flv</file>
+<file bitrate="474956_ios_audio">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_audio.mp4</file>
+<file bitrate="ios_650">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_650.mp4</file>
+<file bitrate="512x288_550k">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_512x288_550k.mp4</file>
+<file bitrate="384x216">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_384x216_dl.flv</file>
+<file bitrate="896x504_1850k_mp4">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_896x504_1850k.mp4</file>
+<file bitrate="scc">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn.scc</file>
+<file bitrate="416x234">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_416x234_dl.flv</file>
+<file bitrate="512x288_550k_mp4">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_512x288_550k.mp4</file>
+<file bitrate="768x432_1300k">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_768x432_1300k.mp4</file>
+<file bitrate="ios_3000">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_3000.mp4</file>
+<file bitrate="474956_ios_840">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_474956_ios_840.mp4</file>
+<file bitrate="1280x720_3500k">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_1280x720_3500k.mp4</file>
+<file bitrate="ios_840">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios_840.mp4</file>
+<file bitrate="576x324">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_576x324_dl.flv</file>
+<file bitrate="896x504_1850k">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_896x504_1850k.mp4</file>
+<file bitrate="1280x720">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_1280x720.mp4</file>
+<file bitrate="256x144">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_256x144_dl.flv</file>
+<file bitrate="768x432">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_768x432.mp4</file>
+<file bitrate="youtube">/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_youtube_640x360.flv</file>
+</files>
+<clickbackUrl>http://www.cnn.com/video/data/2.0/video/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn.html</clickbackUrl>
+<images>
+<image height="427" width="640" name="640x427">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-custom-1.jpg</image>
+<image height="360" width="640" name="640x360">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-horizontal-gallery.jpg</image>
+<image height="200" width="300" name="300x200">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-custom-2.jpg</image>
+<image height="186" width="248" name="248x186">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-assign.jpg</image>
+<image height="460" width="460" name="460x460">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-alt-11.jpg</image>
+<image height="84" width="220" name="220x84">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-bin-tease.jpg</image>
+<image height="780" width="780" name="780x780">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-exlarge-11.jpg</image>
+<image height="25" width="44" name="pl">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-bvp-playlist.jpg</image>
+<image height="70" width="125" name="125x70">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-tease-most.jpg</image>
+<image height="259" width="460" name="460x259">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-169.jpg</image>
+<image height="68" width="120" name="120x68">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-video-tease.jpg</image>
+<image height="165" width="220" name="220x165">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-43.jpg</image>
+<image height="540" width="300" name="300x540">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-t1-entertainment.jpg</image>
+<image height="293" width="220" name="220x293">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-34.jpg</image>
+<image height="204" width="980" name="980x204">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-quote-board.jpg</image>
+<image height="324" width="576" name="lg">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-live-video.jpg</image>
+<image height="519" width="1239" name="1239x519">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-episode-12column.jpg</image>
+<image height="146" width="260" name="260x146">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-plus-169.jpg</image>
+<image height="360" width="270" name="270x360">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-vertical-gallery.jpg</image>
+<image height="90" width="120" name="site">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-video-synd-5.jpg</image>
+<image height="214" width="120" name="120x214">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-916.jpg</image>
+<image height="552" width="980" name="980x552">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-horizontal-large-gallery.jpg</image>
+<image height="106" width="186" name="186x106">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-video-exp.jpg</image>
+<image height="480" width="640" name="640x480">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-video-synd-2.jpg</image>
+<image height="96" width="114" name="114x96">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-politics-headshots.jpg</image>
+<image height="169" width="300" name="300x169">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-medium-169.jpg</image>
+<image height="68" width="90" name="90x68">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-video-synd-1.jpg</image>
+<image height="825" width="1100" name="1100x825">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-super-43.jpg</image>
+<image height="144" width="256" name="sm">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-hp-video.jpg</image>
+<image height="1467" width="1100" name="1100x1467">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-super-34.jpg</image>
+<image height="49" width="87" name="fp">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-iphone-tease.jpg</image>
+<image height="880" width="1100" name="1100x880">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-custom-54.jpg</image>
+<image height="259" width="460" name="460x259">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-tease.jpg</image>
+<image height="226" width="210" name="210x226">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-t3-entertainment.jpg</image>
+<image height="345" width="460" name="460x345">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-43.jpg</image>
+<image height="619" width="1100" name="1100x619">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-super-169.jpg</image>
+<image height="124" width="220" name="220x124">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-tease.jpg</image>
+<image height="250" width="670" name="670x250">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-t1-panoramic.jpg</image>
+<image height="432" width="768" name="768x432">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-story-tablet.jpg</image>
+<image height="576" width="1024" name="1024x576">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-tablet-large.jpg</image>
+<image height="438" width="780" name="780x438">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-exlarge-tease.jpg</image>
+<image height="390" width="390" name="390x390">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-main.jpg</image>
+<image height="169" width="300" name="300x169">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-medium-tease.jpg</image>
+<image height="223" width="167" name="167x223">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-timeline.jpg</image>
+<image height="124" width="220" name="220x124">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-169.jpg</image>
+<image height="360" width="640" name="bp">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-story-top.jpg</image>
+<image height="300" width="300" name="300x300">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-11.jpg</image>
+<image height="307" width="307" name="307x307">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-medium-plus-11.jpg</image>
+<image height="534" width="300" name="300x534">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-916.jpg</image>
+<image height="620" width="620" name="620x620">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-super-11.jpg</image>
+<image height="106" width="188" name="188x106">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-search-tease.jpg</image>
+<image height="51" width="90" name="90x51">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-top-tease.jpg</image>
+<image height="58" width="88" name="88x58">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-inspector-thumbnail.jpg</image>
+<image height="1100" width="1100" name="1100x1100">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-super-alt-11.jpg</image>
+<image height="250" width="250" name="250x250">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-t1-main.jpg</image>
+<image height="280" width="637" name="637x280">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-t1-flip.jpg</image>
+<image height="122" width="214" name="214x122">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-left-tease.jpg</image>
+<image height="70" width="124" name="pp">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-bvp-tease.jpg</image>
+<image height="35" width="35" name="35x35">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-tease-avatar.jpg</image>
+<image height="960" width="540" name="540x960">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-super-916.jpg</image>
+<image height="619" width="1100" name="1100x619">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-super-tease.jpg</image>
+<image height="234" width="416" name="sf">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-c1-main.jpg</image>
+<image height="818" width="460" name="460x818">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-exlarge-916.jpg</image>
+<image height="120" width="120" name="120x120">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-11.jpg</image>
+<image height="438" width="780" name="780x438">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-overlay-tease.jpg</image>
+<image height="409" width="307" name="307x409">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-medium-plus-34.jpg</image>
+<image height="391" width="220" name="220x391">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-medium-916.jpg</image>
+<image height="475" width="1600" name="1600x475">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-panoramic-31.jpg</image>
+<image height="320" width="480" name="480x320">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-phone-gallery.jpg</image>
+<image height="180" width="320" name="ns">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-video.jpg</image>
+<image height="90" width="160" name="ft">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-wall-4-tease.jpg</image>
+<image height="169" width="300" name="300x169">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-story-body.jpg</image>
+<image height="100" width="210" name="210x100">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-tease-wide.jpg</image>
+<image height="216" width="384" name="md">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-hot-topic.jpg</image>
+<image height="60" width="60" name="60x60">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-topics.jpg</image>
+<image height="330" width="442" name="442x330">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-entertain-feature.jpg</image>
+<image height="220" width="220" name="220x220">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-small-alt-11.jpg</image>
+<image height="254" width="320" name="ip">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-t1-iphone.jpg</image>
+<image height="303" width="540" name="540x303">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-plus-169.jpg</image>
+<image height="1040" width="780" name="780x1040">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-exlarge-34.jpg</image>
+<image height="552" width="414" name="414x552">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-vertical-large-gallery.jpg</image>
+<image height="173" width="307" name="307x173">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-medium-plus-169.jpg</image>
+<image height="438" width="780" name="780x438">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-exlarge-169.jpg</image>
+<image height="613" width="460" name="460x613">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-large-34.jpg</image>
+<image height="900" width="1600" name="1600x900">http://i2.cdn.turner.com/cnnnext/dam/assets/160425191648-kasich-maryland-full-169.jpg</image>
+</images>
+<category>politics</category>
+<subcategory>2016-elections</subcategory>
+<canSyndicate></canSyndicate>
+<sectionName></sectionName>
+<dateCreated uts="1461629818000">2016/04/25</dateCreated>
+<lastModified uts="1461632964000">2016/04/25</lastModified>
+<slug>john kasich work with cruz trump ac intv</slug>
+<source>CNN</source>
+<sourceUrl>http://www.cnn.com/shows/ac-360</sourceUrl>
+<relatedVideosUrl>http://www.cnn.com/video/data/3.0/video/politics/relateds.xml</relatedVideosUrl>
+<relatedVideosJson>http://www.cnn.com/video/data/3.0/video/politics/relateds.json</relatedVideosJson>
+<newsBug></newsBug>
+<headlineUrl></headlineUrl>
+<isExpired>false</isExpired>
+<urls>
+<relateds>
+</relateds>
+</urls>
+<length>2:16</length>
+<metas site="cnn" version="20160425">
+<keywords/>
+<branding>Anderson Cooper 360</branding>
+</metas>
+<sortOrderOverride>no</sortOrderOverride>
+<iscmsIIimport>false</iscmsIIimport>
+<cmsIIimportType></cmsIIimportType>
+<!-- Closed Captioning -->
+<closedCaptions enabled="on">
+<source type="external" format="scc" platform="flash">
+<track lang="en" channel="cc1" label="English" url="http://ht.cdn.turner.com/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn.scc" />
+</source>
+<source type="embedded" format="608" platform="android, ios">
+<track lang="en" channel="cc1" label="English"  />
+</source>
+<source type="external" format="webvtt" platform="html5,win">
+<track lang="en" channel="cc1" label="English" url="http://pmd.cdn.turner.com/cnn/big/politics/2016/04/26/john-kasich-work-with-cruz-trump-ac-intv.cnn_ios__en.vtt" />
+</source>
+<source type="embedded" format="webvtt" platform="android,ios,atv">
+<track lang="en" channel="cc1" label="English"  />
+</source>
+</closedCaptions>
+</video>        

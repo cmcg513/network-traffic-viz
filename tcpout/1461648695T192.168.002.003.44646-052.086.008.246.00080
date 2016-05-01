@@ -1,0 +1,10 @@
+GET /p.js?rcb=1461648696638_181084&cb=9904f64d-4303-4798-9c4a-b06849d15b88 HTTP/1.1
+Host: cdn.adrta.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: __aavi=57432720207591746; __aavt=1461648695196; __aasi=4575674720632416; __aast=1461648695196
+

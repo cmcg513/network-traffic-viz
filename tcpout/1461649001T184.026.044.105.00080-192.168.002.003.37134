@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+x-amz-id-2: N8a7CkAWAnbBJ/1bZl/e4uRdfHD8sJPvFbeK3d3EZOJrY61tn7pxoa6qZh5stjVh
+x-amz-request-id: E102FCF2E57DC421
+Last-Modified: Tue, 26 Apr 2016 04:46:41 GMT
+ETag: "5650fec1bfa97dd011522f488cb9967f"
+Content-Type: application/octet-stream
+Content-Length: 644
+Server: AmazonS3
+Date: Tue, 26 Apr 2016 05:36:41 GMT
+Connection: keep-alive
+
+moatOcrSample({'adLookup':'TURNERDFP1|70769317','sampleRate':2503,'campaignId':'TURNERDFP111','placementId':'52061197-52064197','pixelFire':'http://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnapi29032&am=4&ep=1&at=view&rt=banner&st=image&ca=TURNERDFP111&cr=crv907535&pc=PLACEMENT&r=TIMESTAMP','domain':'www.cnn.com','viewableSampleRate':1049,'viewableCampaignId':'TURNERDFP1_VIEWABLE','viewablePlacementId':'52061197-52064197-www.cnn.com','viewablePixelFire':'http://secure-gl.imrworldwide.com/cgi-bin/m?ci=nlsnapi29032&am=4&ep=1&at=view&rt=banner&st=image&ca=TURNERDFP1_VIEWABLE&cr=crv907381&pc=PLACEMENT&r=TIMESTAMP','domain':'www.cnn.com'});

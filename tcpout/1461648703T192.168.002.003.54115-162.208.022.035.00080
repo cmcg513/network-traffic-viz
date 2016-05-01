@@ -1,0 +1,9 @@
+GET /v2/diag/3864974/149355/0/232700/Ubt1RFSASqCcRXHv07AAJHawADjPwAOvmOAAAAAAAJ1xvru5k2Kg/ec.80001 HTTP/1.1
+Host: geo-errserv.btrll.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: BR_APS=3Vx79N2XxJEwB_logWA
+

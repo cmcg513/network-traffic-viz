@@ -1,0 +1,9 @@
+GET /boomerang/config.js?key=3ELNE-XNZJH-GJW9A-GMCCC-HF5K6&d=www.cnn.com&t=4872163&v=1.246.1441122062&if=&sl=1&si=ede26bfb-e002-44a7-b8f2-5cf7135c4a10-o685bg&bcn=%2F%2F36cc248b.mpstat.us%2F&plugins=ConfigOverride,PageParams,AutoXHR,SPA,Angular,Backbone,Ember,RT,BW,NavigationTiming,ResourceTiming,Memory,CACHE_RELOAD,LOGN HTTP/1.1
+Host: c.go-mpulse.net
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

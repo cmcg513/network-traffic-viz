@@ -1,0 +1,9 @@
+GET /ping?h=bbc.co.uk&p=bbc.co.uk%2Fnews%2Fworld-europe-34897645&u=DHslQMBIlFJJ7yCIQ&d=bbc.com&g=50924&g0=News%2C%20News%20-%20europe%2C%20News%20-%20STY%2C%20News%20-%20europe%20-%20STY&n=0&f=00001&c=0&x=100&m=100&y=9424&o=360&w=511&j=45&R=1&W=0&I=0&E=0&e=0&r=https%3A%2F%2Fwww.google.com%2F&b=9023&t=BDUcWcDaaGXI-1YU1BvekKqXv_IH&V=78&i=Belgians%20tweet%20cat%20pictures%20during%20%23BrusselsLockdown%20-%20BBC%20News&tz=240&sn=1&EE=0&_ HTTP/1.1
+Host: ping.chartbeat.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

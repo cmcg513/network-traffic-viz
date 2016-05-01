@@ -1,0 +1,19 @@
+GET /load?_kdpid=e4942ff0-4070-4896-a7ef-e6a5a30ce9f9&buid=KfyFW1Et&p=204&g=270&j=0 HTTP/1.1
+Host: loadm.exelator.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+GET /load?_kdpid=e4942ff0-4070-4896-a7ef-e6a5a30ce9f9&buid=KfyFW1Et&p=204&g=270&j=0&xl8blockcheck=1 HTTP/1.1
+Host: loadm.exelator.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: ud="eJxrX1RSfCp4lUb7koqckpymFWXxoY7xYa5BC1aDWW6Ovp4%252BkQsWh3q63GJQSEo2MTBKSTJINrU0SzNMMk6zsExKMzY0NTVONEw1TzNdXJSSxrgkvygzfVFo8OKy1KIFS0uLU1OSDgEACEEnPA%253D%253D"; EE="bc402db0c596f1b3f89bf31553a1e7f5"
+

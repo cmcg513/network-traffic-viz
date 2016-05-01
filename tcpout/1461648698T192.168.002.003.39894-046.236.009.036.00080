@@ -1,0 +1,9 @@
+GET /l.php?id=INS-vt29-666188954&v=7215&x=360&y=640&d=32&c=null&ck=1&p=%2Fnews%2Fworld-europe-34897645&ref=https%3A%2F%2Fwww.google.com%2F&fu=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&xdm=edr&xdm_o=http%3A%2F%2Fwww.bbc.com&xdm_c=edr0 HTTP/1.1
+Host: edigitalsurvey.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

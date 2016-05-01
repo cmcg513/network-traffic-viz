@@ -1,0 +1,45 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://www.bbc.com
+Cache-Control: max-age=0, no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Type: text/xml; charset=utf-8
+Date: Tue, 26 Apr 2016 05:31:40 GMT
+Expires: Tue, 03 Jul 2001 06:00:00 GMT
+Set-Cookie: BR_APS=3Vx79N2XxJEwB_logWA; expires=Wed, 26-Apr-2017 05:31:40 GMT; path=/; domain=.btrll.com
+Content-Length: 21
+Connection: keep-alive
+
+<VAST version="2.0"/>HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://www.bbc.com
+Cache-Control: max-age=0, no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Type: text/xml; charset=utf-8
+Date: Tue, 26 Apr 2016 05:31:40 GMT
+Expires: Tue, 03 Jul 2001 06:00:00 GMT
+Set-Cookie: BR_APS=3Vx79N2XxJEwB_logWA; expires=Wed, 26-Apr-2017 05:31:40 GMT; path=/; domain=.btrll.com
+Content-Length: 21
+Connection: keep-alive
+
+<VAST version="2.0"/>HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://www.bbc.com
+Cache-Control: max-age=0, no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Type: text/xml; charset=utf-8
+Date: Tue, 26 Apr 2016 05:31:41 GMT
+Expires: Tue, 03 Jul 2001 06:00:00 GMT
+Set-Cookie: BR_APS=3Vx79N2XxJEwB_logWA; expires=Wed, 26-Apr-2017 05:31:41 GMT; path=/; domain=.btrll.com
+Content-Length: 21
+Connection: keep-alive
+
+<VAST version="2.0"/>HTTP/1.1 200 OK
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: http://www.bbc.com
+Cache-Control: max-age=0, no-store, no-cache, must-revalidate, proxy-revalidate
+Content-Type: text/xml; charset=utf-8
+Date: Tue, 26 Apr 2016 05:31:41 GMT
+Expires: Tue, 03 Jul 2001 06:00:00 GMT
+Set-Cookie: BR_APS=3Vx79N2XxJEwB_logWA; expires=Wed, 26-Apr-2017 05:31:41 GMT; path=/; domain=.btrll.com
+Content-Length: 21
+Connection: keep-alive
+
+<VAST version="2.0"/>

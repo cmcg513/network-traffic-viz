@@ -1,0 +1,46 @@
+GET /template/imdb-android-writable/5.1.native-homepage-teaser-V3.4.0.jstl/render HTTP/1.1
+x-amz-adsystem-id: A1zDXX5EsEDRg4sJjHi2itw/757-0869015-3608229
+x-amz-adsystem-app-version: 5.1.0
+x-amz-adsystem-device-info: H4sIAAAAAAAAACWMQQuCQBBG/8ueQ9ZCjW4RRIdump6HdZIhnZVxhSz6783q8b2P733NAC80J3OrLmZnBt9iv1Ge7bN73aj0k5ozt+KpXbFGmciz2iyxSapuctATd1dwwYv6Q2LV9sDdDF3MIys7P3OQRfFRxpAQcoCwpUYvQYDCWhNELukTn6k92ndaFPkaYEYXD9UyxrGhJ5nfH/BgXAfFAAAA
+Host: api.imdbws.com
+User-Agent: IMDb/5.1.0.105100310 (HTC6525LVW; Android 21; htc)
+Accept: application/vnd.imdb.api+json
+x-amz-date: Tue, 26 Apr 2016 05:34:57 GMT+00:00
+Accept-Language: en-US,en-US
+X-Amzn-Authorization: AWS3 AWSAccessKeyId=AKIAIE6WA5SIDKK5VANA,Algorithm=HmacSHA256,Signature=DSNblpTYuB78FeHppqPXj1ub+b9owucK0pupX2gxoCw=,SignedHeaders=host;x-amz-adsystem-app-version;x-amz-adsystem-device-info;x-amz-adsystem-id;x-amz-date
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /template/imdb-android-writable/5.1.list-of-title-lists-teasers.jstl/render?lists=%2Flists%2Fur64555860%2Flist-ls031921783&lists=%2Flists%2Fur23892615%2Flist-ls038605133&lists=%2Flists%2Fur1467305%2Flist-ls033269999&lists=%2Flists%2Fur23892615%2Flist-ls015913302&lists=%2Flists%2Fur64555860%2Flist-ls034492655&lists=%2Flists%2Fur23892615%2Flist-ls039472853&lists=%2Flists%2Fur23892615%2Flist-ls079399090&lists=%2Flists%2Fur64555860%2Flist-ls033176359&lists=%2Flists%2Fur23892615%2Flist-ls038217936&lists=%2Flists%2Fur64555860%2Flist-ls036254121&lists=%2Flists%2Fur23892615%2Flist-ls039259448&lists=%2Flists%2Fur64555860%2Flist-ls032224675&lists=%2Flists%2Fur23892615%2Flist-ls039762287&lists=%2Flists%2Fur23892615%2Flist-ls032952522&lists=%2Flists%2Fur23892615%2Flist-ls015374354&lists=%2Flists%2Fur64555860%2Flist-ls036692458&lists=%2Flists%2Fur64555860%2Flist-ls036692404&lists=%2Flists%2Fur64555860%2Flist-ls036692243&lists=%2Flists%2Fur23892615%2Flist-ls034880764&lists=%2Flists%2Fur64555860%2Flist-ls034898115&lists=%2Flists%2Fur23892615%2Flist-ls033096238&lists=%2Flists%2Fur23892615%2Flist-ls033767296&lists=%2Flists%2Fur23892615%2Flist-ls033307493&lists=%2Flists%2Fur64555860%2Flist-ls033349525&lists=%2Flists%2Fur23892615%2Flist-ls033336147&lists=%2Flists%2Fur23892615%2Flist-ls033365956&lists=%2Flists%2Fur23892615%2Flist-ls031456669&lists=%2Flists%2Fur64555860%2Flist-ls033306519&lists=%2Flists%2Fur64555860%2Flist-ls033900993&lists=%2Flists%2Fur23892615%2Flist-ls036622489&lists=%2Flists%2Fur23892615%2Flist-ls036693820&lists=%2Flists%2Fur64555860%2Flist-ls036425987&lists=%2Flists%2Fur23892615%2Flist-ls032703981&lists=%2Flists%2Fur23892615%2Flist-ls032757997&lists=%2Flists%2Fur23892615%2Flist-ls032758135&lists=%2Flists%2Fur23892615%2Flist-ls036294138&lists=%2Flists%2Fur64555860%2Flist-ls033076050&lists=%2Flists%2Fur23892615%2Flist-ls034743180&lists=%2Flists%2Fur64555860%2Flist-ls032955011&lists=%2Flists%2Fur23892615%2Flist-ls033360574&lists=%2Flists%2Fur23892615%2Flist-ls033667149&lists=%2Flists%2Fur23892615%2Flist-ls079399090&lists=%2Flists%2Fur23892615%2Flist-ls034324450&lists=%2Flists%2Fur64555860%2Flist-ls031921783&lists=%2Flists%2Fur23892615%2Flist-ls032308671 HTTP/1.1
+Host: api.imdbws.com
+User-Agent: IMDb/5.1.0.105100310 (HTC6525LVW; Android 21; htc)
+Accept: application/vnd.imdb.api+json
+x-amz-date: Tue, 26 Apr 2016 05:34:57 GMT+00:00
+Accept-Language: en-US,en-US
+X-Amzn-Authorization: AWS3 AWSAccessKeyId=AKIAIE6WA5SIDKK5VANA,Algorithm=HmacSHA256,Signature=FFWlOeJq/toJ9UxcL8GgaIy4xFrpzKWr5NPbJuS8d0g=,SignedHeaders=host;x-amz-date
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /template/imdb-android-writable/5.1.title-top-stripe.jstl/render?tconst=tt2975590&region=US&postalcode=90028&cinemasLimit=100&distance=100000&dayOffset=0&tvpostalcode=90028 HTTP/1.1
+Host: api.imdbws.com
+User-Agent: IMDb/5.1.0.105100310 (HTC6525LVW; Android 21; htc)
+Accept: application/vnd.imdb.api+json
+x-amz-date: Tue, 26 Apr 2016 05:35:01 GMT+00:00
+Accept-Language: en-US,en-US
+X-Amzn-Authorization: AWS3 AWSAccessKeyId=AKIAIE6WA5SIDKK5VANA,Algorithm=HmacSHA256,Signature=/eUwFtSLBZ/7FxiWlJ8hDLaCs0h8vy3ey1lz80LgWnQ=,SignedHeaders=host;x-amz-date
+Connection: Keep-Alive
+Accept-Encoding: gzip
+
+GET /template/imdb-android-writable/5.1.native-advertorial-inflater-V3.4.0.jstl/render?contextId=%2Ftitle%2Ftt2975590%2Fads%2Fcontext%2Fandroid-title-provider%2Fregion%2FUS&type=promotedProvider HTTP/1.1
+x-amz-adsystem-id: A1zDXX5EsEDRg4sJjHi2itw/757-0869015-3608229
+x-amz-adsystem-app-version: 5.1.0
+x-amz-adsystem-device-info: H4sIAAAAAAAAACWMQQuCQBBG/8ueQ9ZCjW4RRIdump6HdZIhnZVxhSz6783q8b2P733NAC80J3OrLmZnBt9iv1Ge7bN73aj0k5ozt+KpXbFGmciz2iyxSapuctATd1dwwYv6Q2LV9sDdDF3MIys7P3OQRfFRxpAQcoCwpUYvQYDCWhNELukTn6k92ndaFPkaYEYXD9UyxrGhJ5nfH/BgXAfFAAAA
+Host: api.imdbws.com
+User-Agent: IMDb/5.1.0.105100310 (HTC6525LVW; Android 21; htc)
+Accept: application/vnd.imdb.api+json
+x-amz-date: Tue, 26 Apr 2016 05:35:02 GMT+00:00
+Accept-Language: en-US,en-US
+X-Amzn-Authorization: AWS3 AWSAccessKeyId=AKIAIE6WA5SIDKK5VANA,Algorithm=HmacSHA256,Signature=B3EpDIsHergia4chqGhHYN7LOPZq4J9iItid3i3pFe8=,SignedHeaders=host;x-amz-adsystem-app-version;x-amz-adsystem-device-info;x-amz-adsystem-id;x-amz-date
+Connection: Keep-Alive
+Accept-Encoding: gzip
+

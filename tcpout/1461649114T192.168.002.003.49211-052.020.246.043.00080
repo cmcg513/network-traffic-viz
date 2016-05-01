@@ -1,0 +1,10 @@
+GET /id?d_rtbd=json&d_ver=2&d_orgid=695B8A1A54FA3AC00A4C98A6%40AdobeOrg&d_nsid=0&d_cb=s_c_il%5B1%5D._setMarketingCloudFields HTTP/1.1
+Host: dpm.demdex.net
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile Safari/537.36 [FBIA/FB4A;FBAV/74.0.0.21.69;]
+Referer: http://www.buzzfeed.com/gracespelman/30-tweets-that-girls-with-no-fucks-to-give-will-relate-to?utm_term=4ldqpgp&bffbmain
+Accept-Encoding: gzip,deflate
+Accept-Language: en-US
+X-Requested-With: com.facebook.katana
+

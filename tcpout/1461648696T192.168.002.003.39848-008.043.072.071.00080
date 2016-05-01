@@ -1,0 +1,10 @@
+GET /tap.php?v=8981&nid=2307&put=152506cc-2a40-4cf4-b5b6-5fc044e04c90&expires=30 HTTP/1.1
+Host: pixel.rubiconproject.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/21342&geo=na&co=us
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: rpb=""; rpx=""; khaos=INGYSOAV-E-K410; au=INGZ17QB-1FJD-10.41.169.47; ruid=55e55ba9571ef602484554b766f54e^2^1461648694^1212503223; rsid=EMuQWTbzpMdJFeznfENNzK1mUvSjywxVtv3oFFONqnIXMIfIUnD6Tp4LHOI+maks2LZOzxd6znrKHNlyGKpiEKdQ/J5xKC+aUZaZ69azE+ZcMIxk0g/qQDNXxSlkxBarT+LrPc9qD8FJjwjJtQ==; rdk=9176/21342; rdk15=0; ses15=21342^2; vis15=21342^2; csi15=3908250.js^1^1461648694^1461648694; csc15=; cd=false
+

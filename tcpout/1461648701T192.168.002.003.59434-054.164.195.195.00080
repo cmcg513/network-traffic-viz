@@ -1,0 +1,19 @@
+GET /ibs:dpid=6835&dpuuid=VA26f52dbc-0b70-11e6-8720-0e53c29e9a52&redir=http%3A%2F%2Fpixel.advertising.com%2Fups%2F28%2Fsync%3Fuid%3D%24%7BDD_UUID%7D HTTP/1.1
+Host: dpm.demdex.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://dtm.advertising.com/ids/411f1e96-3bde-4d85-b17e-63749e5f0695
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+GET /demconf.jpg?et:ibs%7cdata:dpid=6835&dpuuid=VA26f52dbc-0b70-11e6-8720-0e53c29e9a52&redir=http%3A%2F%2Fpixel.advertising.com%2Fups%2F28%2Fsync%3Fuid%3D%24%7BDD_UUID%7D HTTP/1.1
+Host: dpm.demdex.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://dtm.advertising.com/ids/411f1e96-3bde-4d85-b17e-63749e5f0695
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: demdex=83488775347903696683382597292436151773
+

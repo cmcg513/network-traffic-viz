@@ -1,0 +1,58 @@
+GET /b?c1=7&c2=14320224&c3=4799&ns__t=1461648692350&ns_c=ISO-8859-1&ns_if=1&cv=3.0&c8=&c7=http%3A%2F%2Fwidgets.outbrain.com%2FnanoWidget%2Fexternals%2FobFrame%2FobFrame.htm%23pid%3D4799%26dmpenabled%3Dtrue%26csenabled%3Dtrue%26d%3D3cacyxqsq2kyEKNWtPchx-u4uKvhdEkED5LAPxd2fGKQf7ieM12M1vZasIDBoT_i&c9=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645 HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://widgets.outbrain.com/nanoWidget/externals/obFrame/obFrame.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1B965a20258a102a196585g1461645519; UIDR=1461645519
+
+GET /b?c1=2&c2=19293874&b_ad_enabled=1&b_app_name=news%7Cweb&b_app_type=mobile-web&b_is_app=0&b_edition=us&b_imp_src=gnl&b_imp_ver=1.16.0&b_site_channel=news&b_site_section=news.world.europe&b_vs_un=bc&name=news.world-europe-34897645&ns_c=UTF-8&ns_site=bbc&ns_alias=c7d847c1-a66c-4f00-8334-20ab0fd73c84&b_article_title=belgians_tweet_cat_pictures_during_%23brusselslockdown&b_page_type=sty%7Cna&b_article_update=1448279519&b_article_date=1448279005&b_article_length=950&b_article_id=34897645&c7=http%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-europe-34897645&c8=Belgians%20tweet%20cat%20pictures%20during%20%23BrusselsLockdown%20-%20BBC%20News&c9=https%3A%2F%2Fwww.google.com%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.bbc.com/news/world-europe-34897645
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1B965a20258a102a196585g1461645519; UIDR=1461645519
+
+GET /p?c1=1&c2=6000006&c3=&c4=brx&c5=010000&c6=6836405 HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1B965a20258a102a196585g1461645519; UIDR=1461645519
+
+GET /p?&c1=8&c2=6000006&c3=149355&c4=3864974&c5=34544&c6=6836405&c10=232700&cv=1.7&cj=1&rn=1461648699&r=http%3A%2F%2Fpixel.quantserve.com%2Fpixel%2Fp-cb6C0zFF7dWjI.gif%3Flabels%3Dp.6836405.3864974.0%2Ca.34544.149355.232700%2Cu.968.640x480%3Bmedia%3Dad%3Br%3D1461648699 HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1B965a20258a102a196585g1461645519; UIDR=1461645519
+
+GET /r?c2=6035748&d.c=gif&d.o=cnn-adbp-domestic&d.x=143792178&d.t=page&d.u=http%3A%2F%2Fwww.cnn.com%2F2016%2F04%2F25%2Fpolitics%2Fted-cruz-john-kasich-donald-trump%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1B965a20258a102a196585g1461645519; UIDR=1461645519
+
+GET /b?c1=7&c2=14320224&c3=185&ns__t=1461649003595&ns_c=ISO-8859-1&ns_if=1&cv=3.0&c8=&c7=http%3A%2F%2Fwidgets.outbrain.com%2FnanoWidget%2Fexternals%2FobFrame%2FobFrame.htm%23pid%3D185%26dmpenabled%3Dtrue%26csenabled%3Dtrue%26d%3D3cacyxqsq2kyEKNWtPchx-u4uKvhdEkED5LAPxd2fGKQf7ieM12M1vZasIDBoT_i&c9=http%3A%2F%2Fwww.cnn.com%2F2016%2F04%2F25%2Fpolitics%2Fted-cruz-john-kasich-donald-trump%2F HTTP/1.1
+Host: b.scorecardresearch.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://widgets.outbrain.com/nanoWidget/externals/obFrame/obFrame.htm
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: UID=1B965a20258a102a196585g1461645519; UIDR=1461645519
+

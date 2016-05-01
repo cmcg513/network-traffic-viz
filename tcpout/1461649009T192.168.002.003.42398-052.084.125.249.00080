@@ -1,0 +1,11 @@
+GET /?a=265cfd55f1c64467ab7951985fa84f65 HTTP/1.1
+Host: d3t4zxd6snpsto.cloudfront.net
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-None-Match: "ad4b0f606e0f8465bc4c4c170b37e1a3"
+If-Modified-Since: Mon, 22 Apr 2013 19:31:32 GMT
+

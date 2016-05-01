@@ -1,0 +1,1 @@
+{"msg":"ok","idChanged":false,"adId":"A1zDXX5EsEDRg4sJjHi2itw","rcode":1,"opt-out":0}

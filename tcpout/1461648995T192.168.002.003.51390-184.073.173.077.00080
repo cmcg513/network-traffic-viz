@@ -1,0 +1,9 @@
+GET /0649ef72a7be.js?lv=1 HTTP/1.1
+Host: w.usabilla.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

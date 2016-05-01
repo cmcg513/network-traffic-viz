@@ -1,0 +1,12 @@
+HTTP/1.1 304 Not Modified
+Date: Tue, 26 Apr 2016 05:31:29 GMT
+Last-Modified: Tue, 26 Apr 2016 05:31:24 GMT
+Cache-Control: max-age=120
+ETag: "97eb2f391887a79b10304b3682065a77"
+Expires: Tue, 26 Apr 2016 05:33:24 GMT
+Connection: keep-alive
+X-Cache-Action: HIT
+X-Cache-Hits: 32
+X-LB-NoCache: true
+Vary: X-CDN
+

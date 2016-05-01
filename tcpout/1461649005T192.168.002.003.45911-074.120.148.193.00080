@@ -1,0 +1,9 @@
+GET /gscounters.sendReport?reports=%5B%7B%22name%22%3A%22loadc%22%2C%22time%22%3A%221461648999646%22%2C%22reportData%22%3A%7B%22sref%22%3A%22http%3A%2F%2Fnews.google.com%2F%22%7D%7D%2C%7B%22name%22%3A%22load%22%2C%22time%22%3A%221461649003821%22%2C%22source%22%3A%22showShareBarUI%22%2C%22reportData%22%3A%7B%7D%7D%2C%7B%22name%22%3A%22load%22%2C%22time%22%3A%221461649003879%22%2C%22source%22%3A%22showShareBarUI%22%2C%22reportData%22%3A%7B%7D%7D%2C%7B%22name%22%3A%22load%22%2C%22time%22%3A%221461649003901%22%2C%22source%22%3A%22showShareBarUI%22%2C%22reportData%22%3A%7B%7D%7D%2C%7B%22name%22%3A%22load%22%2C%22time%22%3A%221461649003912%22%2C%22source%22%3A%22showShareBarUI%22%2C%22reportData%22%3A%7B%7D%7D%5D&APIKey=3_gtUbleJNtrRITgx-1mM_ci7GcIrH8xL9W_VfAbzSa4zpFrRwnpq_eYd8QTRkr7VC&sdk=js_6.2.1&format=jsonp&callback=gigya._.apiAdapters.web.callback&context=R602272731 HTTP/1.1
+Host: gscounters.us1.gigya.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+

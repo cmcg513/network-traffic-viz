@@ -1,0 +1,20 @@
+GET /tap.php?v=7249%7c%7c11203&nid=2146,2309&put=RUIDtd7gbri8fjgmeumxpgygitanppr3fq1r3dhuit7okibu6b9bry5y====&expires=30 HTTP/1.1
+Host: pixel.rubiconproject.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://tap2-cdn.rubiconproject.com/partner/scripts/rubicon/emily.html?rtb_ext=1&pc=9176/21342&geo=na&co=us
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: rpb=""; rpx=""; khaos=INGYSOAV-E-K410; au=INGZ17QB-1FJD-10.41.169.47; ruid=55e55ba9571ef602484554b766f54e^2^1461648694^1212503223; rsid=EMuQWTbzpMdJFeznfENNzK1mUvSjywxVtv3oFFONqnIXMIfIUnD6Tp4LHOI+maks2LZOzxd6znrKHNlyGKpiEKdQ/J5xKC+aUZaZ69azE+ZcMIxk0g/qQDNXxSlkxBarT+LrPc9qD8FJjwjJtQ==; rdk=9176/21342; rdk15=0; ses15=21342^2; vis15=21342^2; csi15=3908250.js^1^1461648694^1461648694; csc15=; cd=false
+
+GET /tap.php?v=4212&nid=1185&put=9048815201972090397&expires=60 HTTP/1.1
+Host: pixel.rubiconproject.com
+Connection: keep-alive
+Accept: image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://cdn.turn.com/server/ddc.htm?uid=9048815201972090397&rnd=9192930390047946269&fpid=6&nu=y&t=&sp=y&purl=&ctid=1&cyid=2&et=n&synct=20
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Cookie: au=INGZ17QB-1FJD-10.41.169.47; ruid=55e55ba9571ef602484554b766f54e^2^1461648694^1212503223; rsid=EMuQWTbzpMdJFeznfENNzK1mUvSjywxVtv3oFFONqnIXMIfIUnD6Tp4LHOI+maks2LZOzxd6znrKHNlyGKpiEKdQ/J5xKC+aUZaZ69azE+ZcMIxk0g/qQDNXxSlkxBarT+LrPc9qD8FJjwjJtQ==; rdk=9176/21342; rdk15=0; ses15=21342^2; vis15=21342^2; csi15=3908250.js^1^1461648694^1461648694; csc15=; cd=false; put_1512=b4fc571f-fd38-4c00-8f77-5e3566136e96; put_2309=RUIDtd7gbri8fjgmeumxpgygitanppr3fq1r3dhuit7okibu6b9bry5y%3D%3D%3D%3D; put_2146=RUIDtd7gbri8fjgmeumxpgygitanppr3fq1r3dhuit7okibu6b9bry5y%3D%3D%3D%3D; rpb=4222%3D1%2631950%3D1; put_2974=3160618539253338510; rpx=4222%3D55365%2C0%2C1%2C%2C%2631950%3D55365%2C0%2C1%2C%2C; khaos=INGYSOAV-E-K410
+

@@ -1,0 +1,69 @@
+GET /cnn/.element/widget/video/videoapi/api/1.4.8/js/vendors/mobile-detect.js HTTP/1.1
+Host: z.cdn.turner.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Thu, 03 Mar 2016 20:53:33 GMT
+
+GET /cnn/.element/widget/video/videoapi/api/1.4.8/js/legacy/CNNVideoPlayer.js HTTP/1.1
+Host: z.cdn.turner.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Thu, 03 Mar 2016 20:53:32 GMT
+
+GET /xslo/cvp/config/cnn/mapping.json HTTP/1.1
+Host: z.cdn.turner.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Fri, 09 Oct 2015 19:24:45 GMT
+
+GET /xslo/xslo/test/xdm_iframe?xdm_e=http%3A%2F%2Fwww.cnn.com&xdm_c=default3373&xdm_p=1 HTTP/1.1
+Host: z.cdn.turner.com
+Connection: keep-alive
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+
+GET /cnn/.element/apps/cvp/3.0/cfg/spider/cnn/expansion/appconfig.json HTTP/1.1
+Host: z.cdn.turner.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Tue, 05 Jan 2016 21:45:24 GMT
+
+GET /xslo/cvp/ads/freewheel/js/0/AdManager.js HTTP/1.1
+Host: z.cdn.turner.com
+Connection: keep-alive
+Accept: */*
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Tue, 19 May 2015 17:06:32 GMT
+
+GET /xslo/cvp/assets/video/blank.mp4 HTTP/1.1
+Host: z.cdn.turner.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
+Accept: */*
+Referer: http://www.cnn.com/2016/04/25/politics/ted-cruz-john-kasich-donald-trump/
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+If-Modified-Since: Mon, 07 Jul 2014 22:19:10 GMT
+
