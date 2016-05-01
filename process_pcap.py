@@ -54,7 +54,7 @@ def update_per_ip_stats(stats,ip,protoc):
 	src_stats = stats['per_ip'][ip.src]
 	dst_stats = stats['per_ip'][ip.dst]
 	src_stats['agg']['total']['sent'] += 1
-	dst_stats['agg']['total']['sent'] += 1
+	dst_stats['agg']['total']['rcvd'] += 1
 	# src_stats['agg']['total']['rcvd'] += 1
 	if protoc in src_stats['agg']['per_protoc']:
 		src_stats['agg']['per_protoc'][protoc]['sent'] += 1
