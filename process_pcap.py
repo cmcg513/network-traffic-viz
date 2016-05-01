@@ -4,28 +4,40 @@ import json
 import SimpleHTTPServer
 import SocketServer
 import webbrowser
+import os
+import subprocess
+import shutil
+import re
 
 def parse_args():
 	parser = argparse.ArgumentParser(description="Python script to process PCAP data and/or launch the web application. At least one (and possibly both) of the following options must be provided at runtime: -i -s")
 	parser.add_argument("-i", "--in_file", metavar="PCAP", type=str, help="Filepath for input file (PCAP)")
 	parser.add_argument("-o", "--out_file", metavar="OUT", type=str, help="Filepath for for the JSON output. data.json by default")
+	parser.add_argument("-t", "--tcpflow", action="store_true", help="Enables tcpflow data extraction. WARNING: all data in tcpout/ will be overwritten")
 	parser.add_argument("-s", "--server", action="store_true", help="Launch server for the web app")
 	parser.add_argument("-b", "--browser", action="store_true", help="Open the webapp in your default browser")
+	parser.add_argument("-a", "--all", action="store_true", help="Enables tcpflow, server and browser. Equivalent to -tsb")
 	parser.add_argument("-p", "--port", metavar="PORT", type=int, help="Port number to bind web app too. 8000 by default")
 	args = parser.parse_args()
+	if args.all:
+		args.tcpflow = True
+		args.server = True
+		args.browser = True
 	if not args.in_file and not args.server:
 		raise Exception("Neither -i nor -s was specified, at least one is required. Run again with -h for more information.")
 	if args.browser and not args.server:
 		raise Exception("The -b option is only available when -s is enabled as well. Run again with -h for more information.")
+	if args.tcpflow and not args.in_file:
+		raise Exception("The -t option is only available when a file has been provided with -i. Run again with -h for more information.")
 	return args
 
 def main():
 	args = parse_args()
 	if args.in_file:
 		if args.out_file:
-			parse_pcap(args.in_file,args.out_file)
+			process_pcap(args.in_file,args.tcpflow,out_filename=args.out_file)
 		else:
-			parse_pcap(args.in_file)
+			process_pcap(args.in_file,args.tcpflow)
 	if args.server:
 		if args.port:
 			serve_app(args.browser,port=args.port)
@@ -33,6 +45,8 @@ def main():
 			serve_app(args.browser)
 
 def serve_app(open_browser,port=8000):
+	if not os.path.isfile("data.json"):
+		raise Exception("File data.json does not exist. Please run again with option -i and a specified PCAP to generate data.json")
 	handler = SimpleHTTPServer.SimpleHTTPRequestHandler
 	httpd = SocketServer.TCPServer(("", port), handler)
 	print "*** Serving on http://localhost:" + str(port) + "/ ***"
@@ -40,15 +54,75 @@ def serve_app(open_browser,port=8000):
 		webbrowser.open("http://localhost:" + str(port) + "/")
 	httpd.serve_forever()
 
-def parse_pcap(pcap_filename,out_filename="data.json"):
-	print ">>> Parsing " + pcap_filename + "..."
-	cap = pyshark.FileCapture(pcap_filename)
-
+def process_pcap(pcap_filename,tcpflow_enabled,out_filename="data.json"):
 	stats = dict()
 	stats['agg'] = dict()
 	stats['agg']['total'] = 0
 	stats['agg']['per_protoc'] = dict()
 	stats['per_ip'] = dict()
+	stats['files'] = dict()
+
+	parse_pcap(pcap_filename,stats)
+	if tcpflow_enabled:
+		run_tcpflow(pcap_filename)
+		process_tcpout(stats)
+
+	stats_json = open(out_filename,"w")
+	stats_json.write(json.dumps(
+		stats,
+		indent=4,
+		sort_keys=True,
+		separators=(',',':'),
+		encoding="utf-8"
+	))
+	stats_json.close()
+	
+	print ">>> Data written to " + out_filename + "\n"
+
+def process_tcpout(stats):
+	print ">>> Processing tcpout..."
+	for dirpath, dirnames, filenames in os.walk("tcpout"):
+		for filename in filenames:
+			pattern = re.compile(r"(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}\-(\d{3}\.\d{3}\.\d{3}\.\d{3})\.\d{5}")
+			try:
+				ip_src, ip_dst = re.search(pattern, filename).groups()
+			except:
+				continue
+			path = os.path.join(dirpath,filename)
+			full_path = os.path.join(os.getcwd(),path)
+			if ip_src not in stats['files']:
+				stats['files'][ip_src] = dict()
+				stats['files'][ip_src][ip_dst] = dict()
+			else:
+				if ip_dst not in stats['files'][ip_src]:
+					stats['files'][ip_src][ip_dst] = dict()
+			stats['files'][ip_src][ip_dst][filename] = full_path
+
+			if ip_dst not in stats['files']:
+				stats['files'][ip_dst] = dict()
+				stats['files'][ip_dst][ip_src] = dict()
+			else:
+				if ip_src not in stats['files'][ip_dst]:
+					stats['files'][ip_dst][ip_src] = dict()
+			stats['files'][ip_dst][ip_src][filename] = full_path
+	print ">>> Done!"
+
+def run_tcpflow(pcap_filename):
+	if os.path.isdir("tcpout"):
+		print ">>> Removing old files in directory tcpout..."
+		shutil.rmtree("tcpout")
+		print ">>> Done!"
+	#tcpflow -Ft -a -o tcpout/ -r test.pcap 
+	try:
+		print ">>> Running tcpflow on " + pcap_filename + "..."
+		subprocess.check_output(["tcpflow","-Ft","-a","-o","tcpout","-r",pcap_filename])
+	except:
+		raise Exception("Error carving files from " + pcap_filename)
+	print ">>> Done!"
+
+def parse_pcap(pcap_filename,stats):
+	print ">>> Parsing " + pcap_filename + "..."
+	cap = pyshark.FileCapture(pcap_filename)
 
 	for pkt in cap:
 		try:
@@ -60,18 +134,8 @@ def parse_pcap(pcap_filename,out_filename="data.json"):
 		protoc = pkt.highest_layer
 		update_agg_stats(stats,ip,protoc)
 		update_per_ip_stats(stats,ip,protoc)
-
-	stats_json = open(out_filename,"w")
-	stats_json.write(json.dumps(
-		stats,
-		indent=4,
-		sort_keys=True,
-		separators=(',',':'),
-		encoding="utf-8"
-	))
-	stats_json.close()
+	cap.close()
 	print ">>> Done!"
-	print ">>> Data written to " + out_filename + "\n"
 
 def update_agg_stats(stats,ip,protoc):
 	stats['agg']['total'] += 1
