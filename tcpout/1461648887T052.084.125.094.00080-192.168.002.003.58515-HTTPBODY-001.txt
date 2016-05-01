@@ -1,3 +1,0 @@
-com.imdb.mobile/defaultMobileVideoQuality=0
-com.amazon.kindle.otter.oobe/OOBE_SHOW_WAN_DATA_SCREENS=true
-

@@ -1,8 +1,0 @@
-GET /pixel/p-cb6C0zFF7dWjI.gif?labels=p.6836405.3864974.0,a.34544.149355.232700,u.968.640x480;media=ad;r=1461648699 HTTP/1.1
-Host: pixel.quantserve.com
-Connection: keep-alive
-Accept: image/webp,*/*;q=0.8
-User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-

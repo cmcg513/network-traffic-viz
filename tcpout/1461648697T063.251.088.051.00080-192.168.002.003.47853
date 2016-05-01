@@ -1,9 +1,0 @@
-HTTP/1.1 302 Moved Temporarily
-Date: Tue,  26 Apr 2016 05:31:38 GMT
-Connection: close
-Server: AAWebServer
-P3P: policyref="http://www.adadvisor.net/w3c/p3p.xml",CP="NOI NID"
-Content-Length: 0
-Location: http://beacon.krxd.net/data.gif?_kdpid=2111c0af-fc3a-446f-ab07-63aa74fbde8e&_kua_seg=146&_kua_zip=10011&_kua_age=&_kua_gender=&_k_adadvisor_key=163850501942000252706
-Set-Cookie: ab=0001%3A%2FpG6xPXWqWta%2B3OIYK0kSI7skRS1FRj%2B1ywfLew%2FCjn4tZMBQfH5Hw%3D%3D; Domain=.adadvisor.net; Expires=Tue,  26 Apr 2017 05:31:38 GMT; Path=/
-

@@ -1,6 +1,0 @@
-GET /1/action-impressions/1/OE/imdb-and/action/ads_metrics_:ad_attempt@v=992,ad_load@v=2324,ad_shown_50@v=3930:u=ms?marketplaceId=A1EVAM02EL8SFB&requestId=X1KLHTHJAR2SCYAGSWFP&session=757-0869015-3608229&marketplace=us&service=IMDbAndroid&client=5.0.1&method=V1&hostgroup=and&host=phone&class=Ads&instance=5.1.0 HTTP/1.1
-User-Agent: IMDb/5.1.0.105100310 (HTC6525LVW; Android 21; htc)
-Host: fls-na.amazon.com
-Connection: Keep-Alive
-Accept-Encoding: gzip
-

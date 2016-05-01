@@ -1,9 +1,0 @@
-GET /news/375/cpsprodpb/165A0/production/_86825519_cats6.png HTTP/1.1
-Host: ichef.bbci.co.uk
-Connection: keep-alive
-Accept: image/webp,*/*;q=0.8
-User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
-Referer: http://www.bbc.com/news/world-europe-34897645
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-

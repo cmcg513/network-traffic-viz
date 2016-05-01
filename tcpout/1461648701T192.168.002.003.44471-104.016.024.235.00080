@@ -1,9 +1,0 @@
-GET /red/usync?pid=11170&puid=VA26f52dbc-0b70-11e6-8720-0e53c29e9a52&url=https%3A%2F%2Fpixel.advertising.com%2Fups%2F50%2Fsync%3Fuid%3D%7B%7Buid%7D%7D HTTP/1.1
-Host: su.addthis.com
-Connection: keep-alive
-Accept: image/webp,*/*;q=0.8
-User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
-Referer: http://dtm.advertising.com/ids/411f1e96-3bde-4d85-b17e-63749e5f0695
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-

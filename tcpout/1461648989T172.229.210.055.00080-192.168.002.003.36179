@@ -1,8 +1,0 @@
-HTTP/1.1 304 Not Modified
-Content-Type: text/javascript
-ETag: "95dff9825126d018325e3693e1ad0671"
-Cache-Control: max-age=120
-Date: Tue, 26 Apr 2016 05:36:29 GMT
-Connection: keep-alive
-Timing-Allow-Origin: *
-

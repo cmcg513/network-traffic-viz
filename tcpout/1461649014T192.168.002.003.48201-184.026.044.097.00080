@@ -1,6 +1,0 @@
-GET /xslo/cvp/assets/video/blank.mp4 HTTP/1.1
-User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
-Host: z.cdn.turner.com
-Connection: Keep-Alive
-Accept-Encoding: gzip
-

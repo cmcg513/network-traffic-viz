@@ -1,6 +1,0 @@
-GET /p2?c1=19&c2=6034961&ns_ap_an=IMDb&ns_ap_pn=android&c12=408b3ff299ca89dd410d2cb763049ada-cs31&name=start&ns_ak=qtZQ8%2FZPY2yhlt%2F2bXKZ4Q9d3a%2Fw4X6VS8Pg2ABiMXpg51G6tPWOWvtDbnysx%2BhDYLCe7b32QVQcdvlOScspJMaE%2BC5R7SKHVZqSKiYcQn4JeJgoj6VZFk5iG2O5m507pzsqxtWeE%2BsxpdBGiYr52dXoELScvVO%2B6twZf%2Fu99ok%3D&ns_ap_ec=1&ns_ap_ev=start&ns_ap_device=htc_m8wl&ns_ap_id=1461648906674&ns_ap_csf=1&ns_ap_bi=com.imdb.mobile&ns_ap_pfm=android&ns_ap_pfv=5.0.1&ns_ap_ver=5.1.0.105100310&ns_ap_sv=2.1403.17&ns_type=view&ns_radio=wifi&ns_nc=1&ns_ap_gs=1461643822123&ns_ap_jb=0&ns_ap_res=1080x1776&ns_ap_install=1461643822123&ns_ap_lastrun=1461645943029&ns_ap_cs=4&ns_ap_runs=4&ns_ap_usage=47&ns_ap_fg=0&ns_ap_ft=0&ns_ap_dft=0&ns_ap_bt=0&ns_ap_dbt=0&ns_ap_dit=1780961&ns_ap_as=1&ns_ap_das=0&ns_ap_it=1780961&ns_ap_lang=en&ns_ts=1461648906679 HTTP/1.1
-User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
-Host: b.scorecardresearch.com
-Connection: Keep-Alive
-Accept-Encoding: gzip
-

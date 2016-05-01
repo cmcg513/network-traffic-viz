@@ -1,9 +1,0 @@
-GET /a/h/3lK6VqTTZo4ICugHzFNvvCBXvlCKmtnsoOt0lqLFswM=?cb=1461648657&pageUrl=http%3A%2F%2Fwww.bbc.com%2F&context=pubid=unimobus&a.ip=172.56.39.213&a.ua=Mozilla%2F5.0+%28Linux%3B+Android+5.1.1%3B+LGMS631+Build%2FLMY47V%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Version%2F4.0+Chrome%2F38.0.2125.102+Mobile+Safari%2F537.36&eov=eov HTTP/1.1
-Host: u-ads.adap.tv
-Connection: keep-alive
-User-Agent: Mozilla/5.0 (Linux; Android 5.0.1; HTC6525LVW Build/LRX22C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.509 Mobile Safari/537.36
-Origin: http://www.bbc.com
-Accept: */*
-Accept-Encoding: gzip,deflate,sdch
-Accept-Language: en-US,en;q=0.8
-

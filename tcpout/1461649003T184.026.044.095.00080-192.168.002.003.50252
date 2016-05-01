@@ -1,9 +1,0 @@
-HTTP/1.1 304 Not Modified
-Content-Type: text/javascript; charset=utf-8
-Last-Modified: Mon, 28 Mar 2016 06:48:03 GMT
-Cache-Control: public, max-age=900
-Expires: Tue, 26 Apr 2016 05:51:43 GMT
-Date: Tue, 26 Apr 2016 05:36:43 GMT
-Connection: keep-alive
-X-N: S
-

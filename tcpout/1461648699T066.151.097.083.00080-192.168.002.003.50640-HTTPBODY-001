@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<VAST version="2.0">
-    <Ad id="5225">
-        <Wrapper>
-            <AdSystem>EngageBDR</AdSystem>
-            <VASTAdTagURI><![CDATA[http://video.bnmla.com/video?vzid=5225&vast=1&vWidth=300&vHeight=250&ohname=bbc.com&cb=954536238&sw=1]]></VASTAdTagURI>
-        </Wrapper>
-    </Ad>
-</VAST>

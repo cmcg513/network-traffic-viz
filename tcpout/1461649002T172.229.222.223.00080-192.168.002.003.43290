@@ -1,9 +1,0 @@
-HTTP/1.1 304 Not Modified
-Content-Type: text/html
-Last-Modified: Thu, 21 Apr 2016 18:03:09 GMT
-ETag: "d1ecf90d30e1ad122b6e208bf3b3d57f"
-Date: Tue, 26 Apr 2016 05:36:42 GMT
-Connection: keep-alive
-Cache-Control: private, max-age=1800
-access-control-allow-origin: *
-

@@ -1,6 +1,0 @@
-GET /download/image?asin=B017WQ9YMO&image_size=600 HTTP/1.1
-User-Agent: Dalvik/2.1.0 (Linux; U; Android 5.0.1; HTC6525LVW Build/LRX22C)
-Host: cds.audible.com
-Connection: Keep-Alive
-Accept-Encoding: gzip
-

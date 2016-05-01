@@ -1,6 +1,0 @@
-GET /e/msdk/imp?b=ICuQlNKAZE0-jze39YKuTZ4AAAFUURBFZAEAABAFUqtMkQ HTTP/1.1
-User-Agent: IMDb/5.1.0.105100310 (HTC6525LVW; Android 21; htc)
-Host: aax-us-east.amazon-adsystem.com
-Connection: Keep-Alive
-Accept-Encoding: gzip
-
