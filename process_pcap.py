@@ -8,6 +8,7 @@ import os
 import subprocess
 import shutil
 import re
+from datetime import datetime
 
 def parse_args():
 	parser = argparse.ArgumentParser(description="Python script to process PCAP data and/or launch the web application. At least one (and possibly both) of the following options must be provided at runtime: -i -s")
@@ -97,7 +98,7 @@ def process_tcpout(stats):
 			else:
 				if ip_dst not in stats['files'][ip_src]:
 					stats['files'][ip_src][ip_dst] = dict()
-			stats['files'][ip_src][ip_dst][filename] = {"path":rel_path, "timestamp":timestamp}
+			stats['files'][ip_src][ip_dst][filename] = {"path":rel_path, "timestamp":timestamp, "time_string":datetime.fromtimestamp(int(timestamp)).strftime('%Y-%m-%d %I:%M:%S %p')}
 
 			if ip_dst not in stats['files']:
 				stats['files'][ip_dst] = dict()
@@ -105,7 +106,7 @@ def process_tcpout(stats):
 			else:
 				if ip_src not in stats['files'][ip_dst]:
 					stats['files'][ip_dst][ip_src] = dict()
-			stats['files'][ip_dst][ip_src][filename] = {"path":rel_path, "timestamp":timestamp}
+			stats['files'][ip_dst][ip_src][filename] = {"path":rel_path, "timestamp":timestamp, "time_string":datetime.fromtimestamp(int(timestamp)).strftime('%Y-%m-%d %I:%M:%S %p')}
 	print ">>> Done!"
 
 def run_tcpflow(pcap_filename):
