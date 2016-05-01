@@ -33,13 +33,13 @@ h1#pageTitle {
     padding-left: 10px;
 }
 
-div#selectUserBlock {
+div#selectIPBlock {
     padding: 10px;
     padding-top: 20px;
     position: fixed;
 }
 
-button#selectUser {
+button#selectIP {
 	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
 	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
 	box-shadow:inset 0px 1px 0px 0px #54a3f7;
@@ -66,7 +66,7 @@ button#selectUser {
     margin-left: 5px;
 }
 
-button#selectUser:hover {
+button#selectIP:hover {
 	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #007dc1));
 	background:-moz-linear-gradient(top, #0061a7 5%, #007dc1 100%);
 	background:-webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
@@ -77,7 +77,7 @@ button#selectUser:hover {
 	background-color:#0061a7;
 }
 
-button#selectUser:active {
+button#selectIP:active {
 	position:relative;
 	top:1px;
 }
@@ -193,11 +193,11 @@ div#loading img{
 }
 
 /*
-div#userSelectBlock {
+div#IPSelectBlock {
 }
 */
 
-table#userSelectTable {
+table#IPSelectTable {
 /*
     width: 75%;
     position: absolute;
@@ -208,16 +208,7 @@ table#userSelectTable {
 /*    width: 50%;*/
 }
 
-li.emailBody {
-    white-space: pre-wrap;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-weight: normal;
-}
-
-ul.fullEmail {
+ul.fullFile {
     border: 1px solid black;
     margin-bottom: 5px;
     padding: 5px;
@@ -266,20 +257,20 @@ button.closeOverlayButton:active {
 	top:1px;
 }
 
-div#emailListBlock li {
+div#summaryListBlock li {
     list-style-type: none;
 }
 
-div#emailListBlock li span {
+div#summaryListBlock li span {
     display: inline;
 }
 
-li.emailHeader {
+li.fileHeader {
     border: 2px dashed black;
     padding: 5px;
 }
 
-span.emailDetailHeader {
+span.fileDetailHeader {
     margin-right: 5px;
     font-weight: bold;
 }
@@ -345,7 +336,7 @@ circle.sent.highlighted {
 circle.received.highlighted {
     fill: aqua;
 }
-div#selectUserBlock div {
+div#selectIPBlock div {
     float: left;
     padding-right: 10px;
 }
@@ -395,15 +386,62 @@ span#ipRange {
     display: none;
 }
 
-/*
-div#search {
-    float: left;
-    padding-right: 10px;
+button#configure {
+	-moz-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	box-shadow:inset 0px 1px 0px 0px #54a3f7;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #007dc1), color-stop(1, #0061a7));
+	background:-moz-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-webkit-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-o-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:-ms-linear-gradient(top, #007dc1 5%, #0061a7 100%);
+	background:linear-gradient(to bottom, #007dc1 5%, #0061a7 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#007dc1', endColorstr='#0061a7',GradientType=0);
+	background-color:#007dc1;
+	-moz-border-radius:3px;
+	-webkit-border-radius:3px;
+	border-radius:3px;
+	border:1px solid #124d77;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:3px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #154682;
+    margin-left: 5px;
 }
-*/
-/*
-select#dropdown {
-    float: left;
+
+button#configure:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #0061a7), color-stop(1, #007dc1));
+	background:-moz-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:-webkit-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:-o-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:-ms-linear-gradient(top, #0061a7 5%, #007dc1 100%);
+	background:linear-gradient(to bottom, #0061a7 5%, #007dc1 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#0061a7', endColorstr='#007dc1',GradientType=0);
+	background-color:#0061a7;
 }
-*/
+
+button#configure:active {
+	position:relative;
+	top:1px;
+}
+
+div#configureWindow div {
+    margin: 0 auto;
+    width: 500px;
+    padding: 20px;
+    border: 2px dashed black;
+}
+
+div#configureWindow select {
+    margin: 0 auto;
+}
+
+div#configureWindow span {
+    margin: 0 auto;
+}
+
 

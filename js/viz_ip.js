@@ -1,24 +1,3 @@
-//correlates ENTER to the "GO" button for the search field
-function prsButton(event, value){
-    if (event.keyCode == 13)
-        document.getElementById('goButton').click();
-}
-
-//performs a context switch to a new IP address 
-function getIP(){
-    var x = document.getElementById("emailName").value;
-
-    var res = Controller.user_list.filter(function(d) {
-        return d == x;
-    });
-
-    if(res.length == 0) {
-        alert("No matchin entry found for: " + x)
-    } else {
-        Selection.select(res);
-    }
-}
-
 function closeLoadingOverlay() {
     d3.select("#loading").style("display", "none");
     d3.select("#overlayBkgrd").style("display", "none");
@@ -26,18 +5,28 @@ function closeLoadingOverlay() {
     d3.select("#pageTitle").text(Controller.title);
 }
 
-function openUserSelectOverlay() {
-    d3.select("#userSelectBlock").style("display","block");
+function openIPSelectOverlay() {
+    d3.select("#IPSelectBlock").style("display","block");
     d3.select("#overlayBkgrd").style("display", "block");
 }
 
-function closeEmailOverlay() {
-    d3.select("#emailListBlock").style("display","none");
+function closeSummaryOverlay() {
+    d3.select("#summaryListBlock").style("display","none");
     d3.select("#overlayBkgrd").style("display", "none");
 }
 
-function closeUserSelectOverlay() {
-    d3.select("#userSelectBlock").style("display","none");
+function closeIPSelectOverlay() {
+    d3.select("#IPSelectBlock").style("display","none");
+    d3.select("#overlayBkgrd").style("display", "none");
+}
+
+function openConfigureOverlay() {
+    d3.select("#configureWindow").style("display", "block");
+    d3.select("#overlayBkgrd").style("display", "block");
+}
+
+function closeConfigureOverlay() {
+    d3.select("#configureWindow").style("display", "none");
     d3.select("#overlayBkgrd").style("display", "none");
 }
 
@@ -62,38 +51,37 @@ function return_area(radius) {
 }
 
 //generates the node objects for the viz based on the given IP address
-function get_node_list(chosen_user) {
-    var user_data_dict = Controller.user_data_dict;
+function get_node_list(chosen_ip,chunk_size) {
+    var ip_data = Controller.ip_data;
     var files = Controller.files;
-    console.log(files)
     var chunked_node_list = [];
     var node_list = [];
     var i = 0;
-    for (other_user in user_data_dict[chosen_user]['per_other_ip']) {
+    for (other_user in ip_data[chosen_ip]['per_other_ip']) {
         i += 1;
-        for (protoc in user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc']) {
+        for (protoc in ip_data[chosen_ip]['per_other_ip'][other_user]['per_protoc']) {
             var fnames = [];
-            if (chosen_user in files) {
-                if (other_user in files[chosen_user]) {
-                    fnames = Object.keys(files[chosen_user][other_user]);
+            if (chosen_ip in files) {
+                if (other_user in files[chosen_ip]) {
+                    fnames = Object.keys(files[chosen_ip][other_user]);
                 }
             }
             node = {
                 name: other_user,
                 protoc: protoc,
-                nSent: user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['sent'],
-                nRecvd: user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['rcvd'],
-                nTotal: user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][other_user]['per_protoc'][protoc]['rcvd'],
+                nSent: ip_data[chosen_ip]['per_other_ip'][other_user]['per_protoc'][protoc]['sent'],
+                nRecvd: ip_data[chosen_ip]['per_other_ip'][other_user]['per_protoc'][protoc]['rcvd'],
+                nTotal: ip_data[chosen_ip]['per_other_ip'][other_user]['per_protoc'][protoc]['sent'] + ip_data[chosen_ip]['per_other_ip'][other_user]['per_protoc'][protoc]['rcvd'],
                 fnames: fnames
             };
             node_list.push(node);
         }
-        if (i % 10 == 0) {
+        if (i % chunk_size == 0) {
             chunked_node_list.push(node_list);
             node_list = [];
         }
     }
-    if (i % 10 != 0) {
+    if (i % chunk_size != 0) {
         chunked_node_list.push(node_list);
     }
     return chunked_node_list;
@@ -101,28 +89,28 @@ function get_node_list(chosen_user) {
 
 //returns a list of the aggregated communication statistics for each IP 
 //(this function could be refactored to better fit the current use-case)
-function get_other_users_numbers(other_users, chosen_user) {
-    var user_data_dict = Controller.user_data_dict;
+function get_other_ips_numbers(other_ips, chosen_ip) {
+    var ip_data = Controller.ip_data;
     var files = Controller.files;
-    console.log(user_data_dict);
+    console.log(ip_data);
     var total_comm = [];
     total_comm[0] = {};
-    total_comm[0]["name"] = "Total (" + chosen_user + ")";
-    total_comm[0]["sent"] = user_data_dict[chosen_user]['agg']['total']['sent'];
-    total_comm[0]["received"] = user_data_dict[chosen_user]['agg']['total']['rcvd'];
+    total_comm[0]["name"] = "Total (" + chosen_ip + ")";
+    total_comm[0]["sent"] = ip_data[chosen_ip]['agg']['total']['sent'];
+    total_comm[0]["received"] = ip_data[chosen_ip]['agg']['total']['rcvd'];
     total_comm[0]['fnames'] = []
 
-    for (var i = 1; i <= other_users.length; i++) {
+    for (var i = 1; i <= other_ips.length; i++) {
         var fnames = [];
-        if (other_users[i-1] in files) {
-            if (chosen_user in files[other_users[i-1]]) {
-                fnames = Object.keys(files[other_users[i-1]][chosen_user]);
+        if (other_ips[i-1] in files) {
+            if (chosen_ip in files[other_ips[i-1]]) {
+                fnames = Object.keys(files[other_ips[i-1]][chosen_ip]);
             }
         }
         total_comm[i] = {};
-        total_comm[i]["name"] = other_users[i-1];
-        total_comm[i]["sent"] = user_data_dict[other_users[i-1]]['per_other_ip'][chosen_user]['total']['sent'];
-        total_comm[i]["received"] = user_data_dict[other_users[i-1]]['per_other_ip'][chosen_user]['total']['rcvd'];
+        total_comm[i]["name"] = other_ips[i-1];
+        total_comm[i]["sent"] = ip_data[other_ips[i-1]]['per_other_ip'][chosen_ip]['total']['sent'];
+        total_comm[i]["received"] = ip_data[other_ips[i-1]]['per_other_ip'][chosen_ip]['total']['rcvd'];
         total_comm[i]["fnames"] = fnames;
     }
     return total_comm;
@@ -130,37 +118,15 @@ function get_other_users_numbers(other_users, chosen_user) {
 
 //returns a list of the IP addresses that the currently selected IP communicated with
 //(may also be refactored for current use-case)
-function get_other_users(node_list) {
-    var other_users = [];
+function get_other_ips(node_list) {
+    var other_ips = [];
     for (var i = 0; i < node_list.length; i++) {
-        if (other_users.indexOf(node_list[i].name) < 0) {
-            other_users.push(node_list[i].name);
+        if (other_ips.indexOf(node_list[i].name) < 0) {
+            other_ips.push(node_list[i].name);
         }
     }
 
-    return other_users.sort();
-}
-
-function get_adjusted_date_limits(node_list) {
-    var max_date = null;
-    var min_date = null;
-
-    for (var i = 0; i < node_list.length; i++) {
-        if (min_date == null) {min_date = node_list[i].date;}
-        if (max_date == null) {max_date = node_list[i].date;}
-        if (min_date > node_list[i].date) {
-            min_date = node_list[i].date;
-        }
-        if (max_date < node_list[i].date) {
-            max_date = node_list[i].date;
-        }
-    }
-    var dates = [];
-    for (var dt = new Date(min_date); dt <= new Date(max_date); dt.setMonth(dt.getMonth() + 1)) {
-        dates.push(new Date(dt));
-    }
-
-    return dates;
+    return other_ips.sort();
 }
 
 function get_protocs(node_list) {
@@ -173,6 +139,14 @@ function get_protocs(node_list) {
     return protocs;
 }
 
+function generate_numbers(start,end) {
+    var nums = [];
+    for (var i = start; i <= end; i++) {
+        nums.push(i);
+    }
+    return nums;
+}
+
 
 //manages the whole viz, imports the data and starts the init process
 var Controller = {
@@ -181,17 +155,11 @@ var Controller = {
         d3.json("data.json", function(data) {
             self.title = data.pcap;
             self.files = data.files;
-            self.agg_data = data.agg;
-            self.user_list = Object.keys(data.per_ip);
-            self.user_data_dict = data.per_ip;
-//                        self.user_list = data.user_list.sort();
-//                        self.email_dict = data.emails;
-//                        self.user_data_dict = data.user_data;
-//                        self.startDate = new Date(data.start_date);
-//                        self.endDate = new Date(data.end_date);
-//                        self.year_month_pairs = data.year_month_pairs;
-            Selection.init(self.user_list);
-            IPSelectList.init(self.user_data_dict);
+            self.ip_list = Object.keys(data.per_ip);
+            self.ip_data = data.per_ip;
+
+            Selection.init(self.ip_list);
+            IPSelectList.init(self.ip_data);
             closeLoadingOverlay();
         });
     }
@@ -200,22 +168,35 @@ var Controller = {
 //handles the context switches from one IP to another
 var Selection = {
     //initialization
-    init: function(user_list) {
-        this.user_list = user_list;
+    init: function(ip_list) {
+        this.ip_list = ip_list;
+        this.chunk_size = 10;
+        this.chosen_ip = ip_list[0];
+        this.maxNodeRad = 15;
 
         //assigns the select action to the dropdown element
         this.ddown = d3.select("#dropdown").on('change', function() {
             Selection.select(d3.select(this).property('value'));
         });
+        
+        this.chunk_select = d3.select("#setChunkSize").on('change', function() {
+            Selection.chunk_size = parseInt(d3.select(this).property('value'));
+            Selection.select(Selection.chosen_ip);
+        });
+        
+        this.rad_select = d3.select("#setMaxNodeSize").on('change', function() {
+            Selection.maxNodeRad = parseInt(d3.select(this).property('value'));
+            Selection.select(Selection.chosen_ip);
+        });
 
         //selects the first IP in the list by default
-        Selection.select(user_list[0]);
+        Selection.select(this.chosen_ip);
     },
 
     //performs the selection; generates the new nodes and other internal data structures
-    select: function(chosen_user) {
-        this.chosen_user = chosen_user;
-        this.chunked_node_list = get_node_list(chosen_user);
+    select: function(chosen_ip) {
+        this.chosen_ip = chosen_ip;
+        this.chunked_node_list = get_node_list(chosen_ip,this.chunk_size);
         this.chunk_index = 0;
         console.log(this.chunked_node_list.length);
         var node_list = this.chunked_node_list[0];
@@ -229,18 +210,42 @@ var Selection = {
             d3.select("#nextArrow").style("display","none");
             d3.select("#ipRange").style("display","none");
         }
-        var other_users = get_other_users(node_list);
-        var total_comm = get_other_users_numbers(other_users, chosen_user);
+        var other_ips = get_other_ips(node_list);
+        var total_comm = get_other_ips_numbers(other_ips, chosen_ip);
         var protocs = get_protocs(node_list);
-        var payload = [node_list, other_users, total_comm, protocs];
+        var payload = [node_list, other_ips, total_comm, protocs, this.maxNodeRad];
 
         //assigns the user list to the dropdown values
-        var opt_elements = this.ddown.selectAll("option").data(this.user_list);
+        var opt_elements = this.ddown.selectAll("option").data(this.ip_list);
         opt_elements.exit().remove();
         opt_elements.enter().append("option");
         opt_elements.transition().attr({
             selected: function(d) {
-                if (d == chosen_user) { return "selected"; }
+                if (d == chosen_ip) { return "selected"; }
+                else { return null; }
+            },
+            value: function(d) { return d; },
+        }).text(function(d) { return d; });
+        
+        var chunk_sizes = generate_numbers(1,100);
+        opt_elements = this.chunk_select.selectAll("option").data(chunk_sizes);
+        opt_elements.exit().remove();
+        opt_elements.enter().append("option");
+        opt_elements.transition().attr({
+            selected: function(d) {
+                if (d == Selection.chunk_size) { return "selected"; }
+                else { return null; }
+            },
+            value: function(d) { return d; },
+        }).text(function(d) { return d; });
+        
+        var rad_sizes = generate_numbers(15,100);
+        opt_elements = this.rad_select.selectAll("option").data(rad_sizes);
+        opt_elements.exit().remove();
+        opt_elements.enter().append("option");
+        opt_elements.transition().attr({
+            selected: function(d) {
+                if (d == Selection.maxNodeRad) { return "selected"; }
                 else { return null; }
             },
             value: function(d) { return d; },
@@ -253,10 +258,10 @@ var Selection = {
     nextPage: function() {
         this.chunk_index += 1;
         var node_list = this.chunked_node_list[this.chunk_index];
-        var other_users = get_other_users(node_list);
-        var total_comm = get_other_users_numbers(other_users, this.chosen_user);
+        var other_ips = get_other_ips(node_list);
+        var total_comm = get_other_ips_numbers(other_ips, this.chosen_ip);
         var protocs = get_protocs(node_list);
-        var payload = [node_list, other_users, total_comm, protocs];
+        var payload = [node_list, other_ips, total_comm, protocs];
         if (this.chunk_index == 1) {
             d3.select("#prevArrow").style("display","inline");
         }
@@ -270,10 +275,10 @@ var Selection = {
     prevPage: function() {
         this.chunk_index -= 1;
         var node_list = this.chunked_node_list[this.chunk_index];
-        var other_users = get_other_users(node_list);
-        var total_comm = get_other_users_numbers(other_users, this.chosen_user);
+        var other_ips = get_other_ips(node_list);
+        var total_comm = get_other_ips_numbers(other_ips, this.chosen_ip);
         var protocs = get_protocs(node_list);
-        var payload = [node_list, other_users, total_comm, protocs];
+        var payload = [node_list, other_ips, total_comm, protocs];
         if (this.chunk_index == 0) {
             d3.select("#prevArrow").style("display","none");
         }
@@ -307,10 +312,6 @@ var Timeline = {
     //initialization
     init: function() {
         //------ Establish some important dimensional settings ------
-        //min and max radius size for nodes
-        this.MIN_R = 5;
-        this.MAX_R = 15;
-
         //calculate window and SVG height based on browser size
         this.WINDOW_WIDTH = Math.max(document.documentElement.clientWidth, window.innerWidth || 0);
         this.WINDOW_HEIGHT = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
@@ -321,7 +322,7 @@ var Timeline = {
         this.LEGEND_X = 100;
         this.RANGE = this.SVG_WIDTH - this.LEGEND_X
 
-        this.X_AXIS_OFFSET_Y = this.SVG_HEIGHT - 50;
+        this.X_AXIS_OFFSET_Y = this.SVG_HEIGHT - 80;
         this.Y_AXIS_OFFSET_X = 200;
         this.X_AXIS_OFFSET_X = 0;
         this.Y_AXIS_OFFSET_Y = 0;
@@ -379,16 +380,21 @@ var Timeline = {
     update: function(payload) {
         var self = this;
         var node_list = payload[0];
-        var other_users = payload[1];
+        var other_ips = payload[1];
 //                    var dates = payload[2];
         var protocs = payload[3];
+        var maxNodeRad = payload[4];
+        
+        //min and max radius size for nodes
+        this.MIN_R = 5;
+        this.MAX_R = maxNodeRad;
 
 //                    this.x_scale.domain([dates[0], dates[dates.length-1]]);
         //set the domains of the x and y scales
         //the domains represent the internal value associated with the scale, and will be mapped to range values
         //which can be thought of as the "real" (e.g. pixels, length)
         this.x_scale.domain(protocs);
-        this.y_scale.domain(other_users);
+        this.y_scale.domain(other_ips);
 
         //"activate" the x and y axes
         this.x_axis_group.transition().call(this.x_axis)
@@ -396,14 +402,14 @@ var Timeline = {
             .style("text-anchor", "end")
             .attr("dx", "-.8em")
             .attr("dy", ".15em")
-            .attr("transform", "rotate(-55)");
+            .attr("transform", "rotate(-35)");
         this.y_axis_group.transition().call(this.y_axis);
 
         //select the main svg tag
         var svg = d3.select("#viz");
 
         //remove the old x-line svg elements and append new ones
-        var x_lines = svg.select("#x_lines").selectAll("line").data(other_users);
+        var x_lines = svg.select("#x_lines").selectAll("line").data(other_ips);
         x_lines.exit().remove();
         x_lines.enter().append("line");
         x_lines.attr({
@@ -765,57 +771,48 @@ var SideBar = {
 //files exchanged between them (as carved by tcpflow)
 var Summary = {
     init: function() {
-        this.file_list = d3.select("#emailListBlock").select("#emailList");
+        this.file_list = d3.select("#summaryListBlock").select("#fileList");
         this.summary_block = d3.select("#summaryBlock");
     },
     call: function(node) {
         var self = this;
         var files = Controller.files;
-        var chosen_user = Selection.chosen_user;
-        var user_data_dict = Controller.user_data_dict;
+        var chosen_ip = Selection.chosen_ip;
+        var ip_data = Controller.ip_data;
         this.file_list.selectAll("ul").remove();
         this.summary_block.selectAll("h1").remove();
         this.summary_block.selectAll("ul").remove();
-//        var unionIds = unionOfArrays(node.sentIds, node.recvdIds);
-//        unionIds.sort(function(a, b) {
-//            var a_date = new Date(email_dict[a].date);
-//            var b_date = new Date(email_dict[b].date);
-//            if (a_date > b_date) { return 1; }
-//            if (a_date < b_date) { return -1; }
-//            else { return 0; }
-//        });
+
         var fnames = node.fnames;
-        console.log(node);
-        console.log(fnames);
         fnames.sort(function(a, b) {
-            var timestamp_a = files[chosen_user][node.name][a];
-            var timestamp_b = files[chosen_user][node.name][b];
+            var timestamp_a = files[chosen_ip][node.name][a];
+            var timestamp_b = files[chosen_ip][node.name][b];
             if (timestamp_a > timestamp_b) { return 1; }
             if (timestamp_a < timestamp_b) { return -1; }
             else { return 0; }
         })
-        var title = this.summary_block.append("h1").text("Summary: " + chosen_user + " - " + node.name);
+        var title = this.summary_block.append("h1").text("Summary: " + chosen_ip + " - " + node.name);
         var stats = title.append("ul");
-        var total = user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd'];
+        var total = ip_data[chosen_ip]['per_other_ip'][node.name]['total']['sent'] + ip_data[chosen_ip]['per_other_ip'][node.name]['total']['rcvd'];
         var agg_traffic = stats.append("li").text("Aggregate traffic:").style("font-weight","bold");
         agg_traffic = agg_traffic.append("ul");
         agg_traffic.append("li")
-            .text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['sent']);
+            .text(chosen_ip+ " to " + node.name + ": " + ip_data[chosen_ip]['per_other_ip'][node.name]['total']['sent']);
         agg_traffic.append("li")
-            .text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['total']['rcvd']);
+            .text(node.name+ " to " + chosen_ip + ": " + ip_data[chosen_ip]['per_other_ip'][node.name]['total']['rcvd']);
         agg_traffic.append("li")
             .text("Total: " + total);
         var per_protocol = stats.append("li").text("Traffic by protocol:").style("font-weight","bold");
         per_protocol = per_protocol.append("ul");
-        for (protoc in user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc']) {
-            var protoc_total = user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent'] + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd'];
+        for (protoc in ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc']) {
+            var protoc_total = ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc'][protoc]['sent'] + ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd'];
             var percentage = Math.round(protoc_total/total*100*100)/100;
             var protocol = per_protocol.append("li").text(protoc + " (" + percentage + "%) " + ":").style("font-weight","bold");
             protocol = protocol.append("ul");
             protocol.append("li")
-                .text(chosen_user+ " to " + node.name + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['sent']);
+                .text(chosen_ip+ " to " + node.name + ": " + ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc'][protoc]['sent']);
             protocol.append("li")
-                .text(node.name+ " to " + chosen_user + ": " + user_data_dict[chosen_user]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']);
+                .text(node.name+ " to " + chosen_ip + ": " + ip_data[chosen_ip]['per_other_ip'][node.name]['per_protoc'][protoc]['rcvd']);
             protocol.append("li")
                 .text("Total: " + protoc_total);
         }
@@ -823,31 +820,31 @@ var Summary = {
         var known_image_extensions = ['gif','jpg','jpeg','png','tif','tiff','jif','jfif','bmp'];
         
         var selection = this.file_list.selectAll("ul").data(fnames);
-        selection.enter().append("ul").classed("fullEmail", true);
+        selection.enter().append("ul").classed("fullFile", true);
 
-        var header = selection.append("li").classed("emailHeader", true).append("ul");
+        var header = selection.append("li").classed("fileHeader", true).append("ul");
         var file = header.append("li");
         file.append("span")
             .text("File:")
-            .classed("emailDetailHeader", true);
+            .classed("fileDetailHeader", true);
         file.append("a")
-            .attr("href",function(d) {return files[chosen_user][node.name][d]["path"];})
+            .attr("href",function(d) {return files[chosen_ip][node.name][d]["path"];})
             .attr("target","_blank").text(function(d) {return d;})
-            .classed("emailDetailHeader", true);
+            .classed("fileDetailHeader", true);
         var timestring = header.append("li");
         timestring.append("span")
             .text("Date/Time:")
-            .classed("emailDetailHeader", true);
+            .classed("fileDetailHeader", true);
         timestring.append("span")
-            .text(function(d) {return files[chosen_user][node.name][d]["time_string"];})
-            .classed("emailDetailHeader", true);
+            .text(function(d) {return files[chosen_ip][node.name][d]["time_string"];})
+            .classed("fileDetailHeader", true);
         var timestamp = header.append("li");
         timestamp.append("span")
             .text("Unix Timestamp:")
-            .classed("emailDetailHeader", true);
+            .classed("fileDetailHeader", true);
         timestamp.append("span")
-            .text(function(d) {return files[chosen_user][node.name][d]["timestamp"];})
-            .classed("emailDetailHeader", true);
+            .text(function(d) {return files[chosen_ip][node.name][d]["timestamp"];})
+            .classed("fileDetailHeader", true);
         var img = header.append("li");
         img.append("img")
             .attr("src",function(d) {
@@ -855,7 +852,7 @@ var Summary = {
             var ext = split[split.length-1];
             console.log(ext)
             if (known_image_extensions.indexOf(ext) >= 0) {
-                return files[chosen_user][node.name][d]["path"];
+                return files[chosen_ip][node.name][d]["path"];
             } else {
                 return "#";
             }
@@ -868,50 +865,21 @@ var Summary = {
                 return "none";
             }
         }).style("max-width","500px");
-        d3.select("#emailListBlock").style("display", "block");
+        d3.select("#summaryListBlock").style("display", "block");
         d3.select("#overlayBkgrd").style("display", "block");
     }
-}
-
-//return the union of two arrays
-function unionOfArrays(arr1, arr2) {
-    var arr3 = [];
-    for (var i = 0; i < arr1.length; i++) {
-        arr3.push(arr1[i]);
-    }
-    for (var i = 0; i < arr2.length; i++) {
-        if (arr3.indexOf(arr2[i]) == -1) {
-            arr3.push(arr2[i]);
-        }
-    }
-    return arr3;
-}
-
-//takes a list and formats it as a string 
-function formatListToString(listToFormat) {
-    if (listToFormat) {
-        var s = "";
-        if (listToFormat.length > 0) {
-            for (var i=0; i < (listToFormat.length - 1); i++) {
-                s = s + listToFormat[i] + ", "
-            }
-            s = s + listToFormat[listToFormat.length - 1];
-        }
-        return s;
-    }
-    return "";
 }
 
 //an overlay allowing us to view and sort all IP addresses by the amount of traffic they generated and received
 var IPSelectList = {
     //initialization
-    init: function(user_data_dict) {
+    init: function(ip_data) {
         //select the HTML elements
-        var table = d3.select("#userSelectTable");
+        var table = d3.select("#IPSelectTable");
         this.tbody = table.select("tbody");
 
         //get a list of the aggregate sent-received statisitics for each IP
-        var ipGrandTotals = getIPGrandTotals(user_data_dict);
+        var ipGrandTotals = getIPGrandTotals(ip_data);
 
         //sort by total in descending order (that's why the comparator is backwards)
         ipGrandTotals.sort(function(a,b) {
@@ -930,8 +898,12 @@ var IPSelectList = {
             .on("mouseout", function(d) { IPSelectList.onMouseout(d); })
             .on("click", function(d) { 
                 Selection.select(d.name);
-                closeUserSelectOverlay();
+                closeIPSelectOverlay();
             });
+        
+        var ip_data = Controller.ip_data;
+        
+        
         //add data to each column
         selection.append("td")
             .attr("data-value", function(d) { return d.name; })
@@ -945,6 +917,9 @@ var IPSelectList = {
         selection.append("td")
             .attr("data-value", function(d) { return d.nTotal; })
             .text(function(d) { return d.nTotal; });
+        selection.append("td")
+            .attr("data-value", function(d) { return Object.keys(ip_data[d.name]['per_other_ip']).length; })
+            .text(function(d) { return Object.keys(ip_data[d.name]['per_other_ip']).length; });
     },
     onMouseover: function(d) {
         this.tbody.selectAll("tr")
@@ -958,14 +933,14 @@ var IPSelectList = {
 }
 
 //returns a list of the aggregate statistics for each IP
-function getIPGrandTotals(user_data_dict) {
+function getIPGrandTotals(ip_data) {
     var totals = [];
-    for (ip in user_data_dict) {
+    for (ip in ip_data) {
         var ipTotal = {};
         ipTotal['name'] = ip;
-        ipTotal['nSent'] = user_data_dict[ip]['agg']['total']['sent'];
-        ipTotal['nRecvd'] = user_data_dict[ip]['agg']['total']['rcvd'];
-        ipTotal['nTotal'] = user_data_dict[ip]['agg']['total']['sent'] + user_data_dict[ip]['agg']['total']['rcvd'];
+        ipTotal['nSent'] = ip_data[ip]['agg']['total']['sent'];
+        ipTotal['nRecvd'] = ip_data[ip]['agg']['total']['rcvd'];
+        ipTotal['nTotal'] = ip_data[ip]['agg']['total']['sent'] + ip_data[ip]['agg']['total']['rcvd'];
         totals.push(ipTotal);
     }
     return totals;

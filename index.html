@@ -16,19 +16,15 @@
                 <h1 id="pageTitle">Loading...</h1>
             </div>
             <div id="topRight">
-                <div id="selectUserBlock">
+                <div id="selectIPBlock">
                     <div id="navigate">
                         <button id="prevArrow" class="arrow" onclick="goToPrevPage()">Prev</button>
                         <span id="ipRange"></span>
                         <button id="nextArrow" class="arrow" onclick="goToNextPage()">Next</button>
                     </div>
-                    <div id="search">
-                        <label>Search: </label>
-                        <input id = "emailName" type = "text" onkeypress="javascript:return ((event.keyCode == 13) ? false : true)" onkeyup = "prsButton(event, this.value)">
-                        <button id = "goButton" type = "button" onclick = "getIP()">GO</button>
-                    </div>
                     <select id="dropdown"></select>
-                    <button id="selectUser" onclick="openUserSelectOverlay()">IP Overview</button>
+                    <button id="selectIP" onclick="openIPSelectOverlay()">IP Overview</button>
+                    <button id="configure" onclick="openConfigureOverlay()">Configure</button>
                 </div>
             </div>
         </div>
@@ -53,25 +49,37 @@
             </ul>
         </div>
         <div id="overlayBkgrd"></div>
-        <div id="emailListBlock" class="overlay">
-            <button class="closeOverlayButton" type="button" onclick="closeEmailOverlay()">CLOSE</button>
+        <div id="summaryListBlock" class="overlay">
+            <button class="closeOverlayButton" type="button" onclick="closeSummaryOverlay()">CLOSE</button>
             <div id="summaryBlock"></div>
             <h1 id="fileHeader">Files exchanged:</h1>
-            <ul id = "emailList"></ul>
+            <ul id = "fileList"></ul>
         </div>
-        <div id="userSelectBlock" class="overlay">
-            <button class="closeOverlayButton" type="button" onclick="closeUserSelectOverlay()">CLOSE</button>
-            <table class="sortable-theme-bootstrap" id="userSelectTable" data-sortable>
+        <div id="IPSelectBlock" class="overlay">
+            <button class="closeOverlayButton" type="button" onclick="closeIPSelectOverlay()">CLOSE</button>
+            <table class="sortable-theme-bootstrap" id="IPSelectTable" data-sortable>
                 <thead>
                     <tr>
-                        <th data-sortable-type="alpha">User</th>
+                        <th data-sortable-type="alpha">IP</th>
                         <th data-sortable-type="numeric">Total Sent</th>
                         <th data-sortable-type="numeric">Total Received</th>
-                        <th data-sorted="true" data-sorted-direction="descending" data-sortable-type="numeric">Total Communication Volume</th>
+                        <th data-sortable-type="numeric">Total Traffic Volume</th>
+                        <th data-sorted="true" data-sorted-direction="descending" data-sortable-type="numeric"># of Parties Communicated With</th>
                     </tr>
                 </thead>
                 <tbody></tbody>
             </table>
+        </div>
+        <div id="configureWindow" class="overlay">
+            <button class="closeOverlayButton" type="button" onclick="closeConfigureOverlay()">CLOSE</button>
+            <div id="chunkDiv">
+                <span class="ddownLabel">Set the maximum number of IPs displayed per page:</span>
+                <select id="setChunkSize"></select>
+            </div>
+            <div id="radiusDiv">
+                <span class="ddownLabel">Set the maximum radius size for the nodes:</span>
+                <select id="setMaxNodeSize"></select>
+            </div>
         </div>
         <div id="loading" class="overlay">
             <h1>Loading...</h1>
