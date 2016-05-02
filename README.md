@@ -30,6 +30,8 @@ In addition, this project makes use of the following libraries/tools:
 ## Setup/Installation
 This application was built and tested in a Debian-based Linux environment. It has been tested successfully in both Ubuntu and Kali linux. In order to install all Python related dependencies run "pip install -r requirements.txt". Alternatively, since pyshark is the only 3rd party Python module this project accesses directly, you should be able to just type "pip install pyshark" but if you run into any problems, pyshark's dependecies are listed explicitly in requirements.txt. However, PyShark is essentially just a wrapper around Wireshark/Tshark code, so you need to have these programs installed as well. On Ubuntu, you can do this with "apt-get install wireshark" and "apt-get install tshark". Finally, if you wish to use the tcpflow integration, that must be installed as well ("apt-get install tcpflow"). So, in summation, do the following:
 - pip install -r requirements.txt
+  - if the installation of libxml fails (as it did for me on Kali), do the following and then try again:
+  - apt-get intstall libxml2-dev libxslt1-dev zlib1g-dev
 - apt-get install wireshark
 - apt-get install tshark
 - apt-get install tcpflow
