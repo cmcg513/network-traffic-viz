@@ -67,3 +67,6 @@ The most common use-case will be the following:
 python pcap_explorer.py -a -i myPCAP.pcap
 ```
 That command will parse the PCAP, enable tcpflow, start a web server and launch your browser to localhost:8000
+
+## Navigating the UI
+Left clicks on nodes or on the list of IPs on the left will open the Summary overlay (links to files and aggregate stats). Right clicks will cause a context switch to a new IP. The number of IPs on the y-axis can be configured with the "Configure" button. The dropdown on top allows you to quickly choose any of the IPs, while "IP Overview" gives you a nice sortable table on all of the IPs (left click on entries in the table for a context switch).
