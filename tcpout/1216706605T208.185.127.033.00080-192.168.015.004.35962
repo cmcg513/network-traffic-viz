@@ -1,0 +1,54 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 06:03:49 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.25
+Set-Cookie: BFC=; domain=.about.com; expires=Tue, 22-Jul-08 06:03:49 GMT
+Cache-Control: max-age=0
+Expires: Tue, 22 Jul 2008 06:03:49 GMT
+Location: http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+22e
+<html>
+<head><title>http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm</title></head>
+<frameset rows="55,*">
+<frame name="Top Frame" noresize src="" scrolling="no" marginheight="0" marginwidth="0">
+<frame name="Main" noresize src="http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm" scrolling="auto">
+<noframes>
+Sorry, your browser does not support frames.
+<a href="http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm">Take this link to main frame.</a>
+</noframes>
+</frameset>
+</html>
+
+0
+
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 06:04:07 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.25
+Set-Cookie: BFC=; domain=.about.com; expires=Tue, 22-Jul-08 06:04:07 GMT
+Cache-Control: max-age=0
+Expires: Tue, 22 Jul 2008 06:04:07 GMT
+Location: http://email.about.com/gi/dynamic/offsite.htm?zi=1/XJ&sdn=email&cdn=compute&tm=17&gps=101_1829_788_511&f=00&su=p284.9.336.ip_p504.1.336.ip_&tt=4&bt=1&bts=1&zu=http%3A//www.willselfdestruct.com/secure/submit
+Keep-Alive: timeout=5, max=98
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+3c3
+<html>
+<head><title>http://email.about.com/gi/dynamic/offsite.htm?zi=1/XJ&sdn=email&cdn=compute&tm=17&gps=101_1829_788_511&f=00&su=p284.9.336.ip_p504.1.336.ip_&tt=4&bt=1&bts=1&zu=http%3A//www.willselfdestruct.com/secure/submit</title></head>
+<frameset rows="55,*">
+<frame name="Top Frame" noresize src="" scrolling="no" marginheight="0" marginwidth="0">
+<frame name="Main" noresize src="http://email.about.com/gi/dynamic/offsite.htm?zi=1/XJ&sdn=email&cdn=compute&tm=17&gps=101_1829_788_511&f=00&su=p284.9.336.ip_p504.1.336.ip_&tt=4&bt=1&bts=1&zu=http%3A//www.willselfdestruct.com/secure/submit" scrolling="auto">
+<noframes>
+Sorry, your browser does not support frames.
+<a href="http://email.about.com/gi/dynamic/offsite.htm?zi=1/XJ&sdn=email&cdn=compute&tm=17&gps=101_1829_788_511&f=00&su=p284.9.336.ip_p504.1.336.ip_&tt=4&bt=1&bts=1&zu=http%3A//www.willselfdestruct.com/secure/submit">Take this link to main frame.</a>
+</noframes>
+</frameset>
+</html>
+
+0
+

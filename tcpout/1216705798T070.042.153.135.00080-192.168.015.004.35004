@@ -1,0 +1,137 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:50:22 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Set-Cookie: HumanClickKEY=1241033011856197585; path=/hc/15744040
+Set-Cookie: HumanClickACTIVE=1216705822746; expires=Wed, 23-Jul-2008 05:50:22 GMT; path=/
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:50:22 GMT
+Cache-Control: no-cache
+Content-Length: 821
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705822626-482", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "webServerOverride", "js_code": "if (lpMTagConfig.lpServer != 'sales.liveperson.net') { lpMTag.overrideLPServer('sales.liveperson.net',true); }"},{"code_id": "MTagDef", "js_code": "lpMTagConfig.oemName = 'LivePerson';lpMTagConfig.poweredByURL = 'http://www.liveperson.com/ref/lppb.asp';lpMTagConfig.servlet = 'hc/';lpMTagConfig.appletsDirectory = 'applets/v7.8';lpMTagConfig.charSet = 'ISO-8859-1';lpMTagConfig.language = 'us';lpMTagConfig.credit = 'powered';lpMTagConfig.logoDir = 'icon/lp';lpMTagConfig.useFirstParty = false;lpMTagConfig.lpUseSecureCookies =false;lpMTagConfig.lpUseSessionCookies=false;lpMTagConfig.cobrowseEnabled=true;lpMTagConfig.lpSendCookies=true;lpConnLib.postDeleteIfrDelay=3;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:50:23 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Set-Cookie: HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; expires=Wed, 22-Jul-2009 05:50:22 GMT; path=/hc/15744040
+Set-Cookie: HumanClickKEY=1241033011856197585; path=/hc/15744040
+Set-Cookie: HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; expires=Wed, 22-Jul-2009 05:50:22 GMT; path=/hc/15744040
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:50:22 GMT
+Cache-Control: no-cache
+Content-Length: 182
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705822849-1000", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:50:23 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:50:23 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705823271-246", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:50:33 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:50:33 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705833393-652", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:50:44 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:50:43 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705843781-106", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:50:54 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:50:54 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705854158-451", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:51:07 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Set-Cookie: HumanClickACTIVE=1216705867678; expires=Wed, 23-Jul-2008 05:51:07 GMT; path=/
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:51:07 GMT
+Cache-Control: no-cache
+Content-Length: 821
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705867774-964", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "webServerOverride", "js_code": "if (lpMTagConfig.lpServer != 'sales.liveperson.net') { lpMTag.overrideLPServer('sales.liveperson.net',true); }"},{"code_id": "MTagDef", "js_code": "lpMTagConfig.oemName = 'LivePerson';lpMTagConfig.poweredByURL = 'http://www.liveperson.com/ref/lppb.asp';lpMTagConfig.servlet = 'hc/';lpMTagConfig.appletsDirectory = 'applets/v7.8';lpMTagConfig.charSet = 'ISO-8859-1';lpMTagConfig.language = 'us';lpMTagConfig.credit = 'powered';lpMTagConfig.logoDir = 'icon/lp';lpMTagConfig.useFirstParty = false;lpMTagConfig.lpUseSecureCookies =false;lpMTagConfig.lpUseSessionCookies=false;lpMTagConfig.cobrowseEnabled=true;lpMTagConfig.lpSendCookies=true;lpConnLib.postDeleteIfrDelay=3;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:51:07 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:51:07 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705867883-325", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:51:07 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:51:07 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705868012-158", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:51:18 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:51:18 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705878135-140", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:51:28 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:51:28 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705888500-911", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:51:39 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:51:39 GMT
+Cache-Control: no-cache
+Content-Length: 181
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705898907-252", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:51:49 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="NON BUS INT NAV COM ADM CON CUR IVA IVD OTP PSA PSD TEL SAM"
+Content-Type: application/x-javascript
+Accept-Ranges: bytes
+Last-Modified: Tue, 22 Jul 2008 05:51:49 GMT
+Cache-Control: no-cache
+Content-Length: 180
+
+lpConnLib.Process({"ResultSet": {"lpCallId":"1216705909280-56", "lpCallConfirm":"","lpJS_Execute":[{"code_id": "INPAGE-DELAY-10", "js_code": "lpMTag.lpInPageRequestDelay=10;"}]}});

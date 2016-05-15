@@ -1,0 +1,5623 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+	
+  
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML DIR="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+
+
+
+
+
+	<script src="http://images3.ichotelsgroup.com/js/layers_and_rollovers.js" type="text/javascript"></script>
+
+
+	<script src="http://images3.ichotelsgroup.com/js/hd2.js" type="text/javascript"></script>
+
+
+	<script src="http://images3.ichotelsgroup.com/js/prototype.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+<!--
+function ajaxPopup(linkElement, funcName){
+	function initXMLHR(url)
+	{
+	  var requester;
+	  try
+	  {
+	    requester = new XMLHttpRequest();
+	  }
+	  catch (error)
+	  {
+	    try
+	    {
+	      requester = new ActiveXObject("Microsoft.XMLHTTP");
+	    }
+	    catch (error)
+	    {
+	      requester = null;
+	    }
+	  }
+	
+	  if (requester != null)
+	  {
+	    requester.onreadystatechange = function()
+	    {
+	      if (requester.readyState == 4)
+	      {
+	        if (requester.status == 200 || requester.status == 304)
+	        {
+	          success(requester);
+	        }
+	        else
+	        {
+	          failure(requester);
+	        }
+	      }
+	
+	      return true;
+	    };
+	
+	    requester.open("GET", url);
+	    requester.send(null);
+	  }
+	  else
+	  {
+	    return false;
+	  }
+	
+	  return true;
+	}
+	
+	function success(requester)
+	{
+	  var linkContent = requester.responseText;	
+	  
+	  displayPopupWithContent(linkTitle, funcName, linkTitle, linkContent, 550, 300, 'Packages');
+	  var popupTitleDiv = $('hdPopupTitle');
+	  popupTitleDiv.innerHTML = 'InterContinental Hotels Group';
+	
+	  return true;
+	}
+	
+	function failure(requester)
+	{
+	  alert("The XMLHttpRequest failed with status code: " + requester.status);
+	
+	  return true;
+	}
+	
+	var linkTitle = linkElement.getAttribute("title");
+	var linkHREF = linkElement.getAttribute("href");
+	
+	initXMLHR(linkHREF);
+}
+function ANRPopup(content, funcName){
+	var linkTitle = "AverageNightlyRate";
+	var linkContent = content;
+	
+	displayPopupWithContent(linkTitle, funcName, linkTitle, linkContent, 550, 300, 'Packages');
+	var popupTitleDiv = $('hdPopupTitle');
+	popupTitleDiv.innerHTML = 'InterContinental Hotels Group';
+}
+//-->
+</script>
+
+
+
+	
+	<script language="javascript" type="text/javascript">
+	<!--
+
+		
+		function openCalendar()
+		{
+		  var urlCal = '/h/d/hi/1/en/calendar?returnFun=newDate&getFun=getDate&secure=false';
+			if(navigator.userAgent.indexOf("AOL 6.0") != -1 || navigator.userAgent.indexOf("AOL 5.0") != -1)
+			{
+					newWin = window.open(urlCal,'HI', 'DEPENDANT=YES,WIDTH=225,HEIGHT=230,TITLEBAR=YES,STATUS=YES,MENUBAR=NO,SCROLLBARS=NO,TOP=0,LEFT=0');
+			}
+			else
+			{
+		    	var topPos = (screen.availHeight/2)-115;
+			    var leftPos = (screen.availWidth/2)-105;
+			    newWin = window.open(urlCal,'cal','top=' + topPos + ',left=' + leftPos + ',dependent=yes,width=225,height=230,screenX=' + leftPos + ',screenY=' + topPos + ',titlebar=yes,status=yes');
+		  }
+			
+			if ( null != newWin )
+			{
+				newWin.focus();
+			}
+		  return false;
+		}
+
+		function newDate(pDate)
+		{
+			var theForm = document.searchForm;
+			theForm.checkInMonth.selectedIndex = pDate.getMonth();
+			theForm.checkInDate.selectedIndex = pDate.getDate()-1;
+			for (var k=0; k<theForm.checkInYear.length;k++)
+			{
+				if (theForm.checkInYear[k].value == pDate.getFullYear())
+				{
+					theForm.checkInYear.selectedIndex = k;
+					break;
+				}
+			}
+		}
+		function getDate()
+		{
+			var theForm = document.searchForm;
+			var date = new Date();
+			date.setMonth(theForm.checkInMonth.selectedIndex);
+			date.setDate(theForm.checkInDate.selectedIndex+1);
+			date.setFullYear(theForm.checkInYear[theForm.checkInYear.selectedIndex].value);
+			return date;
+		}
+
+		function notifyMoreRooms(theBox)
+		{
+			if (theBox[theBox.selectedIndex].value == 9)
+			{
+				var msg = '';
+				msg = 'If you need to book more than 9 rooms, please call\nthe hotel directly, 1-800-MEETING, or visit\nwww.meetings.ichotelsgroup.com. Bookings\nfor more than 9 rooms by the same guest or group\nfrom this current page will not be honored.\n';
+
+			}
+		}
+
+	//-->
+	</script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>InterContinental Hotels Group  |  Select a Room</title>
+
+
+
+
+
+
+
+
+
+	
+		
+			<meta name="description" content="Holiday Inn Hotels & Resorts Hotels Official website. Best Rates Guaranteed for Holiday Inn Hotels & Resorts Hotels Online Reservations. ">									 
+		
+		
+			<meta name="keywords" content="Holiday Inn Hotels & Resorts  Hotels, Holiday Inn Hotels, Holiday Inn Family Suites Resort Hotels, Nickelodeon Family Suites by Holiday Inn Hotels, Holiday Inn Garden Court Hotels, Holiday Inn Select Hotels, lodging, accommodations, official site, hotel reservations, travel, discount hotels, london, new york, san francisco, miami, orlando, chicago, sydney, singapore, hong kong, extended stay, priority club, hotel rooms, city guides, hotel maps, business meetings, conference rooms, meeting space, family travel, trips, road trip, business hotel.">									 
+		
+	
+ 
+<link rel="stylesheet" type="text/css" media="all" href="/h/css/3077M/FF/nonsecure/all/hi/1/en/legacyStyles.css">
+
+	
+
+
+    <link rel="shortcut icon" href="http://images3.ichotelsgroup.com/favicon.ico">
+
+
+
+
+
+
+<!-- start /common/no_cache.jsp -->
+
+
+
+
+
+
+
+	
+		
+	
+				
+	
+	
+
+
+
+<!-- end /common/no_cache.jsp -->
+
+<meta name="WT.jsp" content="$Name: rates.jsp $">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+  jpath = "http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/misc/";
+  var dotImages=new Array()
+  for (i=1; i<=19; i++){
+    dotImages[i]=new Image();
+    if ( i < 10 ) {
+      dotImages[i].src = jpath + "pdots.Par.000" + i + ".Image.gif";
+    } else {
+      dotImages[i].src = jpath + "pdots.Par.00" + i + ".Image.gif";
+    }
+  }
+
+  var dotIndex = 1;
+  function animatedots() {
+    if (document.images) {
+      if (dotIndex==19) {
+        document.dots.src = eval('dotImages[dotIndex]' + '.src');
+        setTimeout("animatedots()",85);
+        dotIndex=1;
+      }
+      else {
+        document.dots.src = eval('dotImages[dotIndex]' + '.src');
+        setTimeout("animatedots()",85);
+        dotIndex++;
+      }
+    }
+  }
+
+  var html = '';
+  var logoImg = '';
+  var brand='hi';
+  var chinapay = false;
+
+     if (brand == "pc"){
+      logoImg ='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/pc/0/en/logo.Par.0002.Image.gif" border="0">';
+    }
+    else{
+      logoImg ='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/1/en/logo.Par.0002.Image.gif" border="0">';
+    }
+  var pslot = '	<table width="100%" border="0" cellpadding="0" cellspacing="1">		<tr><td valign="top" class="promoText">			<B>Lowest Internet Rate Guarantee<br></B>Every hotel reservation booked through our web site is guaranteed to have the lowest rate publicly available on the Internet.</td></tr></table>';
+  
+  html += '<span id="bg" name="bg" style="position:absolute; top:0; left:0; z-index:1;height:100%; width:750; visibility: hidden; background: #FFFFFF;"><\/span>';
+  html += '<span id="proc" name="proc" style="position:absolute; top:0; left:0; z-index:2;height:100%; width:100%; visibility: hidden; background: #FFFFFF">';
+  html += '<table cellspacing="0" cellpadding="0" border="0" height=100% width=100%><tr><td bgcolor=#FFFFFF align="center" valign="middle"><BR><BR><BR><BR><table cellspacing="0" cellpadding="0" border="0" width="450" height="100"><tr><td bgcolor=#FFFFFF align="center" valign="middle">';
+  html += logoImg;
+
+  html += '<\/td><td bgcolor=#FFFFFF align="center" valign="middle"><table cellspacing="0" cellpadding="0" border="0" width="200" height="60">';
+  html += '<tr><td><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/textimg.Par.0005.Image.gif" height="20" width="200" border="0"><\/td><\/tr>';
+  html += '<tr><td><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/misc/pdots.Par.0001.Image.gif" name="dots" height="20" width="200" border="0"><\/td><\/tr>';
+  //for China Pay Website
+  html += '<tr><td><div id="waitimageforchinapay"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/textimg.Par.0008.Image.gif" height="20" width="398" border="0"><\/div><div id="waitimageforrest"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/textimg.Par.0006.Image.gif" height="20" width="200" border="0"><\/div><\/td><\/tr><\/table>';
+  html += '<\/td><\/tr><tr><td align="center" valign="middle" colspan="2"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/misc.Par.0001.Image.gif"><\/td><\/tr><tr><td colspan="2"><br><\/td><tr><td valign="middle" bgcolor="#DEDOB9" colspan="2">';
+
+  html += pslot;
+  html += '<\/td><\/tr><\/table><\/td><\/tr><\/table><\/span>';
+
+  isNS4 = (document.layers) ? true : false;
+  isIE4 = (document.all && !document.getElementById) ? true : false;
+  isIE5 = (document.all && document.getElementById) ? true : false;
+  isNS6 = (!document.all && document.getElementById) ? true : false;
+
+  //write layers since we know browser is compatible;
+  if (isIE4 || isIE5 || isNS6)
+    document.write(html);
+
+  function showProcPage() {
+	var hotelDetail2 = "null";
+    if (isNS4){
+       return;
+    }
+    else {
+      if (isIE4) {
+        procLayer = document.all["proc"];
+        bgLayer = document.all["bg"];
+      }
+      else if (isIE5 || isNS6) {
+        procLayer = document.getElementById("proc");
+        bgLayer = document.getElementById("bg");
+      }
+      else{
+        return;
+      }
+    }
+    if(procLayer){
+      document.body.style.visibility = "hidden";
+      if(chinapay)
+      {
+          document.getElementById("waitimageforchinapay").style.display= 'block';
+          document.getElementById("waitimageforrest").style.display= 'none';
+
+      }else{
+          document.getElementById("waitimageforrest").style.display= 'block';
+          document.getElementById("waitimageforchinapay").style.display= 'none';
+      }
+		if	(hotelDetail2 != 'null') {
+			document.getElementById("hdMainContent").style.display = "none";
+		}
+		 if (document.getElementById('quickResState')){
+			document.getElementById('quickResState').style.visibility = "hidden";
+		}
+
+      eval ('procLayer.style.visibility = "visible"');
+
+      if (isNS6){
+        scrollTo(0,0);
+      }
+      else {
+        document.body.scrollTop = 0;
+      }
+
+      eval ('bgLayer.style.top = "0"');
+      eval ('bgLayer.style.height = "' + document.body.scrollHeight + '"');
+      eval ('bgLayer.style.visibility = "visible"');
+
+     }
+    animatedots();
+  }
+
+  /*************************************************
+   * Interstitial Page for brand switches.
+   ************************************************/
+  var interstitialHtml = '';
+  var logoRowImg ='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/footer.Par.0002.Image.gif" height="42" width="546" border="0">';
+  if(chinapay){
+       //for China Pay Website
+       var content ='i_processing_page.form.pleaseWaitForChinaPay';
+  }else{
+        var content ='Please wait one moment while we direct you to';
+  }
+  var leftLogo = '';
+  var processLogo ='';
+  var brands = new Array();
+  brands[0] = 'hi';  brands[1] = 'sl';   brands[2] = 'ex';  brands[3] = 'cp';
+  brands[4] = 'cw';  brands[5] = 'sb'; brands[6] = 'in';  brands[7] = 'ic';
+  brands[8] = 'ss';   brands[9] = 'fs'; brands[10] = '6c';
+  var colorSpan = "";
+  var mainpath = jpath.substring(0,jpath.indexOf('misc/'));
+  var footer = '';
+ if(brand==brands[0]){
+			//hi
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #006b3c;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/holi.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/holi.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/holi.Par.0001.Image.gif";
+        } else if (brand==brands[1]){
+			//sl
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #34737a;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/hisl.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/hisl.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/hisl.Par.0001.Image.gif";
+    	}  else if (brand==brands[2]){
+			//ex
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #425aa4;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/hiex.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/hiex.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/hiex.Par.0001.Image.gif";
+    	}  else if (brand==brands[3]){
+			//cp
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #70694e;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/hicp.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/hicp.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/hicp.Par.0001.Image.gif";
+    	} else if (brand==brands[4]){
+			//cw
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #003475;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/cdlw.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/cdlw.Par.0002.Image.gif" name="dots" height="9" width="189" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/cdlw.Par.0001.Image.gif";
+    	} else if (brand==brands[5]){
+			//sb
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #4c6a6e;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/stay.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/stay.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/stay.Par.0001.Image.gif";
+    	} else if (brand==brands[6]){
+			//in
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #2b2b71;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/indg.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/indg.Par.0002.Image.gif" name="dots" height="11" width="159" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/indg.Par.0001.Image.gif";
+    	} else if (brand==brands[7]){
+			//ic
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #393a36;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/icon.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/icon.Par.0002.Image.gif" name="dots" height="9" width="189" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/icon.Par.0001.Image.gif";
+    	} else if (brand==brands[8]){
+			//ss
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #a80069;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/hisr.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/hisr.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/hisr.Par.0001.Image.gif";
+    	} else if (brand==brands[9]){
+			//fs
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #2277cc;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/hifs.Par.0006.Image.gif" name="img1" height="76" width="120" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/hifs.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;';
+			footer = mainpath+"interstitial/hifs.Par.0001.Image.gif";
+        } else if (brand==brands[10]){
+			//6c
+			colorSpan = "<span style='font-family: Arial, Helvetica, Geneva, sans-serif;	font-size: 12px; color: #234578;' >";
+			leftLogo='<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/6c/0/cn/logo.Par.0001.Image.gif" name="img1" height="98" width="130" border="0">&nbsp;&nbsp;';
+		    processLogo = '<span style="position:relative; top:-35; left:0;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/interstitial/6c.Par.0002.Image.gif" name="dots" height="10" width="187" border="0"><\/span>&nbsp;&nbsp;'	;
+			footer = mainpath+"interstitial/6c.Par.0001.Image.gif";
+		}
+
+  interstitialHtml += '<span id="interstitialbg" name="interstitialbg" style="position:absolute; top:0; left:0; z-index:1;height:100%; width:750; visibility: hidden; background: #FFFFFF;"><\/span>';
+  interstitialHtml += '<span id="interstitialproc" name="interstitialproc" style="position:absolute; top:0; left:0; z-index:2;height:100%; width:100%; visibility: hidden; background: #FFFFFF">';
+  interstitialHtml += '<table cellspacing="0" cellpadding="0" border="0" height=100% width=100%><tr><td bgcolor=#FFFFFF align="center" valign="middle"><BR><BR><BR><BR>';
+  interstitialHtml += leftLogo ;
+  interstitialHtml += processLogo ;
+  interstitialHtml += ' $$RIGHTIMG$$ ';
+  interstitialHtml +=  '<BR><BR>';
+  interstitialHtml += colorSpan + ' <b>';
+  interstitialHtml += content;
+  interstitialHtml += ' $$BRAND$$<\/b><\/span><br><br><br><br>';
+  interstitialHtml += logoRowImg;
+  interstitialHtml += '<\/td><\/tr><tr>';
+  interstitialHtml += '<td colspan="2" height="149" background="' + footer + '" repeat="true">';
+  interstitialHtml += '<br>';
+  interstitialHtml += '<\/td><\/tr><\/table><\/span>';
+
+  //write layers since we know browser is compatible;
+  if (isIE4 || isIE5 || isNS6)
+  {
+
+	document.write(interstitialHtml);
+  }
+  function showInterstitialPage(brandName,brandCode) {
+  var rightLogo = '';
+    if (isNS4){
+       return;
+    }
+    else {
+      if (isIE4) {
+        interstitialProcLayer = document.all["interstitialproc"];
+        interstitialBgLayer = document.all["interstitialbg"];
+      }
+      else if (isIE5 || isNS6) {
+        interstitialProcLayer = document.getElementById("interstitialproc");
+        interstitialBgLayer = document.getElementById("interstitialbg");
+
+	  }
+      else{
+        return;
+      }
+   	}
+    if(interstitialProcLayer){
+    	var innerHtmlContent = interstitialProcLayer.innerHTML;
+		rightLogo = '<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/brand_logo/'+brandCode.toLowerCase()+'.Par.0006.Image.gif" name="img3" height="76" width="120" border="0">';
+		innerHtmlContent =innerHtmlContent.replace('$$RIGHTIMG$$',rightLogo);
+    	innerHtmlContent = innerHtmlContent.replace('$$BRAND$$',brandName);
+    	interstitialProcLayer.innerHTML = innerHtmlContent;
+      document.body.style.visibility = "hidden";
+
+      eval ('interstitialProcLayer.style.visibility = "visible"');
+
+      if (isNS6){
+        scrollTo(0,0);
+      }
+      else {
+        document.body.scrollTop = 0;
+      }
+
+      eval ('interstitialBgLayer.style.top = "0"');
+      eval ('interstitialBgLayer.style.height = "' + document.body.scrollHeight + '"');
+      eval ('interstitialBgLayer.style.visibility = "visible"');
+
+     }
+  }
+
+//-->
+</script>
+
+
+
+
+
+
+
+	  	
+<link rel="stylesheet" type="text/css" href="/h/css/3077M/FF/nonsecure/all/hi/1/en/reservation.css">
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+<!--
+_uacct = "UA-1237384-14";
+_udn="none";
+_uhash="off";
+_ulink=1;
+__utmSetVar('anonymous_hi_1_en');
+urchinTracker();
+_uff=0;
+_uacct = "UA-1237384-11";
+__utmSetVar('anonymous_hi_1_en');
+urchinTracker();
+//-->
+</script>
+
+		
+		
+		
+		
+	
+	
+
+
+
+</head>
+
+<body bgcolor="#FFFFFF" style="margin:0">
+
+    
+  	
+
+<!-- start /priorityclub/i_header.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+<!-- CQCONTENT: /dec/hi/1/en -->
+
+
+
+
+
+
+
+	
+		<meta name="WT.PC.login" content="Non-Member">
+	
+	
+
+
+	<table cellpadding="0" cellspacing="0" border="0" width="760">
+		<tr><td colspan="2"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="1" width="1" align="top"></td></tr>
+		<tr>
+			<td valign="top">
+				
+					
+					
+						<a href="http://www.ichotelsgroup.com/h/d/pc/1/en/home"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/pc/0/en/logo.Par.0005.Image.jpg" alt="Priority Club Rewards" border="0"><br></a>
+					
+				
+		 </td>
+			<td valign="top" width="100%">
+				
+					
+					
+					
+				
+					
+					
+						
+ 
+<!-- start /priorityclub/i_login.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+	function zeroPad(str,size){
+		size++;
+		for(var i=0; i <= (size-str.length); i++)
+			str = '0' + str;
+		return str;
+	}
+
+	// Pass in the form object from the pclub login
+	function validateAndSubmitLogin(theForm) {
+		var errMsg = '';
+		var pcnStr = theForm.login.value;
+		var pinStr = theForm.password.value;
+
+		if(theForm.login.value == '' || theForm.password.value == '') {
+			errMsg = errMsg + ' You must enter either an Email address or a Priority Club number and a PIN.\n';
+		}
+
+ 		if(pinStr != '') {
+			if(pinStr.length < 4)
+				errMsg = errMsg + " Priority Club Membership PIN must be 4 digits.\n";
+		}
+
+		if(errMsg != '') {
+			alert(errMsg);
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+
+	}
+
+//-->
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<form action="https://secure.ichotelsgroup.com/h/d/hi/1/en/loginm?secure=true" method="POST" onsubmit="return validateAndSubmitLogin(this);">
+		
+			
+			
+				
+					
+
+					   <input type="hidden" name="loginSuccessURL" value='/h/d/hi/1/en/rates/saccp?ias=y&errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=113869&secure=true'>
+
+					
+					
+				
+			
+		
+
+	<input type="hidden" name="loginErrorURL" value='/h/d/pc/1/en/login'>
+	<input type="hidden" name="secure" value="true">
+	<tr>
+		<td width="1" height="43" rowspan="3"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="43" width="1" border="0"></td>
+		<td height="21" valign="middle" class="login10" style="background-color: #285994">
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+				<tr>
+					<td bgcolor="#FFFFFF" width="1" height="21"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="21" width="1" border="0"></td>
+					
+					<td class="login10" style="background-color: #285994" height="21" valign="middle" align="left" width="22%" nowrap><LABEL for="pclubnumber">Email or Priority Club#</LABEL></td>
+					
+					    
+					        
+								<td class="login10" style="background-color: #285994" height="21" valign="middle" align="left" nowrap><input name="login" size="15" id="pclubnumber" type="text" maxlength="75" class="f10" tabindex="1" autocomplete="off"></td>
+							
+							
+						
+					
+					
+					<td class="login10" style="background-color: #285994" height="21" valign="middle" align="right" width="12%" nowrap>
+						<LABEL for="pclubpin">PIN#</LABEL></td>
+					<td class="login10" style="background-color: #285994" height="21" valign="top" align="left" nowrap><input name="password" id="pclubpin" size="2" maxlength="4" type="password" class="f10" tabindex="2"></td>
+					<td bgcolor="#FFFFFF" width="1" height="21"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="21" width="1" border="0"></td>
+					
+						
+							<td height="21" width="100"><input type="image" src="http://images3.ichotelsgroup.com/cq/etc/media_library/pc/0/en/buttons.Par.0002.Image.gif" alt="Log In"  tabindex="5"></td>
+						
+					
+				</tr>
+			</table>
+		</td>
+	</tr>
+	<tr><td width="100%" height="1"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="1" width="100%" border="0"></td></tr>
+	<tr>
+		<td valign="top" height="21" class="login10"  style="background-color: #285994">
+			<table width="100%" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					
+						
+						<td class="login10" style="background-color: #285994" height="21" width="150"><a href="https://secure.ichotelsgroup.com/h/d/pc/1/en/reg?secure=true&offerId=WBJHI&cm_re=pcr-_-hmpg-_-b"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/pc/0/en/buttons.Par.0001.Image.gif" alt="Join Now" height="21" width="150" border="0"></a></td>						
+					
+					
+					
+						<td class="login10" style="background-color: #285994" width="55" height="21" align="center" nowrap>
+							<a href="http://www.ichotelsgroup.com/h/d/pc/1/en/c/2/dec/pc/0/en/benefits.html?cm_re=pcr-_-hmpgtop-_-lrnmr-tp&cm_sp=pcr-_-lrnmr-_-hmpgtp" style="color:#ffffff;">Learn More</a>
+						</td>
+					
+					
+				<td width="1" height="21"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="21" width="1" border="0"></td>
+                    
+					<td class="login10" style="background-color: #285994" height="21" width="24" align="left" nowrap>
+					    <input type="checkbox" name="remember" id="dontremembercheckbox" value="false">
+					</td>
+					<td class="login10" style="background-color: #285994" height="21" align="left" valign="middle" nowrap><LABEL for="dontremembercheckbox">Don't remember me.</LABEL>
+					</td>
+					
+					
+					<td class="login10" style="background-color: #285994" width="175" height="21" align="right" nowrap>
+						
+						
+						<a href="http://www.ichotelsgroup.com/h/d/pc/1/en/c/2/dec/pc/0/en/profile.html" title="Forgot/Need PIN#?" style="color:#ffffff;">Forgot/Need PIN#?</a>&nbsp;
+						
+					</td>
+				</tr>
+			</table>
+	    </td>
+		</form>
+	</tr>
+</table>
+
+
+
+
+<!-- end /priorityclub/i_login.jsp -->
+
+					
+					
+				
+			</td>
+		</tr>
+	</table>
+
+
+
+
+
+
+
+
+<!-- end /priorityclub/i_header.jsp -->
+
+
+
+
+
+<!-- start /common/tracking/i_coremetrics_js.jsp -->
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/eluminate.js"></script> 
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/techprops.js"></script>
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/cmdatatagutils.js"></script> 
+			
+
+			
+			
+				
+				
+					
+					
+
+						<script language="javascript1.1" type="text/javascript">
+						<!--
+								cmSetProduction();
+						//-->
+						</script>
+
+
+					
+				
+				
+				
+			
+
+		
+	
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_js.jsp -->
+
+
+	
+	
+	
+	
+	
+	
+		
+			
+		
+		
+	
+	
+	
+	
+		
+		
+		
+			
+				
+				
+			
+			
+	
+		
+		
+		
+			
+				
+				
+			
+			
+	
+		
+		
+		
+			
+				
+				
+			
+			
+	
+		
+		
+		
+			
+				
+				
+			
+			
+	
+		
+		
+		
+			
+				
+				
+			
+			
+	
+		
+		
+		
+			
+				
+				
+			
+			
+	
+		
+		
+		
+			
+				
+				
+			
+			
+	
+	
+	
+		
+			
+<!-- start /common/i_coremetrics_rates.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+
+				
+				
+					
+						
+					
+					
+				
+
+				<!-- Tag Body -->
+
+				<script language="javascript1.1" type="text/javascript">
+				<!--
+					cmCreateHotelViewTag("SACCP", "(SACCP) SACRAMENTO-CAPITOL PLAZA", "hi/1/en", "HI", "hi", "1", "en", "95814", "SACRAMENTO", "CALIFORNIA", "United States", "tdbnidavr|tdbnidgtr|tdbnigcor|tdbnikbbb|tdbnikpcb|tdbnikpiz|tdbnijhd1|", "PCRFaceplate Split 2:90112887_OLDPC", "","99502222");
+
+				//-->
+				</script>
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_rates.jsp -->
+
+
+	
+<!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+					
+						<!-- Not running cmCreatePageviewTag function. -->
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+<table cellpadding="0" cellspacing="0" border="0" width="760">
+	<tr>
+		<td width="200" valign="top" >
+			<span style="padding-right: 6px;">
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+				
+					
+					
+					
+						
+						
+						
+							
+								
+									
+									
+											
+										
+										
+							    		
+							    			
+											
+                                        				<!-- HGP Logo Replacement Project - Appending "2" to the image name for Hi, EX and HIRT -->	
+                                        					
+                                        					
+											                                        						
+                                        						
+                                        						
+                                        					      	
+                                        						
+                                        						<!-- HGP Logo Replacement Project - Appending "2" to the image name for Hi, EX and HIRT -->
+
+	
+	
+	
+	     
+		     
+		     
+			
+			
+				<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/home">
+  				<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/1/en/logo.Par.0002.Image.gif" alt="Holiday Inn Hotels & Resorts" title="Holiday Inn Hotels & Resorts" border="0"></a>
+  			
+			
+			
+			
+		
+	
+
+
+<!-- HGP Logo Replacement Project end -->
+										
+										
+										
+                                        						
+                                        					
+                                        					
+										
+										
+									 <!-- HGP Logo Replacement Project end -->	
+										
+					
+										
+										
+										
+									
+								
+							
+
+							
+						
+
+
+					
+
+					
+					
+				
+
+
+
+
+
+
+<br></span>
+			<table width="200" cellspacing="0" cellpadding="3" border="0"bgcolor="#EAEAD5">
+				<tr>
+					<td>
+<!-- start /common/reservation/i_selected_hotel_info_left_nav.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+
+<!-- start /common/no_cache.jsp -->
+
+
+
+
+
+
+
+	
+		
+	
+				
+	
+	
+
+
+
+<!-- end /common/no_cache.jsp -->
+
+
+
+
+			<table width="100%" cellspacing="0" cellpadding="3" border="0"  bgcolor="#EAEAD5"  height="100%">
+			
+				<tr>
+					<td class="f14alt" colspan="2">Hotel Info</td>
+				</tr>
+				<tr>
+					<td class="f12" valign="top" colspan="2">
+						
+						
+							
+						
+						
+						
+                                    
+                                    
+                                   
+                                    
+                                           
+                                     
+                                    
+				    
+                                    <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/hotel/saccp?rpb=rate&crUrl=/h/d/hi/1/en/rates/saccp%3Fias%3Dy&ias=y" title="SACRAMENTO-CAPITOL PLAZA"><b>
+                                    
+                                    
+                                            SACRAMENTO-CAPITOL PLAZA</b></a><br>
+                                                <small>
+                                                    
+                                                        <i>Holiday Inn</i><br>
+                                                    
+                                                
+                                    
+								
+                        <BDO dir="ltr"> <span dir="LTR"> 300 J STREET<BR>SACRAMENTO, CA 95814<BR>UNITED STATES
+ </span> </BDO>  <br>
+
+
+						</small>
+					</td>
+				</tr>
+                <tr>
+                    <td colspan='2' class="f11" align='center'>
+
+					
+
+
+
+                      
+                         
+                         
+                         
+                         
+                         
+                            
+                         
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+        <form action="http://www.ichotelsgroup.com/h/d/hi/1/en/asearch" name="leftNavSearchForm" method="POST">
+    
+
+
+
+
+    
+    
+    
+        <input src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0024.Image.gif" type="image" alt="Change Hotel" border="0" width="200" height="24"/>
+    
+    
+	    
+	        <input name="city" type="hidden" value="SACRAMENTO">	        
+	    
+    
+    
+     
+     
+     	  
+     	   
+     	   
+     	  	
+	 		<input name="serviceAreaCode" type="hidden" value="SAC">
+     	   	
+     	   
+     
+    
+  
+       
+    
+        
+            <input name="stateId" type="hidden" value="CA">
+        
+        
+            <input name="countryId" type="hidden" value="0001">
+        
+    
+    
+        <input name="checkInMonth" type="hidden" value="9">
+        <input name="checkInDate" type="hidden" value="10">
+        <input name="checkInYear" type="hidden" value="2008">
+    
+    <input name="numberOfNights" type="hidden" value="1">
+    <input name="numberOfAdults" type="hidden" value="2">
+    <input name="numberOfChildren" type="hidden" value="3">
+    <input name="numberOfRooms" type="hidden" value="2">
+	
+	
+
+    
+    
+        
+            <input name="iata" type="hidden" value="99502222">
+        
+    
+     
+      
+      
+      		
+      			<input name="rateTypeCodes" type="hidden" value="6CBARC">
+      		
+      		
+       
+      
+
+    
+    
+        <input name="roomTypePreference" type="hidden" value="TDB">
+    
+    
+    
+    <input name="smokingPreference" type="hidden" value="1">
+
+	
+	
+	<input name="errorURL" type="hidden" value="/h/d/hi/1/en/rates">
+    <input name="successURL" type="hidden" value="/h/d/hi/1/en/hotelsearchresults">
+    <input name="brandGroupCode" type="hidden" value="hi">
+    <input name="currentBrandId" type="hidden" value="HI" />
+    <input name="availabilitySearchSuccessURL" type="hidden" value="/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/rates/saccp">
+
+	
+
+    <input name="clarifyDestinationURL" type="hidden" value="/h/d/hi/1/en/hotelsearchclarify">
+    
+        <input name="searchGroupCodes" type="hidden" value="HI">
+    
+        <input name="searchGroupCodes" type="hidden" value="EX">
+    
+        <input name="searchGroupCodes" type="hidden" value="RS">
+    
+        <input name="searchGroupCodes" type="hidden" value="SL">
+    
+        <input name="searchGroupCodes" type="hidden" value="SS">
+    
+        <input name="searchGroupCodes" type="hidden" value="FS">
+    
+    <input name="rateGroupCode" type="hidden" value="hi">
+    <input name="favDest" type="hidden">
+    <input name="actionName" type="hidden" value="availabilitySearch">
+
+    
+    
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+                    </td>
+                </tr>
+		    
+            </table>
+            
+                
+ 
+ 
+
+
+
+
+<style>
+#smartbutton img { border: 0px; }
+</style>
+
+
+
+
+
+
+
+
+
+<meta name="WT.jsp" content="$Name: i_chat_pushtotalk.jsp $">
+
+
+
+<script language="javascript" type="text/javascript">
+<!--
+function cwaMeasurement() {
+
+ 
+  
+  
+  
+ <!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+					
+
+						cmCreatePageviewTag("CWA: rates|hi|1|en", "ManualPageView_CWA", "", "", "hi", "1", "en", "Anonymous", "", "PCRFaceplate Split 2:90112887_OLDPC", "99502222", "", "","");
+
+						
+						
+
+
+
+
+						
+
+					
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+}
+
+function twaMeasurement() {
+
+ 
+  
+  
+  
+ <!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+					
+
+						cmCreatePageviewTag("TWA: rates|hi|1|en", "ManualPageView_TWA", "", "", "hi", "1", "en", "Anonymous", "", "PCRFaceplate Split 2:90112887_OLDPC", "99502222", "", "","");
+
+						
+						
+
+
+
+
+						
+
+					
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+}
+
+function emaMeasurement() {
+
+ 
+  
+  
+  
+ <!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+					
+
+						cmCreatePageviewTag("EMA: rates|hi|1|en", "ManualPageView_EMA", "", "", "hi", "1", "en", "Anonymous", "", "PCRFaceplate Split 2:90112887_OLDPC", "99502222", "", "","");
+
+						
+						
+
+
+
+
+						
+
+					
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+}
+
+// IF AGENTS ARE AVAILABLE:
+function agents_available() {
+
+
+document.getElementById('smartbutton').innerHTML = '<A HREF="" onClick="window.open(\'http://www.ichotelsgroup.com/h/d/hi/1/en/chatcustomer?hotelName=SACRAMENTO-CAPITOL PLAZA&pageId=rates\',\'custclient\',\'width=500,height=320,scrollbars=0\');cwaMeasurement();return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/brbt.Par.0002.Image.gif" alt="Click here to start a chat session with a reservations agent"></A>';
+if (document.getElementById('i_top_status_faceplateInt')) { document.getElementById('i_top_status_faceplateInt').style.visibility = 'visible'; } 
+if (document.getElementById('i_top_status_faceplate_content')) { document.getElementById('i_top_status_faceplate_content').style.visibility = 'visible'; } 
+
+//Next line seems to screw up styles. When removed it works fine. 
+//if (document.getElementById('leftNavInt')) { 
+//document.getElementById('leftNavInt').style.height = (document.getElementById('rightNavIntColumn').offsetHeight + "px"); }
+
+var hdChatTalkButtons = document.getElementById('hdChatTalkButtons');
+if (hdChatTalkButtons) {
+   hdChatTalkButtons.style.display='block';
+   hdChatTalkButtons.style.visibility='visible';
+   hdChatTalkButtons.style.backgroundColor='#FFF';
+   hdChatTalkButtons.style.paddingTop='10px';
+   hdChatTalkButtons.style.paddingBottom='10px';
+}
+return true;
+}
+
+// IF AGENTS ARE NOT AVAILABLE:
+function agents_not_available() {
+document.getElementById('smartbutton').innerHTML = '<A HREF="" onClick="window.open(&#039;https://admin.instantservice.com/links/5768/15020&#039;, &#039;custclient&#039;, &#039;width=500,height=320&#039;); emaMeasurement();return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/textimg/phnu.Par.0003.Image.gif" alt="Click here to email a reservations agent" border="0"></A>';
+return true;
+}
+//-->
+</script>
+
+
+
+
+<!-- start /common/tracking/i_coremetrics_js.jsp -->
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/eluminate.js"></script> 
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/techprops.js"></script>
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/cmdatatagutils.js"></script> 
+			
+
+			
+			
+				
+				
+					
+					
+
+						<script language="javascript1.1" type="text/javascript">
+						<!--
+								cmSetProduction();
+						//-->
+						</script>
+
+
+					
+				
+				
+				
+			
+
+		
+	
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_js.jsp -->
+
+
+
+<div id="chatTalkButtons">
+	<table>
+		
+		<tr><td align="center"><script language="JavaScript">document.write('<img src="https://admin.instantservice.com/resources/smartbutton/5768/' + '14545' + '/available.gif?'+Math.floor(Math.random()*10001)+'" style="width:0;height:0;visibility:hidden;position:relative;" onLoad="agents_available()" >');</script><div id="smartbutton"></div></td></tr>
+		
+		
+		
+		<INPUT TYPE="HIDDEN" NAME="Page" VALUE="rates" >
+    <INPUT TYPE="HIDDEN" NAME="City" VALUE="">
+    <INPUT TYPE="HIDDEN" NAME="State" VALUE="" >
+    <INPUT TYPE="HIDDEN" NAME="Country" VALUE="UNITED STATES" >
+    <INPUT TYPE="HIDDEN" NAME="Hotel" VALUE="SACRAMENTO-CAPITOL PLAZA" >
+    <INPUT TYPE="HIDDEN" NAME="ArrivalDate" VALUE="10/10/2008" >
+    <INPUT TYPE="HIDDEN" NAME="DepartureDate" VALUE="10/11/2008" >
+    <INPUT TYPE="HIDDEN" NAME="Rooms" VALUE="2" >
+    <INPUT TYPE="HIDDEN" NAME="Adults" VALUE="2" >
+    <INPUT TYPE="HIDDEN" NAME="Children" VALUE="3" >
+    <INPUT TYPE="HIDDEN" NAME="PriorityClubNumber" VALUE="" >
+    <INPUT TYPE="HIDDEN" NAME="PriorityClubMemberLevel" VALUE="" >
+    <INPUT TYPE="HIDDEN" NAME="System" VALUE="SunOS 5.10" >
+    <INPUT TYPE="HIDDEN" NAME="Browser" VALUE="">
+		
+                   </table>
+</div>
+
+
+
+
+
+
+
+
+
+		
+            <table width="100%" cellspacing="0" cellpadding="3" border="0"  bgcolor="#EAEAD5"  height="100%">
+				<tr>
+					<td class="f14alt" colspan="2">Travel Dates</td>
+				</tr>
+				
+					
+				<tr>
+					<td class="f11">Arrival:</td>
+					<td class="f11"><b>Fri 10 Oct 2008
+</b></td>
+				</tr>
+				<tr>
+					<td class="f11">Departure:</td>
+					<td class="f11"><b>Sat 11 Oct 2008
+ </b></td>
+				</tr>
+				<tr>
+					<td class="f11">Nights:</td>
+					<td class="f11"><b>1</b></td>
+				</tr>
+					
+				
+
+			</table>
+
+
+
+
+
+
+
+
+<!-- end /common/reservation/i_selected_hotel_info_left_nav.jsp --></td>
+				</tr>
+				<tr>
+					<td class="f14alt"><br>Change Your Current Selections</td>
+				</tr>
+				<tr>
+					<td>
+						<style type="text/css">
+#rateselect
+{
+width: 150px;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- i_change_selections_goto_rates.jsp -->
+
+
+
+
+
+
+
+    
+
+
+
+
+
+	<SCRIPT LANGUAGE="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/calendar_utils.js"></SCRIPT>
+
+
+
+	<SCRIPT LANGUAGE="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/priorityclubcoremetrics.js"></SCRIPT>
+
+
+
+
+    <form action="http://www.ichotelsgroup.com/h/d/hi/1/en/asearch" name="searchForm" method="POST" onsubmit="showProcPage(); callRoomPreferenceCoremetrics(searchForm, 'AccessibleRoomPreference');">
+        
+	    
+		
+		
+		
+			 
+
+			
+				<input name="errorURL" type="hidden" value="/h/d/hi/1/en/rates/saccp&rateCode=null&viewHotelPackagesFlag=false">
+            
+				<input name="successURL" type="hidden" value="/h/d/hi/1/en/rates/saccp?ias=y&packageRatesFlag=null&rateCode=null&viewHotelPackagesFlag=false"/>
+            
+				<input name="clarifyDestinationURL" type="hidden" value="/h/d/hi/1/en/hotelsearchclarify?packageRatesFlag=null&rateCode=null&viewHotelPackagesFlag=false"/>
+            
+				<input name="availabilitySearchSuccessURL" type="hidden" value="/h/d/hi/1/en/rates/saccp?ias=y&packageRatesFlag=null&errorURL=/h/d/hi/1/en/rates/saccp&fromMForm=true&rateCode=null&viewHotelPackagesFlag=false"/>
+			 
+		
+
+			
+	
+	
+	
+
+            <input name="resetAdditionalRequirements" type="hidden" value="true">
+            <input name="currentBrandId" type="hidden" value="HI" />
+            <input name="hotelCode" type="hidden" value="saccp" />
+			
+            
+                    
+            
+
+            <input name="rateGroupCode" type="hidden" value="hi">
+            <input name="brandGroupCode" type="hidden" value="hi">
+
+
+	
+            
+                    <input name="city" type="hidden" value="SACRAMENTO">
+            
+            
+                    		<input name="stateId" type="hidden" value="CA">
+            
+            
+                   <input name="countryId" type="hidden" value="0001">
+            
+        
+        
+         
+		 
+	 
+	
+		 
+			<input type="hidden" name="iata" value="99502222">
+		 
+	
+	
+		 
+	
+	      
+	  <input name="numOfNights" type="hidden" value="1">
+	
+                    <table width='100%' border="0" cellpadding="0" cellspacing="0" >
+               <tr valign="bottom"> 
+                                            <label for="checkInDate"><td class="f10" colspan="2">Check-In Date:</td></label>
+                                    </tr>
+                                    <tr valign="top"> 
+                                   <td class="f11"nowrap>
+									   
+											
+													<select id="checkInDate" name="checkInDate" class="f11" onchange='javascript:populateCheckOut(searchForm)'>
+													
+															<option value="-1" ></option>
+													
+															<option value="1" >1</option>
+													
+															<option value="2" >2</option>
+													
+															<option value="3" >3</option>
+													
+															<option value="4" >4</option>
+													
+															<option value="5" >5</option>
+													
+															<option value="6" >6</option>
+													
+															<option value="7" >7</option>
+													
+															<option value="8" >8</option>
+													
+															<option value="9" >9</option>
+													
+															<option value="10" SELECTED>10</option>
+													
+															<option value="11" >11</option>
+													
+															<option value="12" >12</option>
+													
+															<option value="13" >13</option>
+													
+															<option value="14" >14</option>
+													
+															<option value="15" >15</option>
+													
+															<option value="16" >16</option>
+													
+															<option value="17" >17</option>
+													
+															<option value="18" >18</option>
+													
+															<option value="19" >19</option>
+													
+															<option value="20" >20</option>
+													
+															<option value="21" >21</option>
+													
+															<option value="22" >22</option>
+													
+															<option value="23" >23</option>
+													
+															<option value="24" >24</option>
+													
+															<option value="25" >25</option>
+													
+															<option value="26" >26</option>
+													
+															<option value="27" >27</option>
+													
+															<option value="28" >28</option>
+													
+															<option value="29" >29</option>
+													
+															<option value="30" >30</option>
+													
+															<option value="31" >31</option>
+														
+                                                    </select>
+								                   <select name="checkInMonthYear" class="f11" onchange='javascript:populateCheckOut(searchForm)'>
+                                                            
+                                                                    <option value="-1" ></option>
+                                                            
+                                                                    <option value="62008" >July 2008</option>
+                                                            
+                                                                    <option value="72008" >August 2008</option>
+                                                            
+                                                                    <option value="82008" >September 2008</option>
+                                                            
+                                                                    <option value="92008" SELECTED>October 2008</option>
+                                                            
+                                                                    <option value="102008" >November 2008</option>
+                                                            
+                                                                    <option value="112008" >December 2008</option>
+                                                            
+                                                                    <option value="02009" >January 2009</option>
+                                                            
+                                                                    <option value="12009" >February 2009</option>
+                                                            
+                                                                    <option value="22009" >March 2009</option>
+                                                            
+                                                                    <option value="32009" >April 2009</option>
+                                                            
+                                                                    <option value="42009" >May 2009</option>
+                                                            
+                                                                    <option value="52009" >June 2009</option>
+                                                            
+                                                                    <option value="62009" >July 2009</option>
+                                                            
+                                                    </select>
+											
+											
+										
+                                            </td>
+                                  <td  valign="bottom">	
+                                                      
+                                                              <a onclick="openCalendarCheckIn(searchForm, 'hi', '1', 'en', 'false'); return false;" href="#"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/calendar.Par.0003.Image.gif" alt="Calendar" name="Calendar" align="top" border="0"></a>
+                                                      
+                                            </td>
+                                    </tr>
+                                    <tr valign="bottom">
+                                      <label for="checkOutDate"><td class="f10" colspan="2">Check-Out Date:</td></label>
+                                    </tr>
+                                    <tr>
+                            <!-- The check out fields  -->
+                            <td class="f11" valign='top' nowrap>
+							
+											
+												  <select id="checkOutDate" name="checkOutDate" class="f11">
+															
+																	<option value="-1" ></option>
+															
+																	<option value="1" >1</option>
+															
+																	<option value="2" >2</option>
+															
+																	<option value="3" >3</option>
+															
+																	<option value="4" >4</option>
+															
+																	<option value="5" >5</option>
+															
+																	<option value="6" >6</option>
+															
+																	<option value="7" >7</option>
+															
+																	<option value="8" >8</option>
+															
+																	<option value="9" >9</option>
+															
+																	<option value="10" >10</option>
+															
+																	<option value="11" SELECTED>11</option>
+															
+																	<option value="12" >12</option>
+															
+																	<option value="13" >13</option>
+															
+																	<option value="14" >14</option>
+															
+																	<option value="15" >15</option>
+															
+																	<option value="16" >16</option>
+															
+																	<option value="17" >17</option>
+															
+																	<option value="18" >18</option>
+															
+																	<option value="19" >19</option>
+															
+																	<option value="20" >20</option>
+															
+																	<option value="21" >21</option>
+															
+																	<option value="22" >22</option>
+															
+																	<option value="23" >23</option>
+															
+																	<option value="24" >24</option>
+															
+																	<option value="25" >25</option>
+															
+																	<option value="26" >26</option>
+															
+																	<option value="27" >27</option>
+															
+																	<option value="28" >28</option>
+															
+																	<option value="29" >29</option>
+															
+																	<option value="30" >30</option>
+															
+																	<option value="31" >31</option>
+															
+												  </select>
+												 <select name="checkOutMonthYear" class="f11">
+																			
+																					<option value="-1" ></option>
+																			
+																					<option value="62008" >July 2008</option>
+																			
+																					<option value="72008" >August 2008</option>
+																			
+																					<option value="82008" >September 2008</option>
+																			
+																					<option value="92008" SELECTED>October 2008</option>
+																			
+																					<option value="102008" >November 2008</option>
+																			
+																					<option value="112008" >December 2008</option>
+																			
+																					<option value="02009" >January 2009</option>
+																			
+																					<option value="12009" >February 2009</option>
+																			
+																					<option value="22009" >March 2009</option>
+																			
+																					<option value="32009" >April 2009</option>
+																			
+																					<option value="42009" >May 2009</option>
+																			
+																					<option value="52009" >June 2009</option>
+																			
+																					<option value="62009" >July 2009</option>
+																			
+												  </select>
+											
+											
+							
+
+                                    </td>
+                                    <td rowspan="2" valign="bottom">	
+                                            
+                                                    <a onclick="openCalendarCheckOut(searchForm, 'hi', '1', 'en', 'false'); return false;" href="#"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/calendar.Par.0003.Image.gif" alt="Calendar" name="Calendar" align="top" border="0"></a>
+                                            
+                                    </td>
+                                    </tr>
+                            </table>
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                            <tr>
+                                                    <td class="f10" width="6" rowspan="3"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="1" width="6"></td>
+                                                    <label for="adults"><td class="f10" width="75" valign="bottom">Adult(s):</td></label>
+                                                    <label for="children"><td class="f10" width="75" valign="bottom">Child(ren):</td></label>
+                                                    <label for="rooms"><td class="f10" width="75" valign="bottom">Room(s):</td></label>
+                                                    <td class="f10" rowspan="2"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="1" width="15"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="f10">
+                                                     <select id="adults" name="numberOfAdults" class="f11">
+                                                        
+                                                                     <OPTION VALUE="1" >1</OPTION><OPTION VALUE="2" SELECTED>2</OPTION><OPTION VALUE="3" >3</OPTION><OPTION VALUE="4" >4</OPTION><OPTION VALUE="5" >5</OPTION><OPTION VALUE="6" >6</OPTION><OPTION VALUE="7" >7</OPTION><OPTION VALUE="8" >8</OPTION><OPTION VALUE="9" >9</OPTION><OPTION VALUE="10" >10</OPTION><OPTION VALUE="11" >11</OPTION><OPTION VALUE="12" >12</OPTION><OPTION VALUE="13" >13</OPTION><OPTION VALUE="14" >14</OPTION><OPTION VALUE="15" >15</OPTION><OPTION VALUE="16" >16</OPTION><OPTION VALUE="17" >17</OPTION><OPTION VALUE="18" >18</OPTION><OPTION VALUE="19" >19</OPTION><OPTION VALUE="20" >20</OPTION>
+                                                         
+                                                    </select>
+                                                </td>
+                                                <td class="f10">
+                                                    <select id="children" name="numberOfChildren" class="f11">
+                                                        
+                                                            <OPTION VALUE="0" >0</OPTION><OPTION VALUE="1" >1</OPTION><OPTION VALUE="2" >2</OPTION><OPTION VALUE="3" SELECTED>3</OPTION><OPTION VALUE="4" >4</OPTION><OPTION VALUE="5" >5</OPTION><OPTION VALUE="6" >6</OPTION><OPTION VALUE="7" >7</OPTION><OPTION VALUE="8" >8</OPTION><OPTION VALUE="9" >9</OPTION><OPTION VALUE="10" >10</OPTION><OPTION VALUE="11" >11</OPTION><OPTION VALUE="12" >12</OPTION><OPTION VALUE="13" >13</OPTION><OPTION VALUE="14" >14</OPTION><OPTION VALUE="15" >15</OPTION><OPTION VALUE="16" >16</OPTION><OPTION VALUE="17" >17</OPTION><OPTION VALUE="18" >18</OPTION><OPTION VALUE="19" >19</OPTION><OPTION VALUE="20" >20</OPTION>
+                                                        
+                                                    </select>
+                                                </td>
+                                                <td class="f10">
+                                                    <select id="rooms" name="numberOfRooms" class="f11">
+                                                        
+                                                            <OPTION VALUE="1" >1</OPTION><OPTION VALUE="2" SELECTED>2</OPTION><OPTION VALUE="3" >3</OPTION><OPTION VALUE="4" >4</OPTION><OPTION VALUE="5" >5</OPTION><OPTION VALUE="6" >6</OPTION><OPTION VALUE="7" >7</OPTION><OPTION VALUE="8" >8</OPTION><OPTION VALUE="9" >9</OPTION>
+                                                        
+                                                    </select>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                    <td colspan="5" class="f10"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/common.Par.0001.Image.gif" height="6" width="1"></td>
+                                            </tr>
+                                            </table>
+                                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+	                                     		
+	                                            
+													
+														 
+														 
+															
+														 
+													
+		                                            
+	                                            			
+	                                            
+
+                                            
+                                                 
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    <tr>
+                                                        <label for="ratepref"><td class="f10">Rate Preference</td></label>
+                                                    </tr>
+                                                    <tr>
+                                                            <td class="f10">				
+                                                                    <select id="rateselect" name="rateTypeCodes" class="f11">
+                                                                    
+                                                                    
+                                                                         
+                                                                         
+                                                                            <option value="6CBARC" selected>&#34;Best Available** &#34;
+                                                                         
+                                                                    
+
+                                                                            
+                                                                                
+                                                                                
+                                                                                
+                                                                                    
+                                                                                            
+                                                                                            
+                                                                                                 
+                                                                                                <OPTION VALUE="IDAAA" >AAA/CAA Membership Rate*</OPTION><OPTION VALUE="IDENI" >Entertainment Card*</OPTION><OPTION VALUE="IDADC" >German Automobile Club*</OPTION><OPTION VALUE="IMCGV" >Government Canada*</OPTION><OPTION VALUE="IMGOV" >Government Rate*</OPTION><OPTION VALUE="IVANI" >Reward Nights*</OPTION><OPTION VALUE="IDARP" >Senior Discount*</OPTION><OPTION VALUE="IMSTI" >State Government-US*</OPTION>
+                                                                                                
+                                                                                            
+                                                                                    
+                                                                                
+                                                                               
+                                                                            
+                                                                            
+                                                                    </select>
+                                                            </td>
+                                                    </tr>
+                                                    
+                                                    
+                                                     
+                                                    
+                                                    
+                                                    
+                                                    
+
+                                                    <tr>
+                                                        <td class="f10">
+                                                            <label for="roompreference">Room Preference:</label>
+                                                        </td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td class="f10">
+                                                        	<select name="roomTypePreference" id="roompreference" class="f11" >
+<option value="3">No Preference</option>
+<option value="OSN">1 Bed</option>
+<option value="TEX">2 Beds Executive</option>
+<option value="TWC">2 Beds Wheelchair Accessible</option>
+<option value="TDB" selected="true">2 Double Beds</option>
+<option value="KNG">King Bed</option>
+<option value="KWC">King Bed Wheelchair Accessible</option>
+<option value="KEX">King Bed Executive</option>
+<option value="SUI">Suite</option>
+<option value="XWC">Suite Wheelchair Accessible</option>
+</select>	
+                                                        </td>
+                                                   </tr>
+                                                   <tr>
+														<td class="f10">
+															<label for="smokingpreference"><b>Smoking Preference:</b></label>
+														</td>
+													</tr>
+													<tr>
+														<td valign="top" >
+															<select id="smokingpreference" name="smokingPreference" class="f11">
+																
+																	
+																		
+																			
+																				
+																				
+																					
+																						
+																						
+																							<option value="3">No Preference</option>
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																				
+																					
+																						
+																							<option value="1" selected>Non-Smoking</option>
+																						
+																						
+																					
+																				
+																				
+																			
+																		
+																			
+																				
+																				
+																					
+																						
+																						
+																							<option value="2">Smoking</option>
+																						
+																					
+																				
+																				
+																			
+																		
+																	
+																
+															</select>
+															
+															</td>
+													</tr>
+                                                    <tr>
+                                                            <td nowrap class="f10" valign="bottom" align="center">
+                                                                    
+                                                                            
+                                                                            <input type="image" src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0029.Image.gif" alt="Modify Results" name="hotelDetailAvailabilitySearch" border="0" align="center" vspace="5">
+                                                                            
+                                                                    
+                                                            </td>
+                                                    </tr>
+                                            </table>
+
+                    <!-- End Quick Res -->
+    </form>
+
+
+
+
+
+
+
+
+
+
+					</td>
+				</tr>
+
+
+				<tr>
+					<td>
+							<table width="100%" cellpadding="0" cellspacing="0" align="center">	<tr><td colspan="2"><img src="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd.BookWithConfidencePar.Single.TopImage.jpg"></td></tr>	<tr>	<td class="bookWithConfidence">		<!--<a onClick="window.open('http://www.sixcontinentshotels.com/holiday-inn?_template=resguar.html','desc','width=300,height=300,scrollbars=yes,resizable=yes'); return false;" href="#">Online Reservation Guarantee</a><br />-->		<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/rate.html" title="Guaranteed to have the lowest rate publicly available on the Internet!" target="_blank" class="popup">See IHG's Lowest Internet Rate Guarantee</a><br>Book here first -- If you find a lower rate on another site for an IHG hotel, we'll beat it!<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/res.html" title="Online Reservation Guarantee" target="_blank" class="popup">Online Reservation Guarantee</a><br>Your room is guaranteed - or your first night is on us.<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/nbf.html" title="No Booking Fees" target="_blank" class="popup">No Booking Fees!</a><br>We do not charge any booking fees for making reservations directly with us.<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/pr.html" title="We take your privacy seriously" target="_blank" class="popup">Privacy</a><br>IHG takes your privacy seriously and works to protect you.<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/sec.html" title="All personal information you provide is encrypted and secure." target="_blank" class="popup">Security</a><br>All personal information you provide is encrypted and secure.<br>	</td></tr></table> 
+						
+
+
+
+<!-- start /common/i_languages.jsp -->
+
+<!-- end /common/i_languages.jsp -->
+					</td>
+				</tr>
+			</table>
+		</td>
+
+		<td width="540" valign="top" class="f11">
+			<!-- start main content section -->
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+	
+  
+
+
+
+
+
+	<script language="javascript" type="text/javascript">
+	<!--
+
+		
+		function openCalendar()
+		{
+		  var urlCal = '/h/d/hi/1/en/calendar?returnFun=newDate&getFun=getDate&secure=false';
+			if(navigator.userAgent.indexOf("AOL 6.0") != -1 || navigator.userAgent.indexOf("AOL 5.0") != -1)
+			{
+				newWin = window.open(urlCal,'HI', 'DEPENDANT=YES,WIDTH=225,HEIGHT=230,TITLEBAR=YES,STATUS=YES,MENUBAR=NO,SCROLLBARS=NO,TOP=0,LEFT=0');
+			}
+			else
+			{
+		   	var topPos = (screen.availHeight/2)-115;
+			  var leftPos = (screen.availWidth/2)-105;
+			  newWin = window.open(urlCal,'cal','top=' + topPos + ',left=' + leftPos + ',dependent=yes,width=225,height=230,screenX=' + leftPos + ',screenY=' + topPos + ',titlebar=yes,status=yes');
+		  }
+			
+			if ( null != newWin )
+			{
+				newWin.focus();
+			}
+		  return false;
+		}
+
+		function newDate(pDate)
+		{
+			var theForm = document.searchForm;
+			theForm.checkInMonth.selectedIndex = pDate.getMonth();
+			theForm.checkInDate.selectedIndex = pDate.getDate()-1;
+			for (var k=0; k<theForm.checkInYear.length;k++)
+			{
+				if (theForm.checkInYear[k].value == pDate.getFullYear())
+				{
+					theForm.checkInYear.selectedIndex = k;
+					break;
+				}
+			}
+		}
+		function getDate()
+		{
+			var theForm = document.searchForm;
+			var date = new Date();
+			date.setMonth(theForm.checkInMonth.selectedIndex);
+			date.setDate(theForm.checkInDate.selectedIndex+1);
+			date.setFullYear(theForm.checkInYear[theForm.checkInYear.selectedIndex].value);
+			return date;
+		}
+
+		function notifyMoreRooms(theBox)
+		{
+			if (theBox[theBox.selectedIndex].value == 9)
+			{
+				var msg = '';
+				msg = 'If you need to book more than 9 rooms, please call\nthe hotel directly, 1-800-MEETING, or visit\nwww.meetings.ichotelsgroup.com. Bookings\nfor more than 9 rooms by the same guest or group\nfrom this current page will not be honored.\n';
+
+			}
+		}
+
+	//-->
+	</script>
+
+
+			<table cellpadding="0" cellspacing="0" width="540" border="0">
+				<tr>
+					<td width="540" align="left" colspan="1">
+					
+						<akamai:ifEqual name="maxPersonsSearch" value="true">
+							
+						</akamai:ifEqual>
+					
+					
+                    
+                        
+                           <br />	                        
+                            
+                            
+                              <!-- InternalContent -->					<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/sh/rcond/avail.InternalContentPar.0001.InternalContentImage.jpg" alt="Pack more points into your stay - Look for the Bonus Points icon to get MORE points!" name="internalimg0001">					<!-- /InternalContent -->	
+                            
+                            
+
+
+                                        					
+                                        					
+										
+                                        						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+                                        						<tr>
+                                        							<td align="center">
+					                   
+                                        <table  border="0" cellpadding="0" cellspacing="0">
+                                        <tr>
+                                        <td align="center">
+                                            
+                                                <a onclick="window.open('/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/rate.html','epinfo','top=120,left=120,width=400,height=550,scrollbars=yes'); return false;" href="#">
+                                                             <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/textimg.Par.0007.Image.gif" border="0"></a>
+                                            
+								</td>
+							</tr>
+						</table>
+                       
+                    		</td>
+				</tr>
+				</table>
+			
+										
+                        
+
+                        
+                    
+					
+					</td>
+				</tr>
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr>
+		<td width="540" valign="top" align="right" colspan="2" >
+
+
+
+
+  
+        
+			
+            
+            
+			
+            
+            
+                <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0026.Image.gif">
+                <span style="vertical-align: 30%; font-family: Arial, Helvetica, Geneva, sans-serif; font-size: 11px;">
+                
+                
+                Book Online or Call:
+                
+		
+                
+	                   
+	                         
+	                        
+					<strong><BDO dir="ltr">1 888 HOLIDAY (888 465 4329)</BDO></strong>
+	                        
+	                    
+	        
+	        
+	        
+	        
+                
+                
+                
+                </span>
+            
+        
+
+        
+        </td>
+    </tr>
+
+
+
+
+
+
+ 
+				<tr>
+					<td valign="top" align="left" colspan="1">
+						<table width="535" border="0" cellpadding="3" cellspacing="0">
+				<tr valign="bottom">
+					
+					<td class="f18alt" valign="bottom"><br><nobr>
+                      
+                       
+                            
+                            
+                            
+                                     Reservation Desk
+                            
+                        
+                     
+						</nobr>
+					</td>
+					<td  align="right" class="f10" nowrap>
+						
+						
+							<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/home" title="Home" >Home</a> |
+											
+											
+										
+										
+										
+											
+											   
+											   
+											   
+											   		
+											   			
+											   			
+														
+											   				<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/rates" title="Start Over">Start Over</a> |
+														
+											   			
+											   		
+											   
+											   
+											
+											
+											
+															
+															
+															<a title="Help" onClick="window.open('http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/hi/1/en/cs/help/help.html','desc','width=350,height=550,scrollbars=yes,resizable=yes'); return false;" href="#">Help</a>
+						
+					</td>
+				</tr>
+				</table>
+				</td>
+				</tr>
+
+				<tr>
+					<td valign="top" align="left" colspan="1">
+						<table width="535" border="0" cellpadding="3" cellspacing="0">
+							<tr>
+								<td valign="top" height="25" width="535" align="left">
+									
+									
+									   
+									   
+										
+										
+
+
+
+
+
+
+
+
+
+
+
+	<table id="progress">
+		
+		   
+		   
+		   
+			<tr id="progress_bar">
+				<td class="progress_status"></td>
+				<td class="progress_status"></td>
+				<td class="progress_status"></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr id="progress_labels">
+				<td id="progress_step1">
+	                        
+	                            
+					Select: 
+	                            
+	                            
+		                
+				Preferences
+				</td>
+				<td id="progress_step2">Hotel</td>
+				<td id="progress_step3"><b>Room Rate</b></td>
+				<td id="progress_step4">Guest Information</td>
+				<td id="progress_step5">Confirmation</td>
+			</tr>												
+										
+
+		   
+		   
+		   
+
+		  
+
+
+	</table>
+
+
+
+
+
+
+
+			
+									   
+									
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			<tr>
+			<td>
+		              
+			<table cellpadding="3" cellspacing="0" border="0" width="100%">
+				<tr>
+					<td colspan="2">
+ 						
+						<table cellpadding="3" cellspacing="0" border="0" width="100%">
+                            
+							
+								
+                            
+							
+								<!--  roomResultType:1A,1B,1C,1D = 1D -->
+
+								
+								
+
+								
+
+								
+
+								
+									
+									<tr>
+										<td colspan="2">
+											<table cellpadding="0" cellspacing="0" border="0" width="100%">
+												<tr>
+													<td colspan="2">  <!-- InternalContent -->						<p><B>Rates are per room, per night. All rates shown are for the room only, unless otherwise stated or reserving an all-inclusive resort.</B></p>						<!-- /InternalContent -->	</td>
+												</tr>
+												
+												<tr>
+												 	<td class="f11" colspan="2" align="left">
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+												    		
+
+                              
+															
+
+														
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									
+												<tr>
+										<td>
+
+<!-- start /common/reservation/i_room_list.jsp -->
+
+
+
+
+
+
+
+
+
+	
+    	
+
+
+<script language="javascript">
+
+function averageNightRate(obj,locale){
+	positionedPopPanel(obj,'averageNightRate',locale);
+	}
+function positionedPopPanel(obj,popName,locale) {
+	var newX = findPosX(obj);
+	var newY = findPosY(obj);
+	var x = new getObj(popName);
+    x.style.display = 'block';
+	if(locale=='ar_AE' || locale=='iw_IL'){
+	    x.style.top = (newY + 20) + 'px';
+        x.style.left = (newX - 150) + 'px';
+	}
+ 	else{
+	    x.style.top = (newY + 20) + 'px';
+	    x.style.left = (newX + 100) + 'px';
+	}
+}
+function findPosX(obj) {
+	var curleft = 0;
+	if (obj.offsetParent) {
+		while (obj.offsetParent) {
+			curleft += obj.offsetLeft
+			obj = obj.offsetParent;
+		}
+	}
+	else if (obj.x)
+		curleft += obj.x;
+	return curleft;
+}
+function findPosY(obj) {
+	var curtop = 0;
+	if (obj.offsetParent) {
+		while (obj.offsetParent) {
+			curtop += obj.offsetTop
+			obj = obj.offsetParent;
+		}
+	}
+	else if (obj.y)
+		curtop += obj.y;
+	return curtop;
+}
+function getObj(name) {
+ if (document.getElementById) {
+	   this.obj = document.getElementById(name);
+	   this.style = document.getElementById(name).style;
+ }
+ else if (document.all) {
+	   this.obj = document.all[name];
+	   this.style = document.all[name].style;
+ }
+ else if (document.layers) {
+	   this.obj = document.layers[name];
+	   this.style = document.layers[name];
+  }
+}
+
+function showRolloverPopup(url, mktgRateTypeName,divId)
+{
+  return overlib( OLiframeContent(url, 450, 250, 'if2',1,'auto'), WIDTH,400, FGCOLOR,'white',TEXTPADDING,0,BORDER,2,CAPTIONPADDING, 4, CAPTION,mktgRateTypeName, MIDX,0,MIDY,0,STICKY,CLOSECLICK, REF,divId,REFX,'100',REFY,'-280',STATUS,'');
+}
+
+</script>
+
+<!-- Start /common/reservation/i_room_list_nodesc.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+    
+	
+
+   <SCRIPT LANGUAGE="JavaScript" type="text/JavaScript"
+           SRC="http://images3.ichotelsgroup.com/js/iframecontentmws.js"><!-- overLIB (c) Erik Bosrup --></SCRIPT>
+           
+
+ 
+     <SCRIPT LANGUAGE="JavaScript" type="text/JavaScript"
+           SRC="http://images3.ichotelsgroup.com/js/overlibmws.js"><!-- overLIB (c) Erik Bosrup --></SCRIPT>
+           
+             <SCRIPT LANGUAGE="JavaScript">
+             <!--
+                // Set default for overlib CLOSETEXT parameters, respectively
+                var ol_close     = '<img src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0031.Image.gif" border="0" alt="Close Window" ></img>';
+             //-->
+             </SCRIPT>
+          
+           
+      
+        
+          
+
+            
+              
+
+              
+              
+              
+
+				
+				
+				
+				
+					
+						
+				
+					
+						
+				
+					
+						
+				
+					
+						
+				
+					
+						
+				
+					
+						
+				
+					
+						
+				
+
+                
+
+				
+					
+                  
+					
+
+              
+              <div id="chinaPayText" class="f10">
+                  
+                      
+                  
+              </div>
+
+              
+					
+					
+
+					
+
+					
+
+						
+						
+
+						<div id="availablerates">
+						AVAILABLE ROOM RATES
+
+						
+
+						
+						
+						  
+						  
+						  
+						  
+
+						   
+
+						  
+
+						  
+						  
+						  <a id="viewRates" href="http://www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp?ias=y&searchStartFrom=null&fromSearchResult=yes&viewHotelPackagesFlag=true"
+						  title="View Hotel Packages">View Hotel Packages</a>
+						  
+						  
+
+						
+						
+						</div>
+					
+					
+					
+					
+					
+					
+					<div id="currency" class="f11">
+						
+						
+								
+								
+									  <a onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+								
+												CURRENCY CONVERTER</a>
+												
+						
+						
+					</div>
+
+
+                  
+                  
+                  
+
+                  
+                  <div id="rateRow" class="f10">
+
+					
+					
+
+                    
+                    
+
+					<hr class="divider" />
+
+					  <div id="rateName" class="qq_title_cell">
+				
+                                 
+                        <span style="float: left;">
+				 
+                        
+                          
+                        
+                       </span>
+
+                      
+							
+
+								
+								
+								 
+
+								 
+								  
+
+								
+								  
+								  
+								  
+								  
+								  
+								  
+								  								 
+                                  
+									  <a href="/h/d/hi/1/en/ratesinfotype/?hotelCode=saccp&planCode=idavr&roomCode=tdbnidavr&staySource=search&rateInfo=true" title="Advance Purchase" target="_blank" onclick="ajaxPopup(this, 'DivPopup_RateName'); return false;">
+											  <span class="qq_title_text_bold">Advance Purchase</span>
+											</a>
+								  
+									  
+								
+
+								 
+								
+
+
+                      
+
+
+                        <span class="qq_title_cell_vat">
+                        
+                        </span>
+
+                      
+                    
+
+                   
+                    
+			               
+                        
+                       
+                    
+                    
+                    </div>
+                    
+                    
+		    <table class="tblRoomTypes" cellpadding="3" cellspacing="0" border="0">
+                    
+
+                      <tbody class="roomTypeShell">
+                      <tr>
+							<td id="price">
+                        
+						
+						
+						
+                          <A class="tc_body" NAME="tdbnidavr">
+
+                            
+                            <span class="qq_text_bold">$109.00</span>&nbsp;
+							
+                            
+							 
+                            <a  onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en&exch=USD&value=109.0','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+                              <span class="qq_text_link_bold">USD</span></a>
+							
+							
+							
+
+							
+                            
+                          </A>
+                          <br>
+                          <span class="f11">
+                            
+
+ 
+ 
+								
+							  			 
+										 <a title="Average Nightly Rate" target="_blank" href="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd/anr_div.text.html" onclick="ANRPopup(document.getElementById('averageNightRate').innerHTML, 'DivPopup_AverageNightlyRate'); return false;">
+                              Average Nightly Rate
+                              </a>
+							  
+                             
+							
+
+
+                            
+                          </span>
+                        </td>
+
+                        
+                        <td id="roomTypeName">
+                          
+                            
+
+								  
+
+									  
+										
+										
+										
+										
+										
+										
+
+										
+										
+										  
+										
+
+										
+										 										
+										
+
+										
+										
+										<a onclick="ajaxPopup(this, 'DivPopup_RoomType'); return false;" title="2 DOUBLE BEDS NONSMOKING" target="_blank" href="/h/d/hi/1/en/rateroominfo/?hotelCode=saccp&planCode=idavr&roomCode=tdbnidavr&roomIndex=0&specialSeasonalNumberOfNights=1&staySource=search"><span class="qq_text_link">2 DOUBLE BEDS NONSMOKING</span></a>
+                                                                          
+										
+                                                                        
+                                      
+								   
+
+                            
+                          
+                        </td>
+
+                        
+                        <td id="smokingType">
+							
+								
+								
+                          
+                            
+                              <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0001.Image.gif" alt="Non-Smoking" height="20" width="20" hspace="10" vspace="2">
+                            
+                          
+
+                          
+	
+							
+                        </td>
+
+                        
+                        <td valign="top" style="width: 15px; padding-bottom: 8px; padding-left:0px; padding-right: 0px;">
+                        	
+                        </td>
+
+                        
+                        <td id="submitButton">
+                          
+                            
+                              
+							    
+								
+                                
+                                  <a href="https://secure.ichotelsgroup.com/h/d/hi/1/en/rc/saccp/idavr/tdbnidavr/DX/false/0?secure=true"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0014.Image.gif" alt="Reserve" name="reserve_1" height="24" width="63" align="top" border="0"></a>&nbsp;
+                                
+                                
+								
+                              
+                            
+                            
+                          
+                        </td>
+                      </tr>
+
+                      
+                        <tr>
+                          <td>&nbsp;</td>
+                          <td colspan="4" valign="top">
+                            
+                            
+                              
+                                <span class="f11">
+									
+									
+                                      Extra Person Charge:
+									  
+                            					  $10.00
+									  
+                                      
+                                        USD
+                                      
+                                      per extra Adult starting with the 2nd
+ adult.
+
+                                  
+                                    <a onclick="window.open('/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/sh/sr/charge.html','epinfo','top=120,left=120,width=400,height=300,scrollbars=yes'); return false;" href="#">More Info</a>
+                                  
+                                </span><br>
+                              
+                            
+
+                            
+                            
+                          </td>
+                          
+                          	</td>&nbsp;</td>
+                          
+                        </tr>
+                      
+
+                          
+                          </tbody>
+						  
+                    </table>
+
+
+
+
+
+					</div>
+                  
+                  <div id="rateRow" class="f10">
+
+					
+					
+
+                    
+                    
+						<br />
+                    
+
+					<hr class="divider" />
+
+					  <div id="rateName" class="qq_title_cell">
+				
+                                 
+                        <span style="float: left;">
+				 
+                        
+                          
+                        
+                       </span>
+
+                      
+							
+
+								
+								
+								 
+
+								 
+								  
+
+								
+								  
+								  
+								  
+								  
+								  
+								  
+								  								 
+                                  
+									  <a href="/h/d/hi/1/en/ratesinfotype/?hotelCode=saccp&planCode=idgtr&roomCode=tdbnidgtr&staySource=search&rateInfo=true" title="Great Rates" target="_blank" onclick="ajaxPopup(this, 'DivPopup_RateName'); return false;">
+											  <span class="qq_title_text_bold">Great Rates</span>
+											</a>
+								  
+									  
+								
+
+								 
+								
+
+
+                      
+
+
+                        <span class="qq_title_cell_vat">
+                        
+                        </span>
+
+                      
+                    
+
+                   
+                    
+			               
+                        
+                       
+                    
+                    
+                    </div>
+                    
+                    
+		    <table class="tblRoomTypes" cellpadding="3" cellspacing="0" border="0">
+                    
+
+                      <tbody class="roomTypeShell">
+                      <tr>
+							<td id="price">
+                        
+						
+						
+						
+                          <A class="tc_body" NAME="tdbnidgtr">
+
+                            
+                            <span class="qq_text_bold">$123.00</span>&nbsp;
+							
+                            
+							 
+                            <a  onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en&exch=USD&value=123.0','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+                              <span class="qq_text_link_bold">USD</span></a>
+							
+							
+							
+
+							
+                            
+                          </A>
+                          <br>
+                          <span class="f11">
+                            
+
+ 
+ 
+								
+							  			 
+										 <a title="Average Nightly Rate" target="_blank" href="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd/anr_div.text.html" onclick="ANRPopup(document.getElementById('averageNightRate').innerHTML, 'DivPopup_AverageNightlyRate'); return false;">
+                              Average Nightly Rate
+                              </a>
+							  
+                             
+							
+
+
+                            
+                          </span>
+                        </td>
+
+                        
+                        <td id="roomTypeName">
+                          
+                            
+
+								  
+
+									  
+										
+										
+										
+										
+										
+										
+
+										
+										
+										  
+										
+
+										
+										 										
+										
+
+										
+										
+										<a onclick="ajaxPopup(this, 'DivPopup_RoomType'); return false;" title="2 DOUBLE BEDS NONSMOKING" target="_blank" href="/h/d/hi/1/en/rateroominfo/?hotelCode=saccp&planCode=idgtr&roomCode=tdbnidgtr&roomIndex=0&specialSeasonalNumberOfNights=1&staySource=search"><span class="qq_text_link">2 DOUBLE BEDS NONSMOKING</span></a>
+                                                                          
+										
+                                                                        
+                                      
+								   
+
+                            
+                          
+                        </td>
+
+                        
+                        <td id="smokingType">
+							
+								
+								
+                          
+                            
+                              <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0001.Image.gif" alt="Non-Smoking" height="20" width="20" hspace="10" vspace="2">
+                            
+                          
+
+                          
+	
+							
+                        </td>
+
+                        
+                        <td valign="top" style="width: 15px; padding-bottom: 8px; padding-left:0px; padding-right: 0px;">
+                        	
+                        </td>
+
+                        
+                        <td id="submitButton">
+                          
+                            
+                              
+							    
+								
+                                
+                                  <a href="https://secure.ichotelsgroup.com/h/d/hi/1/en/rc/saccp/idgtr/tdbnidgtr/GX/false/1?secure=true"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0014.Image.gif" alt="Reserve" name="reserve_1" height="24" width="63" align="top" border="0"></a>&nbsp;
+                                
+                                
+								
+                              
+                            
+                            
+                          
+                        </td>
+                      </tr>
+
+                      
+
+                          
+                          </tbody>
+						  
+                    </table>
+
+
+
+
+
+					</div>
+                  
+                  <div id="rateRow" class="f10">
+
+					
+					
+
+                    
+                    
+						<br />
+                    
+
+					<hr class="divider" />
+
+					  <div id="rateName" class="qq_title_cell">
+				
+                                 
+                        <span style="float: left;">
+				 
+                        
+                          
+                        
+                       </span>
+
+                      
+							
+
+								
+								
+								 
+
+								 
+								  
+
+								
+								  
+								  
+								  
+								  
+								  
+								  
+								  								 
+                                  
+									  <a href="/h/d/hi/1/en/ratesinfotype/?hotelCode=saccp&planCode=igcor&roomCode=tdbnigcor&staySource=search&rateInfo=true" title="Best Flexible Rate" target="_blank" onclick="ajaxPopup(this, 'DivPopup_RateName'); return false;">
+											  <span class="qq_title_text_bold">Best Flexible Rate</span>
+											</a>
+								  
+									  
+								
+
+								 
+								
+
+
+                      
+
+
+                        <span class="qq_title_cell_vat">
+                        
+                        </span>
+
+                      
+                    
+
+                   
+                    
+			               
+                        
+                       
+                    
+                    
+                    </div>
+                    
+                    
+		    <table class="tblRoomTypes" cellpadding="3" cellspacing="0" border="0">
+                    
+
+                      <tbody class="roomTypeShell">
+                      <tr>
+							<td id="price">
+                        
+						
+						
+						
+                          <A class="tc_body" NAME="tdbnigcor">
+
+                            
+                            <span class="qq_text_bold">$129.00</span>&nbsp;
+							
+                            
+							 
+                            <a  onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en&exch=USD&value=129.0','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+                              <span class="qq_text_link_bold">USD</span></a>
+							
+							
+							
+
+							
+                            
+                          </A>
+                          <br>
+                          <span class="f11">
+                            
+
+ 
+ 
+								
+							  			 
+										 <a title="Average Nightly Rate" target="_blank" href="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd/anr_div.text.html" onclick="ANRPopup(document.getElementById('averageNightRate').innerHTML, 'DivPopup_AverageNightlyRate'); return false;">
+                              Average Nightly Rate
+                              </a>
+							  
+                             
+							
+
+
+                            
+                          </span>
+                        </td>
+
+                        
+                        <td id="roomTypeName">
+                          
+                            
+
+								  
+
+									  
+										
+										
+										
+										
+										
+										
+
+										
+										
+										  
+										
+
+										
+										 										
+										
+
+										
+										
+										<a onclick="ajaxPopup(this, 'DivPopup_RoomType'); return false;" title="2 DOUBLE BEDS NONSMOKING" target="_blank" href="/h/d/hi/1/en/rateroominfo/?hotelCode=saccp&planCode=igcor&roomCode=tdbnigcor&roomIndex=0&specialSeasonalNumberOfNights=1&staySource=search"><span class="qq_text_link">2 DOUBLE BEDS NONSMOKING</span></a>
+                                                                          
+										
+                                                                        
+                                      
+								   
+
+                            
+                          
+                        </td>
+
+                        
+                        <td id="smokingType">
+							
+								
+								
+                          
+                            
+                              <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0001.Image.gif" alt="Non-Smoking" height="20" width="20" hspace="10" vspace="2">
+                            
+                          
+
+                          
+	
+							
+                        </td>
+
+                        
+                        <td valign="top" style="width: 15px; padding-bottom: 8px; padding-left:0px; padding-right: 0px;">
+                        	
+                        </td>
+
+                        
+                        <td id="submitButton">
+                          
+                            
+                              
+							    
+								
+                                
+                                  <a href="https://secure.ichotelsgroup.com/h/d/hi/1/en/rc/saccp/igcor/tdbnigcor/GX/false/2?secure=true"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0014.Image.gif" alt="Reserve" name="reserve_1" height="24" width="63" align="top" border="0"></a>&nbsp;
+                                
+                                
+								
+                              
+                            
+                            
+                          
+                        </td>
+                      </tr>
+
+                      
+
+                          
+                          </tbody>
+						  
+                    </table>
+
+
+
+
+
+					</div>
+                  
+                  <div id="rateRow" class="f10">
+
+					
+					
+
+                    
+                    
+						<br />
+                    
+
+					<hr class="divider" />
+
+					  <div id="rateName" class="qq_title_cell">
+				
+                                 
+                        <span style="float: left;">
+				 
+                        
+                          
+                        
+                       </span>
+
+                      
+							
+
+								
+								
+								 
+
+								 
+								  
+
+								
+								  
+								  
+								  
+								  
+								  
+								  
+								  								 
+                                  
+									  <a href="/h/d/hi/1/en/ratesinfotype/?hotelCode=saccp&planCode=ikbbb&roomCode=tdbnikbbb&staySource=search&rateInfo=true" title="Best-4-Breakfast" target="_blank" onclick="ajaxPopup(this, 'DivPopup_RateName'); return false;">
+											  <span class="qq_title_text_bold">Best-4-Breakfast</span>
+											</a>
+								  
+									  
+								
+
+								 
+								
+
+
+                      
+
+
+                        <span class="qq_title_cell_vat">
+                        
+                        </span>
+
+                      
+                    
+
+                   
+                    
+			               
+                        
+                        <br>
+                    	    <span class="qq_title_cell_vat" >
+                   			    PACKAGE OFFER - Combine accommodations with additional products and services 
+                    	    </span>
+                        
+                       
+                    
+                    
+                    </div>
+                    
+                    
+		    <table class="tblRoomTypes" cellpadding="3" cellspacing="0" border="0">
+                    
+
+                      <tbody class="roomTypeShell">
+                      <tr>
+							<td id="price">
+                        
+						
+						
+						
+                          <A class="tc_body" NAME="tdbnikbbb">
+
+                            
+                            <span class="qq_text_bold">$139.00</span>&nbsp;
+							
+                            
+							 
+                            <a  onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en&exch=USD&value=139.0','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+                              <span class="qq_text_link_bold">USD</span></a>
+							
+							
+							
+
+							
+                            
+                          </A>
+                          <br>
+                          <span class="f11">
+                            
+
+ 
+ 
+								
+							  			 
+										 <a title="Average Nightly Rate" target="_blank" href="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd/anr_div.text.html" onclick="ANRPopup(document.getElementById('averageNightRate').innerHTML, 'DivPopup_AverageNightlyRate'); return false;">
+                              Average Nightly Rate
+                              </a>
+							  
+                             
+							
+
+
+                            
+                          </span>
+                        </td>
+
+                        
+                        <td id="roomTypeName">
+                          
+                            
+
+								  
+
+									  
+										
+										
+										
+										
+										
+										
+
+										
+										
+										  
+										
+
+										
+										 										
+										
+
+										
+										
+										<a onclick="ajaxPopup(this, 'DivPopup_RoomType'); return false;" title="2 DOUBLE BEDS NONSMOKING" target="_blank" href="/h/d/hi/1/en/rateroominfo/?hotelCode=saccp&planCode=ikbbb&roomCode=tdbnikbbb&roomIndex=0&specialSeasonalNumberOfNights=1&staySource=search"><span class="qq_text_link">2 DOUBLE BEDS NONSMOKING</span></a>
+                                                                          
+										
+                                                                        
+                                      
+								   
+
+                            
+                          
+                        </td>
+
+                        
+                        <td id="smokingType">
+							
+								
+								
+                          
+                            
+                              <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0001.Image.gif" alt="Non-Smoking" height="20" width="20" hspace="10" vspace="2">
+                            
+                          
+
+                          
+	
+							
+                        </td>
+
+                        
+                        <td valign="top" style="width: 15px; padding-bottom: 8px; padding-left:0px; padding-right: 0px;">
+                        	
+                        </td>
+
+                        
+                        <td id="submitButton">
+                          
+                            
+                              
+							    
+								
+                                
+                                  <a href="https://secure.ichotelsgroup.com/h/d/hi/1/en/rc/saccp/ikbbb/tdbnikbbb/GX/false/3?secure=true"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0014.Image.gif" alt="Reserve" name="reserve_1" height="24" width="63" align="top" border="0"></a>&nbsp;
+                                
+                                
+								
+                              
+                            
+                            
+                          
+                        </td>
+                      </tr>
+
+                      
+
+                          
+                          </tbody>
+						  
+                    </table>
+
+
+
+
+
+					</div>
+                  
+                  <div id="rateRow" class="f10">
+
+					
+					
+
+                    
+                    
+						<br />
+                    
+
+					<hr class="divider" />
+
+					  <div id="rateName" class="qq_title_cell">
+				
+                                 
+                        <span style="float: left;">
+				 
+                        
+                          
+                        
+                       </span>
+
+                      
+							
+
+								
+
+								
+									  
+									  
+
+                                     
+									  <div id="IKPCB_mktRate">
+									  
+									  <table>
+									  
+									    <tr>
+									      <td width="40" height="25">
+									          
+											 <a href="/h/d/hi/1/en/mktgrateinfotype/?fromGroupAvail=false&planCode=IKPCB" target="_blank" title="Priority Club&amp;reg; Rewards Bonus Points Package"  onclick="ajaxPopup(this, 'DivPopup_RateNamePCR'); return false;">
+											 
+											
+											  <!-- InternalContent -->					<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/sh/ricons.InternalContentPar.0001.InternalContentImage.gif" alt="Priority Club® Rewards - 1000 Bonus Points" name="internalimg0001">					<!-- /InternalContent -->	
+											</a>
+										  </td>
+										  <td>
+
+										    
+											<a href="/h/d/hi/1/en/mktgrateinfotype/?fromGroupAvail=false&planCode=IKPCB" target="_blank" title="Priority Club&amp;reg; Rewards Bonus Points Package"  onclick="ajaxPopup(this, 'DivPopup_RateNamePCR'); return false;">
+											
+											
+
+											  <span class="f12"><b>
+											    Priority Club® Rewards – 1,000 Bonus Points for Any Stay
+											    </b>
+											  </span>
+											</a>
+											<br><noscript><span class="f11">Package includes room and 1,000 bonus Priority Club® points per stay. If you are a miles collector with participating airlines, your points will be converted into miles. Bonus points or miles will be automatically posted to your account upon completion of stay. Frequency/partner credits may be issued in currencies other than miles.  Any number of consecutive nights at the same hotel will be considered one stay.</span></noscript>
+										  </td>
+										</tr>
+										
+									  </table>
+									  </div>
+									 
+
+
+								
+								
+								 
+
+
+                      
+
+
+                        <span class="qq_title_cell_vat">
+                        
+                        </span>
+
+                      
+                    
+
+                   
+                    </div>
+                    
+                    
+		    <table class="tblRoomTypes" cellpadding="3" cellspacing="0" border="0">
+                    
+
+                      <tbody class="roomTypeShell">
+                      <tr>
+							<td id="price">
+                        
+						
+						
+						
+                          <A class="tc_body" NAME="tdbnikpcb">
+
+                            
+                            <span class="qq_text_bold">$139.00</span>&nbsp;
+							
+                            
+							 
+                            <a  onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en&exch=USD&value=139.0','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+                              <span class="qq_text_link_bold">USD</span></a>
+							
+							
+							
+
+							
+                            
+                          </A>
+                          <br>
+                          <span class="f11">
+                            
+
+ 
+ 
+								
+							  			 
+										 <a title="Average Nightly Rate" target="_blank" href="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd/anr_div.text.html" onclick="ANRPopup(document.getElementById('averageNightRate').innerHTML, 'DivPopup_AverageNightlyRate'); return false;">
+                              Average Nightly Rate
+                              </a>
+							  
+                             
+							
+
+
+                            
+                          </span>
+                        </td>
+
+                        
+                        <td id="roomTypeName">
+                          
+                            
+
+								  
+
+									  
+										
+										
+										
+										
+										
+										
+
+										
+										
+										  
+										
+
+										
+										 										
+										
+
+										
+										
+										<a onclick="ajaxPopup(this, 'DivPopup_RoomType'); return false;" title="2 DOUBLE BEDS NONSMOKING" target="_blank" href="/h/d/hi/1/en/rateroominfo/?hotelCode=saccp&planCode=ikpcb&roomCode=tdbnikpcb&roomIndex=0&specialSeasonalNumberOfNights=1&staySource=search"><span class="qq_text_link">2 DOUBLE BEDS NONSMOKING</span></a>
+                                                                          
+										
+                                                                        
+                                      
+								   
+
+                            
+                          
+                        </td>
+
+                        
+                        <td id="smokingType">
+							
+								
+								
+                          
+                            
+                              <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0001.Image.gif" alt="Non-Smoking" height="20" width="20" hspace="10" vspace="2">
+                            
+                          
+
+                          
+	
+							
+                        </td>
+
+                        
+                        <td valign="top" style="width: 15px; padding-bottom: 8px; padding-left:0px; padding-right: 0px;">
+                        	
+                        </td>
+
+                        
+                        <td id="submitButton">
+                          
+                            
+                              
+							    
+								
+                                
+                                  <a href="https://secure.ichotelsgroup.com/h/d/hi/1/en/rc/saccp/ikpcb/tdbnikpcb/GX/false/4?secure=true"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0014.Image.gif" alt="Reserve" name="reserve_1" height="24" width="63" align="top" border="0"></a>&nbsp;
+                                
+                                
+								
+                              
+                            
+                            
+                          
+                        </td>
+                      </tr>
+
+                      
+
+                          
+                          </tbody>
+						  
+                    </table>
+
+
+
+
+
+					</div>
+                  
+                  <div id="rateRow" class="f10">
+
+					
+					
+
+                    
+                    
+						<br />
+                    
+
+					<hr class="divider" />
+
+					  <div id="rateName" class="qq_title_cell">
+				
+                                 
+                        <span style="float: left;">
+				 
+                        
+                          
+                        
+                       </span>
+
+                      
+							
+
+								
+								
+								 
+
+								 
+								  
+
+								
+								  
+								  
+								  
+								  
+								  
+								  
+								  								 
+                                  
+									  <a href="/h/d/hi/1/en/ratesinfotype/?hotelCode=saccp&planCode=ikpiz&roomCode=tdbnikpiz&staySource=search&rateInfo=true" title="Pizza Delivery Package" target="_blank" onclick="ajaxPopup(this, 'DivPopup_RateName'); return false;">
+											  <span class="qq_title_text_bold">Pizza Delivery Package</span>
+											</a>
+								  
+									  
+								
+
+								 
+								
+
+
+                      
+
+
+                        <span class="qq_title_cell_vat">
+                        
+                        </span>
+
+                      
+                    
+
+                   
+                    
+			               
+                        
+                        <br>
+                    	    <span class="qq_title_cell_vat" >
+                   			    PACKAGE OFFER - Combine accommodations with additional products and services 
+                    	    </span>
+                        
+                       
+                    
+                    
+                    </div>
+                    
+                    
+		    <table class="tblRoomTypes" cellpadding="3" cellspacing="0" border="0">
+                    
+
+                      <tbody class="roomTypeShell">
+                      <tr>
+							<td id="price">
+                        
+						
+						
+						
+                          <A class="tc_body" NAME="tdbnikpiz">
+
+                            
+                            <span class="qq_text_bold">$139.00</span>&nbsp;
+							
+                            
+							 
+                            <a  onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en&exch=USD&value=139.0','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+                              <span class="qq_text_link_bold">USD</span></a>
+							
+							
+							
+
+							
+                            
+                          </A>
+                          <br>
+                          <span class="f11">
+                            
+
+ 
+ 
+								
+							  			 
+										 <a title="Average Nightly Rate" target="_blank" href="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd/anr_div.text.html" onclick="ANRPopup(document.getElementById('averageNightRate').innerHTML, 'DivPopup_AverageNightlyRate'); return false;">
+                              Average Nightly Rate
+                              </a>
+							  
+                             
+							
+
+
+                            
+                          </span>
+                        </td>
+
+                        
+                        <td id="roomTypeName">
+                          
+                            
+
+								  
+
+									  
+										
+										
+										
+										
+										
+										
+
+										
+										
+										  
+										
+
+										
+										 										
+										
+
+										
+										
+										<a onclick="ajaxPopup(this, 'DivPopup_RoomType'); return false;" title="2 DOUBLE BEDS NONSMOKING" target="_blank" href="/h/d/hi/1/en/rateroominfo/?hotelCode=saccp&planCode=ikpiz&roomCode=tdbnikpiz&roomIndex=0&specialSeasonalNumberOfNights=1&staySource=search"><span class="qq_text_link">2 DOUBLE BEDS NONSMOKING</span></a>
+                                                                          
+										
+                                                                        
+                                      
+								   
+
+                            
+                          
+                        </td>
+
+                        
+                        <td id="smokingType">
+							
+								
+								
+                          
+                            
+                              <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0001.Image.gif" alt="Non-Smoking" height="20" width="20" hspace="10" vspace="2">
+                            
+                          
+
+                          
+	
+							
+                        </td>
+
+                        
+                        <td valign="top" style="width: 15px; padding-bottom: 8px; padding-left:0px; padding-right: 0px;">
+                        	
+                        </td>
+
+                        
+                        <td id="submitButton">
+                          
+                            
+                              
+							    
+								
+                                
+                                  <a href="https://secure.ichotelsgroup.com/h/d/hi/1/en/rc/saccp/ikpiz/tdbnikpiz/GX/false/5?secure=true"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0014.Image.gif" alt="Reserve" name="reserve_1" height="24" width="63" align="top" border="0"></a>&nbsp;
+                                
+                                
+								
+                              
+                            
+                            
+                          
+                        </td>
+                      </tr>
+
+                      
+
+                          
+                          </tbody>
+						  
+                    </table>
+
+
+
+
+
+					</div>
+                  
+                  <div id="rateRow" class="f10">
+
+					
+					
+
+                    
+                    
+						<br />
+                    
+
+					<hr class="divider" />
+
+					  <div id="rateName" class="qq_title_cell">
+				
+                                 
+                        <span style="float: left;">
+				 
+                        
+                          
+                        
+                       </span>
+
+                      
+							
+
+								
+								
+								 
+
+								 
+								  
+
+								
+								  
+								  
+								  
+								  
+								  
+								  
+								  								 
+                                  
+									  <a href="/h/d/hi/1/en/ratesinfotype/?hotelCode=saccp&planCode=ijhd1&roomCode=tdbnijhd1&staySource=search&rateInfo=true" title="RAILROAD MUSEUM PKG" target="_blank" onclick="ajaxPopup(this, 'DivPopup_RateName'); return false;">
+											  <span class="qq_title_text_bold">RAILROAD MUSEUM PKG</span>
+											</a>
+								  
+									  
+								
+
+								 
+								
+
+
+                      
+
+
+                        <span class="qq_title_cell_vat">
+                        
+                        </span>
+
+                      
+                    
+
+                   
+                    
+			               
+                        
+                        <br>
+                    	    <span class="qq_title_cell_vat" >
+                   			    PACKAGE OFFER - Combine accommodations with additional products and services 
+                    	    </span>
+                        
+                       
+                    
+                    
+                    </div>
+                    
+                    
+		    <table class="tblRoomTypes" cellpadding="3" cellspacing="0" border="0">
+                    
+
+                      <tbody class="roomTypeShell">
+                      <tr>
+							<td id="price">
+                        
+						
+						
+						
+                          <A class="tc_body" NAME="tdbnijhd1">
+
+                            
+                            <span class="qq_text_bold">$164.00</span>&nbsp;
+							
+                            
+							 
+                            <a  onclick="window.open('http://www.oanda.com/convert/classic?user=sixcontinents&lang=en&exch=USD&value=164.0','rateinfo','top=120,left=120,width=800,height=500,location=yes,scrollbars=yes,status=yes,toolbar=yes,menubar=yes,resizable=yes'); return false;" href="#">
+                              <span class="qq_text_link_bold">USD</span></a>
+							
+							
+							
+
+							
+                            
+                          </A>
+                          <br>
+                          <span class="f11">
+                            
+
+ 
+ 
+								
+							  			 
+										 <a title="Average Nightly Rate" target="_blank" href="http://images3.ichotelsgroup.com/cq/content/dec/cn/0/en/rd/anr_div.text.html" onclick="ANRPopup(document.getElementById('averageNightRate').innerHTML, 'DivPopup_AverageNightlyRate'); return false;">
+                              Average Nightly Rate
+                              </a>
+							  
+                             
+							
+
+
+                            
+                          </span>
+                        </td>
+
+                        
+                        <td id="roomTypeName">
+                          
+                            
+
+								  
+
+									  
+										
+										
+										
+										
+										
+										
+
+										
+										
+										  
+										
+
+										
+										 										
+										
+
+										
+										
+										<a onclick="ajaxPopup(this, 'DivPopup_RoomType'); return false;" title="2 DOUBLE BEDS NONSMOKING" target="_blank" href="/h/d/hi/1/en/rateroominfo/?hotelCode=saccp&planCode=ijhd1&roomCode=tdbnijhd1&roomIndex=0&specialSeasonalNumberOfNights=1&staySource=search"><span class="qq_text_link">2 DOUBLE BEDS NONSMOKING</span></a>
+                                                                          
+										
+                                                                        
+                                      
+								   
+
+                            
+                          
+                        </td>
+
+                        
+                        <td id="smokingType">
+							
+								
+								
+                          
+                            
+                              <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0001.Image.gif" alt="Non-Smoking" height="20" width="20" hspace="10" vspace="2">
+                            
+                          
+
+                          
+	
+							
+                        </td>
+
+                        
+                        <td valign="top" style="width: 15px; padding-bottom: 8px; padding-left:0px; padding-right: 0px;">
+                        	
+                        </td>
+
+                        
+                        <td id="submitButton">
+                          
+                            
+                              
+							    
+								
+                                
+                                  <a href="https://secure.ichotelsgroup.com/h/d/hi/1/en/rc/saccp/ijhd1/tdbnijhd1/DX/false/6?secure=true"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0014.Image.gif" alt="Reserve" name="reserve_1" height="24" width="63" align="top" border="0"></a>&nbsp;
+                                
+                                
+								
+                              
+                            
+                            
+                          
+                        </td>
+                      </tr>
+
+                      
+
+                          
+                          </tbody>
+						  
+                    </table>
+
+
+
+
+
+					</div>
+                  
+
+
+
+
+
+
+
+				<div id="averageNightRate" style="display:none;">
+				   <table cellpadding=0 cellspacing=0>
+					<tr>
+					 <th class="panelHeader">Average Nightly Rate<br><span id="panelHeaderText"></span></th>
+					</tr>
+					<tr>
+					 <td id="popMessage">
+					  <b>Average Nightly Rate</b><br>To calculate the Average Nightly Rate, add the rates for each night of your stay and divide the total by the number of nights in your stay. The individual nightly rates can be found on the rate information and confirmation pages.<br><br><b>Please note:</b> Extending or reducing the number of nights in your stay will affect the Average Nightly Rate. You will be responsible for the rate that is determined by the actual number of nights in your stay.
+
+					   
+
+					  
+
+                        </td>
+                      </tr>
+                </table>
+				  </div>
+              
+            
+          
+        
+      
+	  
+    
+
+  
+
+
+<!-- end /common/reservation/i_room_list_nodesc.jsp -->
+	   	 
+
+<!-- start /common/reservation/i_room_list_qq_bottom.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   
+		
+   
+
+
+
+<p>
+	
+      
+      
+	
+</p>&nbsp;
+
+
+
+
+
+
+
+
+
+
+<!-- end /common/reservation/i_room_list_qq_bottom.jsp -->
+
+	
+	
+
+
+
+<!-- end /common/reservation/i_room_list.jsp --></td>
+									</tr>
+								
+
+								
+								
+
+
+
+								
+								
+
+
+								
+								
+								
+							 
+						</table>
+					</td>
+				</tr>
+			</table>
+			</td>
+			</tr>
+			
+			<tr><td>
+			<table cellpadding="3" cellspacing="0" border="0" width="540">
+				<tr align="center">
+  	            
+			        <td align="center">
+								
+									
+									
+									
+									
+                                    
+									
+									 	
+									
+									
+										
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- searchStartFrom [mq, ebs, ebsmw] = ebsmq -->
+
+<table>
+<tr>
+
+
+
+
+
+<!-- searchStartFrom:  -->
+
+
+
+
+
+ 
+
+<td>
+<form action="http://www.ichotelsgroup.com/h/d/hi/1/en/nearbyhotels?WT.altrate.link=click" name="searchForm2" method="POST">
+
+
+  <input name="successURL" type="hidden" value="/h/d/hi/1/en/nearbyavailsearch/nearby">
+   
+   <input name="hotelCode" type="hidden" value="SACCP">
+   <input name="newSearch" type="hidden" value="yes">
+   <input name="searchStartFrom" type="hidden" value="ebsmq">
+
+    
+    
+        <input name="ratesFlag" type="hidden" value="1D">
+    
+   
+   <input name="brandGroupCode" type="hidden" value="HI">
+   
+   
+        
+			
+                <input src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0042.Image.gif" type="image" alt="View Nearby Hotels" border="0"/>
+			
+        
+    
+</form>
+</td>
+
+
+
+
+
+
+
+
+
+</tr>
+</table>
+
+
+
+
+
+
+
+								<meta name="WT.altrate.linkhotel" content="saccp">
+								<meta name="WT.altrate.link" content="display">
+                   </td>
+				</tr>
+			</table></td></tr>
+			
+
+
+			<tr><td>
+			<table cellpadding="3" cellspacing="0" border="0" width="540">
+				<tr> <td>
+						<p class="f10" align="center">
+								<table cellpadding="0" cellspacing="0" border="0" width="100%">		<tr>			<td>		<table cellpadding="0" cellspacing="0" border="0" width="100%">		<tr>				<td valign="top">						   <p>As exchange rates may fluctuate from the time a reservation is made until the actual stay, the confirmed rate is guaranteed in the hotel's base currency.</p>						</td>		</tr>				</table>			</td>		</tr>			</table> 	
+							<br>
+						</p>
+				</td> </tr>
+			</table>
+			</td></tr>
+			</table>
+
+
+
+
+
+
+
+
+
+
+
+
+		</td>
+	</tr>
+	<tr>
+	  
+		<td colspan="4" align="center">
+
+
+
+
+
+
+
+
+	
+		
+		
+				<br><center><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/tc/pp.html" target="_blank" class="popupblank"><img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en.FooterPar.Single.FooterImage.gif" alt="TRUSTe"></a><br></center><br><font class="f11"><A CLASS=anchor HREF="http://www.ihg.com/pressoffice" TITLE="Press Office">Press Office</A> | <A CLASS=anchor HREF="http://www.ihg.com/careers" TITLE="Employment Information">Careers</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/hi/1/en/cs.html" title="Phone & Email Customer Service" class="leftNavGuides">Phone &amp; Email</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/home" title="Holiday Inn Hotels & Resorts" class="leftNavGuides">Hotels</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/tc.html" title="WebSite Terms of Use" class="leftNavGuides">Terms Of Use</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/tc/ps.html" title="ICHG Privacy Statement" class="leftNavGuides">Privacy Statement</A> <br><A CLASS=anchor HREF="http://holidayinn.com/development" TITLE="Hotel Development">Hotel Development</A> | <A CLASS=anchor HREF="http://www.ihg.com/corporate" TITLE="Corporate Information">Corporate Information</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/hi/1/en/cs/guides.html" title="City Guides" class="leftNavGuides">City Guides</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/hotel-directory" title="Hotel Directory" class="anchor">Hotel Directory</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/cs/gsites.html" title="International WebSites" class="leftNavGuides">International Sites</A> | <A CLASS=anchor class=leftNavGuides HREF="http://affiliates.ichotelsgroup.com/" TITLE="Affiliate Program">Affiliate Program</A> | <a href="http://www.ichotelsgroup.com/h/d/pc/1/en/c/2/content/dec/pc/0/en/winfo.html" title="Wireless Reservations" class="anchor">Wireless Reservations</A><br><A CLASS=anchor class=leftNavGuides HREF="http://www.orlandohotels.holiday-inn.com/" TITLE="Orlando Hotels">Orlando</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.sandiegohotels.holiday-inn.com/" TITLE="San Diego Hotels">San Diego</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.neworleanshotels.holiday-inn.com/" TITLE="New Orleans Hotels">New Orleans</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.chicagohotels.holiday-inn.com/" TITLE="Chicago Hotels">Chicago</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.sanfranciscohotels.holiday-inn.com/" TITLE="San Francisco Hotels">San Francisco</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.sanantoniohotels.holiday-inn.com/" TITLE="San Antonio Hotels">San Antonio</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.newyorkhotels.holiday-inn.com/" TITLE="New York Hotels">New York</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.londonhotels.holiday-inn.com/" TITLE="London Hotels">London</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.washingtonhotels.holiday-inn.com/" TITLE="Washington DC Hotels">Washington DC</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.torontohotels.holiday-inn.com/" TITLE="Toronto Hotels">Toronto<br></A><A CLASS=anchor HREF="http://www.ihg.com" TITLE="Intercontinental Hotels Group">IHG</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.intercontinental.com" TITLE="InterContinental Hotels & Resorts">InterContinental</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.crowneplaza.com" TITLE="Crowne Plaza Hotels & Resorts">Crowne Plaza</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.hotelindigo.com" TITLE="Hotel Indigo">Hotel Indigo</A> | <A CLASS=anchor HREF="http://www.holidayinn.com" TITLE="Holiday Inn">Holiday Inn</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.hiexpress.com" TITLE="Holiday Inn Express">Holiday Inn Express</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.staybridge.com" TITLE="Staybridge Suites">Staybridge Suites</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.candlewoodsuites.com" TITLE="Candlewood Suites">Candlewood Suites</A><br>©2001-2008 IHG. All rights reserved. Most hotels are independently owned and operated.</font>
+		
+	
+
+
+
+
+		<br>
+		<font class="f11">* Requires affiliation in the respective organization.  ** Best Available Rate Search does not include affiliation rates.</font>
+        <br>
+		
+		
+		
+		
+
+		</td>
+
+	</tr>
+</table>
+
+ 
+ 
+ 
+
+	<div id="hdPopupDiv">
+		<div id="hdPopupHeader">
+			<div id="hdPopupTitle">InterContinental Hotels Group</div>
+			<div id="hdPopupActions">
+				<span id="hdPrintActionPopup" class="hdPrintAction"><a href="#" onclick="printWithAltStyleSheet('printPopup'); return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/1/en/hdl/ib.Par.0009.Image.gif" border="0"></a></span>
+				<a href="#" onclick="hidePopup('hdPopupDiv'); return false;">
+				
+					<img src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/1/en/hdl/ib.Par.0002.Image.gif" border="0" alt="Close Window" >
+				
+				</a>
+			</div>
+		</div>
+		<div id="hdPopupBorder">
+			<div id="hdPopupContent"></div>
+			<div id="hdPopupCloseBtn"><a href="#" onclick="hidePopup('hdPopupDiv'); return false;">			
+					<img src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/1/en/hdl/tb.Par.0004.Image.gif" border="0" alt="Close Window" >
+			</a></div>
+		</div>
+	</div>
+
+
+
+
+
+
+<!-- start /common/i_webtrends.jsp -->
+
+
+
+
+
+
+
+	
+		<SCRIPT LANGUAGE="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/webtrends.js"></SCRIPT>
+	
+
+    
+    
+
+<!-- start /common/monitors/home.jsp -->
+
+
+
+
+
+
+	<!-- 
+	
+		$MONITOR: SUCCESS
+	
+	-->
+
+
+
+<!-- end /common/monitors/home.jsp -->
+
+
+
+
+<!-- end /common/i_webtrends.jsp -->
+
+	 
+
+
+
+	
+		
+		
+		<img src="https://altfarm.mediaplex.com/ad/bk/3744-18074-2054-9?HIAbnmtTargetTest=1&mpuid=3469237393;1216705362385" width="1" height="1" border="0">
+	
+
+
+</body>
+</HTML>
+
+
+
+
+
+
+
+
+
+
+
+
+

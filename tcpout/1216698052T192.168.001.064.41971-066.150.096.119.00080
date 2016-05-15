@@ -1,0 +1,9 @@
+GET /wired/index HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: v1st=483EF1316E1DBD44; __utmz=238032518.1212084530.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=238032518.1762213892.1212084530.1212084530.1215051754.2
+Connection: keep-alive
+Host: feeds.wired.com
+

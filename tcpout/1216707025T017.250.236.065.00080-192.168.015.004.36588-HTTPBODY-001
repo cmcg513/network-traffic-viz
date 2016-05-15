@@ -1,0 +1,175 @@
+
+  <View topInset="0" leftInset="0" rightInset="0">
+<PictureView leftInset="0" topInset="0" horizontalBehavior="stretch" stretchiness="1" height="20" rightInset="0" url="http://ax.phobos.apple.com.edgesuite.net/images/swoosh/swoosh_tab_background_dbddeo.png"></PictureView>
+<MatrixView rightInset="0" topInset="0" columnFormat="13%,1,13%,1,12%,1,12%,1,12%,1,12%,1,13%,1,13%" rowFormat="100%" leftInset="0" height="20" stretchiness="1">
+
+  
+  
+    
+
+    
+      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewRoom?fcId=186000347&amp;id=1" inhibitDragging="false" draggingName="New Releases" target="main">
+    
+        
+        <VBoxView topInset="0" bottomInset="0" stretchiness="1" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1" backColor="ffffff">
+            <View stretchiness="1"></View>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Music</b></Color></TextView>
+            <View stretchiness="1"></View>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="ffffff"></View>
+        </VBoxView>
+      
+  </GotoURL>
+
+
+
+
+    
+
+    
+
+  
+    
+        <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+    
+
+    
+
+    
+      <LoadFrameURL transitionMovement="cos" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/swoosh?boxStrokeColor=445e82&amp;numberOfGenreTabs=3&amp;omni-lname=US_Main+Main-Swoosh_1&amp;selectedAdamId=186000347&amp;frameFullViewName=FullViewB1&amp;maxIndex=32&amp;startIndex=0&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&amp;leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&amp;frameViewName=FrameB1&amp;topTextColor=ffffff&amp;frameHeight=250&amp;topBackColor=293c5c&amp;boxTextColor=000000&amp;leftLabel=NEW+RELEASES&amp;rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&amp;useCoverFlowViewOverride=false&amp;boxBackColor=ffffff&amp;swooshSetAdamId=188575528&amp;cfStyleSet=basic13Bold&amp;viewName=ViewB1&amp;rightLabel=See+All&amp;tabsBorderColor=a3a7ad&amp;groupingId=39&amp;isTwoByFour=true&amp;id=188710817" transitionDuration="500" frameViewName="FrameB1" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="FrameB1" transitionStartViewName="FrameB1">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Movies</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+    
+
+  
+    
+        <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+    
+
+    
+
+    
+      <LoadFrameURL transitionMovement="cos" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/swoosh?boxStrokeColor=445e82&amp;numberOfGenreTabs=3&amp;omni-lname=US_Main+Main-Swoosh_1&amp;selectedAdamId=186000347&amp;frameFullViewName=FullViewB1&amp;maxIndex=32&amp;startIndex=0&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&amp;leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&amp;frameViewName=FrameB1&amp;topTextColor=ffffff&amp;frameHeight=250&amp;topBackColor=293c5c&amp;boxTextColor=000000&amp;leftLabel=NEW+RELEASES&amp;rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&amp;useCoverFlowViewOverride=false&amp;boxBackColor=ffffff&amp;swooshSetAdamId=188575528&amp;cfStyleSet=basic13Bold&amp;viewName=ViewB1&amp;rightLabel=See+All&amp;tabsBorderColor=a3a7ad&amp;groupingId=38&amp;isTwoByFour=true&amp;id=188979984" transitionDuration="500" frameViewName="FrameB1" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="FrameB1" transitionStartViewName="FrameB1">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>TV Shows</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+    
+
+  
+    
+        <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+    
+
+    
+
+    
+      <LoadFrameURL transitionMovement="cos" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/swoosh?boxStrokeColor=445e82&amp;numberOfGenreTabs=3&amp;omni-lname=US_Main+Main-Swoosh_1&amp;selectedAdamId=186000347&amp;frameFullViewName=FullViewB1&amp;maxIndex=32&amp;startIndex=0&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&amp;leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&amp;frameViewName=FrameB1&amp;topTextColor=ffffff&amp;frameHeight=250&amp;topBackColor=293c5c&amp;boxTextColor=000000&amp;leftLabel=NEW+RELEASES&amp;rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&amp;useCoverFlowViewOverride=false&amp;boxBackColor=ffffff&amp;swooshSetAdamId=188575528&amp;cfStyleSet=basic13Bold&amp;viewName=ViewB1&amp;rightLabel=See+All&amp;tabsBorderColor=a3a7ad&amp;groupingId=38&amp;isTwoByFour=true&amp;id=285328812" transitionDuration="500" frameViewName="FrameB1" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="FrameB1" transitionStartViewName="FrameB1">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Apps</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+    
+
+  
+    
+        <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+    
+
+    
+
+    
+      <LoadFrameURL transitionMovement="cos" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/swoosh?boxStrokeColor=445e82&amp;numberOfGenreTabs=3&amp;omni-lname=US_Main+Main-Swoosh_1&amp;selectedAdamId=186000347&amp;frameFullViewName=FullViewB1&amp;maxIndex=32&amp;startIndex=0&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&amp;leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&amp;frameViewName=FrameB1&amp;topTextColor=ffffff&amp;frameHeight=250&amp;topBackColor=293c5c&amp;boxTextColor=000000&amp;leftLabel=NEW+RELEASES&amp;rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&amp;useCoverFlowViewOverride=false&amp;boxBackColor=ffffff&amp;swooshSetAdamId=188575528&amp;cfStyleSet=basic13Bold&amp;viewName=ViewB1&amp;rightLabel=See+All&amp;tabsBorderColor=a3a7ad&amp;groupingId=38&amp;isTwoByFour=true&amp;id=285637031" transitionDuration="500" frameViewName="FrameB1" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="FrameB1" transitionStartViewName="FrameB1">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Audiobooks</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+    
+
+  
+    
+        <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+    
+
+    
+
+    
+      <LoadFrameURL transitionMovement="cos" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/swoosh?boxStrokeColor=445e82&amp;numberOfGenreTabs=3&amp;omni-lname=US_Main+Main-Swoosh_1&amp;selectedAdamId=186000347&amp;frameFullViewName=FullViewB1&amp;maxIndex=32&amp;startIndex=0&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&amp;leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&amp;frameViewName=FrameB1&amp;topTextColor=ffffff&amp;frameHeight=250&amp;topBackColor=293c5c&amp;boxTextColor=000000&amp;leftLabel=NEW+RELEASES&amp;rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&amp;useCoverFlowViewOverride=false&amp;boxBackColor=ffffff&amp;swooshSetAdamId=188575528&amp;cfStyleSet=basic13Bold&amp;viewName=ViewB1&amp;rightLabel=See+All&amp;tabsBorderColor=a3a7ad&amp;groupingId=24&amp;isTwoByFour=true&amp;id=194527070" transitionDuration="500" frameViewName="FrameB1" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="FrameB1" transitionStartViewName="FrameB1">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Rock</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+    
+
+  
+    
+        <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+    
+
+    
+
+    
+      <LoadFrameURL transitionMovement="cos" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/swoosh?boxStrokeColor=445e82&amp;numberOfGenreTabs=3&amp;omni-lname=US_Main+Main-Swoosh_1&amp;selectedAdamId=186000347&amp;frameFullViewName=FullViewB1&amp;maxIndex=32&amp;startIndex=0&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&amp;leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&amp;frameViewName=FrameB1&amp;topTextColor=ffffff&amp;frameHeight=250&amp;topBackColor=293c5c&amp;boxTextColor=000000&amp;leftLabel=NEW+RELEASES&amp;rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&amp;useCoverFlowViewOverride=false&amp;boxBackColor=ffffff&amp;swooshSetAdamId=188575528&amp;cfStyleSet=basic13Bold&amp;viewName=ViewB1&amp;rightLabel=See+All&amp;tabsBorderColor=a3a7ad&amp;groupingId=12&amp;isTwoByFour=true&amp;id=185998122" transitionDuration="500" frameViewName="FrameB1" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="FrameB1" transitionStartViewName="FrameB1">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Jazz</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+    
+
+  
+    
+        <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+    
+
+    
+
+    
+      <LoadFrameURL transitionMovement="cos" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/swoosh?boxStrokeColor=445e82&amp;numberOfGenreTabs=3&amp;omni-lname=US_Main+Main-Swoosh_1&amp;selectedAdamId=186000347&amp;frameFullViewName=FullViewB1&amp;maxIndex=32&amp;startIndex=0&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&amp;leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&amp;frameViewName=FrameB1&amp;topTextColor=ffffff&amp;frameHeight=250&amp;topBackColor=293c5c&amp;boxTextColor=000000&amp;leftLabel=NEW+RELEASES&amp;rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&amp;useCoverFlowViewOverride=false&amp;boxBackColor=ffffff&amp;swooshSetAdamId=188575528&amp;cfStyleSet=basic13Bold&amp;viewName=ViewB1&amp;rightLabel=See+All&amp;tabsBorderColor=a3a7ad&amp;groupingId=15&amp;isTwoByFour=true&amp;id=194508469" transitionDuration="500" frameViewName="FrameB1" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="FrameB1" transitionStartViewName="FrameB1">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+            <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Pop</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+    
+
+  
+</MatrixView>
+</View>

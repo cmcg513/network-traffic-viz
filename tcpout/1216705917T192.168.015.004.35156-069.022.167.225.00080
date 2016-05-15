@@ -1,0 +1,22 @@
+GET /images/di/59/70/35/423149567677546b71364a6b49737279412d67-100x100-0-0.jpg HTTP/1.1
+Host: di1.shopping.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://search.ebay.com/search/search.dll?from=R40&_trksid=m37&satitle=leather+rucksack&category0=
+
+GET /images/di/2d/4c/43/57557154546c6665386e5a493449776b442d51-100x100-0-0.jpg HTTP/1.1
+Host: di1.shopping.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://search.ebay.com/search/search.dll?from=R40&_trksid=m37&satitle=leather+rucksack&category0=
+

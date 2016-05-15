@@ -1,0 +1,73 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:03:35 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.29
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+Set-Cookie: TID=148au1n08ffll7; path=/; expires=Fri, 17-Jul-09 06:03:35 GMT; domain=.tacoda.net
+Set-Cookie: Xsd=$; path=/; expires=Fri, 17-Jul-09 06:03:35 GMT; domain=.tacoda.net
+Set-Cookie: ANRTT=60190^1^1217311415; path=/; expires=Tue, 29-Jul-08 06:03:35 GMT; domain=.tacoda.net
+Set-Cookie: Tsid=0^1216706615^1216708415|11775^1216706615^1216708415; path=/; expires=Tue, 22-Jul-08 06:33:35 GMT; domain=.tacoda.net
+Set-Cookie: TData=99999|^|#|60190; expires=Fri, 17-Jul-09 06:03:35 GMT; path=/; domain=.tacoda.net
+Set-Cookie: Anxd=x; expires=Wed, 23-Jul-08 06:03:35 GMT; path=/; domain=.tacoda.net
+Content-Length: 96
+Keep-Alive: timeout=60, max=80
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+var ANUT=1;
+var ANOO=0;
+var ANCCT=0;
+var ANSL='99999|^|#|60190';
+var ANMSL='*';
+ANRTXR();
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:03:40 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.29
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+Keep-Alive: timeout=60, max=265
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascipt
+
+7  
+var a;
+
+0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 01:45:52 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.29
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+Keep-Alive: timeout=60, max=541
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascipt
+
+7  
+var a;
+
+0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:04:07 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.29
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+P3P: policyref="http://www.tacoda.com/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+Set-Cookie: Xsd=$; path=/; expires=Fri, 17-Jul-09 06:04:07 GMT; domain=.tacoda.net
+Set-Cookie: ANRTT=60190^1^1217311447; path=/; expires=Tue, 29-Jul-08 06:04:07 GMT; domain=.tacoda.net
+Set-Cookie: Tsid=0^1216706615^1216708447|11775^1216706615^1216708447; path=/; expires=Tue, 22-Jul-08 06:34:07 GMT; domain=.tacoda.net
+Set-Cookie: TData=99999|^|#|60190; expires=Fri, 17-Jul-09 06:04:07 GMT; path=/; domain=.tacoda.net
+Set-Cookie: Anxd=x; expires=Wed, 23-Jul-08 06:04:07 GMT; path=/; domain=.tacoda.net
+Content-Length: 105
+Keep-Alive: timeout=60, max=110
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+var ANUT=1;
+var ANOO=0;
+var ANCCT=1216706635;
+var ANSL='99999|^|#|60190';
+var ANMSL='$';
+ANRTXR();

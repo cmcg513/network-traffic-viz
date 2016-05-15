@@ -1,0 +1,840 @@
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML DIR="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  
+  <style type="text/css">
+  <!--
+    TD.heading { color: #000000; text-decoration: none; font:10pt Verdana, Arial, Helvetica, sans-serif; }
+    A:link { color: blue; text-decoration: none; font: 10pt Verdana, Arial, Helvetica, sans-serif; }
+    A:hover { color: darkred; font: bold 10pt Verdana, Arial, Helvetica, sans-serif; }
+    A:visited { color: blue; text-decoration: none; font: 10pt Verdana, Arial, Helvetica, sans-serif; }
+    .pastDate { color: black; text-decoration: none; font: 10pt Verdana, Arial, Helvetica, sans-serif;}
+  -->
+  </style>
+
+  
+    <SCRIPT LANGUAGE="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/calendar_utils.js"></SCRIPT>
+  
+
+  <script language="javascript" type="text/javascript">
+  <!--
+
+    function reloadCalendar(openerForm, change) {
+      var theForm = document.calControl;
+      var month;
+      var year;
+      if((theForm.month.selectedIndex + change) < 0) {
+        month = 11;
+        year = theForm.year[0].value;
+      } else if((theForm.month.selectedIndex + change) > 11) {
+        month = 0;
+        year = theForm.year[1].value;
+      } else {
+        month = theForm.month.selectedIndex + parseInt(change);
+        year = theForm.year[theForm.year.selectedIndex].value
+      }
+      if(theForm.year.selectedIndex == 1 && year != 2008 && month > 6) {
+        alert("You may only place a reservation up to 350 days in advance");
+        return false;
+      }
+      //var jdate = "1";
+      var jmonthYear = "" + month + year;
+      document.location.href='/h/d/hi/1/en/pop_calendar?test=grb&openerForm=' + openerForm + '&monthYear=' + jmonthYear + '&date=1&secure=false&hdCal=null&dateFormat=null&checkOut=true';
+    }
+
+    function setToday(openerForm) {
+      document.location.href='/h/d/hi/1/en/pop_calendar?test=grb&openerForm=' + openerForm + '&monthYear=62008&date=22&checkOut=true&hdCal=null&dateFormat=null&secure=false';
+    }
+
+    function setYear() {
+      var theForm = document.calControl;
+      if(6 > theForm.month.selectedIndex) {
+        theForm.year.selectedIndex = 1;
+      }
+    }
+
+    function getMonth() {
+      var destForm = parent.document.forms.searchForm;
+      var sourceForm = document.calControl;
+      return sourceForm.month.value;
+    }
+
+    function getDate() {
+      var destForm = parent.document.forms.searchForm;
+      var sourceForm = document.calControl;
+      return sourceForm.date.value;
+    }
+
+    function getYear() {
+      var destForm = parent.document.forms.searchForm;
+      var sourceForm = document.calControl;
+      return sourceForm.year.value;
+    }
+
+    function setCheckInPopDate( date ) {
+      var destForm = parent.document.forms.searchForm;
+      var sourceForm = document.calControl;
+      var month = sourceForm.month.value;
+      var year = sourceForm.year.value;
+      var monthYear = "" + month + year;
+      var isHotelDetailCal = null;
+      var outputDateFormat = 'null';
+      
+			if (isHotelDetailCal!=null) {
+							
+				inMonth = parseInt(month)+1;
+				if (outputDateFormat=='yyyy/mm/dd') {
+					destForm.checkInTextBox.value=year+"/"+inMonth+"/"+date;
+				} else {
+					destForm.checkInTextBox.value=date+"/"+inMonth+"/"+year;
+				}
+				
+				var updateCheckOutDate = false;
+				if (destForm.checkOutTextBox.value == '' || destForm.checkOutTextBox.value == outputDateFormat) {
+					updateCheckOutDate = true;
+ 				}
+ 				if (isCheckOutBeforeCheckInDate()) {
+ 					updateCheckOutDate = true;
+ 				}
+ 				
+ 				if (updateCheckOutDate) {
+					var outDateObj = new Date();
+					var outDate = parseInt(date)+1;
+					outDateObj.setFullYear(year, month, outDate);
+					outMonth = parseInt(outDateObj.getMonth())+1;
+					var outYear = outDateObj.getYear();
+					if(outYear.toString().length == 3) {
+						outYear = 2000 + (outDateObj.getYear() % 100);
+					}
+					if (outputDateFormat == 'yyyy/mm/dd') {
+						destForm.checkOutTextBox.value=outYear+"/"+outMonth+"/"+outDateObj.getDate();
+					} else {
+						destForm.checkOutTextBox.value=outDateObj.getDate()+"/"+outMonth+"/"+outYear;
+					}
+				}
+ 			} else {
+	      for (var i = 0 ; i < destForm.checkInDate.options.length ; i++)
+	        if (destForm.checkInDate.options[ i ].text == parseInt(date))
+	          destForm.checkInDate.options[ i ].selected = true;
+	
+	      for (var i = 0 ; i < destForm.checkInMonthYear.options.length ; i++)
+	        if (destForm.checkInMonthYear.options[ i ].value == monthYear)
+	          destForm.checkInMonthYear.options[ i ].selected = true;
+      	populateCheckOut(destForm);
+      }
+		if (parent.document.getElementById('calendar_pop_in')) {
+			parent.document.getElementById('calendar_pop_in').style.display = "none";
+			}
+		if (parent.document.getElementById('calendar_side_pop_in')) {
+			parent.document.getElementById('calendar_side_pop_in').style.display = "none";
+			}
+
+    }
+
+    function setCheckOutPopDate( date ) {
+      var destForm = parent.document.forms.searchForm;
+      var sourceForm = document.calControl;
+      var month = sourceForm.month.value;
+      var year = sourceForm.year.value;
+      var monthYear = "" + month + year;
+      var isHotelDetailCal = null;
+      var outputDateFormat = 'null';
+      
+			if (isHotelDetailCal!=null) {
+				outMonth = parseInt(month)+1;
+				
+				if (outputDateFormat == 'yyyy/mm/dd') {
+					destForm.checkOutTextBox.value=year+"/"+outMonth+"/"+date;
+				} else {
+					destForm.checkOutTextBox.value=date+"/"+outMonth+"/"+year;
+				}
+ 				if (isCheckOutBeforeCheckInDate()) {
+ 					var outDateObj = new Date();
+					var outDate = parseInt(date)-1;
+					outDateObj.setFullYear(year, outMonth, outDate);
+					var outYear = outDateObj.getYear();
+					if(outYear.toString().length == 3) {
+						outYear = 2000 + (outDateObj.getYear() % 100);
+					}
+					
+					if (outputDateFormat == 'yyyy/mm/dd') {
+						destForm.checkInTextBox.value=outYear+"/"+outMonth+"/"+outDateObj.getDate();
+					} else {
+						destForm.checkInTextBox.value=outDateObj.getDate()+"/"+outMonth+"/"+outYear;
+					}
+ 				}
+ 			} else {
+ 				for (var i = 0 ; i < destForm.checkOutDate.options.length ; i++) {
+	      	if (destForm.checkOutDate.options[ i ].text == parseInt(date)) {
+	        	destForm.checkOutDate.options[ i ].selected = true;
+	        }
+				}
+				
+	      for (var i = 0 ; i < destForm.checkOutMonthYear.options.length ; i++ ) {
+	        if (destForm.checkOutMonthYear.options[ i ].value == monthYear )
+	          destForm.checkOutMonthYear.options[ i ].selected = true
+	      }
+			}
+		if (parent.document.getElementById('calendar_pop_out')) {
+			parent.document.getElementById('calendar_pop_out').style.display = "none";
+			}
+		if (parent.document.getElementById('calendar_side_pop_out')) {
+			parent.document.getElementById('calendar_side_pop_out').style.display = "none";
+			}
+
+
+    }
+
+		/**
+		 * Returns true if the check out date is before
+		 * the check in date.  Function is added for HD2.
+		 */
+		function isCheckOutBeforeCheckInDate() {
+		
+			var isHotelDetailCal = null;
+      var outputDateFormat = 'null';
+      var destForm = parent.document.forms.searchForm;
+      
+			if (isHotelDetailCal!=null) {
+				var cFullCheckInDate = destForm.checkInFullDate.value;
+				var cFullCheckOutDate = destForm.checkOutFullDate.value;
+				var checkInDateArray = cFullCheckInDate.split("/");
+				var checkOutDateArray = cFullCheckOutDate.split("/");
+				if (outputDateFormat=='yyyy/mm/dd') {				
+					// CHECK IN/OUT DATE
+					var cCheckInDate = checkInDateArray[2];
+					var cCheckOutDate = checkOutDateArray[2];
+					// CHECK IN/OUT MONTH
+					var cCheckInMonth = checkInDateArray[1];
+					var cCheckOutMonth = checkOutDateArray[1];					
+					// CHECK IN/OUT YEAR
+					var cCheckInYear = checkInDateArray[0];
+					var cCheckOutYear = checkOutDateArray[0];
+				} 
+				// Date in format dd/mm/yyyy
+				else {
+					// CHECK IN/OUT DATE
+					var cCheckInDate = checkInDateArray[0];
+					var cCheckOutDate = checkOutDateArray[0];					
+					// CHECK IN/OUT MONTH
+					var cCheckInMonth = checkInDateArray[1];
+					var cCheckOutMonth = checkOutDateArray[1];
+					// CHECK IN/OUT YEAR
+					var cCheckInYear = checkInDateArray[2];
+					var cCheckOutYear = checkOutDateArray[2];
+				}
+				var compareDates = true;
+				// CHECK IN/OUT DATE
+				if(cCheckInDate == null || cCheckInDate == "dd" || cCheckInDate == ""){
+				    cCheckInDate = "-1";
+				    compareDates = false;
+				}
+				if(cCheckOutDate == null || cCheckOutDate == "dd" || cCheckOutDate == ""){
+				    cCheckOutDate = "-1";
+				    compareDates = false;
+				}				
+				// CHECK IN/OUT MONTH
+				if(cCheckInMonth == null || cCheckInMonth == "mm" || cCheckInMonth == ""){
+				    cCheckInMonth = "-1";
+				    compareDates = false;
+				}
+				if(cCheckOutMonth == null || cCheckOutMonth == "mm" || cCheckOutMonth == ""){
+				    cCheckOutMonth = "-1";
+				    compareDates = false;
+				}				
+				// CHECK IN/OUT YEAR
+				if(cCheckInYear == null || cCheckInYear == "mm" || cCheckInYear == ""){
+				    cCheckInYear = "-1";
+				    compareDates = false;
+				}
+				if(cCheckOutYear == null || cCheckOutYear == "mm" || cCheckOutYear == ""){
+				    cCheckOutYear = "-1";
+				    compareDates = false;
+				}
+				if (compareDates) {
+					var cParsedCheckInDate = new Date(cCheckInYear, cCheckInMonth, cCheckInDate);
+					var cParsedCheckOutDate = new Date(cCheckOutYear, cCheckOutMonth, cCheckOutDate);
+					if (cParsedCheckInDate>=cParsedCheckOutDate) {
+						return true;
+					}
+				}				
+			}
+			return false;
+		}
+		
+  // -->
+  </script>
+</head>
+
+<body bgcolor="#B5B6B5" style="margin:0">
+
+
+
+<table align="left" margin="0">
+<tr>
+<td>
+  <table cellpadding="0" cellspacing="1" border="0" align="center">
+    <form name="calControl" onSubmit="return false;">
+    <tr>
+      <td align="center">
+        <select name="month" class="f11" onchange="setYear();reloadCalendar('searchForm', 0);">
+          
+            
+              
+                
+                  <option value="0" class="f11">January
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="1" class="f11">February
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="2" class="f11">March
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="3" class="f11">April
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="4" class="f11">May
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="5" class="f11">June
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="6" class="f11">July
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="7" class="f11">August
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="8" class="f11">September
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                
+                  <option value="9" class="f11" selected>October
+</option>
+                
+              
+            
+          
+            
+              
+                
+                  <option value="10" class="f11">November
+</option>
+                
+                
+              
+            
+          
+            
+              
+                
+                  <option value="11" class="f11">December
+</option>
+                
+                
+              
+            
+          
+        </select>
+        <select name="year" class="f11" onchange="reloadCalendar('searchForm', 0);">
+          
+            
+              
+                
+                
+                  <option value="2008" class="f11" selected>2008</option>
+                
+              
+            
+          
+            
+              
+                
+                  <option value="2009" class="f11">2009</option>
+                
+                
+              
+            
+          
+        </select>
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="center"> 
+      	
+      		
+      			
+      			
+      		
+			
+		
+		
+		
+			
+	      		<a href="#" onClick="reloadCalendar('searchForm', -1); return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/calendar.Par.0005.Image.gif" alt="Previous Month" height="23" width="37" border="0"></a>
+	      	
+	      	
+	      		<a href="#" onClick="setToday('searchForm'); return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/textimg.Par.0001.Image.gif" alt="Today" height="23" width="84" border="0"></a>
+	      	
+	      	
+	      		<a href="#" onClick="reloadCalendar('searchForm', 1); return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/calendar.Par.0006.Image.gif" alt="Next Month" height="23" width="37" border="0"></a>
+	      	
+	     
+	     
+      </td>
+    </tr></form>
+    
+  </table>
+  </td>
+  </tr>
+  <tr>
+  <td>
+  <table cellpadding="2" cellspacing="1" border="0" align="center" bgcolor="#064E80">
+    <tr bgcolor="white">
+      <td width="22" class="heading" align="center">Sun
+</td>
+      <td width="22" class="heading" align="center">Mon
+</td>
+      <td width="22" class="heading" align="center">Tue
+</td>
+      <td width="22" class="heading" align="center">Wed
+</td>
+      <td width="22" class="heading" align="center">Thu
+</td>
+      <td width="22" class="heading" align="center">Fri
+</td>
+      <td width="22" class="heading" align="center">Sat
+</td>
+    </tr>
+    <tr>
+      
+        
+          <td bgcolor="lightgrey" class="pastDate">&nbsp;</td>
+        
+          <td bgcolor="lightgrey" class="pastDate">&nbsp;</td>
+        
+          <td bgcolor="lightgrey" class="pastDate">&nbsp;</td>
+        
+      
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('1')">1</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('2')">2</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('3')">3</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('4')">4</a></td>
+          
+        
+        
+          </tr>
+          <tr>
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('5')">5</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('6')">6</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('7')">7</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('8')">8</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('9')">9</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('10')">10</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('11')">11</a></td>
+          
+        
+        
+          </tr>
+          <tr>
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('12')">12</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('13')">13</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('14')">14</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('15')">15</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('16')">16</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('17')">17</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('18')">18</a></td>
+          
+        
+        
+          </tr>
+          <tr>
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('19')">19</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('20')">20</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('21')">21</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('22')">22</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('23')">23</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('24')">24</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('25')">25</a></td>
+          
+        
+        
+          </tr>
+          <tr>
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('26')">26</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('27')">27</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('28')">28</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('29')">29</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('30')">30</a></td>
+          
+        
+        
+      
+        
+        
+          
+          
+          
+            <td align="right" bgcolor="lightgrey"><a href="javascript:setCheckOutPopDate('31')">31</a></td>
+          
+        
+        
+      
+      
+        
+          <td bgcolor="lightgrey" class="pastDate">&nbsp;</td>
+        
+      
+    </tr>
+  </table>
+</td>
+</tr>
+</table>
+
+</body>
+
+</HTML>
+
+
+
+
+

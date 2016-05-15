@@ -1,0 +1,12 @@
+GET /mail/channel/test?at=xn3j3022s94piz2yqiqnx80qxagfx7&VER=6&it=10&TYPE=xmlhttp&zx=kfzu9xh69v2l&t=1 HTTP/1.1
+Host: mail.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: close
+Referer: http://mail.google.com/mail/?ui=2&view=js&name=js&ver=80lCHVuPxfI&am=T_E4pcLnE08YZQ
+Cookie: __utmx=173272373.; __utmz=173272373.1205084010.5.2.utmccn=(referral)|utmcsr=netbnr.net|utmcct=/redirect.html|utmcmd=referral; __utma=173272373.1638222975.1182389317.1205084010.1205463613.6; GX=DQAAAHAAAABghFRDyo0lZ3D0VoW4vCRUZgYbB_AeZs22mIGrXaRY8PXdHOHIoZ8ck8UQ6Ey9qpuGTugvwIEtJVi6g4Tuu5wuFD5d16C4V5BU8lHTBB6tGvZ5p26QtoPNgR5S2Jm1fwJLyYTJkVW59Qb46gPGfNp7; S=gmail=GVchkIE-6yPxOEVAvGfDGA:gmail_yj=OL7z-8-69WmmrxmMoEtmGw:gmproxy=JT40Neyo-y4:gmproxy_yj=KB5FuQA2F1U:gmproxy_yj_sub=29FL8MKqPe0; GMAIL_AT=xn3j3022s94piz2yqiqnx80qxagfx7; gmailchat=mylady.ixchel@gmail.com/833697; NID=8=PIHrm3_gKF3dFvrqD-o2IKj9qhB7at-vf-cHMDJsqV-Xk9jjDmnCcFgTaLXSA12hWxqIodI0DF5ODyrbV7gK1XLNz0vC3YGls9vpVe1U08b6o-gLp4Of5qxBiK--Exvf; __utmz=173272373.1206412915.1.1.utmccn=(referral)|utmcsr=video.google.com|utmcct=/videouploadsuccess|utmcmd=referral; PREF=ID=f374cfeeaf2ab8f5:TM=1178453904:LM=1202668046:GM=1:S=QZK9Q3YP8BqaQv6A; rememberme=false; __utma=173272373.1611040392.1206412915.1206412915.1206412915.1; TZ=420; GMAIL_RTT=132; SID=DQAAAG0AAADQx-Us57eIMjR7ZsWx6OmvP2Vhi-YRJLAwtvj97zzUBX4MaWB4ZgwNm9PTWaAy4K4nuiFNcpY8trH-x2DMOd_FmfcPl1cODjjj8I88pAuxhAcV3gZ4Tn8oRyUmW4TQPhF6US3ddkucygF8gQf7T80n
+

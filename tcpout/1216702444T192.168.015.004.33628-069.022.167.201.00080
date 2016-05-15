@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=CC588E66C2E69F6896EC020A0F728BE5&CDDBMuiID=1176757&an=I.%20%5BMod%C3%A9r%C3%A9%5D&pn=Ravel%20-%20Debussy%20-%20Faur%C3%A9%20-%20Piano%20Trios HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: F9419D69-4E51E2F86BB49BB3C3E19AE08524EE15
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

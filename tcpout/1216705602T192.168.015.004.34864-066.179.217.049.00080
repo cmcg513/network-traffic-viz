@@ -1,0 +1,36 @@
+GET /cm?tid=5&ci=90081223%3B90086566&vn2=e4.0&st=1216705626002&vn1=4.0.23&ec=UTF-8&li=2&pr=SACCP&pm=%28SACCP%29%20SACRAMENTO-CAPITOL%20PLAZA&ps1=SACCP&ps2=%28SACCP%29%20SACRAMENTO-CAPITOL%20PLAZA&ps3=HI&ps4=hi&ps5=en&ps6=1&ps7=95814&ps8=SACRAMENTO&ps9=CALIFORNIA&ps10=United%20States&ps11=tdbnidaaa%7Ctdbsidaaa%7C&ps12=PCRFaceplate%20Split%202%3A90112887_OLDPC&ps13=hi/1/en&ps15=99502222&cg=hi/1/en&pc=Y&pi=HOTEL%20VIEW%3A%20%28SACCP%29%20SACRAMENTO-CAPITOL%20PLAZA%20%28propertyCode%29&rf=http%3A//www.ichotelsgroup.com/h/d/hi/1/en/availsearch%3F_requestid%3D115099&ul=http%3A//www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp%3F%26ias%3Dy%26availCheckCaching%3Dn%26_requestid%3D115257&lp=availsearch HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp?&ias=y&availCheckCaching=n&_requestid=115257
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705626; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705626; 01AI=2-2-9867C601D0893633CE909148BB8B3F448F63B93C860082563929806AE7B08B0A-B21E350C9A573407ECDCF8D797A6BF473D676DA463C88206069F8918E1719480; 01IS=U; 01AIS=1
+
+GET /cm?ci=90081223%3B90086566&st=1216705645044&vn1=4.0.23&ec=UTF-8&pi=availsearch&tid=9&cm_re=pcr-_-hmpg-_-b&tid=9&cm_sp=pcr-_-lrnmr-_-hmpgtp&cm_re=pcr-_-hmpgtop-_-lrnmr-tp HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?_requestid=115099
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705645; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705645; 01AI=2-2-9867C601D0893633CE909148BB8B3F448F63B93C860082563929806AE7B08B0A-B21E350C9A573407ECDCF8D797A6BF473D676DA463C88206069F8918E1719480; 01IS=U; 01AIS=1
+
+GET /cm?ci=90081223%3B90086566&st=1216705645044&vn1=4.0.23&ec=UTF-8&pi=availsearch&tid=8&ti=1216705650452&hr=/h/d/hi/1/en/rates/saccp%3Fias%3Dy%26searchStartFrom%3Debsmq%26fromSearchResult%3Dyes%26viewHotelPackagesFlag%3Dfalse HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?_requestid=115099
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705645; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705645; 01AI=2-2-9867C601D0893633CE909148BB8B3F448F63B93C860082563929806AE7B08B0A-B21E350C9A573407ECDCF8D797A6BF473D676DA463C88206069F8918E1719480; 01IS=U; 01AIS=1
+

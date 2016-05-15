@@ -1,0 +1,121 @@
+<codes>
+	<gamecode value="bingbing">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="stacker">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="know">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="soccer">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="othrow">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="tearitup">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="curling">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="basketball">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="hockey">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="cornhole">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="oflingo">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="kickoff">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="golf">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="orbuku">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="blackjack">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="dunk">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="shuffle">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="gondo">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="hotel">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="island">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="pool">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="fish">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="ski">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="airdog">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="path">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="football">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="baseball">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="volleyball">
+		<clickcount percentage="0.1" />
+	</gamecode>
+
+	<gamecode value="run">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="puttputt">
+		<clickcount percentage="0.0" />
+	</gamecode>
+</codes>

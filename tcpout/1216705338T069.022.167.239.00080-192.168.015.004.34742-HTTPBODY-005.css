@@ -1,0 +1,1654 @@
+
+
+
+
+
+/* 
+=======================================
+HI home stylesheet
+=======================================
+*/
+
+
+body { 
+	background-color: #FFF;
+	margin: 0; 
+	padding: 0;
+	font-family: Verdana, sans-serif;
+	}
+.f10{
+	font-family: Verdana, sans-serif;
+	font-size: 10px;
+}
+.f7pt{
+	font-family: Verdana, sans-serif;
+	color: #000000; 	
+	font-size: 7pt;
+	padding: 0px 0px 0px 0px;	
+	text-align: center;
+	font-weight: normal;
+}
+.langlist{
+    font-family: Verdana, sans-serif;
+    font-size: 10px;
+	width: 130px;
+}
+#error {
+	position: absolute;
+	left: 65px;
+	top: 167px;
+	font-family: Verdana, sans-serif;
+	color: #CC0000;
+	font-size:12px;
+	font-weight: bold;
+	width: 250px;
+	padding: 2px 2px 2px 2px;
+	background-color: #C9C9C9;
+	border: 2px solid #000000;
+	z-index: 1;
+}
+/*
+=======================================
+Shells
+=======================================
+*/
+#shell {
+	left: 0px;
+	position: absolute;
+	top: 10px;
+}
+/* 
+=======================================
+top navigation & header
+=======================================
+*/
+
+#addToFav a{
+	position: absolute;
+	left: 190px;
+	top: 2px;
+	font-family: Arial, sans-serif; 
+	color: #000000; 	
+	font-size: 7pt;
+	font-weight: bold;
+	text-decoration: underline;
+}
+#globalNav {
+	position: absolute;
+	left: 190px;
+	height: 25px;
+	width: 814px;
+	top: 0px;
+	text-align: left;
+	font-family: Verdana, sans-serif; 
+	color: #009E74; 	
+	font-size: 8pt;
+	font-weight: bold;
+	margin-top: -5px;
+	padding: 0px 0px 0px 0px;
+	}
+#globalNav a {
+	color: #009E74; 	
+	text-decoration: none;
+	}
+
+#globalNav a:hover {
+	color: #FF6600; 	
+	}
+
+
+#hurricane a {
+	color: #FF0000; 	
+	text-decoration: none;
+	}
+
+#hurricane a:hover {
+	color: #009E74; 	
+	}
+
+#headerImg { 
+	position: absolute;	
+	left: 190px;
+	top: 16px;
+	width: 590px;
+	height: 107px;
+	padding: 0px 0px 0px 0px;	
+	}
+#longHeaderImg { 
+	position: absolute;	
+	left: 190px;
+	top: 16px;
+	width: 812px;
+	height: 107px;
+	padding: 0px 0px 0px 0px;
+	z-index: 5;
+	}
+#topNav {
+	position: absolute;	
+	left: 190px;
+	top: 125px;	
+	border-collapse: collapse;
+	height: 27px;
+	width: 595px;
+	}
+#topNav a{
+	float: left;
+	}
+
+/* 
+=======================================
+left column
+=======================================
+*/
+
+#logo { 
+	position: absolute;	
+	left: 0px;
+	top: 0px;
+	margin: 0px;
+	padding: 0px 0px 0px 0px;	
+	width: 188px;	
+	height: 107px;
+	}
+#logoUrl {
+	margin: 0px;
+	padding: 0px 0px 0px 0px;	
+	position: absolute;	
+	top: 123px;
+	left: 25px;
+	width: 188px;	
+	height: 29px;
+	color: #00693F;
+	font-size: 9pt;
+	text-decoration: none;
+}
+#leftColumn {
+	position: absolute;
+	left: 0;
+	top: 152px;	
+	padding: 0;	
+	width: 188px;
+	height: 220px;
+	background: #E2E2E2 url(http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/fphome/bandb.Par.0001.Image.gif) no-repeat top;
+	}
+/*leftColumnSecure not needed*/
+
+#i_login_faceplate {
+	position: absolute;
+	left: 0;
+	top: 200px;	
+	
+	width: 188px;
+	}
+#i_login_faceplate h2{
+	padding: 0px 0px 5px 10px;	
+	background: #E2E2E2;
+	}
+#i_login_faceplate h2 a:link{
+	font-size: 7pt;
+	font-weight: normal;
+	padding: 0px 0px 0px 0px;	
+	text-align: left;
+	text-decoration:underline;
+	color: #00693F;
+	}
+#i_login_faceplate h2 a:hover{
+	color: #FF6600;	
+	font-size: 7pt;
+	font-weight: normal;
+	padding: 0px 0px 0px 0px;	
+	text-align: left;
+	text-decoration:underline;
+	}
+#i_login_faceplate h2 a:visited{
+	color: #FFFFFF; 	
+	font-size: 7pt;
+	text-align: left;
+	text-decoration:underline;
+	}
+#i_login_faceplateLogo{
+	position: absolute;
+	left: 0px;
+	top: 165px;
+}
+#i_login_faceplate label{
+	font-family: Verdana, sans-serif;
+	font-size: 8pt;
+	color: #00693F;
+	font-weight: normal;
+	}
+
+#i_login_faceplateJoin {
+	position: absolute;
+	left: 0;
+	top: 350px;	
+	padding: 0;
+	height: 163px;
+	background: #D9EADA url(http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/fphome/bandb.Par.0002.Image.gif) no-repeat bottom;	
+	}
+#loginGoButton {
+	position: absolute;
+	
+		
+		
+		
+			top: 63px;
+			left: 125px;
+		
+	
+	padding: 0px 0px 0px 0px;	
+	}
+#i_login_faceplatePCRMessage {
+	position: absolute;
+	left: 10px;
+	top: 392px;
+	width: 180px;
+	color: #00693F;
+	font-size: 7pt;
+	text-align: left;
+	}
+#i_login_faceplatePCRMessageV2 {
+	position: absolute;
+	left: 20px;
+	top: 370px;
+	width: 150px;
+	padding: 0px 0px 0px 0px;
+	font-family: Verdana, sans-serif;
+	color: #000000;
+	font-size: 7pt;
+	text-align: left;
+	}
+
+#i_login_faceplatePCRMessageV5 {
+	position: absolute;
+	left: 10px;
+	top: 370px;
+	width: 180px;
+	padding: 0px 0px 0px 0px;
+	font-family: Verdana, sans-serif;
+	color: #000000;
+	font-size: 7pt;
+	text-align: left;
+	}
+
+#pclubJoin a {
+	position: absolute;
+	top: 405px;	
+	padding: 0px 0px 0px 10px;		
+	text-align: left;
+	font-family: Arial, sans-serif; 
+	color: #00693F;
+	font-size: 10pt;	
+	font-weight: bold;
+	text-decoration: underline;	
+	}
+#pclubJoinV2 {
+	position: absolute;
+	left: 10px;
+	top: 410px;
+	padding: 0px 0px 0px 10px;		
+	background-color: #009E74;
+	text-align: left;
+	font-family: Arial, sans-serif; 
+	color: #FFFFFF;
+	font-size: 9pt;
+	font-weight: bold;	
+	}
+#pclubJoinV3 {
+	position: absolute;
+	left: 1px;
+	top: 375px;
+	padding: 0px 0px 0px 10px;		
+	background-color: #009E74;
+	text-align: left;
+	font-family: Arial, sans-serif; 
+	color: #FFFFFF;
+	font-size: 9pt;
+	font-weight: bold;	
+	}
+#pclubJoinV4 {
+	position: absolute;
+	left: 20px;
+	top: 407px;
+	padding: 0px 0px 0px 10px;
+	background-color: #009E74;
+	text-align: left;
+	font-family: Arial, sans-serif;
+	color: #FFFFFF;
+	font-size: 9pt;
+	font-weight: bold;
+	}
+
+#pclubJoinV5 {
+	position: absolute;
+	left: 30px;
+	top: 412px;
+	padding: 0px 0px 0px 10px;
+	background-color: #009E74;
+	text-align: left;
+	font-family: Arial, sans-serif;
+	color: #FFFFFF;
+	font-size: 9pt;
+	font-weight: bold;
+	}
+
+#pclubJoinButton {
+	position: absolute;
+	left: 90px;
+	top: 402px;	
+	padding: 0px 0px 0px 0px;	
+}
+
+#pclubJoinButtonV2 {
+	position: absolute;
+	left: 140px;
+	top: 405px;
+	padding: 0px 0px 0px 0px;
+}
+
+#pclubJoinButtonV3 {
+	position: absolute;
+	left: 155px;
+	top: 370px;
+	padding: 0px 0px 0px 0px;
+}
+
+#pclubJoinButtonV4 {
+	position: absolute;
+	left: 130px;
+	top: 405px;
+	padding: 0px 0px 0px 0px;
+}
+
+#pclubJoinButtonV5 {
+	position: absolute;
+	left: 123px;
+	top: 410px;
+	padding: 0px 0px 0px 0px;
+}
+#pclubJoinButtonContent {
+	position: absolute;
+	left: 10px;
+	top: 430px;
+	z-index: 1;
+}
+#i_top_status_faceplate {
+	position: absolute;
+	left: 0px;
+	top: 178px;	
+	padding: 0px 0px 0px 0px;	
+	width: 188px;
+	height: 310px;
+	font-family: Verdana, sans-serif;
+	color: #00693F; 	
+	font-size: 8pt;
+	}
+
+#i_top_status_faceplate_content {
+	position: relative;
+	left: 12px;
+	width: 170px;
+}
+#i_top_status_faceplate_greeting {
+	font-weight: bold;
+	}
+.greetingButton {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	}
+#i_top_status_faceplatelogo {
+	position: relative;
+	left: 10px;
+	top: 287px;	
+	padding: 0px 0px 0px 0px;	
+	}
+#i_top_status_faceplateLogout {
+	position: relative;
+	left: 0px;
+	top: 320px;	
+	padding: 0px 0px 0px 12px;	
+	font-family: Verdana, sans-serif;
+	color: #FFFFFF; 	
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	z-index: 1;
+	}
+#i_top_status_faceplateNotYou {
+	position: relative;
+	left: 0px;
+	font-size: 7pt; 
+	margin-bottom: 3px;
+	}
+#i_top_status_faceplateNotYou a {
+	font-family: Verdana, sans-serif;
+	color: #00693F; 
+	font-size: 8pt;
+	font-weight: bold;
+	text-decoration: underline;
+	}
+#profileSelect {
+	font-family: Verdana, sans-serif;
+	font-size: 10px;
+	width: 170px;
+	}
+#i_top_status_faceplatelogoImplicit {
+	position: relative;
+	left: 10px;
+	top: 272px;	
+	padding: 0px 0px 0px 0px;	
+	}
+#i_top_status_faceplateLogoutImplicit {
+	position: relative;
+	padding: 0px 0px 0px 12px;	
+	font-family: Verdana, sans-serif;
+	color: #FFFFFF; 	
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	}
+	
+#PCRmessage {
+	position: absolute;
+	top: 365px;
+	left: 0px;
+	width: 188px;
+	border-top: 1px solid #FFFFFF;
+	font-family: Verdana, sans-serif;
+	color: #FFFFFF; 	
+	font-size: 10px;
+	font-weight: normal;
+	text-align: left;
+	}
+#i_top_status_faceplatePCRset{
+	position: absolute;
+	font-family: Verdana, sans-serif;
+	top: 373px;
+	border-top: 1px solid #FFFFFF;
+	width: 188px;
+	background: #DAEBDB;
+	height: 100px;
+}
+#i_top_status_faceplatePCRMessage {
+	color: #00693F;
+	font-size: 8pt;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	padding-left: 5px;
+	padding-top: 10px;
+}
+#i_top_status_faceplatePCRMessageRegister {
+	display: inline;
+	position: relative;
+	left: 10px;
+	top:  10px;
+	color: #FEF215; 	
+	font-size: 8pt;
+	font-weight: bold;
+	margin: 0px 0px 0px 25px;
+	text-align: left;
+	text-decoration: none;
+	top: -2;
+}
+#i_top_status_faceplatePCRMessageRegister a { color: #00693F; }
+#i_top_status_faceplatePCRMessageRegister a.anchor { color: #00693F; }
+#i_top_status_faceplatePCRMessageRegisterButton {
+	display: inline;
+	position: relative;
+	left: 12px;
+	top: 5px;
+}
+#PCRlogo {
+	position: relative;
+	left: -12px;
+	top: -6px;
+	overflow: hidden;
+	}
+#logout_a {
+	position: relative;
+	
+		
+		
+			top: -3px;
+		
+		
+	}
+.viewAccountButton {
+	position: absolute;
+	left: 10px;
+	top: 16px;	
+	padding: 3px 0px 0px 0px;	
+	}
+.accountLogInButton {
+	position: absolute;
+	left: 10px;
+	top: 17px;	
+	padding: 3px 0px 0px 0px;	
+	}
+#brandMessage {
+	position: absolute;
+	left: 0px;
+	top: 438px;	
+	padding: 0px 0px 0px 0px;	
+	width: 188px;
+	height: 75px;
+	background: #D9EADA url(http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/fphome/bandb.Par.0002.Image.gif) no-repeat bottom;	
+	}
+* html #brandMessage { height: 77px; }
+#brandMessageText {
+	position: absolute;
+	left: 10px;
+	top: 10px;
+	height: 60px;
+	width:170px;
+	font-size: 10px;
+	padding: 0px 0px 0px 0px;	
+	text-align: left;
+	font-family: Verdana, sans-serif;
+	color: #00693F; 	
+	}
+#travelProfile{
+	position: relative;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	z-index: 1;
+	}
+#travelProfilesHidden {
+	visibility: hidden;
+	}
+#profileSelectVisible {
+	position: relative;
+	font-family: Verdana, sans-serif;
+	font-size: 10px;
+	width: 170px;
+	}
+
+/* 
+=======================================
+right column
+=======================================
+*/
+
+#rightColumn {
+	position: absolute;
+	left: 782px;
+	top: 125px;	
+	padding: 0px 0px 0px 0px;	
+	width: 222px;
+	height: 388px;
+	border-collapse: collapse;
+	overflow: hidden;
+	background: #DAEBDB url(http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/fphome/bandb.Par.0004.Image.gif) no-repeat bottom;
+	
+		
+		
+			height: 388px;
+		
+	
+	}
+#flashcontent {
+	margin-left: 7px;
+	position: relative;
+	top: -2px;	
+	}
+/* 
+=======================================
+quickRes
+=======================================
+*/
+
+
+#quickRes {
+	position: absolute;
+	left: 190px;
+	top: 153px;	
+	padding: 0;	
+	color: #00693F; 
+	border: 1px solid #AAA;
+	
+		
+		
+		
+			width: 429px;
+			height: 279px;
+		
+	
+	}
+
+/*quickResSecure not needed */
+
+
+#quickRes p{
+	font-family: Century Gothic, sans-serif; 
+	color: #00693F; 
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: left;
+	}
+
+#quickRes A:link, #quickRes A:active, #quickRes A:hover, #quickRes A:visited{
+	color: #00693F; 
+	font-family: Verdana, sans-serif; 
+	font-size: 8pt;
+	font-weight: normal;
+	}
+	
+#quickResHeader {
+	position: absolute;
+	left: 14px;
+	top: 15px;	
+	padding: 0px 0px 0px 0px;	
+	font-family: Century Gothic, sans-serif; 
+	color: #00693F; 
+	font-size: 12pt;
+	font-weight: bold;
+	text-align: left;
+}
+
+#quickResSearchTypes {
+	position: absolute;
+ 	left:14px;
+	top: 35px;
+	padding: 0px 0px 0px 0px;
+	display: inline;
+	font-size: 8pt;
+	vertical-align: middle;
+}
+
+#quickResSearchTypes input, #quickResSearchTypes img {
+	vertical-align: middle;
+}
+
+#quickResTPIcities {
+	position: absolute;
+ 	left:10px;
+	top: 50px;
+	width: 400px;
+	font-family: Verdana, sans-serif; 
+	color: #000000; 	
+	padding: 0px 0px 0px 0px;
+	font-size: 8pt;
+	display: none;
+	border-bottom: 2px solid #00693F;
+}
+.TPIset {
+	display: inline;
+	width: 80px;
+}
+#destinationChoices {
+	position: absolute;
+ 	left: 14px; 
+ 	top:60px;
+	font-family: Verdana, sans-serif; 
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	}
+#destinationChoices2 {
+	position: absolute;
+ 	left: 14px; 
+ 	top:60px;
+	font-family: Verdana, sans-serif; 
+	color: #000000; 	
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	}
+
+#quickResFaveDestinations { 
+	display: none;
+	position: relative;
+}
+#quickResFavDestSelect {
+	font-family: Verdana, sans-serif; 
+	padding: 0px 0px 0px 0px;
+}
+.quickResFavSelectDropdown {
+	font-family: Arial, sans-serif;
+	margin-top: 1px;
+	font-size: 9px;
+}
+.quickResFavSelectDropdown2 {
+	font-family: Arial, sans-serif;
+	font-size: 9px;
+	color: blue;
+}
+.quickResFavSelectDropdown3 {
+	font-family: Arial, sans-serif;
+	font-size: 9px;
+}
+.quickResFavSelectDropdown4{
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+	font-size: 9px;
+	color: #FFFFFF;
+	background-color: #017356;
+	font-weight: bold;
+}
+#quickResCountry { 
+	position: relative;
+	width: 150px;
+	margin-top: 2px;
+	}
+
+#quickResAddress { 
+	position: relative;
+	}
+
+#quickResAttraction { 
+	position: relative;
+	}
+
+#quickResAirport { 
+	position: relative;
+	}
+#quickResCityState { 
+	position: relative;
+	width: 170px;
+	}
+#quickResCity { 
+	display: inline;
+	position: relative;
+	width: 110px;
+	}
+#quickResState { 
+	display: inline;
+	position: relative;
+	visibility: hidden;
+	width: 30px;
+	float: right;
+ 	}
+
+#quickResStateAlpha { 
+	position: relative;
+	width: 30px;
+ 	}
+#quickResRadius {
+ 	position: relative;
+ 	top: 12px;
+ 	display: none;
+}
+#quickResRight {
+	position: absolute;
+ 	left: 215px; 
+ 	top:60px;
+	font-family: Verdana, sans-serif; 
+	font-size: 8pt;
+	font-weight: normal;
+	text-align: left;
+	}
+
+#quickResCheckInNights {
+	position: relative;
+	width: 200px;
+	height: 32px;
+}
+#quickResCheckIn {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 200px;
+	display: block;
+}
+#quickResNights {
+	position: absolute;
+	top: 0px;
+	width: 30px;
+	left: 159px;
+}
+
+#quickResCheckOut {
+	position: relative;
+	width: 200px;
+	display: block;
+}
+
+#quickResAgesRooms {
+ 	position: relative;
+ 	width: 200px;
+	height: 32px;
+}
+
+#quickResAdults {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+ 	width: 30px;
+}
+
+#quickResChildren {
+	position: absolute;
+	top: 0px;
+	left: 60px;
+ 	width: 30px;
+}
+
+#quickResRooms {
+	position: absolute;
+	top: 0px;
+	left: 130px;
+ 	width: 30px;
+}
+
+#quickResCrossSell {
+	height: 20px;
+	margin-top: 4px;
+}
+* html #quickResCrossSell  {
+	margin-left: -4px;
+}
+#quickResCrossSell input {
+	margin: 0;
+	vertical-align: text-top;
+}
+* html #quickResCrossSell input {
+	vertical-align: middle;
+}
+#quickResCrossSell label {
+	
+}
+
+#brandLogoContainer {
+	display: inline;
+	position: relative;	
+}
+#brandLogoContainer img {
+	border: none;
+	vertical-align: text-top;
+}
+#brandLogoFrame {
+	display: none;
+	z-index: 9999;
+}
+#brandLogo {
+	background-color: #f7f7f7;
+	border: 1px solid #666;
+	display: none;
+	font-color: #000;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	height: 219px;
+	left: 587px;
+	padding: 10px;
+	position: absolute;
+	top: 335px;
+	width: 204px;
+	z-index: 9999;
+}
+* html #brandLogo {
+	left: 590px;
+	top: 342px;
+}
+#brandLogo #ihgImg {
+	height: 32px;
+	position: relative;
+}
+#brandLogo #blText {
+	bottom: 0px;
+	position: absolute;
+	right: 0px;
+	text-align: right;
+}
+#brandLogo #blImg {
+	border-top: 1px solid #000;
+	margin-top: 5px;
+	padding-top: 5px;
+	text-align: center;
+}
+
+#quickResSubmit {
+	position: absolute; 
+	right: 12px; 
+	top: 185px;	
+}
+* html #quickResSubmit {
+	top: 193px;	
+}
+
+#quickResPointsLink {
+	position: absolute;
+ 	left:14px;
+	top: 229px;
+	color: #00693F; 
+	font-size: 8pt;
+	font-family: Verdana, sans-serif; 
+}
+#quickResPointsLinkAnonymous {
+	position: absolute;
+ 	left:14px;
+	top: 229px;
+	color: #00693F; 
+	font-size: 8pt;
+	font-family: Verdana, sans-serif; 
+}
+#quickResPointsLink a:visited {
+	color: #00693F;
+ 	font-size: 8pt; 
+	font-weight: bold;	
+	font-family: Verdana, sans-serif; 
+}
+#quickResPointsLink a:link {
+	color: #00693F;
+ 	font-size: 8pt; 
+	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+}
+#quickResPointsLink a:hover {
+	color: #FF6600;
+ 	font-size: 8pt;
+	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+}
+#quickResPointsLinkAnonymous a:visited {
+	color: #00693F;
+ 	font-size: 8pt; 
+	font-weight: bold;	
+	font-family: Verdana, sans-serif; 
+}
+#quickResPointsLinkAnonymous a:link {
+	color: #00693F;
+ 	font-size: 8pt; 
+ 	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+}
+#quickResPointsLinkAnonymous a:hover {
+	color: #FF6600;
+ 	font-size: 8pt;
+ 	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+}
+
+#quickResChoicesLink {
+	position: absolute;
+ 	left: 215px;
+	top: 229px;
+	color: #00693F; 
+	font-size: 8pt;
+}
+#quickResChoicesLink a:visited {
+	color: #00693F;
+ 	font-size: 8pt; 
+	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+}
+#quickResChoicesLink a:link {
+	color: #00693F;
+ 	font-size: 8pt;
+	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+}
+#quickResChoicesLink a:hover {
+	color: #FF6600;
+ 	font-size: 8pt;
+	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+}
+
+#quickResModifyLink {
+	position: absolute;
+ 	left: 14px;
+	top: 252px;
+	height: 15px;
+	font-weight: bold;
+}
+#quickResModifyLink a:visited { color: #00693F; font-weight: bold; }
+#quickResModifyLink a:link { color: #00693F; font-weight: bold; }
+#quickResModifyLink a:hover { color: #FF6600; font-weight: bold; }
+#quickResCheckInCalendar {
+	position: absolute;
+ 	left: 405px; 
+	top: 246px;
+	zIndex: 5;
+	visibility: hidden;
+	border: 1px solid;
+}
+#quickResCheckOutCalendar {
+	position: absolute;
+ 	left: 405px; 
+	top: 278px;
+	visibility: hidden;
+	border: 1px solid;
+}
+#favDest {
+	width: 190px;
+	}
+#quickResCheckIn_old {
+	position: relative;
+	display: block;
+}
+
+/* 
+=======================================
+calendar
+=======================================
+*/
+
+#calendar {
+	visibility: hidden;
+	position: absolute;
+	top: 270px;
+	left: 0px;
+	display: block;
+	font-family: Verdana, sans-serif;
+	font-size: 10px;
+	color: #FFFFFF;
+	padding: 0px 0px 0px 10px;
+	vertical-align: top;
+}
+
+    .futureDate  { color: #000; text-decoration: underline;}
+    .pastDate { color: #aaa; text-decoration: none;}
+    .close { 
+    	position: absolute;
+    	top: 1px;
+    	left : 210px;
+    	color: #00693f; 
+    	text-decoration: none; 
+    	font: bold 8pt Verdana, Arial, Helvetica, sans-serif;
+    	}
+    .currDate { 
+    	color: #000; 
+    	text-decoration: underline; 
+    	border: 1px solid #00693f;
+    	background: #EEF6E7;
+    	font: 8pt Verdana, Arial, Helvetica, sans-serif;
+    	}
+    
+    #calendar_frame {
+    	position: absolute;
+    	top: 0px;
+    	margin: 0px;
+    	background: #EEF6E7;
+    	width: 266px;
+    	height: 135px;
+    	}
+    #months_frame {
+    	position: absolute;
+    	top: 16px;
+    	left: 0px;
+    	margin-left: 2px;
+    	margin-right: 2px;
+    	margin-bottom: 2px;
+	background: #fff;
+	text-align: center;
+	display: block;
+	height: 115px;
+	width: 262px;
+	border: 1px solid #00693f;
+	z-index: 1;
+	}
+
+    #bisector { 
+    	position: absolute;
+    	left: 131px;
+	border-left: 1px solid #00693f;
+	height: 100%;
+	z-index: 1;
+	}
+    .month_label {
+    	text-align: center;
+    	font-size: 8pt;
+    	font-weight: bold;
+    	font-family: Verdana;
+    	color:  #00693F;
+    	background: #e2f0d2;
+    	display: block;
+    	height: 18px;
+ 	letter-spacing:-0.2mm 
+   	}
+
+    .calendar_table {
+    	background: #fff;
+    	display: block;
+    	}
+
+    #left_month {
+	float: left;
+	font-color: #00693f;
+    	width: 130px;
+    	display: block;
+    	text-align: center;
+	}
+	
+    #right_month {
+    	position: absolute;
+    	left: 133px;
+    	width: 127px;
+    	display: inline;
+    	text-align: center;
+	}
+
+    #monthOne {
+    	width: 130px;
+    	}	
+	
+    #monthTwo {
+    	position: relative;
+    	width: 127px;
+ 	}
+	
+    #monthOne, #monthTwo {
+	margins: 0px;
+	background: #fff;
+	}
+	
+    #monthOne td, #monthTwo td {
+        font: 8pt Verdana, Arial, Helvetica, sans-serif; 
+        line-height: 9pt;
+	letter-spacing: -0.2mm; 
+	text-align: center;
+	padding-top: 1px;
+	padding-left: 2px;
+	padding-right: 2px;
+	}
+    .days_of_week {
+     	background: #00693f;
+     	color: #fff;
+     	}
+
+/* 
+=======================================
+featured offers
+=======================================
+*/
+
+
+#featuredOffersLeftImage {
+	position: absolute;
+	left: 190px;
+	top: 436px;	
+	padding: 0px 0px 0px 0px;
+	}
+#featuredOffersRightImage {
+	position: absolute;
+	left: 765px;
+	top: 436px;	
+	padding: 0px 0px 0px 0px;	
+	}
+#featuredOffersTitle {
+	position: absolute;
+	left: 189px;
+	top: 436px;	
+	padding: 0px 0px 0px 0px;	
+	background: url(http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/fphome/bandb.Par.0003.Image.gif) no-repeat top;
+	font-family: Century Gothic, sans-serif;
+	color: #006943;
+	font-size: 14px;
+	font-weight: bold;
+	width: 593px;
+	height: 77px;
+	overflow: hidden;
+	
+		
+		
+			height: 77px;
+		
+	
+	}
+#featuredOffersTitleOffer1 {
+	float: left;
+	height: 82px;
+	overflow: hidden;
+	}
+#featuredOffersTitleOffer2 {
+	float: left;
+	height: 82px;
+	overflow: hidden;
+	}
+#featuredOffersTitleOffer1 img 
+	
+		
+		
+		, #featuredOffersTitleOffer2 img 
+		
+	
+
+	{
+	position: relative;
+	top: -5px;
+	left: -1px;
+	}
+
+#featuredOffersTitle a.leftNavGuides:link{
+	font-family: Century Gothic, sans-serif;
+	color: #006943;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#featuredOffersTitle a.leftNavGuides:visited{
+	font-family: Century Gothic, sans-serif;
+	color: #006943;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#featuredOffersTitle a.leftNavGuides:hover{
+	font-family: Century Gothic, sans-serif;
+	color: #FF6600;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#featuredOffersTextTitle{
+	position: absolute;
+	left: 280px;
+	top: 436px;	
+	color: #FF6600;
+ 	font-size: 8pt;
+	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+	padding: 3px 0px 0px 15px;	
+	height: 20px;
+	width: 270px;
+	text-align: left;
+	}
+#featuredOffersText {
+	position: absolute;
+	left: 280px;
+	top: 456px;	
+	font-family: Verdana, sans-serif; 
+	color: #000000;
+	font-size: 11px;
+	padding: 0px 0px 0px 15px;	
+	height: 57px;
+	width: 270px;
+	text-align: left;
+	visibility: hidden;
+	}
+#featuredOffersText a.anchor:link{
+	text-decoration: underline;
+	color: #000;
+}
+#featuredOffersText a.anchor:visited{
+	text-decoration: underline;
+}
+#featuredOffersText a.anchor:hover{
+	color: #FF6600;
+	text-decoration: underline;
+}
+
+#featuredOffersNumber  {
+	position: absolute;
+	left: 620px;
+	top: 436px;	
+	font-family: Century Gothic, sans-serif;
+	color: #006943;
+	font-size: 22pt;
+	font-weight: bold;
+	width: 162px;
+	height: 77px;
+	padding: 0px 0px 0px 0px;	
+	}
+#featuredOffersNumberBox {
+	position: absolute;
+	left: 612px;
+	top: 449px;	
+	width: 188px;
+	height: 60px;
+	padding: 0px 0px 0px 0px;	
+	}
+#featuredOffersNumberText {
+	color: #00693F;
+	font-family: Sans-serif;
+	font-weight: bold;
+	font-size: 17px !important;
+	position: absolute;
+	left: 12px;
+	top: 15px;
+	padding: 0;	
+	}
+#language {
+	padding: 0;	
+	display: inline;
+	margin: 0px 0px 0px 10px;
+	}
+/* languageSecure not needed */
+#languageButton {
+	position: relative;
+	top: 6px;
+	padding: 0px;	
+	}
+#globalNav form {
+	display: inline;
+	padding: 0px;
+	font-weight: normal;		
+	}
+#lirgBox {
+	position: absolute;
+	top: 153px;	
+	height: 146px;
+	background-color: #E2E2E2;
+	font-family: Century Gothic, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-decoration: none;
+        text-align: center;
+	
+		
+		
+			left: 623px;
+			width: 157px;
+		
+	
+	}
+#lirgBox img{
+	position: absolute;
+	left: 4px;
+	top: 0px;
+	width: 152px;
+	height: 115px;
+	}
+#lirgBox a.anchor {
+        position: absolute;
+        left: 25px;
+	top: 45px;
+	color: #00693F;	
+        }
+#emailOptinBox {
+	position: absolute;
+	left: 623px;
+	top: 299px;	
+	width: 157px;
+	height: 134px;
+	background-color: #E2E2E2;	
+	border-top: 1px solid #FFFFFF;
+        text-align: center;
+	color: #00693F;	
+	
+		
+		
+		
+			height: 134px;
+			left: 623px;
+		
+	
+}
+
+#emailOptinBoxTitle {
+	position: absolute;
+	left: 29px;
+	top: 23px;
+	font-family: Century Gothic, sans-serif; 
+	font-variant: normal;
+	font-size: 16px;
+	font-weight: bold;
+	}
+	
+#emailOptinBoxText {
+	position: absolute;
+	left: 5px;
+	top: 45px;
+	font-family: Verdana;
+        font-size: 8pt;
+	}
+
+#emailOptinBox input {
+        position: absolute;
+        left: 8px;
+        top: 63px;
+	}
+	
+#emailOptinBoxJoin a {
+	position: absolute;
+	left: 50px;
+	top: 85px;
+	font-family: Arial, sans-serif; 
+	color: #00693F;
+	font-size: 10pt;	
+	font-weight: bold;	
+	text-decoration: underline;
+	}
+	
+#emailOptinBoxButton {
+	position: absolute;
+	left: 100px;
+	top: 20px;
+}
+
+/* 
+=======================================
+pagebottom
+=======================================
+*/
+
+
+#brandRow {
+	position: absolute;
+	left: 247px;
+	top: 535px;	
+	height: 86px;
+	background-color: #FFFFFF;
+	width: 689px;
+}
+#brandRow img {
+	float: left;
+	text-decoration: none;
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	border-collapse: collapse;
+	display: inline;
+	z-index: 1;
+}
+#brandRowText {
+	position: absolute;
+	left: 0px;
+	top: 535px;	
+	padding: 0px 0px 0px 0px;	
+	width: 314px;
+	height: 86px;
+	background-color: #FFFFFF;
+}
+#brandRowVisitText {
+	color:#999;
+	font-size:10px;
+	font-weight:bold;
+	position:absolute;	
+	left:120px;
+	top: 25;
+	padding:0px;
+	text-align:right;
+	width:110px;
+}
+#brandRowMessage {
+	visibility: hidden;
+}
+#brandRowMessageImage{
+	visibility: hidden;
+}
+
+#logoRow {
+	position: absolute;
+	left: 0px;
+	top: 625px;	
+	padding: 0px 0px 0px 0px;
+	width: 1004px;
+}
+#footer {
+	position: absolute;
+	left: 0px;
+	top: 688px;	
+	padding: 0px 0px 0px 0px;	
+	text-align: center;
+	width: 1000px;
+}
+#optionalFooter{
+	padding: 0px 0px 0px 0px;	
+}
+#optionalFooter p{
+	padding: 0px 0px 0px 0px;	
+	text-align: center;
+}
+#i_login_faceplate_content {
+	font-family: Arial, sans-serif;
+	color: #00693f; 	
+	position: relative;
+	left: 10px;
+	width: 170px;
+}
+
+#i_login_faceplate a{
+	font-family: Arial, sans-serif;
+	color: #00693f; 	
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+	text-decoration:underline;
+}
+#i_login_faceplate_signinlink {
+	font-family: Arial, sans-serif; 	
+	font-size: 14px;
+	font-weight: bold;
+	padding-bottom: 3px;	
+	text-align: left;
+	
+}
+#i_login_faceplate_signinlink a{
+	font-family: Arial, sans-serif;
+	color: #00693f; 	
+	font-size: 14px;
+	font-weight: bold;	
+	text-align: left;
+	text-decoration:underline;
+}
+#i_top_status_faceplate_content {
+	position: relative;
+	left: 10px;
+	width: 170px;
+	top: -5px;
+}
+#i_top_status_faceplate a{
+color: #00693f;
+}
+#i_login_faceplate_space {
+	padding-bottom: 3px;
+	
+	}
+.brandNotyouText{	 	
+	Margin-left: 0px;
+	font-size: 11px;
+	Font-weight: Bold;
+	Text-decoration: underline;
+	padding: 0px 0px 0px 0px;	
+	text-align: left;
+	font-family: arial, sans-serif;
+	color: #00693f;	 
+	}
+
+.brandGreeting {
+	font-family: arial, sans-serif;    
+	Font-weight: Bold;
+	
+	}
+
+.itopstatusfaceplateaccount{
+	font-family: Arial, sans-serif;
+	Font-size: 12px;
+	Font-weight: Bold;
+}
+#i_top_status_faceplate_signlink{	 	
+	Margin-left: 0px;
+	font-size: 14px;
+	Font-weight: Bold;
+	Text-decoration: underline;
+	padding: 0px 0px 0px 0px;	
+	text-align: left;
+	font-family: arial, sans-serif;
+	color: #00693f;	 
+	}
+#i_top_status_faceplate_signlink a{	 	
+	Margin-left: 0px;
+	font-size: 14px;
+	Font-weight: Bold;
+	Text-decoration: underline;
+	padding: 0px 0px 0px 0px;	
+	text-align: left;
+	font-family: arial, sans-serif;
+	color: #00693f;	 
+	}
+#i_top_status_faceplate_isnotme{	
+	font-size: 11px;
+	Font-weight: bold;		
+	text-align: left;
+	font-family: arial, sans-serif;
+	left: 0px;	
+}
+#i_top_status_faceplate_isnotme a{	
+	font-size: 11px;
+	Font-weight: bold;		
+	text-align: left;
+	font-family: arial, sans-serif;
+	left: 0px;
+}
+.brandSigninText{	 	
+	Margin-left: 0px;
+	font-size: 14px;
+	Font-weight: Bold;
+	Text-decoration: underline;
+	padding-top: 3px;	
+	text-align: left;
+	font-family: arial, sans-serif;
+	color: #00693f;	 
+	}
+.brandSigninText a{	 	
+	Margin-left: 0px;
+	font-size: 14px;
+	Font-weight: Bold;
+	Text-decoration: underline;		
+	text-align: left;
+	font-family: arial, sans-serif;
+	color: #00693f;	 
+	}
+
+.brandMessageInsideText {	 	
+	Margin-left: 0px;
+	top: 10px;
+	height: 60px;
+	width:170px;
+	font-size: 11px;	 
+	padding: 0px 0px 0px 0px;	
+	text-align: left;
+	font-family: arial, sans-serif;
+	color: #00693f; 	
+	}
+
+#i_top_status_faceplate_body {
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	left: 0px;
+	padding-top: 2px;
+	padding-bottom: 4px;
+	}
+
+#i_top_status_faceplate_body a{
+	position:absolute;
+	font-family: Arial, sans-serif;
+	font-weight: normal;
+	font-size: 11px;
+	padding: 0px 0px 0px 0px;
+	left: 138px;
+	}
+#travelProfilebrand {
+	padding-top: 0px;
+	padding-bottom: 2px;
+	
+	}
+#profileSelectVisibleBrand {
+	position: relative;
+	font-family: Arial, sans-serif;
+	font-size: 10px;	
+	
+	
+	}
+#i_login_faceplate_signbutton{
+	padding-top: 4px;
+	padding-bottom: 2px;
+}
+
+#logOutButton {
+	position: absolute; 
+	left: 0px; 
+	top: 173px;		
+}

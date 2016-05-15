@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?an=Debussy&pn=Pr%C3%A9ludes%20Book%20II%3B%20Images%20Book%20II%20(disk%202%20of%202) HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 7E08CF82-346D4C01DE55E599D29BBDAA7774735B
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

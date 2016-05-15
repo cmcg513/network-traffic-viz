@@ -1,0 +1,8 @@
+GET /sparkle/update.php?generation=2&type=release HTTP/1.1
+User-Agent: Adium/1.2.7 (Mac OS X) Sparkle/1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.adiumx.com
+

@@ -1,0 +1,50 @@
+{ 
+ 
+var google_ads = new Array(); 
+var google_ad; 
+var google_radlinks = new Array(); 
+var google_radlink; 
+var google_info = new Object(); 
+google_ad = new Object(); 
+google_ad.n = 1; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BzJtgn2OFSKixH5zErAO1ib2DD_ClpUuG3K29B8CNtwHwogQQARgBIKD5zQkoAzgAUMe1r8T5_____wFgyYbqhsij9BmgAZjY__gDsgELd3d3LmNubi5jb23IAQHaARNodHRwOi8vd3d3LmNubi5jb20vgAIBqAMB6AMS6ANJ9QMEBAAA9QMEAAAAiAQBkAQBmAQA&amp;num=1&amp;adurl=http://www.the3hourworkday.com&amp;client=ca-cnn-home_js"; 
+google_ad.visible_url = "www.the3hourworkday.com"; 
+google_ad.line1 = "30 Year Old Retires Young"; 
+google_ad.line2 = "Make More In a Month Than Most Do"; 
+google_ad.line3 = "In A Year With This Simple Business"; 
+google_ad.regionname = ""; 
+google_ads[0] = google_ad; 
+google_ad = new Object(); 
+google_ad.n = 2; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BIuHpn2OFSKixH5zErAO1ib2DD46L31CA1PafBsCNtwHAuAIQAhgCIKD5zQkoAzgAUJatqrj9_____wFgyYbqhsij9BmgAeyV8_UDsgELd3d3LmNubi5jb23IAQHaARNodHRwOi8vd3d3LmNubi5jb20vgAIBqQK_cEEOd2KwPqgDAegDEugDSfUDBAQAAPUDBAAAAIgEAZAEAZgEAA&amp;num=2&amp;adurl=http://ralfrolf.com/ppctracker/a.php/a.php%3Fcampaign%3D%7Bcampaign%7D%26adgroup%3D%7Badgroup%7D%26keyword%3Dshopping%26match_type%3D%7Bmatch_type%7D%26ad%3D1563814812%26network%3Dcontent%26source%3Dadwords%26z%3D30%26b%3D1&amp;client=ca-cnn-home_js"; 
+google_ad.visible_url = "RalfRolf.com/Sex-or-Shopping"; 
+google_ad.line1 = "Sex or Shopping"; 
+google_ad.line2 = "What Do Women Mostly Think About!"; 
+google_ad.line3 = "Sex or Shopping?"; 
+google_ad.regionname = ""; 
+google_ads[1] = google_ad; 
+google_ad = new Object(); 
+google_ad.n = 3; 
+google_ad.type = "text"; 
+google_ad.bidtype = "CPC"; 
+google_ad.targeting_type = "contextual"; 
+google_ad.url = "http://pagead2.googlesyndication.com/pagead/iclk?sa=l&amp;ai=BHSZln2OFSKixH5zErAO1ib2DD_GGrmmb_8T3B8CNtwGw2wYQAxgDIKD5zQkoAzgAUIvvytr7_____wFgyYbqhsij9BmgAcm3nvoDsgELd3d3LmNubi5jb23IAQHaARNodHRwOi8vd3d3LmNubi5jb20vyAKJz8EHqAMB6AMS6ANJ9QMEBAAA9QMEAAAAiAQBkAQBmAQA&amp;num=3&amp;adurl=http://Wealthfamilytime.com&amp;client=ca-cnn-home_js"; 
+google_ad.visible_url = "Wealthfamilytime.com"; 
+google_ad.line1 = "Bartender Strikes it Big"; 
+google_ad.line2 = "Earns more In A Year than all of"; 
+google_ad.line3 = "His Family Combined. Learn How"; 
+google_ad.regionname = ""; 
+google_ads[2] = google_ad; 
+if (window.google_ad_request_done) { 
+google_ad_request_done(google_ads); 
+} 
+if (window.google_radlink_request_done) { 
+google_radlink_request_done(google_radlinks); 
+} 
+}

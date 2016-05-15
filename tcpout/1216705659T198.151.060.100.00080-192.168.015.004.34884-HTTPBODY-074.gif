@@ -1,0 +1,23 @@
+<html><head><title>302 Moved Temporarily</title></head>
+<body bgcolor="#FFFFFF">
+<p>This document you requested has moved temporarily.</p>
+<p>It's now at <a href="http://www.orbitz.com/images/dot.gif">http://www.orbitz.com/images/dot.gif</a>.</p>
+</body></html>
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 22 Jul 2008 05:51:22 GMT
+Server: Apache
+Location: http://www.orbitz.com/images/dot.gif
+Keep-Alive: timeout=15, max=66
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<HTML><HEAD>
+<TITLE>302 Moved Temporarily</TITLE>
+</HEAD><BODY>
+<H1>Moved Temporarily</H1>
+The document has moved <A HREF="http://www.orbitz.com/images/dot.gif">here</A>.<P>
+<P>Additionally, a 302 Found
+error was encountered while trying to use an ErrorDocument to handle the request.
+</BODY></HTML>

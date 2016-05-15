@@ -1,0 +1,54 @@
+GET /images/I/51hr2oKwBUL._SL500_SS60_.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: ecx.images-amazon.com
+
+GET /images/I/51pzkIQUx4L._SL500_SS60_.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: ecx.images-amazon.com
+
+GET /images/I/51rI%2BNF4VwL._SL500_PIsitb-dp-500-arrow,TopRight,45,-64_OU01_SS60_.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: ecx.images-amazon.com
+
+GET /images/I/21TBttIb5lL._SL500_SS60_.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: ecx.images-amazon.com
+
+GET /images/I/514P1RNDC2L._SL110_.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: ecx.images-amazon.com
+
+GET /images/I/317BVB0S0TL._SL110_.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: ecx.images-amazon.com
+

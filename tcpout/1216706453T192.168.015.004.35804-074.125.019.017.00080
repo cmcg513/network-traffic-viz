@@ -1,0 +1,662 @@
+GET /mail/?tab=cm HTTP/1.1
+Accept: */*
+Referer: http://www.google.com/calendar/render?utm_campaign=en&utm_source=en-ha-na-us-bk&utm_medium=ha&utm_term=google+calendar
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f
+
+GET /mail/?tab=cm&ui=html&zy=l&pli=1&auth=DQAAAHEAAACpkwa5FPWWUThmCfe3V2OlpsepD2oHxWNpervUnQSoBtrud2vf_WUJ2pEETWtWx2xXRK-irfuqqQHaiMnMsRY5UwK8ejNwnzY-osb4q1qqN2bVta6V0W8k429XG-f2kOIa2-s02cm-eRKqNUlVB30kcmelZwr2r_SK5dN9qyOuHg&gausr=jcoachj%40gmail.com HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f
+
+GET /mail/?tab=cm&auth=DQAAAHEAAACpkwa5FPWWUThmCfe3V2OlpsepD2oHxWNpervUnQSoBtrud2vf_WUJ2pEETWtWx2xXRK-irfuqqQHaiMnMsRY5UwK8ejNwnzY-osb4q1qqN2bVta6V0W8k429XG-f2kOIa2-s02cm-eRKqNUlVB30kcmelZwr2r_SK5dN9qyOuHg&gausr=jcoachj%40gmail.com&zx=rzbr6aidbmyc HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f
+
+GET /mail/?tab=cm&zx=rzbr6aidbmyc&shva=1 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f
+
+GET /mail/?tab=cm&zx=rzbr6aidbmyc&shva=1&ui=1 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60
+
+GET /mail/?ui=1&view=page&name=loading&ver=1n3l4zno1sjir HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?tab=cm&zx=rzbr6aidbmyc&shva=1&ui=1
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?tab=cm&zx=rzbr6aidbmyc&shva=1&ui=1
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/html/load.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/html/load.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&view=page&name=hist1&ver=1oix8vgy6z0pb HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/html/load.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/html/load.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/html/load.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/html/load.html HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&view=page&name=hist2&ver=1oix8vgy6z0pb HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/channel/test?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&MODE=init&zx=7crdr9s8o7qw&it=2531 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&view=page&name=gp&ver=sh3fib53pgpk&auto=1 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&view=page&name=gp&ver=sh3fib53pgpk&auto=1 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&view=page&name=gp&ver=sh3fib53pgpk&auto=1 HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/help/images/logo1.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=&search=inbox&view=tl&start=0&init=1&zx=2uplvqmc8gmh
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/star_on_sm_2.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=&search=inbox&view=tl&start=0&init=1&zx=2uplvqmc8gmh
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/opentriangle.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=&search=inbox&view=tl&start=0&init=1&zx=2uplvqmc8gmh
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/menuarwopen.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=&search=inbox&view=tl&start=0&init=1&zx=2uplvqmc8gmh
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/smlnopresence.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=&search=inbox&view=tl&start=0&init=1&zx=2uplvqmc8gmh
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/busy_white1.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=&search=inbox&view=tl&start=0&init=1&zx=2uplvqmc8gmh
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/star_off_2.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=&search=inbox&view=tl&start=0&init=1&zx=2uplvqmc8gmh
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; GMAIL_STAT=lt=500&js=251&dw=62&ct=0&tot=2781&fv=1&id=af7d6ae6be&v=tl&st=53&dbe=0&; GBE=u-i-5-1%2Fai-t-fr-TL-1%2Fd-511-788%2Ffs-16; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+POST /mail/channel/bind?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&VER=2&SID=67F8DC1634D9D313&RID=42249&zx=fgtn2bw9qazv&it=782 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Content-Length: 33
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; GMAIL_SU=1; gmailchat=jcoachj@gmail.com/475090; GMAIL_STAT=lt=500&js=251&dw=62&ct=0&tot=2781&fv=1&id=af7d6ae6be&v=tl&st=53&dbe=0&; GBE=u-i-5-1%2Fai-t-fr-TL-1%2Fd-511-788%2Ffs-16; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+count=2&req0_type=r&req1_type=sg&GET /mail/images/reply.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/reply_all.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/star_off_sm_2.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/card_top_new.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/card_button_m.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/card_left_new.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/card_right2_new.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/card_left2_new.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/?ui=1&view=ca&file=1&zx=djjw08v9yw3p HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 01 Apr 2004 04:50:27 GMT; length=20
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; GMAIL_STAT=lt=1094&js=78&dw=125&ct=0&tot=1515&fv=0&id=8ed7a4e051&v=cv&st=248&dbe=0&; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/card_right_new.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/card_bot_new.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/checkmark.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/images/print_icon.gif HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&ik=a0610eacbd&view=cv&search=inbox&th=11a65b940405fa1f&ww=771&cvap=7&qt=&zx=4tuzl87756fv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/cool.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/crab.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/equal_slant.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/equal_grin.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/devil.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/equal_smile.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/frown.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/monkey.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/heart.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/nose_sad.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/nose_wink.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/shocked.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/smile.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/straight_face.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/wince.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/brokenheart0.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/kissstar0.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+GET /mail/im/emotisprites/robot.png HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+POST /mail/channel/bind?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&VER=2&SID=67F8DC1634D9D313&RID=42251&zx=6nu1yeej5n8g&it=250 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Content-Length: 36
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+count=1&req0_type=cf&req0_focused=0&POST /mail/channel/bind?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&VER=2&SID=67F8DC1634D9D313&RID=42253&zx=tqgawway3etz&it=52125 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Content-Length: 50
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+count=1&req0_type=i&req0_time=52110&req0_evtype=7&GET /mail/?ui=1&ik=a0610eacbd&view=tl&search=inbox&start=0&tlt=11b495b9e1b&fp=ac6b2b37f9fdc521&auto=1&vv=1&rq=xm&at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&zx=xnhxdrfm22ku HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+POST /mail/channel/bind?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&VER=2&SID=67F8DC1634D9D313&RID=42254&zx=9tduxqkx4td6&it=112125 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Content-Length: 51
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+count=1&req0_type=i&req0_time=112110&req0_evtype=7&POST /mail/channel/bind?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&VER=2&SID=67F8DC1634D9D313&RID=42255&zx=ws8oir6zfi6y&it=172125 HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Content-Length: 51
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+
+count=1&req0_type=i&req0_time=172110&req0_evtype=7&GET /mail/channel/bind?at=xn3j32oktf2a0q6oa3k9sfr6d09yzf&ui=1&SID=67F8DC1634D9D313&RID=42256&TYPE=terminate&zx=lvzo6m5vd60o HTTP/1.1
+Accept: */*
+Referer: http://mail.google.com/mail/?ui=1&view=page&name=js&ver=167ge8cpe09rv
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: mail.google.com
+Connection: Keep-Alive
+Cookie: GX=DQAAAG8AAAAAm2oW8LqM60qoQ5w2jVJ-zHIfuyAQ3GUkvcv4N9vQ6lWuLpVMCmw1Jhmlm9_P3qZbyTWkIWDo5cnuJHuMxySQ3a5_HduypckaYwOo-HSktrUCM8z2caTi0C7NMWnqJdfJa63rj2FKElFpHQqf52we; S=gmail=L5hb7hHJ9B97n6StWA4FvA:gmail_yj=-OoenmU7qTeuQ1dsN3B1kg:gmproxy=6uatNcZZmB8:gmproxy_yj=FRV17ZyWnh8:gmproxy_yj_sub=bzgoWOybARA; GMAIL_AT=xn3j32oktf2a0q6oa3k9sfr6d09yzf; gmailchat=jcoachj@gmail.com/475090; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60; GMAIL_HELP=hosted:0
+

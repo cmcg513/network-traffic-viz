@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:43 GMT
+Server: Apache/1.3.41 (Unix)
+Set-Cookie: V5=AStfMSAiIgFSNDgNBVsjIygcJgErO1InHlLKNA??; expires=Fri, 20-Jul-18 04:35:43 GMT; domain=.imrworldwide.com; path=/cgi-bin
+Set-Cookie: IMRID=SIVjn0VQyM4AAAhnnIY; expires=Sunday, 18-Jan-09 23:00:00 GMT; path=/cgi-bin; domain=.imrworldwide.com
+P3P: policyref="http://www.imrworldwide.com/w3c/p3p.xml", CP="NOI DSP COR NID PSA ADM OUR IND UNI NAV COM"
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Pragma: no-cache
+Cache-Control: no-cache
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/javascript
+
+2d 
+// COPYRIGHT 2002 RedSheriff Limited
+rsCi();
+
+0
+

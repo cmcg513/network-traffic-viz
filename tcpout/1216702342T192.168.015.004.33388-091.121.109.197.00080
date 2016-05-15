@@ -1,0 +1,48 @@
+GET /AdoptAMan/Images/Home/puce-2.gif HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://apps.facebook.com/adoptman/default.aspx
+Cookie: ASP.NET_SessionId=irzddh45qoorgbejxto2kv45
+
+GET /AdoptAMAn/Images/Home/bouton-letsadopt.gif HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://apps.facebook.com/adoptman/default.aspx
+Cookie: ASP.NET_SessionId=irzddh45qoorgbejxto2kv45
+
+GET /AdoptAMan/Images/Home/tile-home.gif HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://apps.facebook.com/fbml_static_get.php?src=http%3A%2F%2Fns200071.ovh.net%2Fadoptaman%2Fpage.css%3Fv%3D3.08&appid=15015611585&pv=1&sig=174394d5372f3ea97761c13db0dde1b9&filetype=css
+Cookie: ASP.NET_SessionId=irzddh45qoorgbejxto2kv45
+
+GET /AdoptAMan/Images/Home/bandedubasorange.gif HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://apps.facebook.com/adoptman/default.aspx
+Cookie: ASP.NET_SessionId=irzddh45qoorgbejxto2kv45
+

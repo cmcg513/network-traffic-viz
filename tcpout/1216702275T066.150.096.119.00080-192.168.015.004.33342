@@ -1,0 +1,6 @@
+HTTP/1.0 304 Not Modified
+Date: Tue, 22 Jul 2008 04:51:39 GMT
+Server: Apache
+Connection: keep-alive
+Keep-Alive: timeout=30, max=100
+

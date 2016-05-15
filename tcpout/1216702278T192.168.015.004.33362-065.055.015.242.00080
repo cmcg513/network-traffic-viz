@@ -1,0 +1,24 @@
+GET /ADSAdClient31.dll?GetSAd=&DPJS=0&PG=FBKHPG&AP=1113 HTTP/1.1
+Host: rad.msn.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://ads.ak.facebook.com/ads/creative/msn/us-120home.html
+Cookie: FC02=FB=; MC1=V=3&GUID=68f554b8b4474e2fa96e570be02188f3; MUID=50672D6848DA4465873B76B10CF31F04; s_vsn_msnbcom_1=7047874432157; FC08=FB=; FC09=FB=; FC04=FB=; FC06=FB=; FC03=FB=AgEA3wlvDPgB; FC00=FB=AgEABwosEDgB; FC07=FB=; FC01=FB=AgEA3wlxDfgB; FC05=FB=AgEAuQlbCcgB
+
+GET /ADSAdClient31.dll?GetSAd=&DPJS=0&PG=FBK728&AP=1390 HTTP/1.1
+Host: rad.msn.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://ads.ak.facebook.com/ads/creative/msn/us-728other.html
+Cookie: FC02=FB=; MC1=V=3&GUID=68f554b8b4474e2fa96e570be02188f3; MUID=50672D6848DA4465873B76B10CF31F04; s_vsn_msnbcom_1=7047874432157; FC08=FB=; FC09=FB=; FC04=FB=; FC06=FB=; FC03=FB=AgEA3wlvDPgB; FC00=FB=AgEABwosEDgB; FC07=FB=; FC01=FB=AgEA3wlxDfgB; FC05=FB=AgEAuQlbCcgB
+

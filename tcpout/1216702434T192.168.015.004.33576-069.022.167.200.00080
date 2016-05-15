@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?an=Claude%20Debussy&pn=Prelude%20a%20l'apres-midi%20d'un%20Faune HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 07640AE1-00D8DB27C0E051CF9805F47E9282822C
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

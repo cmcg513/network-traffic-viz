@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?an=Vanessa%20Carlton&pn=Album HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 0DE4A17E-ED62D56B435B3D3F4BFA46756508D110
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

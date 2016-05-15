@@ -1,0 +1,14 @@
+HTTP/1.0 301 This object has moved
+Content-type: text/html
+Content-Length: 245
+Location: http://www.orbitz.com/
+
+<html><head><title>301 - This object has moved</title></head>
+<body>
+<h1>301: This object has moved</h1>
+<b><p>Please click <A HREF="http://www.orbitz.com/">here</A> to continue
+</p></b>
+<!--
+<hr><address>DX 5.2.6 0</address>
+-->
+</body></html>

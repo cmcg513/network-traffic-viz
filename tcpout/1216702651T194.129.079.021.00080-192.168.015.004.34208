@@ -1,0 +1,81 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store
+Content-Length: 7809
+Content-Type: text/html
+Expires: 0
+P3P: CP="NOI DSP COR CUR ADM DEV TAIo PSAo PSDo OUR BUS UNI PUR COM NAV INT DEM STA PRE OTC"
+Set-Cookie: AA002=001216702675-1762606930/1217912275; expires=Thursday, 22-Jul-2010 00:00:00 GMT; path=/; domain=.atdmt.com
+Connection: close
+Date: Tue, 22 Jul 2008 04:57:55 GMT
+
+<html><head><title>WWA_Spring08_no_size_180x150.tpl</title><meta HTTP-EQUIV="expires" CONTENT="0" /><meta HTTP-EQUIV="Pragma" CONTENT="no-cache" /><script LANGUAGE="JavaScript" type="text/javascript">
+var nRequiredVersion = 7; 
+var bIsRightVersion = false;	
+var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+if(isIE && isWin){
+document.writeln('<SCR' + 'IPT LANGUAGE=VBScript\>');
+document.writeln('on error resume next');
+document.writeln('Set oFlashPlayer = CreateObject("ShockwaveFlash.ShockwaveFlash." & nRequiredVersion)');
+document.writeln('If IsObject(oFlashPlayer) Then');
+document.writeln('bIsRightVersion = True');
+document.writeln('End If');
+document.writeln('If (Not bIsRightVersion) And (nRequiredVersion < 3) Then');
+document.writeln('Set oFlashPlayer = CreateObject("ShockwaveFlash.ShockwaveFlash")');
+document.writeln('If IsObject(oFlashPlayer) Then');
+document.writeln('bIsRightVersion = True');
+document.writeln('End If');
+document.writeln('End If');
+document.writeln('</SCR' + 'IPT\>'); 
+}
+function CheckSwfVer(){
+if (navigator.plugins != null && navigator.plugins.length > 0) {
+if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+var descArray = flashDescription.split(" ");
+var tempArrayMajor = descArray[2].split(".");	
+var versionMajor = tempArrayMajor[0];
+bIsRightVersion = (versionMajor >= nRequiredVersion);
+}
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1)
+{
+bIsRightVersion = (4 >= nRequiredVersion);
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1)
+{
+bIsRightVersion = (3 >= nRequiredVersion);
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) 
+{
+bIsRightVersion = (2 >= nRequiredVersion);
+}
+}
+function detectFlashWWO633439722615537() 
+{ 
+if (!bIsRightVersion) {
+CheckSwfVer();
+}
+}
+detectFlashWWO633439722615537(); 
+</script></head><body style="border-width:0px;margin:0px;" bgcolor="White"><script LANGUAGE="JavaScript" type="text/javascript">
+var _strContentWWO633439722615537 = '';
+if(bIsRightVersion) 
+{ 
+	var strFQDN = "HTTP://spe.atdmt.com/ds/APAPMDRIVWWO/"; 
+var index = strFQDN.indexOf("/ds/");
+strFQDN = strFQDN.substring(0, index);
+_strContentWWO633439722615537 = '' + '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="HTTP://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" width="180" height="150"><param name="movie" value="HTTP://spe.atdmt.com/ds/APAPMDRIVWWO/WWA_Spring08_no_size_180x150.swf?ver=1&clickTag1=http://ad.yieldmanager.com/click,WaUDACNyBQDEmQ4A1-wEAAIAAkoAAP8AAAACFgIADwKTrgEASlIHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14sh3kps8%2FM%3D674272.12805016.13083907.8781275%2FD%3Dnews%2FS%3D8903239%3AREC%2F_ylt%3DAmYRl9ALEzHzhMhJYJ9yn7ZH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Dp51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406810%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,http://clk.atdmt.com/go/yhxxxdrv0010001484apm/direct;wi.180;hi.150;ai.43366271.44530663;ct.1/01&clickTag=http://ad.yieldmanager.com/click,WaUDACNyBQDEmQ4A1-wEAAIAAkoAAP8AAAACFgIADwKTrgEASlIHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14sh3kps8%2FM%3D674272.12805016.13083907.8781275%2FD%3Dnews%2FS%3D8903239%3AREC%2F_ylt%3DAmYRl9ALEzHzhMhJYJ9yn7ZH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Dp51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406810%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,http://clk.atdmt.com/go/yhxxxdrv0010001484apm/direct;wi.180;hi.150;ai.43366271.44530663;ct.1/01" /><param name="base" value="HTTP://spe.atdmt.com/ds/APAPMDRIVWWO/" /><param name="quality" value="high" /><param name="salign" value="lt" /><param name="loop" value="true" /><param name="wmode" value="opaque" /><embed quality="high" salign="LT" loop="true" type="application/x-shockwave-flash" pluginspace="HTTP://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" base="HTTP://spe.atdmt.com/ds/APAPMDRIVWWO/" wmode="opaque" src="HTTP://spe.atdmt.com/ds/APAPMDRIVWWO/WWA_Spring08_no_size_180x150.swf?ver=1&clickTag1=http://ad.yieldmanager.com/click,WaUDACNyBQDEmQ4A1-wEAAIAAkoAAP8AAAACFgIADwKTrgEASlIHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14sh3kps8%2FM%3D674272.12805016.13083907.8781275%2FD%3Dnews%2FS%3D8903239%3AREC%2F_ylt%3DAmYRl9ALEzHzhMhJYJ9yn7ZH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Dp51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406810%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,http://clk.atdmt.com/go/yhxxxdrv0010001484apm/direct;wi.180;hi.150;ai.43366271.44530663;ct.1/01&clickTag=http://ad.yieldmanager.com/click,WaUDACNyBQDEmQ4A1-wEAAIAAkoAAP8AAAACFgIADwKTrgEASlIHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14sh3kps8%2FM%3D674272.12805016.13083907.8781275%2FD%3Dnews%2FS%3D8903239%3AREC%2F_ylt%3DAmYRl9ALEzHzhMhJYJ9yn7ZH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Dp51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406810%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,http://clk.atdmt.com/go/yhxxxdrv0010001484apm/direct;wi.180;hi.150;ai.43366271.44530663;ct.1/01" width="180" height="150" /></object>';
+} 
+else 
+{ 
+_strContentWWO633439722615537 = '<a target="_blank" href="http://ad.yieldmanager.com/click,WaUDACNyBQDEmQ4A1-wEAAIAAkoAAP8AAAACFgIADwKTrgEASlIHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14sh3kps8%2FM%3D674272.12805016.13083907.8781275%2FD%3Dnews%2FS%3D8903239%3AREC%2F_ylt%3DAmYRl9ALEzHzhMhJYJ9yn7ZH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Dp51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406810%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,http://clk.atdmt.com/go/yhxxxdrv0010001484apm/direct;wi.180;hi.150;ai.43366271.44530663;ct.1/01"><img border="0" src="HTTP://spe.atdmt.com/ds/APAPMDRIVWWO/WWA_Spring08_no_size_180x150.gif?ver=1" width="180" height="150" /></a>';
+}
+</script>
+<script LANGUAGE="JavaScript" type="text/javascript" src="HTTP://rmd.atdmt.com/tl/DocumentDotWrite.js"></script>
+<script LANGUAGE="JavaScript" type="text/javascript">DocumentDotWrite(_strContentWWO633439722615537);
+</script><noscript> 
+<a target="_blank" href="http://ad.yieldmanager.com/click,WaUDACNyBQDEmQ4A1-wEAAIAAkoAAP8AAAACFgIADwKTrgEASlIHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14sh3kps8%2FM%3D674272.12805016.13083907.8781275%2FD%3Dnews%2FS%3D8903239%3AREC%2F_ylt%3DAmYRl9ALEzHzhMhJYJ9yn7ZH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Dp51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406810%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,http://clk.atdmt.com/go/yhxxxdrv0010001484apm/direct;wi.180;hi.150;ai.43366271.44530663;ct.1/01"><img border="0" src="HTTP://spe.atdmt.com/ds/APAPMDRIVWWO/WWA_Spring08_no_size_180x150.gif?ver=1" width="180" height="150" /></a>
+</noscript></body></html>

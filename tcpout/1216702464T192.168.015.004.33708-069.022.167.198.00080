@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=C0D4574332185DF6B86A24A066E1E764&CDDBMuiID=462599&an=Jill%20Sobule&pn=Happy%20Town HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 8E96840F-420636F1A486C5AC60F04EF0C6622B26
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

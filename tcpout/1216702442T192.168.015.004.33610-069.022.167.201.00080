@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=C325E7E1A95703AC4E04A4F033E0F12A&CDDBMuiID=1501801&an=Josie%20And%20The%20Slamming%20Demonics%20Riffs%20RMX&pn=Greatest%20Hits%20%7C%20CD%20Remix%20Compilation HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: A2D8C403-B411351F52E091CA51EB8FB42497E782
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

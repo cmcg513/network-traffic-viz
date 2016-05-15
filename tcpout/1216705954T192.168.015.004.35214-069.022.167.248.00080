@@ -1,0 +1,13 @@
+GET /css/v/us/legacy/ebay-ns.css HTTP/1.1
+Host: include.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://promo.ebay.com/ws/eBayISAPI.dll?GetCrossPromos&strsellerid=budabing_bags&seller=204809437&item=260263620405&storecats=11593945+11777233&category=1060&listedsite=3&method=1&CurrentPage=VI&shipdiscount=0&track=MERC_VI&storeid=2856174&promohostid=17&random=882
+If-Modified-Since: Thu, 10 Jul 2008 00:31:39 GMT
+If-None-Match: "8067415124e2c81:7be"
+

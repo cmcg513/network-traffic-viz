@@ -1,0 +1,18 @@
+GET /cnn/images/1.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.l.cnn.net
+
+GET /cnn/.element/css/2.0/common.css HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_adlinks&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=130276
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.l.cnn.net
+

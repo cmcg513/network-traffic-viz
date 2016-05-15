@@ -1,0 +1,22 @@
+GET /a/a/1-/jscodes/flash8/yad_20071204.js HTTP/1.1
+Host: ads.yimg.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://pn1.adserver.yahoo.com/a?f=97553668&rand=1216706894&p=eb_cmptr&pd_x=20&kw=leather+backpack+laptop&pn=ebay&pd_id=nY%2BsHZ2PrBmdj6wVnY%2BsEZ2PrA2dj6wJkYKnDJSApA%2Bdj6x9nY%2BseQ%3D%3D&c=h&l=N&sig=aE7Uvl3xxvNl8ZGgtkMHlw--
+
+GET /a/a/eb/ebay1/071408_3078_728ebay_ups.swf HTTP/1.1
+Host: ads.yimg.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://pn1.adserver.yahoo.com/a?f=97553668&rand=1216706894&p=eb_cmptr&pd_x=20&kw=leather+backpack+laptop&pn=ebay&pd_id=nY%2BsHZ2PrBmdj6wVnY%2BsEZ2PrA2dj6wJkYKnDJSApA%2Bdj6x9nY%2BseQ%3D%3D&c=h&l=N&sig=aE7Uvl3xxvNl8ZGgtkMHlw--
+

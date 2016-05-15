@@ -1,0 +1,360 @@
+GET /cnn/.element/css/2.0/pgaleader.css HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/css/2.0/common.css HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/scripts/scriptaculous.js?load=effects HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/scripts/effects.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/csiManager.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/StorageManager.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/local.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/main.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/ad_head0.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/cnn_adspaces/cnn_adspaces.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/content/partners/entertainment_partner.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/right_rail/corner_adv_ltg_tl.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/global/nav/header/header_video_btn.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/content/in_the_news/left_gray_btn.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/content/ads/advertisement.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/weather/go_btn.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/baseplate/corner_wire_TL.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/UGC/ugc_BL.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/sect/ireport/ireport.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/right_rail/grey_corner_BL.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/sect/ireport/int_tl.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/global/nav/footer/corner_footer_br.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/content/in_the_news/right_red_btn.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/content/services/cnn_radio_btn.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/content/partners/partner_people.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/nielsen.track.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/content/partners/time_partner.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/baseplate/corner_br_ad9.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/right_rail/corner_adv_ltg_bl.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/global/dropdowns/btn_wire_left.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/js/2.0/csi_include.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://svcs.cnn.com/weather/wrapper.jsp?&csiID=csi1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/cnn_adspaces/2.0/creatives/2008/7/6/373620bia_120X90_e.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_position=120x90_lft&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=175871
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/global/gray_bull.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_position=120x90_lft&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=175871
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/images/1.gif?csiTestMatch=true HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://svcs.cnn.com/weather/wrapper.jsp?&csiID=csi1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/cnn_adspaces/2.0/creatives/2008/7/11/2213filmfestival_300x250.swf?clickTag=http%3A//ads.cnn.com/event.ng/Type%3Dclick%26FlightID%3D121837%26AdID%3D198451%26TargetID%3D28087%26Segments%3D730%2C2743%2C3030%2C3285%2C8463%2C8796%2C9496%2C9779%2C9781%2C9853%2C10381%2C13760%2C14879%2C14997%2C15539%2C16113%2C17251%2C17373%26Targets%3D28041%2C1515%2C28087%26Values%3D30%2C46%2C50%2C61%2C73%2C82%2C93%2C100%2C110%2C150%2C1266%2C1588%2C2677%2C2746%2C4413%2C4418%2C4429%2C47182%2C48063%2C49554%2C52263%2C52509%2C52897%2C54682%2C54765%2C55058%2C55059%2C55703%2C56058%2C56376%26RawValues%3D%26Redirect%3Dhttp%3A//www.ireport.com/ir-topic-stories.jspa%3FtopicId%3D42599 HTTP/1.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_rgt2&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=28039
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /ireport/static/feeds/oncnn.rss HTTP/1.1
+Referer: http://www.cnn.com/
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /ireport/sm/prod/2008/07/21/WE00047462/147599/Anon1216690260-floodingInRidgecrestCa690916_p2.jpg HTTP/1.1
+Referer: http://www.cnn.com/
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/right_rail/grey_corner_TR.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/mosaic/base_skins/right_rail/grey_corner_BR.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+
+GET /cnn/.element/img/2.0/weather/03/02.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+

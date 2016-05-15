@@ -1,0 +1,27 @@
+GET /pagead/ads?client=ca-pub-9906587369174250&dt=1216691539608&output=html&slotname=5121929903&correlator=1216691539607&url=http%3A%2F%2Fwww.phdcomics.com%2Fcomics.php%3Fn%3D1045&frm=0&cc=100&ga_vid=4005672680921627600.1211429766&ga_sid=1216691540&ga_hid=598864633&ga_fc=true&flash=9.0.124&u_h=1200&u_w=1920&u_ah=1178&u_aw=1873&u_cd=24&u_tz=-420&u_his=1&u_java=true&u_nplug=13&u_nmime=143 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.phdcomics.com/comics.php?n=1045
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: pagead2.googlesyndication.com
+
+GET /pagead/ads?client=ca-pub-9906587369174250&dt=1216691540251&prev_slotnames=5121929903&output=html&slotname=0560695518&correlator=1216691539607&url=http%3A%2F%2Fwww.phdcomics.com%2Fcomics.php%3Fn%3D1045&frm=0&cc=100&ga_vid=4005672680921627600.1211429766&ga_sid=1216691540&ga_hid=598864633&ga_fc=true&flash=9.0.124&u_h=1200&u_w=1920&u_ah=1178&u_aw=1873&u_cd=24&u_tz=-420&u_his=1&u_java=true&u_nplug=13&u_nmime=143 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.phdcomics.com/comics.php?n=1045
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: pagead2.googlesyndication.com
+
+GET /pagead/sma6.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-9906587369174250&dt=1216691540251&prev_slotnames=5121929903&output=html&slotname=0560695518&correlator=1216691539607&url=http%3A%2F%2Fwww.phdcomics.com%2Fcomics.php%3Fn%3D1045&frm=0&cc=100&ga_vid=4005672680921627600.1211429766&ga_sid=1216691540&ga_hid=598864633&ga_fc=true&flash=9.0.124&u_h=1200&u_w=1920&u_ah=1178&u_aw=1873&u_cd=24&u_tz=-420&u_his=1&u_java=true&u_nplug=13&u_nmime=143
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: pagead2.googlesyndication.com
+

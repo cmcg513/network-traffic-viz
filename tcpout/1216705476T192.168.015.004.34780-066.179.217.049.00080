@@ -1,0 +1,48 @@
+GET /cm?ci=90081223%3B90086566&st=1216705483442&vn1=4.0.23&ec=UTF-8&pi=advancedsearch&rs=Y&rf=http%3A//www.sacramentohi.com/reservations.aspx&ul=http%3A//www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch%3Fwhichtype%3Droom%26roomResult%3Dnone%26hotelCode%3Dsaccp%26quickRes%3Dcity%26_requestid%3D113467&tid=8&ti=1216705499788&nm=Flash&hr=tproompref%3Fcm_re%3DADA-_-AccessibleRoomPreference-_-SUI&tid=10&ti=1216705499794&fo=pcLogin%3A0%3BlookupSingleReservationFaceplate%3A1%3BsearchForm%3A2%3B&ac=2%3AS&hr=/h/d/hi/1/en/advancedsearch%3FquickRes%3Dcity&fi=2%3A28%3AnumberOfRooms%3B2%3A29%3AroomTypePreference%3B HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp?ias=y&errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=114353
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705483; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705483; 01AI=CT
+
+GET /cm?ci=90081223%3B90086566&st=1216705500416&vn1=4.0.23&ec=UTF-8&pi=advancedsearch&tid=9&cm_re=hi_nhm-_-hdr-_-a1&tid=9&cm_re=hi_nhm-_-hdr-_-a2&tid=9&cm_re=hi_nhm-_-hdr-_-a3&tid=9&cm_re=hi_nhm-_-hdr-_-a4&tid=9&cm_re=hi_hm-_-left-_-e3&tid=9&cm_re=pcr-_-hmpg-_-bHI&tid=9&cm_re=hi_hm-_-hdr-_-c1&tid=9&cm_re=hi_hm-_-hdr-_-c2&tid=9&cm_re=hi_nhm-_-hdr-_-c3&tid=9&cm_re=hi_nhm-_-hdr-_-c4 HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp?ias=y&errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=114353
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705500; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705500; 01AI=CT
+
+GET /cm?tid=1&ci=90081223%3B90086566&vn2=e4.0&st=1216705507890&vn1=4.0.23&ec=UTF-8&pi=advancedsearch&cg=hi/1/en&pv1=hi&pv2=1&pv3=en&pv4=saccp&pv14=PCRFaceplate%20Split%202%3A90112887_OLDPC&pv15=99502222&li=1&ps1=advancedsearch&ps2=Anonymous&rf=http%3A//www.sacramentohi.com/reservations.aspx&ul=http%3A//www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch%3Fwhichtype%3Droom%26roomResult%3Dnone%26hotelCode%3Dsaccp%26quickRes%3Dcity%26_requestid%3D113467&lp=advancedsearch HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?whichtype=room&roomResult=none&hotelCode=saccp&quickRes=city&_requestid=113467
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705501; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705501; 01AI=CT
+
+GET /cm?tid=8&ci=90081223%3B90086566&st=1216705507890&vn1=4.0.23&ec=UTF-8&pi=advancedsearch&ul=http%3A//www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch%3Fwhichtype%3Droom%26roomResult%3Dnone%26hotelCode%3Dsaccp%26quickRes%3Dcity%26_requestid%3D113467&rf=http%3A//www.sacramentohi.com/reservations.aspx&ti=1216705551647&nm=Flash&hr=tproompref%3Fcm_re%3DADA-_-AccessibleRoomPreference-_-TDB HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?whichtype=room&roomResult=none&hotelCode=saccp&quickRes=city&_requestid=113467
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705508; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705508; 01AI=CT
+

@@ -1,0 +1,10 @@
+document.write("<SCR"+"IPT TYPE='text/javascript'>\n");
+document.write("var extra = \"/aolexp=0\";\n");
+document.write("var MN=\"93242651\";\n");
+document.write("var ACE_AR = {Site: '743164', Size: '120090', Mn: MN, Extra: extra};\n");
+document.write("</SCR"+"IPT>\n");
+document.write("\n");
+document.write("<SCR"+"IPT TYPE='text/javascript' SRC='http://uac.advertising.com/wrapper/aceUAC.js'>\n");
+document.write("</SCR"+"IPT>\n");
+
+

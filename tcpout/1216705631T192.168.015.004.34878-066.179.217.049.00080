@@ -1,0 +1,12 @@
+GET /cm?tid=8&ci=90081223%3B90086566&st=1216705651025&vn1=4.0.23&ec=UTF-8&pi=HOTEL%20VIEW%3A%20%28SACCP%29%20SACRAMENTO-CAPITOL%20PLAZA%20%28propertyCode%29&ti=1216705655950&nm=sitepromo&hr=/h/d/hi/1/en/rates/saccp%3Fcm_sp%3DLayer-_-Packages-_-DivPopup_RoomType HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp?ias=y&searchStartFrom=ebsmq&fromSearchResult=yes&viewHotelPackagesFlag=false
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705651; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705651; 01AI=2-2-9867C601D0893633CE909148BB8B3F448F63B93C860082563929806AE7B08B0A-B21E350C9A573407ECDCF8D797A6BF473D676DA463C88206069F8918E1719480; 01IS=U; 01AIS=1
+

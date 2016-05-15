@@ -1,0 +1,101 @@
+HTTP/1.1 200 OK
+Cache-Control: no-store
+Content-Length: 5923
+Content-Type: text/html
+Expires: 0
+P3P: CP="NOI DSP COR CUR ADM DEV TAIo PSAo PSDo OUR BUS UNI PUR COM NAV INT DEM STA PRE OTC"
+Set-Cookie: AA002=001216702445-757015596/1217912045; expires=Thursday, 22-Jul-2010 00:00:00 GMT; path=/; domain=.atdmt.com
+Connection: close
+Date: Tue, 22 Jul 2008 04:54:05 GMT
+
+<html>
+<head>
+<title>Personal_space_300x250</title>
+<meta HTTP-EQUIV="expires" CONTENT="0"></meta>
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache"></meta>
+<script LANGUAGE="JavaScript" type="text/javascript"> 
+var nRequiredVersion = 8; 
+var bIsRightVersion = false;	
+var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+if(isIE && isWin){
+document.writeln('<SCR' + 'IPT LANGUAGE=VBScript\>');
+document.writeln('on error resume next');
+document.writeln('Set oFlashPlayer = CreateObject("ShockwaveFlash.ShockwaveFlash." & nRequiredVersion)');
+document.writeln('If IsObject(oFlashPlayer) Then');
+document.writeln('bIsRightVersion = True');
+document.writeln('End If');
+document.writeln('If (Not bIsRightVersion) And (nRequiredVersion < 3) Then');
+document.writeln('Set oFlashPlayer = CreateObject("ShockwaveFlash.ShockwaveFlash")');
+document.writeln('If IsObject(oFlashPlayer) Then');
+document.writeln('bIsRightVersion = True');
+document.writeln('End If');
+document.writeln('End If');
+document.writeln('</SCR' + 'IPT\>'); 
+}
+function CheckSwfVer(){
+if (navigator.plugins != null && navigator.plugins.length > 0) {
+if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+var descArray = flashDescription.split(" ");
+var tempArrayMajor = descArray[2].split(".");	
+var versionMajor = tempArrayMajor[0];
+bIsRightVersion = (versionMajor >= nRequiredVersion);
+}
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1)
+{
+bIsRightVersion = (4 >= nRequiredVersion);
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1)
+{
+bIsRightVersion = (3 >= nRequiredVersion);
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) 
+{
+bIsRightVersion = (2 >= nRequiredVersion);
+}
+}
+function detectFlashHES1208800895469() 
+{ 
+if (!bIsRightVersion) {
+CheckSwfVer();
+}
+}
+detectFlashHES1208800895469(); 
+ </script>
+</head>
+<body style="border-width:0px;margin:0px;" bgcolor="White">
+<script LANGUAGE="JavaScript" type="text/javascript"> 
+var _strContentHES1208800895469 = '';
+if(bIsRightVersion) 
+{ 
+var strFQDN = "HTTP://spe.atdmt.com/ds/H3HHCHIL3HES/"; 
+var index = strFQDN.indexOf("/ds/");
+strFQDN = strFQDN.substring(0, index);
+_strContentHES1208800895469 = '' + '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="HTTP://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" width="300" height="250">'
++ '<param name="movie" value="HTTP://spe.atdmt.com/ds/H3HHCHIL3HES/Business_2008/Personal_space_300x250.swf?ver=1&clickTag1=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/o%3B205441344%3B0-0%3B1%3B25951130%3B4307-300/250%3B27397810/27415689/1%3Bu%3D8d71e91a8cd2454ba62f2de07f43b22c%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/mzncmhes0130000121hhc/direct;ai.44737060;ct.1/01&clickTag=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/o%3B205441344%3B0-0%3B1%3B25951130%3B4307-300/250%3B27397810/27415689/1%3Bu%3D8d71e91a8cd2454ba62f2de07f43b22c%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/mzncmhes0130000121hhc/direct;ai.44737060;ct.1/01" />'
++ '<param name="base" value="HTTP://spe.atdmt.com/ds/H3HHCHIL3HES/Business_2008/" />'
++ '<param name="quality" value="high" />'
++ '<param name="salign" value="lt" />'
++ '<param name="loop" value="true" />'
++ '<param name="wmode" value="opaque" />'
++ '<embed quality="high" salign="LT" loop="true" type="application/x-shockwave-flash" pluginspace="HTTP://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" base="HTTP://spe.atdmt.com/ds/H3HHCHIL3HES/Business_2008/" wmode="opaque" src="HTTP://spe.atdmt.com/ds/H3HHCHIL3HES/Business_2008/Personal_space_300x250.swf?ver=1&clickTag1=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/o%3B205441344%3B0-0%3B1%3B25951130%3B4307-300/250%3B27397810/27415689/1%3Bu%3D8d71e91a8cd2454ba62f2de07f43b22c%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/mzncmhes0130000121hhc/direct;ai.44737060;ct.1/01&clickTag=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/o%3B205441344%3B0-0%3B1%3B25951130%3B4307-300/250%3B27397810/27415689/1%3Bu%3D8d71e91a8cd2454ba62f2de07f43b22c%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/mzncmhes0130000121hhc/direct;ai.44737060;ct.1/01" width="300" height="250" />'
++ '</object>'
++ '';
+} 
+else 
+{ 
+_strContentHES1208800895469 = '<a target="_blank" href="http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/o%3B205441344%3B0-0%3B1%3B25951130%3B4307-300/250%3B27397810/27415689/1%3Bu%3D8d71e91a8cd2454ba62f2de07f43b22c%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/mzncmhes0130000121hhc/direct;ai.44737060;ct.1/01"><img border="0" src="HTTP://spe.atdmt.com/ds/H3HHCHIL3HES/Business_2008/st_bu_gif_300x250.gif?ver=1" width="300" height="250" /></a>';
+}
+</script>
+<script LANGUAGE="JavaScript" type="text/javascript" src="HTTP://rmd.atdmt.com/tl/DocumentDotWrite.js"></script>
+<script LANGUAGE="JavaScript" type="text/javascript">DocumentDotWrite(_strContentHES1208800895469);
+</script>
+<noscript> 
+<a target="_blank" href="http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/o%3B205441344%3B0-0%3B1%3B25951130%3B4307-300/250%3B27397810/27415689/1%3Bu%3D8d71e91a8cd2454ba62f2de07f43b22c%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/mzncmhes0130000121hhc/direct;ai.44737060;ct.1/01"><img border="0" src="HTTP://spe.atdmt.com/ds/H3HHCHIL3HES/Business_2008/st_bu_gif_300x250.gif?ver=1" width="300" height="250" /></a>
+</noscript>
+<SCRIPT LANGUAGE="JavaScript" SRC="http://core.insightexpressai.com/adServer/adServerESI.aspx?bannerID=30509&siteID=mzncmhes0130000121hhc&creativeID=44737060"></SCRIPT></body>
+</html>

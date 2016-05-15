@@ -1,0 +1,891 @@
+GET / HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: OSC=ID51BwPzhz!-942743848!183181860!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216612558363:ss=1216612174166; Axxd=1
+
+GET /shared/css/homepage.css.jsp HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1
+
+GET /Marketing/Images/US/MERCH/OA/ORB_orbad_PriceAssurance1_136x66.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=
+
+GET /App/ViewDHTMLCalendar?z=a8b4&r=p HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=
+
+GET /Marketing/Images/ORB_img_underbotBeach2.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=
+
+GET /site/img/chrome/buttons/center_spot_previous.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=
+
+GET /img/business/business_logo_61x18.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+GET /Marketing/Images/ORB_bnr_Beach_Finder_728x90.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+GET /Marketing/Images/ORB_cs_GreatAmericanSale2_20080721.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+GET /Marketing/Images/US/MERCH/cs/orb/air/FL_ORB_cs_Sale125_071508.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709283188:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+GET /Marketing/Images/ORB_cs_10MustSeeDest2_20080718.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709291264:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+GET /Marketing/Images/ORB_cs_Hawaii_20080627.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709291264:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+GET /Marketing/Images/US/MERCH/cs/orb/dph/ORB_cs_family10_20080423.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709291264:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+GET /site/img/chrome/buttons/calendarNext.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewDHTMLCalendar?z=a8b4&r=p
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709291264:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+
+POST /App/SubmitQuickSearch?z=a8ad&r=i HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709325365:ss=1216709283188; Axxd=1; AxData=; adRotator=true
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 516
+
+searchType=hotel&source=quick_search&searchTab=quick_search&searchMethodHidden=find&fromSpecificLP=false&orbotHotelSearchTypeKey=+&previousBot=&currentBot=&isBot=true&tripLength=2&WebLogicSession=IF0RLUvSX3%21-1988764343%21183216676%217001%21-1%211216705681007&locationType=std&target=Sacramento%2C+CA&addressOrIntersection=&city=&stateProvince=&postalCode=&startDate=10%2F10%2F08&useStartCal=true&endDate=10%2F11%2F08&useEndCal=true&guests=5&rooms=1&bemSearchType=&postingPage=search&formState=&expandSearchOptions=GET /shared/js/modal.js?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709326214:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||1|1|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/css/homepage.css.jsp HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709326214:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||1|1|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /Marketing/Images/US/MERCH/OA/ORB_orbad_GreatAmer30_136x66.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709326214:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||1|1|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/error.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/homepage.css.jsp
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709326214:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||1|1|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /Marketing/Images/ORB_htl_GamingDestCRU_313x120.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709326214:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||1|1|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/interstitial/orbitzLogo.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/SubmitQuickSearch?z=50a0&r=2t
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709338281:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/interstitial/orbitzBlinkDots-anim.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/SubmitQuickSearch?z=50a0&r=2t
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709338281:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709338281:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/js/matrix_hotel.js?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/css/global.css.jsp?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/css/results.css.jsp?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/js/exitApp.js?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/stars/matrix_stars_5.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/stars/matrix_stars_3.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /App/ViewDHTMLCalendar?z=95fe&r=5n HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/hotel/onSale_transp.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/corners/8x10_fff_anything_br.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/css/calendar.css.jsp?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewDHTMLCalendar?z=95fe&r=5n
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/matrixRowHotelHeaderSel.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /App/ViewHotelResultSet?z=9600&amp;r=5p HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+X-Prototype-Version: 1.5.0
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/bg/tab_left_rn.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/global.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/lowPriceGuaranteeOneLine.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /hotelimages/329/329/187952/TBNL0-20080613-095415-210.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /Marketing/Images/ORB_path_Sale_120x40.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/RA/thumb_02491.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/DI/thumb_15512.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /hotelimages/084/9084/189232/TBNL0-20080630-093046-659.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /hotelimages/549/63549/177952/TBNL0-20080103-070638-782.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/SE/14994_thumb.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/SE/11791_thumb.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/EX/SACCA_thumb.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/EX/thumb_SMFRC.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/FP/thumb_1580.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/SI/thumb_1247.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/SB/thumb_SACTR.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /public/pegsimages/CI/thumb_CA644.jpg HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/bg/tab_right.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/global.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/searchBots/airChangeTop.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/corners/610x1100_f_cef_adf_br.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/bg/customerRatingGradientBG.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/img/icons/camcorder_17x17.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/amenityAvail.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/amenityNotAvail.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/hotel/promo-arrow.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/icons/alert.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/results.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709343771:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709413728:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/css/hotelDetails.css.jsp?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/css/booking.css.jsp?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/buttons/select_hpo.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/buttons/select.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/buttons/blue_bottom_right.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/global.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/buttons/blue_bottom_left.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/global.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/corners/12x12_f_adf_tr.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/hotelDetails.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/corners/12x12_f_adf_br.gif HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/hotelDetails.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709418439:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+POST /App/ViewHotelDetails?z=b97d&r=aq&availabilityRequestOnly=true&fromDetailsLightbox=false HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709462126:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 424
+
+postingPage=search&origin=hotel.results.PerformHotelRateRequests.NEWSEARCH&keywordPIB=Sacramento%2C+CA&searchType=std&hotelEntryKey=51421&hotelChain1=&nameContainsPIB=&amenitySearchType=choose&selectAmenities.page.SKIP=true&tabIndex=0&tab=ROOMS&postingPage=search&keywordPIB=Sacramento%2C+CA&useStartCal=true&startDate%3Adate=10%2F10%2F2008&useEndCal=true&endDate%3Adate=10%2F11%2F2008&numberOfGuestsPIB=4&numberOfRoomsPIB=1GET /shared/css/global.css.jsp?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709465184:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/css/booking.css.jsp?cache=20041122 HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709465184:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /shared/module/tracking/tacoda.jsp HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709465184:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+
+GET /site/img/chrome/bg/navigation_list_item_background_hover.png HTTP/1.1
+Host: www.orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/css/hotelDetails.css.jsp?cache=20041122
+Cookie: OSC=IF0RLUvSX3!-1988764343!183216676!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; TS75d464=f4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216709465184:ss=1216709283188; Axxd=1; AxData=; adRotator=true; DataPersistence=||||||||||||2|5|false|||||||||||false||false|false|||||||||||||||||||||6||Sacramento, CA|10/10/08||||||||||10/11/08||||||||||||||||||||||||||||||||||||||||||0|
+

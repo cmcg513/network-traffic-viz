@@ -1,0 +1,12 @@
+HTTP/1.1 301 Moved Permanently
+Server: Sun-ONE-Web-Server/6.1
+Date: Tue, 22 Jul 2008 04:47:33 GMT
+Content-length: 122
+Content-type: text/html
+Location: http://www.lanehenderson.net
+Connection: close
+
+<HTML><HEAD><TITLE>Moved Permanently</TITLE></HEAD>
+<BODY><H1>Moved Permanently</H1>
+An error has occurred.
+</BODY></HTML>

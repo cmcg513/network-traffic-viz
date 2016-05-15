@@ -1,0 +1,120 @@
+	function d_rs(pStyles)
+	{
+		if (pStyles.length > 1)
+		{
+			var Styles = pStyles.split(',');
+			var rn = Math.floor(Math.random() * Styles.length);
+			return Styles[rn];
+		}
+		else
+			return pStyles;
+	}
+
+	function RetrieveStyle(lName)
+	{
+		var start = document.cookie.indexOf(lName + "=");
+		var len = start + lName.length + 1;
+		if ((!start) && (lName != document.cookie.substring( 0, lName.length )))
+		return null;
+		if (start == -1) return null;
+		var end = document.cookie.indexOf(";",len);
+		if (end == -1) end = document.cookie.length;
+		var lValue = unescape(document.cookie.substring(len,end));
+		return lValue;
+	}
+
+	function SetStyle(lName, lValue)
+	{
+		document.cookie = lName + "=" +escape(lValue);
+	}
+
+	var adCount = 0;
+	var IA_SubID = "";
+	var d_domain = "worthathousandwords.com";
+	var PropertyID = "5458";
+	var DomainUrl = "HelloSacramento.com";
+	var IASearchString = "";
+	var Group = "";
+	var UseDefaultDir = "0";
+	var lNumOfLoc = "1";
+	var IAStyle = new Array(lNumOfLoc);
+	var lStyle = "";
+	var lRotationLev = "P";
+
+	var lRetStr = "";
+	if(lRotationLev == "P")
+	{
+		lStyle = d_rs('C,F,Z');
+	}
+
+	for (var i = 0; i < lNumOfLoc; i++)
+	{
+		IAStyle[i] = RetrieveStyle('HelloSacramento.com_' + (i+1));
+		if (IAStyle[i] == null || IAStyle[i].length == 0)
+		{
+			if(lRotationLev == "L")
+			{
+				IAStyle[i] = d_rs('C,F,Z');
+			}
+			else
+			{
+				IAStyle[i] = lStyle;
+			}
+			SetStyle('HelloSacramento.com_' + (i+1), IAStyle[i]);
+		}
+	}
+
+	document.write('<script type="text/javascript" src="http://js.worthathousandwords.com/RSADataSecurity.js"></script>');
+	document.write('<script type="text/javascript" src="http://js.worthathousandwords.com/domainiaJS/MatrixIAMLTAgentQueue.js"></script>');
+	document.write('<script type="text/javascript" src="http://js.worthathousandwords.com/IAEncDec.js"></script>');
+	document.write('<script type="text/javascript" src="http://js.worthathousandwords.com/IAWithImagesDetails.js"></script>');
+	document.write('<script type="text/javascript" src="http://js.worthathousandwords.com/domainiaJS/MatrixIAMLTClickQueue.js"></script>');
+
+	for(var i = 0; i < lNumOfLoc; i++)
+	{
+		if (UseDefaultDir == 1)
+		{
+			document.write('<script type="text/javascript" src="http://js.worthathousandwords.com/domainiaJS/' + IAStyle[i] + '.js"></script>');
+		}
+		else
+		{
+			document.write('<script type="text/javascript" src="http://js.worthathousandwords.com/domainiaJS/' + PropertyID + '/' + (i + 1) + '/' + IAStyle[i] + '.js"></script>');
+		}
+	}
+
+	function RetrieveAd(clickURL,titleText,descriptionText,advertiserText,ss,loc,clickable)
+	{
+		if (loc <= 1)
+		{
+			var lIsClick = 0;
+			if(clickable == undefined)
+			{
+				lIsClick = 0;
+			}
+			else
+			{
+				lIsClick = 1;
+			}
+			IASearchString = CleanQuote(ss);
+			adCount++;
+			CountMLTRequest(loc);
+			var advertiserString = advertiserText.split("|");
+			var advertiserDisplayURL = advertiserString[0];
+			var advertiserCompleteURL = advertiserString[1];
+			if(advertiserCompleteURL == null)
+			{
+				advertiserCompleteURL = advertiserDisplayURL;
+			}
+
+			if(PropertyID == '2335')
+			{
+				return eval("d_m_"+IAStyle[loc-1]+"('"+CleanQuote(clickURL)+"','"+CleanQuote(titleText)+"','"+CleanQuote(descriptionText)+"','"+CleanQuote(advertiserDisplayURL)+"','"+CleanQuote(advertiserCompleteURL)+"','"+CleanQuote(ss).replace('+',' ')+"','"+lIsClick +"')");
+			}
+			else
+			{
+				eval("d_m_"+IAStyle[loc-1]+"('"+CleanQuote(clickURL)+"','"+CleanQuote(titleText)+"','"+CleanQuote(descriptionText)+"','"+CleanQuote(advertiserDisplayURL)+"','"+CleanQuote(advertiserCompleteURL)+"','"+CleanQuote(ss).replace('+',' ')+"',"+clickable +")");
+				var adURL = 'http://iaoc.worthathousandwords.com/iaoc.gif?pid='+PropertyID+'&ss='+escape(ss)+'&advname='+escape(advertiserCompleteURL).replace('www.','')+'&sty='+escape(IAStyle[loc-1])+'&dm='+escape(DomainUrl)+'&url='+escape(clickURL).replace('&','%26')+'&gp='+escape(Group)+'&loc='+escape(loc);
+				IAMLTClick(adURL, adCount);
+			}
+		}
+	}

@@ -1,0 +1,29 @@
+/*       Source:  Local Cache                                                                 */
+/*     Location:  rsrc:105628:/html/css/home/requests.css                                     */
+/*      Machine:  10.16.139.105                                                               */
+/*    Generated:  July 21st 2008 8:53:36 PM PDT                                               */
+/*    HTTP Host:  static.ak.fbcdn.net                                                         */
+
+
+.requests .notifications{background:url(/images/icons/notifications.gif) no-repeat 0 5px;}
+.requests .new_updates{background:url(/images/icons/updates.gif) no-repeat 0 5px;}
+.requests .sidebar_item_header{padding-bottom:4px;}
+.requests .sidebar_item_body{padding-top:6px;}
+.requests .sidebar_item_body a{display:block;padding:5px 5px 5px 22px;border-bottom:1px solid #ddd;}
+.requests .sidebar_item_body .friend,
+.requests .sidebar_item_body .socialmap{background:url(/images/icons/friend.gif) no-repeat 0 4px;}
+.requests .sidebar_item_body .friend_suggestion{background:url(/images/icons/friend_suggestion.gif) no-repeat 0 4px;}
+.requests .sidebar_item_body .group{background:url(/images/icons/group.gif) no-repeat 0 5px;}
+.requests .sidebar_item_body .event{background:url(/images/icons/event.gif) no-repeat 0 3px;}
+.requests .sidebar_item_body .clearing{background:url(/images/sidebar/close-on.gif) no-repeat 2px 7px;padding:5px 5px 9px 22px;}
+.requests .sidebar_item_body .phototag,
+.requests .sidebar_item_body .pendingalbum,
+.requests .sidebar_item_body .autotag{background:url(/images/icons/photo.gif) no-repeat 0 4px;}
+.requests .sidebar_item_body .general_requests_sidebar{background:url(/images/icons/requests.gif) no-repeat 0 4px;}
+.requests .sidebar_item_body .other_requests_sidebar{background:url(/images/icons/requests.gif) no-repeat 0 4px;}
+.requests .sidebar_item_body .videotag{background:url(/images/icons/motion.gif) no-repeat 0px 4px;}
+.requests .sidebar_item_body .relationship{background:url(/images/icons/relationship.gif) no-repeat 0 5px;}
+.requests .sidebar_item_body .confirmmobile{background:url(/images/icons/mobile.gif) no-repeat 0 5px;}
+.requests .sidebar_item_body .phonebook{background:url(/images/icons/mobile.gif) no-repeat 0 5px;}
+.requests .sidebar_item_body .fbpage_admin{background:url(/images/icons/ads_and_pages.gif) no-repeat 0 5px;}
+.requests .sidebar_item_body .back_to_home{margin:5px 0;padding:0px 0 7px 0;border:0;}

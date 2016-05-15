@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/y2004/m06/d08/h10/s06.ibbnrsds.enc.jpg?downloadKey2=1217307331_eb5027289b881c54235a01d67ee33fd0</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Eugen Jochum &amp; Royal Concertgebouw Orchestra</string>
+    <key>playlistName</key><string>Mahler: Das Lied Von Der Erde</string>
+    <key>artistId</key><string>701864</string>
+    <key>playlistId</key><string>49475225</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

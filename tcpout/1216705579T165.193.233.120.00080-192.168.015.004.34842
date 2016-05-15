@@ -1,0 +1,18 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 22 Jul 2008 05:46:44 GMT
+Server: Apache
+Set-Cookie: uid=10.113.78.14.192731216705604362; path=/; expires=Sat, 21-Jul-12 05:46:44 GMT
+Location: http://wwwa.vmware.com/info/?id=536
+Content-Length: 243
+Content-Type: text/html; charset=iso-8859-1
+X-Cache: MISS from www.vmware.com
+Connection: close
+Set-Cookie: BIGipServerwww-pool=407793930.20480.0000; path=/
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="http://wwwa.vmware.com/info/?id=536">here</a>.</p>
+</body></html>

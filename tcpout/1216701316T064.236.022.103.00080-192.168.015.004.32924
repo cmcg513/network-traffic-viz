@@ -1,0 +1,497 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Server: Apache
+AdServer: ad8ad14:9678:1
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0, no-cache
+Expires: Tue, 22 Jul 2008 04:35:41 GMT
+Pragma: no-cache
+Content-Length: 3207
+Keep-Alive: timeout=5, max=15
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<script>
+        function cnnad_getTld (hostname)
+        {
+               var data = hostname.split(".");
+               if (data.length >= 2)
+               {
+                       return (data[data.length-2] + "." + data[data.length-1]);
+               }
+               return(null);
+        }
+ 
+        var cnnDocDomain = cnnad_getTld(location.hostname);
+        if(cnnDocDomain) {document.domain = cnnDocDomain;}
+
+	function cnnGetId(query) {
+		var keyValPairs = query.split('&');
+		if(!keyValPairs) {
+			keyValPairs = new Array();
+			keyValPairs[keyValPairs.length]=query;
+		}
+		for(var counter=0; counter < keyValPairs.length;counter++) {
+			var keyVal = keyValPairs[counter].split('=');
+			if(keyVal[0]=='domId') {
+				//alert("returning id: " + keyVal[1]);
+				return keyVal[1];
+			}
+		}
+	}
+			
+	function cnnSendData2() {
+		var docId = cnnGetId(decodeURIComponent(location.pathname.substring(9)));
+		var height = 250;
+		var width = 300;
+		top.cnnad_showAd(docId);
+		if ((height > 0)&&(width > 0))
+		{
+			top.cnnad_setAdSize(docId,height,width);
+		}
+	}
+</script> 
+</head>
+
+<body STYLE="background-color:transparent" onload="cnnSendData2()">
+<!--FlightID: 136033-->
+<iframe src="https://view.atdmt.com/CNT/iview/cnncbcbr3190000004cnt/direct;wi.300;hi.250/01/ugasRl,beikyNKfdufRA?click=http://ads.cnn.com/event.ng/Type%3dclick%26FlightID%3d136033%26AdID%3d181951%26TargetID%3d913%26Segments%3d730,2259,2743,3030,3285,3800,5238,5880,7215,7603,8463,8796,9496,9779,9781,9853,10088,10381,12636,12942,13087,13088,13090,13305,13310,13760,14879,15539,15608,16113,16483,17251,17373,17841,17956,17987%26Values%3d1588%26Redirect%3d" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="300" height="250">
+
+<script language="JavaScript" type="text/javascript">
+
+document.write('<a href="http://ads.cnn.com/event.ng/Type=click&FlightID=136033&AdID=181951&TargetID=913&Segments=730,2259,2743,3030,3285,3800,5238,5880,7215,7603,8463,8796,9496,9779,9781,9853,10088,10381,12636,12942,13087,13088,13090,13305,13310,13760,14879,15539,15608,16113,16483,17251,17373,17841,17956,17987&Values=1588&Redirect=http://clk.atdmt.com/CNT/go/cnncbcbr3190000004cnt/direct;wi.300;hi.250/01/ugasRl,beikyNKfdufRA" target="_blank"><img src="https://view.atdmt.com/CNT/view/cnncbcbr3190000004cnt/direct;wi.300;hi.250/01/ugasRl,beikyNKfdufRA"/></a>');
+
+</script>
+
+</iframe>
+
+<img src="http://ads.cnn.com:80/event.ng/Type=count&ClientType=2&ASeg=&AMod=&AdID=181951&FlightID=136033&TargetID=913&SiteID=1588&EntityDefResetFlag=0&Segments=730,2259,2743,3030,3285,3800,5238,5880,7215,7603,8463,8796,9496,9779,9781,9853,10088,10381,12636,12942,13087,13088,13090,13305,13310,13760,14879,15539,15608,16113,16483,17251,17373,17841,17956,17987&Targets=913,8450,31334,16956,1515,29415,8168,23725,16922,24127,39025,30231,26857,27867,29630,29635,26340,29144,30645,30655&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2732,4413,4418,4429,47182,48063,49554,52263,52509,52897,54682,54765,55058,55059,56058,56376&RawValues=&random=ugasRl,beikyNKfdufRA" width=1 height=1 border=0>
+</body>
+</html>HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:42 GMT
+Server: Apache
+AdServer: ad8ad14:9678:1
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0, no-cache
+Expires: Tue, 22 Jul 2008 04:35:42 GMT
+Pragma: no-cache
+Content-Length: 5468
+Keep-Alive: timeout=5, max=14
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<script>
+        function cnnad_getTld (hostname)
+        {
+               var data = hostname.split(".");
+               if (data.length >= 2)
+               {
+                       return (data[data.length-2] + "." + data[data.length-1]);
+               }
+               return(null);
+        }
+ 
+        var cnnDocDomain = cnnad_getTld(location.hostname);
+        if(cnnDocDomain) {document.domain = cnnDocDomain;}
+
+	function cnnGetId(query) {
+		var keyValPairs = query.split('&');
+		if(!keyValPairs) {
+			keyValPairs = new Array();
+			keyValPairs[keyValPairs.length]=query;
+		}
+		for(var counter=0; counter < keyValPairs.length;counter++) {
+			var keyVal = keyValPairs[counter].split('=');
+			if(keyVal[0]=='domId') {
+				//alert("returning id: " + keyVal[1]);
+				return keyVal[1];
+			}
+		}
+	}
+			
+	function cnnSendData2() {
+		var docId = cnnGetId(decodeURIComponent(location.pathname.substring(9)));
+		var height = 280;
+		var width = 336;
+		top.cnnad_showAd(docId);
+		if ((height > 0)&&(width > 0))
+		{
+			top.cnnad_setAdSize(docId,height,width);
+		}
+	}
+</script> 
+</head>
+
+<body STYLE="background-color:transparent" onload="cnnSendData2()">
+<!--FlightID: 66953-->
+<!-- BEGIN CREATIVE -->
+
+<style type="text/css" media="screen">
+
+	@import url(http://i.l.cnn.net/cnn/.element/css/2.0/common.css);
+
+</style>
+
+<script type="text/javascript">
+
+	/* define all relevant Google ad variables */
+
+	google_ad_client = (top.location.search.indexOf('refresh=1') >= 0) ? 'ca-cnn-refresh_js' : 'ca-cnn-home_js';
+
+	google_ad_channel = (top.location.search.indexOf('refresh=1') >= 0) ? 'news' : 'homepage';
+
+	google_ad_output = 'js';
+
+	google_max_num_ads = '3';
+
+	google_page_url = top.location;
+
+	google_ad_type = 'text';
+
+	google_language = 'en';
+
+	google_encoding = 'utf8';
+
+	google_safe = 'high';
+
+
+
+	/* the google call back function */
+
+	function google_ad_request_done (google_ads)
+
+	{
+
+		if (google_ads.length === 0)
+
+		{
+
+			return;
+
+		}
+
+
+
+		// main container div for all the ads
+
+		var container = document.createElement('div');
+
+		container.className = 'cnnWireAdLtgBox';
+
+		container.style.height = '280px';
+
+		container.style.minHeight = '280px';
+
+		document.body.appendChild(container);
+
+
+
+		// the inner box 
+
+		var box = document.createElement('div');
+
+		box.className = 'cnnBoxContent';
+
+		box.style.height = '280px';
+
+		box.style.minHeight = '280px';
+
+		container.appendChild(box);
+
+
+
+		// the adbox
+
+		var ads = document.createElement('div');
+
+		ads.className = 'cnnAdLinksRR'; 
+
+		if (google_ads.length === 1)
+
+		{
+
+			ads.id = 'cnnAdvLinks1Ad';
+
+		}
+
+		else if (google_ads.length === 2)
+
+		{
+
+			ads.id = 'cnnAdvLinks2Ads';
+
+		}
+
+		else
+
+		{
+
+			ads.id = 'cnnAdvLinks3Ads';
+
+		}
+
+		box.appendChild(ads);
+
+
+
+		// the ad box heading
+
+		var h = document.createElement('div');
+
+		h.className = 'cnnHtAdvertHead';
+
+		h.innerHTML = 'Ads by Google';
+
+		ads.appendChild(h);
+
+
+
+		// the actual ads go here
+
+		var adlist = document.createElement('div');
+
+		ads.appendChild(adlist);
+
+
+
+		// now add in all the ads.
+
+		var ad;
+
+		for (var i = 0; i < google_ads.length; i++)
+
+		{
+
+			ad = google_ad_create_elem(google_ads[i]);
+
+			adlist.appendChild(ad);
+
+		}
+
+	}
+
+
+
+	/* helper function to create DOM elements for Google ads */
+
+	function google_ad_create_elem (google_ad)
+
+	{
+
+		// Google encodes their URL, so we can't use it as-is.
+
+		google_ad.url = google_ad.url.replace(/&amp;/g,"&");
+
+
+
+		// create the main div to hold the entire ad
+
+		var d = document.createElement('div');
+
+		d.className = 'cnnHtAdvertLnks';
+
+
+
+		// bold the heading (line1) of the ad
+
+		var b = document.createElement('b');
+
+		b.innerHTML = google_ad.line1;
+
+		b.onmouseover = function () { 
+
+					window.status = google_ad.visible_url;
+
+					this.style.cursor = document.all ? 'hand' : 'pointer';
+
+		};
+
+		b.onclick = function () { window.open(google_ad.url); };
+
+		b.onmouseout = function () { window.status = ''; this.style.cursor = 'auto'; };
+
+		d.appendChild(b);
+
+
+
+		// line break after the heading
+
+		var br1 = document.createElement('br');
+
+		d.appendChild(br1);
+
+
+
+                // insert the rest of the lines in the ad (line2 + line3)
+                var t = document.createElement('span');
+                t.innerHTML = google_ad.line2 + ' ' + google_ad.line3;
+                d.appendChild(t);
+
+
+
+		// add a line break after the main body of ad
+
+		var br2 = document.createElement('br');
+
+		d.appendChild(br2);
+
+
+
+		// link up the URL
+
+		var a = document.createElement('a');
+
+		var i = document.createTextNode(google_ad.visible_url);
+
+		a.target = "_blank";
+
+		a.href = google_ad.url;
+
+		a.onmouseover = function () { window.status = google_ad.visible_url; return true; };
+
+		a.appendChild(i);
+
+		d.appendChild(a);
+
+
+
+		return d;
+
+	}
+
+</script>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+
+
+
+<!-- END CREATIVE -->
+<img src="http://ads.cnn.com:80/event.ng/Type=count&ClientType=2&ASeg=&AMod=&AdID=100871&FlightID=66953&TargetID=16044&SiteID=1588&EntityDefResetFlag=0&Segments=730,2743,3030,3285,8463,8796,9496,9563,9572,9779,9781,9853,10381,13760,14879,15539,16113,17251,17373&Targets=1515,16044,16045&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2746,4413,4418,4429,47182,48063,49554,52263,52370,52509,52897,54682,54765,55058,55059,56058,56376&RawValues=&random=byAzhsK,beikyNRfdufWc" width=1 height=1 border=0>
+</body>
+</html>HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:42 GMT
+Server: Apache
+AdServer: ad8ad14:9678:1
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0, no-cache
+Expires: Tue, 22 Jul 2008 04:35:42 GMT
+Pragma: no-cache
+Content-Length: 5689
+Keep-Alive: timeout=5, max=13
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<script>
+        function cnnad_getTld (hostname)
+        {
+               var data = hostname.split(".");
+               if (data.length >= 2)
+               {
+                       return (data[data.length-2] + "." + data[data.length-1]);
+               }
+               return(null);
+        }
+ 
+        var cnnDocDomain = cnnad_getTld(location.hostname);
+        if(cnnDocDomain) {document.domain = cnnDocDomain;}
+
+	function cnnGetId(query) {
+		var keyValPairs = query.split('&');
+		if(!keyValPairs) {
+			keyValPairs = new Array();
+			keyValPairs[keyValPairs.length]=query;
+		}
+		for(var counter=0; counter < keyValPairs.length;counter++) {
+			var keyVal = keyValPairs[counter].split('=');
+			if(keyVal[0]=='domId') {
+				//alert("returning id: " + keyVal[1]);
+				return keyVal[1];
+			}
+		}
+	}
+			
+	function cnnSendData2() {
+		var docId = cnnGetId(decodeURIComponent(location.pathname.substring(9)));
+		var height = 250;
+		var width = 300;
+		top.cnnad_showAd(docId);
+		if ((height > 0)&&(width > 0))
+		{
+			top.cnnad_setAdSize(docId,height,width);
+		}
+	}
+</script> 
+</head>
+
+<body STYLE="background-color:transparent" onload="cnnSendData2()">
+<!--FlightID: 121837-->
+<META HTTP-EQUIV="Content-type" CONTENT="text/html;charset=ISO-8859-1">
+<script src="/DartRichMedia_1_03.js"></script>
+<!-- Sniffer Code for Flash version=80 -->
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+var swf_click = "http://ads.cnn.com/event.ng/Type=click&FlightID=121837&AdID=198451&TargetID=28087&Segments=730,2743,3030,3285,8463,8796,9496,9779,9781,9853,10381,13760,14879,14997,15539,16113,17251,17373&Targets=28041,1515,28087&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2746,4413,4418,4429,47182,48063,49554,52263,52509,52897,54682,54765,55058,55059,55703,56058,56376&RawValues=&Redirect=http://www.ireport.com/ir-topic-stories.jspa?topicId=42599";
+var dcswf_click = escape(swf_click);
+var ShockMode = 0;
+var plugin = (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]) ? navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin : 0;
+
+if (plugin && parseInt(plugin.description.substring(plugin.description.indexOf(".")-1)) >= 8) 
+{
+ShockMode = 1;
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 
+&& (navigator.userAgent.indexOf("Windows 95")>=0 || navigator.userAgent.indexOf("Windows 98")>=0 || navigator.userAgent.indexOf("Windows NT")>=0)) {
+document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+document.write('on error resume next \n');
+document.write('ShockMode = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8")))\n');
+document.write('<\/SCRIPT\> \n');
+}
+if ( ShockMode ) {
+document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+document.write(' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0"');
+document.write(' ID=flashad WIDTH=300 HEIGHT=250>');
+document.write(' <PARAM NAME=movie VALUE="http://i.cdn.turner.com/cnn/cnn_adspaces/2.0/creatives/2008/7/11/2213filmfestival_300x250.swf?clickTag='+dcswf_click+'"> '); 
+document.write(' <PARAM NAME=quality VALUE=autohigh> ');
+document.write(' <EMBED SRC="http://i.cdn.turner.com/cnn/cnn_adspaces/2.0/creatives/2008/7/11/2213filmfestival_300x250.swf?clickTag='+dcswf_click+'" QUALITY=autohigh '); 
+document.write(' NAME=flashad swLiveConnect=TRUE WIDTH=300 HEIGHT=250');
+document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+document.write('</EMBED>');
+document.write('</OBJECT>');
+} else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+document.write('<A HREF="http://ads.cnn.com/event.ng/Type=click&FlightID=121837&AdID=198451&TargetID=28087&Segments=730,2743,3030,3285,8463,8796,9496,9779,9781,9853,10381,13760,14879,14997,15539,16113,17251,17373&Targets=28041,1515,28087&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2746,4413,4418,4429,47182,48063,49554,52263,52509,52897,54682,54765,55058,55059,55703,56058,56376&RawValues=&Redirect=http://www.ireport.com/ir-topic-stories.jspa?topicId=42599" target="_top"><IMG SRC="http://i.cdn.turner.com/cnn/cnn_adspaces/2.0/creatives/2008/7/11/15413filmfestival_300x250.jpg" WIDTH=300 HEIGHT=250 BORDER=0></A>');
+}
+//-->
+</SCRIPT>
+<NOEMBED>
+<A HREF="http://ads.cnn.com/event.ng/Type=click&FlightID=121837&AdID=198451&TargetID=28087&Segments=730,2743,3030,3285,8463,8796,9496,9779,9781,9853,10381,13760,14879,14997,15539,16113,17251,17373&Targets=28041,1515,28087&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2746,4413,4418,4429,47182,48063,49554,52263,52509,52897,54682,54765,55058,55059,55703,56058,56376&RawValues=&Redirect=http://www.ireport.com/ir-topic-stories.jspa?topicId=42599" target="_top"><IMG SRC="http://i.cdn.turner.com/cnn/cnn_adspaces/2.0/creatives/2008/7/11/15413filmfestival_300x250.jpg" WIDTH=300 HEIGHT=250 BORDER=0></A>
+</NOEMBED>
+<NOSCRIPT>
+<A HREF="http://ads.cnn.com/event.ng/Type=click&FlightID=121837&AdID=198451&TargetID=28087&Segments=730,2743,3030,3285,8463,8796,9496,9779,9781,9853,10381,13760,14879,14997,15539,16113,17251,17373&Targets=28041,1515,28087&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2746,4413,4418,4429,47182,48063,49554,52263,52509,52897,54682,54765,55058,55059,55703,56058,56376&RawValues=&Redirect=http://www.ireport.com/ir-topic-stories.jspa?topicId=42599" target="_top"><IMG SRC="http://i.cdn.turner.com/cnn/cnn_adspaces/2.0/creatives/2008/7/11/15413filmfestival_300x250.jpg" WIDTH=300 HEIGHT=250 BORDER=0></A>
+</NOSCRIPT>
+
+
+</body>
+</html>HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 04:35:44 GMT
+Server: Apache
+Pragma: no-cache
+Content-Length: 0
+Cache-control: no-cache, max-age=0, no-cache
+Location: http://i.cdn.turner.com/cnn/images/1.gif
+Expires: Tue, 22 Jul 2008 04:35:44 GMT
+Keep-Alive: timeout=5, max=12
+Connection: Keep-Alive
+Content-Type: text/html
+

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/f0/d7/1c/mzi.becrhqtq.enc.jpg?downloadKey2=1217307268_7cd442f5190f5d20824d9d96069ca5af</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Maurice Gendron</string>
+    <key>playlistName</key><string>Bach, J.S.: The 6 Cello Suites</string>
+    <key>artistId</key><string>73412390</string>
+    <key>playlistId</key><string>218299319</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

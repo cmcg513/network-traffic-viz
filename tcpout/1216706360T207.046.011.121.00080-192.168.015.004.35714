@@ -1,0 +1,22 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 05:59:44 GMT
+Server: Microsoft-IIS/6.0
+P3P: CP="BUS CUR CONo FIN IVDo ONL OUR PHY SAMo TELo"
+xxn:56
+MSNSERVER: H: BAY123-W56 V: 13.1.124.611 D: 2008-06-11T23:47:48
+Location: http://login.live.com/login.srf?wa=wsignin1.0&rpsnv=10&ct=1216706384&rver=4.5.2130.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&id=64855
+Set-Cookie: KSC=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: dfoo=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: kr=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: bsc=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: mt=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Set-Cookie: KVC=; domain=.mail.live.com; expires=Thu, 01-Jan-1970 12:00:01 GMT; path=/
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/html; charset=utf-8
+Content-Length: 288
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="http://login.live.com/login.srf?wa=wsignin1.0&amp;rpsnv=10&amp;ct=1216706384&amp;rver=4.5.2130.0&amp;wp=MBI&amp;wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&amp;id=64855">here</a>.</h2>
+</body></html>

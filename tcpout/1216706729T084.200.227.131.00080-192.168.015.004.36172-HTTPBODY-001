@@ -1,0 +1,64 @@
+function startEditLoginData(){
+	toggleAreas('#logindaten', '#logindaten_edit');
+}	
+
+function abortEditLoginData() {
+	toggleAreas('#logindaten', '#logindaten_edit');
+}
+
+
+function startEditAvatarData(){
+	toggleAreas('#avatardaten', '#avatardaten_edit');
+}	
+
+function abortEditAvatarData() {
+	toggleAreas('#avatardaten', '#avatardaten_edit');
+}
+
+
+function startEditProfilData(){
+	toggleAreas('#profildaten', '#profildaten_edit');
+}	
+
+function abortEditProfilData() {
+	toggleAreas('#profildaten', '#profildaten_edit');
+}
+
+
+function startEditBannerData(){
+	toggleAreas('#linkblogbanner', '#linkblogbanner_edit');
+}	
+
+function abortEditBannerData() {
+	toggleAreas('#linkblogbanner', '#linkblogbanner_edit');
+}
+
+
+function toggleAreas(div1, div2) {
+	$(div1).toggle();
+	$(div2).toggle();
+}
+
+	/*
+	$.post(
+		'/bookmarks/edit',
+		'check['+folderName+']='+$(draggable).parent('div').attr('id').split('_')[1]+'&folder=Folder',
+		function (data) {
+			if (data) {
+				if (document.location.pathname != '/bookmarks') {
+					$(draggable).parent('div').slideUp("middle");
+				}
+				bookmarkCount = $(folder).next('span').text().match(/\(([0-9]*)\)/)[1];
+				bookmarkCount++;
+				$(folder).next('span').empty();
+				$(folder).next('span').append('('+bookmarkCount+')');
+				$('#bm-manager-notification').replaceWith('');
+				$('#manager .tabable').append(data);
+				toggleNotice();
+				setTimeout("toggleNotice()", 3000);
+			} else {
+				// Fehlermeldung
+			}
+		}
+	);
+	*/	

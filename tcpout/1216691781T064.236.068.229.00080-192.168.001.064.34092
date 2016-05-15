@@ -1,0 +1,22 @@
+HTTP/1.0 200 OK
+Connection: keep-alive
+Content-Type: text/html
+Content-Length: 255
+
+<html><body><base target=_blank><script language="JavaScript" type="text/javascript" src="http://at.atwola.com/addyn/3.0/5113.1/221794/0/-1/size=120x90;noperf=1;alias=93242651;target=_blank;aduho=-60;group=691804468;misc=691804468"></script></body></html>HTTP/1.0 200 OK
+Connection: keep-alive
+Server: Adtech Adserver
+Cache-Control: no-cache
+Content-Type: application/x-javascript
+Content-Length: 437
+
+document.write("<SCR"+"IPT TYPE='text/javascript'>\n");
+document.write("var extra = \"/aolexp=0\";\n");
+document.write("var MN=\"93242651\";\n");
+document.write("var ACE_AR = {Site: '743164', Size: '120090', Mn: MN, Extra: extra};\n");
+document.write("</SCR"+"IPT>\n");
+document.write("\n");
+document.write("<SCR"+"IPT TYPE='text/javascript' SRC='http://uac.advertising.com/wrapper/aceUAC.js'>\n");
+document.write("</SCR"+"IPT>\n");
+
+

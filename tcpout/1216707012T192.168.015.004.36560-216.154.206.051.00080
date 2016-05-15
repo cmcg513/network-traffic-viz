@@ -1,0 +1,12 @@
+GET /cgi-bin/ebayCounter.asp?id=323737561 HTTP/1.1
+Host: counter.marketplaceadvisor.channeladvisor.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/She-Rules-Nicole-Modern-Computer-Laptop-Backpack-Red_W0QQitemZ170241583895QQihZ007QQcategoryZ31520QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+Cookie: __utmz=241567824.1209878837.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=241567824.965945782.1209878837.1209878837.1209878837.1; BIGipServerCounters=1427072010.20480.0000
+

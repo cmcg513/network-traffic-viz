@@ -1,0 +1,30 @@
+HEAD /v7/windowsupdate/redir/wuredir.cab?0807220558 HTTP/1.1
+Accept: */*
+User-Agent: Windows-Update-Agent
+Host: download.windowsupdate.com
+Connection: Keep-Alive
+
+HEAD /v7/windowsupdate/a/selfupdate/WSUS3/x86/Other/wsus3setup.cab?0807220558 HTTP/1.1
+Accept: */*
+User-Agent: Windows-Update-Agent
+Host: download.windowsupdate.com
+Connection: Keep-Alive
+
+GET /v7/windowsupdate/a/selfupdate/WSUS3/x86/Other/wsus3setup.cab?0807220558 HTTP/1.1
+Accept: */*
+User-Agent: Windows-Update-Agent
+Host: download.windowsupdate.com
+Connection: Keep-Alive
+
+HEAD /v7/windowsupdate/redir/wuredir.cab?0807220558 HTTP/1.1
+Accept: */*
+User-Agent: Windows-Update-Agent
+Host: download.windowsupdate.com
+Connection: Keep-Alive
+
+HEAD /v7/windowsupdate/redir/wuredir.cab?0807220558 HTTP/1.1
+Accept: */*
+User-Agent: Windows-Update-Agent
+Host: download.windowsupdate.com
+Connection: Keep-Alive
+

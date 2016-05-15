@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:clearspace="http://www.jivesoftware.com/xmlns/clearspace/rss" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ireport="http://ireport.com/home/rss" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>iReport.com - On CNN</title>
+    <link>http://www.ireport.com/index.jspa?sortBy=oncnn&amp;filterBy=oncnn</link>
+    <description>Latest iReports to be featured on CNN</description>
+    <language>en</language>
+    <pubDate>Tue, 22 Jul 2008 02:12:15 GMT</pubDate>
+    <generator>ireport.com 1.11.1.3109 (http://ireport.com/)</generator>
+    <dc:date>2008-07-22T02:12:15Z</dc:date>
+    <dc:language>en</dc:language>
+    <item>
+      <title>flooding in ridgecrest, ca</title>
+      <link>http://www.ireport.com/docs/DOC-48241?ref=feeds%2Foncnn</link>
+      <description>my street flooded</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047462/147599/Anon1216690260-floodingInRidgecrestCa690916_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">weather_fx</category>
+      <category domain="http://www.ireport.com/tags">weather</category>
+      <pubDate>Tue, 22 Jul 2008 01:37:30 GMT</pubDate>
+      <author>tee31375</author>
+      <guid>http://www.ireport.com/docs/DOC-48241?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-22T01:37:30Z</dc:date>
+      <ireport:onCnnDate>2008-07-22T01:37:30Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047462/147599/Anon1216690260-floodingInRidgecrestCa690916_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/tee31375</ireport:authorLink>
+      <ireport:location city="ridgecrest" state="California" zip="93555" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-48241?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047462/147599/Anon1216690260-floodingInRidgecrestCa690916_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047462/147599/Anon1216690260-floodingInRidgecrestCa690916_sm.jpg" width="120" height="90" />
+        <media:title>flooding in ridgecrest, ca</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Vermont Storm Rips Roof off Barn</title>
+      <link>http://www.ireport.com/docs/DOC-48207?ref=feeds%2Foncnn</link>
+      <description>This is a picture of a barn that had it's roof blown off by the
+storm that ripped through parts of Vermont on Friday July 18, 2008.
+This photo was taken on rt 108 in Cambridge near Bakersfield
+Vermont. I took this photo today Monday July 21, 2008. Story told
+to me is that they were milking cows when the storm lifted the
+roof. No injuries were reported. Notice the person in the roofless
+barn.</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047449/147581/Anon1216688353-VermontStormRipsRoofOffBarn734143_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">weather</category>
+      <category domain="http://www.ireport.com/tags">storm</category>
+      <pubDate>Tue, 22 Jul 2008 01:05:28 GMT</pubDate>
+      <author>thepizzaman</author>
+      <guid>http://www.ireport.com/docs/DOC-48207?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-22T01:05:28Z</dc:date>
+      <ireport:onCnnDate>2008-07-22T01:05:28Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047449/147581/Anon1216688353-VermontStormRipsRoofOffBarn734143_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/thepizzaman</ireport:authorLink>
+      <ireport:location city="Cambridge" state="Vermont" zip="05444" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-48207?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047449/147581/Anon1216688353-VermontStormRipsRoofOffBarn734143_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047449/147581/Anon1216688353-VermontStormRipsRoofOffBarn734143_sm.jpg" width="120" height="90" />
+        <media:title>Vermont Storm Rips Roof off Barn</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Rebuilding the Gulf Coast. Zoo Northwest Florida. Part One</title>
+      <link>http://www.ireport.com/docs/DOC-48179?ref=feeds%2Foncnn</link>
+      <description>&lt;br /&gt;iReport for CNN "Rebuilding the Gulf Coast" 
+&lt;br /&gt;The struggles of The Zoo Northwest Florida 
+&lt;br /&gt;You might call it the little zoo that could take the beating
+of three major hurricanes and still keep going. But the momentum
+that's kept The Zoo Northwest Florida afloat through some of the
+toughest times in recent history along the Gulf Coast, is quickly
+fading to economic hard times. 
+&lt;br /&gt;Located about 150 miles east of Biloxi, Mississippi, you'll
+find the small zoo in Gulf Breeze, Florida. Biloxi is where the eye
+of Hurricane Katrina, a Cat 5 storm, plowed onto shore on Aug. 23,
+2005. Even though this zoo was not in the direct path of this
+storm, the effects - wind, rain and loss of tourism dollars - were
+still felt. A few months before Katrina hit, the zoo, which is just
+a few miles inland from the Gulf of Mexico, was dealt a mighty blow
+from the eye of Hurricane Denise, a Cat 3 storm that knocked down
+hundreds of trees, flooded coastal properties and derailed tourism.
+These two hurricanes could not have come at a worse time. The zoo
+was still trying to repair and financially recover from one of the
+worst hurricanes to hit this area in recent history -- Hurricane
+Ivan, a deadly Cat. 5 storm that brought the Pensacola and Gulf
+Breeze areas to its knees. The zoo was in the direct path of the
+northeast quadrant of the hurricane...the worse side of this
+massive storm. 
+&lt;br /&gt;So I don't need to tell you that this Zoo has had its share
+of struggles. It seemed as though every time it was getting back on
+its feet, another storm would makes its presents known. And each
+time the struggles grew harder, to the point that today The Zoo
+Northwest Florida might have no other choice than to close its
+doors and start yet another struggle to find homes for more than a
+1,300 animals. For a community that's still in the recovery stages
+from the one, two, three punches of the 2004 and 2005 hurricanes,
+this would be a big blow. 
+&lt;br /&gt;This beloved zoo has been a large part of this community for
+many years. A non-profit zoo that has made ends met with ticket
+sales, corporate and private supporters, fund raisers and
+donations, including penny drives from local school children. And
+many of these children are ones who lost everything during
+hurricanes Ivan and Dennis. Unlike many zoos that have the support
+of their local city, county and state governments, this zoo
+operates solely on its own. 
+&lt;br /&gt;But its battle to keep the doors open and animals here is at
+the 11th hour. If the local city and or county government can't
+find room in their budgets, the zoo has no other choice but to put
+a lock on its doors and spend the next projected 12 to 16 months
+finding homes for all of the animals that range from large exotics,
+such as giraffes, lions, gorillas and a chimpanzee named Zackary,
+who waves and smiles at visitors, all the way down to the smallest
+of bats and snakes. 
+&lt;br /&gt;I grew up in this area and like many people here, we feel a
+kinship with the zoo and its animals - some of which have been born
+at the zoo. I have attended events here, taken my nephews and niece
+here, and they offer many more things to do than just a day at the
+zoo, such as "Senior Keeper Programs", "Zoo Camp" and "School at
+the Zoo," all events directed to adults and children with the
+intent of educating them about exotic animals and wildlife. 
+&lt;br /&gt;This zoo has over 30 acres for free-roaming animals that you
+can see up close via the Safari Line Train and stroll though the
+gardens, gift shop and children's petting zoo. 
+&lt;br /&gt;A dear friend of mine and fellow animal lover, Betsy Bragg,
+came to me one day and asked if I could donate some artwork to the
+zoo to be a part of its fundraiser "Feast with the Beast". I felt
+that I could and should do more than just that. So that is why I'm
+doing this "iReport" for CNN. I hope that through my story and
+photos that it will bring attention where it is greatly needed. 
+&lt;br /&gt;Betsy got me in touch with one of the board members of the
+zoo, Janie Switzer. And with my partner, Jeff Griffey, the four of
+us took off on a photo shoot, Safari style. I can't tell you how
+excited I was to see these wonderful creatures up close and
+personal. And to see how hard every one at this zoo has worked to
+recover from those storms. So many trees down, so many fences
+destroyed, damage to property, and loss of revenue and rising
+operational costs, with the change in the economy it's a lot to
+deal with when you are a non-profit zoo. Every day it's face with
+making sure that the animals are safe, getting them to shelter,
+keeping them calm, keeping them fed, keeping them healthy, paying
+the employees, maintaining and rebuilding the property, paying the
+utilities...the list goes on and on. 
+&lt;br /&gt;As I was asked before, to donate artwork to the zoo for
+"Feast with the Beast" in September, chances are there won't be a
+fund raiser to donate to. So, with the help of Jeff, Betsy,
+Danyelle, Janie and the Pensacola News Journal, we are putting
+together a fund raising auction on eBay next week. With the photos
+that I have taken and the help of Akiens Framery, we are putting
+together a dozen 11x17 signed, matted, and framed photo prints of
+the animals that live at this zoo. One hundred percent of the net
+profits will go directly to the The Zoo Northwest Florida to help
+feed and maintain the animals, no matter what path this zoo
+takes*.* 
+&lt;br /&gt;After having this chance to see the zoo from a different
+angle and to learn more clearly about the challenges they are faced
+with, I hope this story inspires more people to help. 
+&lt;br /&gt;If you would like to bid on one of our prints, you can go to
+eBay. Link below..... 
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a
+href="http://shop.ebay.com/items/_W0QQ_dmptZArtQ5fPhotoQ5fImages?_nkw=zoo+northwest+florida&amp;amp;_fromfsb=&amp;amp;_trksid=m270"&gt;http://shop.ebay.com/items/_W0QQ_dmptZArtQ5fPhotoQ5fImages?_nkw=zoo+northwest+florida&amp;amp;_fromfsb=&amp;amp;_trksid=m270&lt;/a&gt;
+
+&lt;br /&gt;
+&lt;br /&gt;If you would like to learn more about the zoo and make a
+donation, you can do to the zoo's web page. Link below..... 
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;a
+href="http://www.thezoonorthwestflorida.org"&gt;www.thezoonorthwestflorida.org&lt;/a&gt;
+&lt;br /&gt;
+&lt;br /&gt;I want to thank CNN for giving me the chance to get this
+story about The Zoo Northwest Florida out there and thank the
+viewers for taking the time to watch. 
+&lt;br /&gt;James Amerson 
+&lt;br /&gt;Animal Lover 
+&lt;br /&gt;</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047411/147469/Anon1216681844-RebuildingTheGulfCoastZooNorthwest728442_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">katrina</category>
+      <category domain="http://www.ireport.com/tags">hurricane</category>
+      <category domain="http://www.ireport.com/tags">rebuilding</category>
+      <category domain="http://www.ireport.com/tags">gulf_coast</category>
+      <category domain="http://www.ireport.com/tags">zoo</category>
+      <category domain="http://www.ireport.com/tags">northwest</category>
+      <category domain="http://www.ireport.com/tags">florida</category>
+      <category domain="http://www.ireport.com/tags">james</category>
+      <category domain="http://www.ireport.com/tags">amerson</category>
+      <pubDate>Mon, 21 Jul 2008 23:21:27 GMT</pubDate>
+      <author>JamesAmerson</author>
+      <guid>http://www.ireport.com/docs/DOC-48179?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T23:21:27Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T23:21:26Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047411/147469/Anon1216681844-RebuildingTheGulfCoastZooNorthwest728442_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/JamesAmerson</ireport:authorLink>
+      <ireport:location city="Pensacola" state="Florida" zip="32501" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-48179?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047411/147469/Anon1216681844-RebuildingTheGulfCoastZooNorthwest728442_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047411/147469/Anon1216681844-RebuildingTheGulfCoastZooNorthwest728442_sm.jpg" width="120" height="90" />
+        <media:title>Rebuilding the Gulf Coast. Zoo Northwest Florida. Part One</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Flooding in Ridgecrest, California</title>
+      <link>http://www.ireport.com/docs/DOC-48192?ref=feeds%2Foncnn</link>
+      <description>Ridgecrest recieved over one and one half inches of rain Sunday in
+a short period of time, triggering major flooding within the city.
+Disabled police vehicles, flooded residences, businesses and road
+closures were commonplace. Most people showed some form of
+excitement seeing roads turn into rivers. July 20, 2008.</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047387/147437/Anon1216676651-FloodingInRidgecrestCalifornia130865_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">severe</category>
+      <category domain="http://www.ireport.com/tags">weather</category>
+      <category domain="http://www.ireport.com/tags">rain</category>
+      <category domain="http://www.ireport.com/tags">storm</category>
+      <category domain="http://www.ireport.com/tags">flood</category>
+      <category domain="http://www.ireport.com/tags">ridgecrest</category>
+      <category domain="http://www.ireport.com/tags">california</category>
+      <pubDate>Mon, 21 Jul 2008 22:18:29 GMT</pubDate>
+      <author>DavidJohnson</author>
+      <guid>http://www.ireport.com/docs/DOC-48192?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T22:18:29Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T22:18:29Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047387/147437/Anon1216676651-FloodingInRidgecrestCalifornia130865_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/DavidJohnson</ireport:authorLink>
+      <ireport:location city="Ridgecrest" state="California" zip="93555" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-48192?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047387/147437/Anon1216676651-FloodingInRidgecrestCalifornia130865_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047387/147437/Anon1216676651-FloodingInRidgecrestCalifornia130865_sm.jpg" width="120" height="90" />
+        <media:title>Flooding in Ridgecrest, California</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>In Love With Africa</title>
+      <link>http://www.ireport.com/docs/DOC-48057?ref=feeds%2Foncnn</link>
+      <description>&lt;br /&gt;Photos from our month long honeymoon in Africa, September
+2001
+&lt;br /&gt;Chobe Reserve, Botswana
+&lt;br /&gt;Etosha NP, Namibia
+&lt;br /&gt;South Luangwa NP, Zambia
+&lt;br /&gt;</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047252/147227/Anon1216651049-InLoveWithAfrica393549_sm.jpg" type="image/jpeg" />
+      <pubDate>Mon, 21 Jul 2008 16:18:34 GMT</pubDate>
+      <author>CherP68</author>
+      <guid>http://www.ireport.com/docs/DOC-48057?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T16:18:34Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T16:18:33Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047252/147227/Anon1216651049-InLoveWithAfrica393549_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/CherP68</ireport:authorLink>
+      <media:player url="http://www.ireport.com/docs/DOC-48057?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047252/147227/Anon1216651049-InLoveWithAfrica393549_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047252/147227/Anon1216651049-InLoveWithAfrica393549_sm.jpg" width="120" height="90" />
+        <media:title>In Love With Africa</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Open Our Eyes</title>
+      <link>http://www.ireport.com/docs/DOC-47947?ref=feeds%2Foncnn</link>
+      <description>people talks about civil rights ,the system and the media</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047219/147177/Anon1216644063-OpenOurEyes678604_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">open</category>
+      <category domain="http://www.ireport.com/tags">our</category>
+      <category domain="http://www.ireport.com/tags">eyes</category>
+      <pubDate>Mon, 21 Jul 2008 13:44:31 GMT</pubDate>
+      <author>nosellout</author>
+      <guid>http://www.ireport.com/docs/DOC-47947?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T13:44:31Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T13:44:26Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047219/147177/Anon1216644063-OpenOurEyes678604_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/nosellout</ireport:authorLink>
+      <ireport:location city="greensboro" state="North Carolina" zip="27406" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-47947?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047219/147177/Anon1216644063-OpenOurEyes678604_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047219/147177/Anon1216644063-OpenOurEyes678604_sm.jpg" width="120" height="90" />
+        <media:title>Open Our Eyes</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Mayor Cory Booker on Obama, Hip-Hop, and Being Yourself</title>
+      <link>http://www.ireport.com/docs/DOC-48006?ref=feeds%2Foncnn</link>
+      <description>I had the distinct pleasure of interviewing Mayor Cory Booker of
+Newark, New Jersey on Saturday, and it was an unforgettably AMAZING
+experience to say the very least! At just 39 years old, he is one
+of the youngest, best, and brightest public servants in our
+country, and has already achieved more than most 90 year-olds do.
+He is not just the future, he is the NOW! 
+&lt;br /&gt;
+&lt;br /&gt;Check out my interview to hear what he has to say about
+Barack Obama, Hip-Hop being yourself, and making a difference.</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047229/147192/Anon1216645247-MayorCoryBookerOnObamaHipHopAndBe636034_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">cory</category>
+      <category domain="http://www.ireport.com/tags">booker</category>
+      <pubDate>Mon, 21 Jul 2008 13:38:27 GMT</pubDate>
+      <author>TraversJ</author>
+      <guid>http://www.ireport.com/docs/DOC-48006?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T13:38:27Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T13:38:27Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047229/147192/Anon1216645247-MayorCoryBookerOnObamaHipHopAndBe636034_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/TraversJ</ireport:authorLink>
+      <ireport:location city="Atlanta" state="Georgia" zip="30314" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-48006?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047229/147192/Anon1216645247-MayorCoryBookerOnObamaHipHopAndBe636034_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047229/147192/Anon1216645247-MayorCoryBookerOnObamaHipHopAndBe636034_sm.jpg" width="120" height="90" />
+        <media:title>Mayor Cory Booker on Obama, Hip-Hop, and Being Yourself</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>THE DARK KNIGHT INSIDE - OUR DUALITY</title>
+      <link>http://www.ireport.com/docs/DOC-48024?ref=feeds%2Foncnn</link>
+      <description>The lights went down, the fifteen minutes of trailers played. Then
+the opening Warner Logo and the audience clapped.
+&lt;br /&gt;
+&lt;br /&gt;A remorse did hang over the house as "The Dark Knight" rolled
+it's way through the projector. There was the familiar communal
+energy that accompanies any eagerly anticipated film, especially
+one a part of a franchise as popular as Batman, but there was, of
+course, an underlying current.
+&lt;br /&gt;
+&lt;br /&gt;Ledger's first appearance was met with tangible energy that
+turned, at least for me, momentarily to mourning. This was a good
+man and a tremendous artist. Anyone who possessed within him the
+quiet soul from Brokeback and the deranged manic Joker is a tornado
+of stories. His range was obviously insanely gifted. 
+&lt;br /&gt;
+&lt;br /&gt;I couldn't help stop though and begin questioning. That
+familiar inner struggle that I can only assume we all have. Are we
+at all guilty in this? Are we at all responsible? Not for his
+specific death, no I don't think that, but&amp;hellip;it brought forth
+questions&amp;hellip;.what kind of people are we?
+&lt;br /&gt;
+&lt;br /&gt;Now I won't bore you with a critique of "The Dark Knight",
+that is not my role but I will say this about the film - it had
+flaws, sure, but this is an important movie in Cinematic history
+and not just because of Ledger's Joker, but for the film's honesty.
+For the Dark Knight is not Christian Bale or George Clooney or the
+fictional Bruce Wayne, the Dark Knight is all of us. We all have
+those demons that drive us forward or underneath ground, depending
+on the volume of their song. For some it might be a simple need to
+please a parent for other's perhaps a more complicated set of
+personal obstacles - alcoholism, divorce, anger or the worst, that
+quiet resentment that builds until a young child of 17 picks up a
+weapon and kills his classmates. We all have demons, what defines
+us is the balance - between right and wrong - light and
+dark&amp;hellip;and more importantly how we handle the grey.
+&lt;br /&gt;
+&lt;br /&gt;But back to that question - who are we that we can mourn over
+an attack as shocking as 9/11 and still applaud in glee as Joker
+does some heinous act of violence. There is a particular moment in
+the film that stands out - and I won't spoil it for those who have
+yet to see this film - but those who have know something about a
+magic trick. When that moment happened the audience gasped in
+disbelief and then immediately began applauding and laughing.
+&lt;br /&gt;
+&lt;br /&gt;Now Ledger is remarkable in the part. Staggering in his power
+and frightening in his sponteity - and perhaps his performance made
+Joker more human, more accessible, but why did we enjoy the
+violence so much? 
+&lt;br /&gt;
+&lt;br /&gt;Yes I know, it's just a movie. Believe me I know. But here I
+was sitting in a theatre, watching one of the highest grossing
+movies of all time starring a deceased star who plays a deranged
+killer that we all secretly root for and I couldn't help but notice
+the film's theme blaring in my own ear - this duality of man - how
+we all can be capable of some aspect of the Joker when the right
+buttons are pushed.
+&lt;br /&gt;
+&lt;br /&gt;That car that cuts you off. That friend that lies. That hero
+that falls. The lover who cheats. The army that invades.
+&lt;br /&gt;
+&lt;br /&gt;Maybe that's why we love super hero movies, especially in
+troubled times like these. We must believe that there is someone
+out there helping us make the right decisions and keeping us from
+our most heinous selves. Someone to do the dirty work of cleaning
+up after our footsteps. But in truth, it is not the Joker that we
+are afraid of - he's obvious and extreme - it's the uncontrolled
+Dark Knight within each of us.
+&lt;br /&gt;
+&lt;br /&gt;Only problem is, it's just a film. There is no Dark Knight,
+no superhero, to show us a balance and take on some dark burden and
+mantel. It's up to each of us.</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047206/147137/Anon1216634829-THEDARKKNIGHTINSIDEOURDUALITY619504_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">batman</category>
+      <category domain="http://www.ireport.com/tags">movies</category>
+      <category domain="http://www.ireport.com/tags">trivia</category>
+      <category domain="http://www.ireport.com/tags">entertainment</category>
+      <pubDate>Mon, 21 Jul 2008 13:18:33 GMT</pubDate>
+      <author>dpkronmiller</author>
+      <guid>http://www.ireport.com/docs/DOC-48024?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T13:18:33Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T13:18:32Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047206/147137/Anon1216634829-THEDARKKNIGHTINSIDEOURDUALITY619504_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/dpkronmiller</ireport:authorLink>
+      <ireport:location city="Los Angeles" state="California" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-48024?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047206/147137/Anon1216634829-THEDARKKNIGHTINSIDEOURDUALITY619504_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047206/147137/Anon1216634829-THEDARKKNIGHTINSIDEOURDUALITY619504_sm.jpg" width="120" height="90" />
+        <media:title>THE DARK KNIGHT INSIDE - OUR DUALITY</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Major flooding in Ridgecrest, California: Stills 2</title>
+      <link>http://www.ireport.com/docs/DOC-47937?ref=feeds%2Foncnn</link>
+      <description>Ridgecrest recieved over one and one half inches of rain Sunday in
+a short period of time, triggering major flooding within the city.
+Disabled police vehicles, flooded residences, businesses and road
+closures were commonplace. According to Captain John King of the
+Kern County Fire Department, "About 15 people stranded in the
+American Legion building surrounded by water... inside the
+building, and they weren't sure how they could get out. If they
+could get out." Captain Shawn Compton of the Bureau of Land
+Management Fire Department, Saltwells Station and first on scene
+said, "We had 2 disabled people, one with a prosthesis leg and one
+with a broken foot we had to carry out." Linda Katz, a patron at
+the time the floodwaters hit said, "That door, the door that was
+over there by Inyokern [Road] and the back door, we couldn't open
+them. The guys tried to push them open. July 20, 2008. 
+&lt;i&gt;Photos by Lindsay Johnson&lt;/i&gt;</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047211/147151/Anon1216636842-MajorFloodingInRidgecrestCalifornia558165_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">severe</category>
+      <category domain="http://www.ireport.com/tags">weather</category>
+      <category domain="http://www.ireport.com/tags">rain</category>
+      <category domain="http://www.ireport.com/tags">storm</category>
+      <category domain="http://www.ireport.com/tags">flood</category>
+      <category domain="http://www.ireport.com/tags">ridgecrest</category>
+      <category domain="http://www.ireport.com/tags">california</category>
+      <pubDate>Mon, 21 Jul 2008 13:18:29 GMT</pubDate>
+      <author>DavidJohnson</author>
+      <guid>http://www.ireport.com/docs/DOC-47937?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T13:18:29Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T13:18:29Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047211/147151/Anon1216636842-MajorFloodingInRidgecrestCalifornia558165_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/DavidJohnson</ireport:authorLink>
+      <ireport:location city="Ridgecrest" state="California" zip="93555" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-47937?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047211/147151/Anon1216636842-MajorFloodingInRidgecrestCalifornia558165_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047211/147151/Anon1216636842-MajorFloodingInRidgecrestCalifornia558165_sm.jpg" width="120" height="90" />
+        <media:title>Major flooding in Ridgecrest, California: Stills 2</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Major flooding in Ridgecrest, California: Stills 1</title>
+      <link>http://www.ireport.com/docs/DOC-47998?ref=feeds%2Foncnn</link>
+      <description>Ridgecrest recieved over one and one half inches of rain Sunday in
+a short period of time, triggering major flooding within the city.
+Disabled police vehicles, flooded residences, businesses and road
+closures were commonplace. July 20, 2008. 
+&lt;i&gt;Photos by Lindsay Johnson&lt;/i&gt;</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047204/147125/Anon1216634133-MajorFloodingInRidgecrestCalifornia464082_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">severe</category>
+      <category domain="http://www.ireport.com/tags">weather</category>
+      <category domain="http://www.ireport.com/tags">rain</category>
+      <category domain="http://www.ireport.com/tags">storm</category>
+      <category domain="http://www.ireport.com/tags">flood</category>
+      <category domain="http://www.ireport.com/tags">ridgecrest</category>
+      <category domain="http://www.ireport.com/tags">california</category>
+      <pubDate>Mon, 21 Jul 2008 12:18:30 GMT</pubDate>
+      <author>DavidJohnson</author>
+      <guid>http://www.ireport.com/docs/DOC-47998?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T12:18:30Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T12:18:30Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047204/147125/Anon1216634133-MajorFloodingInRidgecrestCalifornia464082_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/DavidJohnson</ireport:authorLink>
+      <ireport:location city="Ridgecrest" state="California" zip="93555" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-47998?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047204/147125/Anon1216634133-MajorFloodingInRidgecrestCalifornia464082_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047204/147125/Anon1216634133-MajorFloodingInRidgecrestCalifornia464082_sm.jpg" width="120" height="90" />
+        <media:title>Major flooding in Ridgecrest, California: Stills 1</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Storm Cast 7-20-08 Part 3</title>
+      <link>http://www.ireport.com/docs/DOC-48011?ref=feeds%2Foncnn</link>
+      <description>Damage Throughout Franklin, Indiana After The Passage Of A Severe
+Bow Echo</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047200/147119/Anon1216632053-StormCast72008Part3679667_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">weather</category>
+      <category domain="http://www.ireport.com/tags">storm</category>
+      <category domain="http://www.ireport.com/tags">franklin</category>
+      <category domain="http://www.ireport.com/tags">indiana</category>
+      <category domain="http://www.ireport.com/tags">wind</category>
+      <category domain="http://www.ireport.com/tags">damage</category>
+      <pubDate>Mon, 21 Jul 2008 09:46:27 GMT</pubDate>
+      <author>michaelwmoss</author>
+      <guid>http://www.ireport.com/docs/DOC-48011?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T09:46:27Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T09:46:26Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047200/147119/Anon1216632053-StormCast72008Part3679667_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/michaelwmoss</ireport:authorLink>
+      <ireport:location city="Franklin" state="Indiana" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-48011?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047200/147119/Anon1216632053-StormCast72008Part3679667_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047200/147119/Anon1216632053-StormCast72008Part3679667_sm.jpg" width="120" height="90" />
+        <media:title>Storm Cast 7-20-08 Part 3</media:title>
+      </media:content>
+    </item>
+    <item>
+      <title>Major flooding in Ridgecrest, California: Video</title>
+      <link>http://www.ireport.com/docs/DOC-47997?ref=feeds%2Foncnn</link>
+      <description>Ridgecrest recieved over one and one half inches of rain Sunday in
+a short period of time, triggering major flooding within the city.
+Disabled police vehicles, flooded residences, businesses and road
+closures were commonplace. According to Captain John King of the
+Kern County Fire Department, "About 15 people stranded in the
+American Legion building surrounded by water... inside the
+building, and they weren't sure how they could get out. If they
+could get out." Captain Shawn Compton of the Bureau of Land
+Management Fire Department, Saltwells Station and first on scene
+said, "We had 2 disabled people, one with a prosthesis leg and one
+with a broken foot we had to carry out." Linda Katz, a patron at
+the time the floodwaters hit said, "That door, the door that was
+over there by Inyokern [Road] and the back door, we couldn't open
+them. The guys tried to push them open." July 20, 2008.</description>
+      <enclosure url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047198/147117/Anon1216631993-MajorFloodingInRidgecrestCalifornia573457_sm.jpg" type="image/jpeg" />
+      <category domain="http://www.ireport.com/tags">severe</category>
+      <category domain="http://www.ireport.com/tags">weather</category>
+      <category domain="http://www.ireport.com/tags">rain</category>
+      <category domain="http://www.ireport.com/tags">storm</category>
+      <category domain="http://www.ireport.com/tags">flood</category>
+      <category domain="http://www.ireport.com/tags">ridgecrest</category>
+      <category domain="http://www.ireport.com/tags">california</category>
+      <pubDate>Mon, 21 Jul 2008 09:34:27 GMT</pubDate>
+      <author>DavidJohnson</author>
+      <guid>http://www.ireport.com/docs/DOC-47997?ref=feeds%2Foncnn</guid>
+      <dc:date>2008-07-21T09:34:27Z</dc:date>
+      <ireport:onCnnDate>2008-07-21T09:49:10Z</ireport:onCnnDate>
+      <ireport:thumbnail>http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047198/147117/Anon1216631993-MajorFloodingInRidgecrestCalifornia573457_sm.jpg</ireport:thumbnail>
+      <ireport:authorLink>http://www.ireport.com/people/DavidJohnson</ireport:authorLink>
+      <ireport:location city="Ridgecrest" state="California" zip="93555" country="United States" />
+      <media:player url="http://www.ireport.com/docs/DOC-47997?ref=feeds%2Foncnn" />
+      <media:content url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047198/147117/Anon1216631993-MajorFloodingInRidgecrestCalifornia573457_sm.jpg">
+        <media:thumbnail url="http://i.cdn.turner.com/ireport/sm/prod/2008/07/21/WE00047198/147117/Anon1216631993-MajorFloodingInRidgecrestCalifornia573457_sm.jpg" width="120" height="90" />
+        <media:title>Major flooding in Ridgecrest, California: Video</media:title>
+      </media:content>
+    </item>
+  </channel>
+</rss>
+

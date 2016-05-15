@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r40/Features/8b/f1/1f/dj.tnxjntvz.enc.jpg?downloadKey2=1217307349_326868d5343b18857a20a9ca423b1aa8</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Simon &amp; Garfunkel</string>
+    <key>playlistName</key><string>Wednesday Morning, 3 A.M.</string>
+    <key>artistId</key><string>461503</string>
+    <key>playlistId</key><string>255005761</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

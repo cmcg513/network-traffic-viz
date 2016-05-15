@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=9CA3F3EEBBEEEF37A4F23B26F30C7F36&CDDBMuiID=3859341&an=%E8%8F%85%E9%87%8E%E3%82%88%E3%81%86%E5%AD%90&pn=COWBOY%20BEBOP%20O.S.T.%201 HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: DC363823-EC8D610541626B2C3200A55726E14E20
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

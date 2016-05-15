@@ -1,0 +1,9 @@
+GET /viewad/1511700/300x250_Camera_dslr_v2_071108.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ad.doubleclick.net/adi/amzn.us.gw.atf;sz=300x250;bn=507846;s=1;s=3;s=4;s=5;s=6;s=7;s=8;s=9;s=12;s=14;s=16;s=22;s=23;s=24;s=25;s=26;s=27;s=28;s=30;s=32;s=40;s=46;s=51;s=54;s=56;s=57;s=58;s=59;s=67;s=71;s=72;s=74;s=77;s=78;s=80;s=83;s=91;s=92;s=93;u=1b4a78f670e94aba8446fbd595904e52;z=3;tile=1;ord=65711?
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: m1.2mdn.net
+

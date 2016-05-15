@@ -1,0 +1,6 @@
+function w(p){document.writeln(p)}
+var sdn=('email')?'email':'www';zIBlg=new Array('','','','');zIBlgI=new Array();
+x0='<a href=';x1='"';x2=x0+x1;x00='<\/a>';xe='<tr><td';qa='<\/td>';qb='<\/tr>';qc='<\/table>';qd=qa+qb;qz=' border=0>';zh='http://';s0=' style="';s1='font:8pt arial,helvetica;color:#000;"';q='>';sc='script';scb='<'+sc+q;sce='<\/'+sc+q;uy0='z.';uy='about.com';uy1=uy0+uy;u3=zh+uy1+'/6/g/'+sdn+'/b/b.js';
+w('<'+sc+' language="JavaScript" src="'+u3+'">'+sce)
+function zIBlgD(t,u,d){while(d.indexOf("\"")!=-1){d=d.replace("\"","");}w(xe+s0+s1+q+x2+u+x1+' title='+x1+d+x1+q+t+x00+qd)}
+function ShowHeadlines(c){var i=0,l=this.zIBlgI.length-1,c=(c)?(c*3)-1:29;if(c&&l>c)l=c;w(x2+zh+'www.'+uy+'/'+x1+q+'<img src="'+zh+uy1+'/d/lg/s11.gif"'+qz+x00+'<br>'+x2+zIBlg[1]+x1+s0+'font: 900 13pt verdana,arial,helvetica;text-decoration:none;color:#C00;"'+q+zIBlg[0]+x00+'<table cellspacing=1 cellpadding=1 width=100% bgcolor=#eeeeee'+s0+'border-top:1px solid #C00;border-bottom:1px solid #C00"'+qz+xe+s0+s1+q+'Read the current About.com Headlines:'+qd);while(i<l)zIBlgD(this.zIBlgI[i++],this.zIBlgI[i++],this.zIBlgI[i++]);w("</table>");}

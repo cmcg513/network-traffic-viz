@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/y2005/m05/d10/h23/s05.bfjosphn.enc.jpg?downloadKey2=1217307435_63c4b5fa87425036d620c9d7d5513185</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Peter Brötzmann</string>
+    <key>playlistName</key><string>F**k de Boere</string>
+    <key>artistId</key><string>6049438</string>
+    <key>playlistId</key><string>63250471</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

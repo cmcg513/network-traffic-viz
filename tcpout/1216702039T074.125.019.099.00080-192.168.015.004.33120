@@ -1,0 +1,14 @@
+HTTP/1.1 302 Found
+Location: http://www.google.com/search?client=safari&rls=en-us&q=dark+knight+trailer&ie=UTF-8&oe=UTF-8
+Cache-Control: private
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 22 Jul 2008 04:47:42 GMT
+Server: gws
+Content-Length: 305
+
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>302 Moved</TITLE></HEAD><BODY>
+<H1>302 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/search?client=safari&amp;rls=en-us&amp;q=dark+knight+trailer&amp;ie=UTF-8&amp;oe=UTF-8">here</A>.
+</BODY></HTML>

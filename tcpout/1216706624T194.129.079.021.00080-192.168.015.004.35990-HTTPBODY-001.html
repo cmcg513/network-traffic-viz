@@ -1,0 +1,93 @@
+<html>
+<head>
+<title>MRS08167_phon_728x90</title>
+<meta HTTP-EQUIV="expires" CONTENT="0"></meta>
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache"></meta>
+<script LANGUAGE="JavaScript" type="text/javascript"> 
+var nRequiredVersion = 7; 
+var bIsRightVersion = false;	
+var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+if(isIE && isWin){
+document.writeln('<SCR' + 'IPT LANGUAGE=VBScript\>');
+document.writeln('on error resume next');
+document.writeln('Set oFlashPlayer = CreateObject("ShockwaveFlash.ShockwaveFlash." & nRequiredVersion)');
+document.writeln('If IsObject(oFlashPlayer) Then');
+document.writeln('bIsRightVersion = True');
+document.writeln('End If');
+document.writeln('If (Not bIsRightVersion) And (nRequiredVersion < 3) Then');
+document.writeln('Set oFlashPlayer = CreateObject("ShockwaveFlash.ShockwaveFlash")');
+document.writeln('If IsObject(oFlashPlayer) Then');
+document.writeln('bIsRightVersion = True');
+document.writeln('End If');
+document.writeln('End If');
+document.writeln('</SCR' + 'IPT\>'); 
+}
+function CheckSwfVer(){
+if (navigator.plugins != null && navigator.plugins.length > 0) {
+if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+var descArray = flashDescription.split(" ");
+var tempArrayMajor = descArray[2].split(".");	
+var versionMajor = tempArrayMajor[0];
+bIsRightVersion = (versionMajor >= nRequiredVersion);
+}
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1)
+{
+bIsRightVersion = (4 >= nRequiredVersion);
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1)
+{
+bIsRightVersion = (3 >= nRequiredVersion);
+}
+else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) 
+{
+bIsRightVersion = (2 >= nRequiredVersion);
+}
+}
+function detectFlashINF1216079733575() 
+{ 
+if (!bIsRightVersion) {
+CheckSwfVer();
+}
+}
+detectFlashINF1216079733575(); 
+ </script>
+</head>
+<body style="border-width:0px;margin:0px;" bgcolor="White">
+<script LANGUAGE="JavaScript" type="text/javascript"> 
+var _strContentINF1216079733575 = '';
+if(bIsRightVersion) 
+{ 
+var strFQDN = "HTTP://spe.atdmt.com/ds/NMMRTUMISINF/"; 
+var index = strFQDN.indexOf("/ds/");
+strFQDN = strFQDN.substring(0, index);
+_strContentINF1216079733575 = '' + '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="HTTP://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab" width="728" height="90">'
++ '<param name="movie" value="HTTP://spe.atdmt.com/ds/NMMRTUMISINF/FY09_BTS_USETHIS/MRS08167_phon_728x90.swf?ver=1&clickTag1=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/t%3B205939795%3B0-0%3B1%3B8168050%3B3454-728/90%3B27490008/27507887/1%3Bu%3D3fg20oa148au1n|25%3B%7Eokv%3D%3Bsvc%3D%3Bsite%3Demail%3Bt%3D25%3Bbt%3D0%3Bbts%3D1%3Bpc%3D4%3Bauc%3D1%3Bfd%3D0%3Bfs%3D0%3Bsp2%3D1%3Bgr%3Dhttp%3A//email.about.com/gi/dynamic/zoffsitetopad.htm%3Ba%3D%3Bkw%3D%3Bchan%3Dcompute%3Bsyn%3Dabout%3Btile%3D1%3Br%3D1%3Bu%3D3fg20oa148au1n|25%3Bdcopt%3Dist%3Bsz%3D728x90%3B%7Eaopt%3D2/1/1615/1%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/104696088/direct;ai.50225513;ct.1/01&clickTag=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/t%3B205939795%3B0-0%3B1%3B8168050%3B3454-728/90%3B27490008/27507887/1%3Bu%3D3fg20oa148au1n|25%3B%7Eokv%3D%3Bsvc%3D%3Bsite%3Demail%3Bt%3D25%3Bbt%3D0%3Bbts%3D1%3Bpc%3D4%3Bauc%3D1%3Bfd%3D0%3Bfs%3D0%3Bsp2%3D1%3Bgr%3Dhttp%3A//email.about.com/gi/dynamic/zoffsitetopad.htm%3Ba%3D%3Bkw%3D%3Bchan%3Dcompute%3Bsyn%3Dabout%3Btile%3D1%3Br%3D1%3Bu%3D3fg20oa148au1n|25%3Bdcopt%3Dist%3Bsz%3D728x90%3B%7Eaopt%3D2/1/1615/1%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/104696088/direct;ai.50225513;ct.1/01" />'
++ '<param name="base" value="HTTP://spe.atdmt.com/ds/NMMRTUMISINF/FY09_BTS_USETHIS/" />'
++ '<param name="quality" value="high" />'
++ '<param name="salign" value="lt" />'
++ '<param name="loop" value="true" />'
++ '<param name="wmode" value="opaque" />'
++ '<embed quality="high" salign="LT" loop="true" type="application/x-shockwave-flash" pluginspace="HTTP://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" base="HTTP://spe.atdmt.com/ds/NMMRTUMISINF/FY09_BTS_USETHIS/" wmode="opaque" src="HTTP://spe.atdmt.com/ds/NMMRTUMISINF/FY09_BTS_USETHIS/MRS08167_phon_728x90.swf?ver=1&clickTag1=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/t%3B205939795%3B0-0%3B1%3B8168050%3B3454-728/90%3B27490008/27507887/1%3Bu%3D3fg20oa148au1n|25%3B%7Eokv%3D%3Bsvc%3D%3Bsite%3Demail%3Bt%3D25%3Bbt%3D0%3Bbts%3D1%3Bpc%3D4%3Bauc%3D1%3Bfd%3D0%3Bfs%3D0%3Bsp2%3D1%3Bgr%3Dhttp%3A//email.about.com/gi/dynamic/zoffsitetopad.htm%3Ba%3D%3Bkw%3D%3Bchan%3Dcompute%3Bsyn%3Dabout%3Btile%3D1%3Br%3D1%3Bu%3D3fg20oa148au1n|25%3Bdcopt%3Dist%3Bsz%3D728x90%3B%7Eaopt%3D2/1/1615/1%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/104696088/direct;ai.50225513;ct.1/01&clickTag=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/t%3B205939795%3B0-0%3B1%3B8168050%3B3454-728/90%3B27490008/27507887/1%3Bu%3D3fg20oa148au1n|25%3B%7Eokv%3D%3Bsvc%3D%3Bsite%3Demail%3Bt%3D25%3Bbt%3D0%3Bbts%3D1%3Bpc%3D4%3Bauc%3D1%3Bfd%3D0%3Bfs%3D0%3Bsp2%3D1%3Bgr%3Dhttp%3A//email.about.com/gi/dynamic/zoffsitetopad.htm%3Ba%3D%3Bkw%3D%3Bchan%3Dcompute%3Bsyn%3Dabout%3Btile%3D1%3Br%3D1%3Bu%3D3fg20oa148au1n|25%3Bdcopt%3Dist%3Bsz%3D728x90%3B%7Eaopt%3D2/1/1615/1%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/104696088/direct;ai.50225513;ct.1/01" width="728" height="90" />'
++ '</object>'
++ '';
+} 
+else 
+{ 
+_strContentINF1216079733575 = '<a target="_blank" href="http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/t%3B205939795%3B0-0%3B1%3B8168050%3B3454-728/90%3B27490008/27507887/1%3Bu%3D3fg20oa148au1n|25%3B%7Eokv%3D%3Bsvc%3D%3Bsite%3Demail%3Bt%3D25%3Bbt%3D0%3Bbts%3D1%3Bpc%3D4%3Bauc%3D1%3Bfd%3D0%3Bfs%3D0%3Bsp2%3D1%3Bgr%3Dhttp%3A//email.about.com/gi/dynamic/zoffsitetopad.htm%3Ba%3D%3Bkw%3D%3Bchan%3Dcompute%3Bsyn%3Dabout%3Btile%3D1%3Br%3D1%3Bu%3D3fg20oa148au1n|25%3Bdcopt%3Dist%3Bsz%3D728x90%3B%7Eaopt%3D2/1/1615/1%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/104696088/direct;ai.50225513;ct.1/01"><img border="0" src="HTTP://spe.atdmt.com/ds/NMMRTUMISINF/FY09_BTS_USETHIS/MRS08167_phon_728x90.jpg?ver=1" width="728" height="90" /></a>';
+}
+</script>
+<script LANGUAGE="JavaScript" type="text/javascript" src="HTTP://rmd.atdmt.com/tl/DocumentDotWrite.js"></script>
+<script LANGUAGE="JavaScript" type="text/javascript">DocumentDotWrite(_strContentINF1216079733575);
+</script>
+<noscript> 
+<a target="_blank" href="http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/t%3B205939795%3B0-0%3B1%3B8168050%3B3454-728/90%3B27490008/27507887/1%3Bu%3D3fg20oa148au1n|25%3B%7Eokv%3D%3Bsvc%3D%3Bsite%3Demail%3Bt%3D25%3Bbt%3D0%3Bbts%3D1%3Bpc%3D4%3Bauc%3D1%3Bfd%3D0%3Bfs%3D0%3Bsp2%3D1%3Bgr%3Dhttp%3A//email.about.com/gi/dynamic/zoffsitetopad.htm%3Ba%3D%3Bkw%3D%3Bchan%3Dcompute%3Bsyn%3Dabout%3Btile%3D1%3Br%3D1%3Bu%3D3fg20oa148au1n|25%3Bdcopt%3Dist%3Bsz%3D728x90%3B%7Eaopt%3D2/1/1615/1%3B%7Esscs%3D%3fhttp://clk.atdmt.com/go/104696088/direct;ai.50225513;ct.1/01"><img border="0" src="HTTP://spe.atdmt.com/ds/NMMRTUMISINF/FY09_BTS_USETHIS/MRS08167_phon_728x90.jpg?ver=1" width="728" height="90" /></a>
+</noscript>
+<SCRIPT type="text/javascript" 
+SRC="http://amch.questionmarket.com/adscgen/sta.php?survey_num=444021&site=104696088&code=50225513">
+</SCRIPT></body>
+</html>

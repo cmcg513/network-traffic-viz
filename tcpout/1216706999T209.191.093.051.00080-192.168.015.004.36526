@@ -1,0 +1,11 @@
+HTTP/1.0 200 OK
+Date: Tue, 22 Jul 2008 06:10:23 GMT
+P3P: policyref="http://p3p.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+Cache-Control: private,no-cache,no-store,must-revalidate,max-age=0,post-check=0,pre-check=0
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Content-Length: 304
+Connection: close
+Content-Type: text/xml; charset=utf-8
+
+<?xml version="1.0" encoding="utf-8"?><ab k="amy789smith" fv="1.0" rs="OK" rt="1216707023" lm="1213112025" lr="1173929659" cc="1" gc="0" cy="0" at="1" sf="last_name"><ct e0="avabook3&#64;gmail&#46;com" fn="Ava" ln="Book" yi="Ava Book" id="1" cr="1213112025" mt="1213112025" pr="0" a="1" as="0"></ct></ab>

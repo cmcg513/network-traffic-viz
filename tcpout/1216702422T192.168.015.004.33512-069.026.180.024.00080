@@ -1,0 +1,9 @@
+GET /adServer/adServerESI.aspx?bannerID=30509&siteID=mzncmhes0130000121hhc&creativeID=44737060 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://view.atdmt.com/HHC/iview/mzncmhes0130000121hhc/direct/01/?click=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/o%3B205441344%3B0-0%3B1%3B25951130%3B4307-300/250%3B27397810/27415689/1%3Bu%3D8d71e91a8cd2454ba62f2de07f43b22c%3B%7Esscs%3D%3f
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: core.insightexpressai.com
+

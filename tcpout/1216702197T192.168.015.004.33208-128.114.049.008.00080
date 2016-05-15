@@ -1,0 +1,10 @@
+GET /events/seminars/links.rss HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Fri, 23 May 2008 23:00:07 GMT
+If-None-Match: "c98a3f-175b-44dedca82cbc0"
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.soe.ucsc.edu
+

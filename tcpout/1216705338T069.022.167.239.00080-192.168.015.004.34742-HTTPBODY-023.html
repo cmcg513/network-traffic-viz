@@ -1,0 +1,3437 @@
+
+
+
+
+
+
+
+  
+    
+    
+        
+          
+            
+
+              
+              
+              
+              
+              
+              
+              
+              
+
+
+              
+              
+
+              
+
+              <!DOCTYPE html
+                        PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+                        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+              
+                <HTML DIR="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+
+                  <head>
+                    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+                    <title>
+                      InterContinental Hotels Group | Reservation Desk | Advanced Search
+                    </title>
+                    
+                      <link rel="stylesheet" type="text/css" href="http://images3.ichotelsgroup.com/css/hi_styles.css">
+                    
+		    <link rel="stylesheet" type="text/css" href="/h/css/3077M/FF/nonsecure/none/hi/1/en/home.css">
+		    <link rel="stylesheet" type="text/css" href="/h/css/3077M/FF/nonsecure/none/hi/1/en/interior.css">			
+			
+			
+			
+				
+					<link rel="stylesheet" type="text/css" media="all" href="/h/css/3077M/FF/nonsecure/all/hi/1/en/pcrLogin.css">
+				
+			
+			
+                    
+                      <SCRIPT LANGUAGE="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/calendar_utils.js"></SCRIPT>
+                    
+
+                    <script language="javascript" type="text/javascript">
+
+                      function gotStates(value) {
+                        var ccode;
+
+                        if (value) {
+                          ccode = value;
+                        } else if (document.getElementById('countryselect') != null) {
+                          ccode = document.getElementById('countryselect').value;
+                        }
+
+                        if (ccode == "0001" || ccode == "USA") {
+                          document.getElementById('stateLabel').innerHTML = "State ";
+                        } else if (ccode == "0260" || ccode == "CAN") {
+                          document.getElementById('stateLabel').innerHTML = "Province ";
+                        }
+
+                        if (ccode == "0001" || ccode == "0260" || ccode == "USA" || ccode == "CAN") {
+                          document.getElementById('stateSet').style.visibility = "visible";
+                          return false;
+                        } else if (document.getElementById('stateSet') != null) {
+                          document.getElementById('stateSet').style.visibility = "hidden";
+                          return false;
+                        }
+                      }
+
+                      function clearDestState() {
+                        if (document.getElementById('destStateSet')) {
+                          document.getElementById('destStateSet').style.visibility = "hidden";
+                        }
+                      }
+
+                      function blockin(which) {
+                        var posID = ("positive" + which);
+                        var negID = ("negative" + which);
+
+                        if (document.images[negID].style.display) {
+                          show = (document.images[posID].style.display == 'none') ? 'inline' : 'none';
+                          document.images[posID].style.display = show;
+                          show = (document.images[posID].style.display == 'none') ? 'inline' : 'none';
+                          document.images[negID].style.display = show;
+                        }
+
+                        var which_block = new Array("booking_content", "brands_content", "amenities_content","hotels_along_content", "route_fields");
+                        sect = (which - 1);
+                        sect = which_block[sect];
+
+                        if (document.layers) {
+                          current = (document.layers[sect].style.display == 'block') ? 'none' : 'block';
+                          document.layers[sect].style.display = current;
+                        } else if (document.all) {
+                          current = (document.all[sect].style.display == 'block')? 'none' : 'block';
+                          document.all[sect].style.display = current;
+                        } else if (document.getElementById) {
+                          vista = (document.getElementById(sect).style.display == 'block')? 'none': 'block';
+                          document.getElementById(sect).style.display = vista;
+                        }
+
+                        footerPosition();
+                      }
+
+                      function collapseAll() {
+                        var which_block = new Array("booking_content", "brands_content", "amenities_content","hotels_along_content", "route_fields");
+
+                        for (var i = 0; i < 5; i++) {
+                          var item = which_block[i];
+                          if (document.getElementById(item)) {
+                            if (document.layers) {
+                              if (document.layers[item].style.display == 'block') {
+                                document.layers[item].style.display = 'none';
+                              }
+                            } else if (document.all) {
+                              if (document.all[item].style.display == 'block') {
+                                document.all[item].style.display = 'none';
+                              }
+                            } else if (document.getElementById) {
+                              if (document.getElementById(item).style.display == 'block') {
+                                document.getElementById(item).style.display = 'none';
+                              }
+                            }
+                          }
+
+                          j = i + 1;
+                          var posID = ("positive" + j);
+                          var negID = ("negative" + j);
+
+                          if (document.images[negID]) {
+                            if (document.images[negID].style.display == 'inline') {
+                              document.images[posID].style.display = 'inline';
+                              document.images[negID].style.display = 'none';
+                            }
+                          }
+                        }
+                      }
+
+                      function clearCity() {
+                        document.searchForm.city.value = '';
+                        document.searchForm.stateId.value = '';
+                        document.searchForm.countryId.value = '';
+                        document.getElementById('stateSet').style.visibility = 'hidden';
+                      }
+                      function clearTPI() {
+
+                      }
+                      function clearFaveDest() {
+                        if (document.searchForm.favDest) {
+                          document.searchForm.favDest.value = '';
+                        }
+                      }
+
+                      function footerPosition() {
+                        var centerHeight = (document.getElementById('advanced_search_form').offsetHeight + document.getElementById('advanced_search_form').offsetTop);
+                        if (centerHeight >= 650) {
+                          
+                          document.getElementById('adv_footer').style.top = ((document.getElementById('advanced_search_form').offsetHeight + document.getElementById('advanced_search_form').offsetTop + 45) + "px");
+                          document.getElementById('leftNavInt').style.height = ((document.getElementById('advanced_search_form').offsetHeight + 30) + "px");
+                          document.getElementById('rightNavIntColumn').style.height = ((document.getElementById('advanced_search_form').offsetHeight + 160) + "px");
+                        } else {
+                          
+                          document.getElementById('adv_footer').style.top = ((document.getElementById('advanced_search_form').offsetHeight + document.getElementById('advanced_search_form').offsetTop + 45) + "px");
+                          document.getElementById('leftNavInt').style.height = "492px";
+                          document.getElementById('rightNavIntColumn').style.height = "600px";
+                        }
+                      }
+                    </script>
+                    
+                  
+
+	
+	
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+<!--
+_uacct = "UA-1237384-14";
+_udn="none";
+_uhash="off";
+_ulink=1;
+__utmSetVar('anonymous_hi_1_en');
+urchinTracker();
+_uff=0;
+_uacct = "UA-1237384-11";
+__utmSetVar('anonymous_hi_1_en');
+urchinTracker();
+//-->
+</script>
+
+		
+		
+		
+		
+	
+	
+
+
+
+
+                  </head>
+                  <body>
+                    <div id="globalNav">
+                      <!-- InternalContent -->						<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/home?cm_re=hi_nhm-_-hdr-_-a1" title="Holiday Inn Homepage" class="anchor">Home</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/hi/1/en/cs.html?cm_re=hi_nhm-_-hdr-_-a2" title="Customer Care" class="anchor">Customer Care</A> | <a href="http://www.ichotelsgroup.com/h/d/pc/1/en/home?cm_re=hi_nhm-_-hdr-_-a3" title="Priority Club Rewards homepage" class="anchor">Priority Club</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/tctawta?cm_re=hi_nhm-_-hdr-_-a4" title="Travel Arranger" class="anchor">Travel Arranger</A>						<!-- /InternalContent -->	
+                      <span id="hurricane"><!-- InternalContent --><!-- /InternalContent -->	</span>
+                    </div>
+                    <div id="leftNavIntColumn">
+                      
+
+
+	
+	
+    		
+	
+	
+
+<div id="logo">
+	
+		
+		
+		
+			<a href="/h/d/hi/1/en/home" ><img  src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.LogoPar.Single.LogoImage.gif" alt="Holiday Inn Hotels &amp; Resorts" border="0"></a>
+		
+				
+	
+</div>
+
+
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+<div id="leftNavInt">
+
+       
+         
+         
+		
+		
+			<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0017.Image.gif">
+		
+		
+	
+	
+      
+     
+<div id="i_top_status_faceplateInt">
+<div id="i_top_status_faceplateInt_content">						
+
+	<div id="priorityClubInt">
+		
+
+<!-- start /priorityclub/i_header.jsp -->
+
+
+
+
+
+
+
+
+<!-- CQCONTENT: /dec/hi/1/en -->
+
+
+
+ 
+
+			
+			  
+			  
+			  
+					
+						
+							
+
+
+<!-- start /priorityclub/i_login_faceplate_interior.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+
+	function zeroPad(str,size){
+		size++;
+		for(var i=0; i <= (size-str.length); i++)
+			str = '0' + str;
+		return str;
+	}
+
+	function showBackEndError(){
+		document.pcLogin.login.style.borderColor  = "#FF0000";
+		document.pcLogin.login.style.borderStyle="solid";	
+	}
+
+	function closePopUp(theForm){					
+		document.pcLogin.login.style.borderColor  = "#FFFFFF";
+		document.pcLogin.password.style.borderColor  = "#FFFFFF";
+		var backendmsgpopup=document.getElementById("backendErrPopup");
+		var arrow = document.getElementById("arrowBackEndError");
+
+		document.getElementById("arrowPCNum").style.display='none';
+		document.getElementById("arrowPCPin").style.display='none';
+		document.getElementById("clientErrPopup").style.display='none';
+		document.getElementById("clientPinErrPopup").style.display='none';
+		if(backendmsgpopup != null){
+		    backendmsgpopup.style.display='none';
+		}
+		
+		if(arrow != null){
+		   arrow.style.display='none';
+		   }
+   	     }
+	   
+	   
+	   function validateAndSubmit(theForm) {		
+		var errMsg = '';
+		var pcnStr = theForm.login.value;
+		var pinStr = theForm.password.value;
+		
+		var numInvalid = 0;
+		var pinInvalid = 0;
+		
+		if(theForm.login.value == '' || theForm.password.value == '') {
+			errMsg = errMsg + ' You must enter either an Email address or a Priority Club number and a PIN.\n';
+			
+			if(pcnStr == ''){
+			      numInvalid=1;
+				}else{
+				  pinInvalid=1;
+				}
+			}
+ 		if(pinStr != '') {
+			if(pinStr.length < 4){
+				errMsg = errMsg + " Priority Club Membership PIN must be 4 digits.\n";
+				pinInvalid = 1;
+                      		}
+		}
+
+		if(errMsg != '') {
+			//alert(errMsg);			
+			var msgdiv;
+			
+			if(numInvalid == 1){
+			  document.pcLogin.login.style.borderColor  = "#FF0000";
+			  document.pcLogin.login.style.borderStyle="solid";
+			  document.getElementById("arrowPCNum").style.display='block';
+			  document.getElementById("arrowPCPin").style.display='none';
+			  msgdiv=document.getElementById("clientErrPopup");
+			  document.getElementById("clientErrPopup").style.display='block';
+			  document.getElementById("clientPinErrPopup").style.display='none';
+			}else if(pinInvalid == 1){
+			   document.pcLogin.password.style.borderColor  = "#FF0000";
+			   document.pcLogin.password.style.borderStyle="solid";	
+			   document.getElementById("arrowPCPin").style.display='block';
+			   document.getElementById("arrowPCNum").style.display='none';
+			   msgdiv=document.getElementById("clientPinErrPopup");
+			   document.getElementById("clientErrPopup").style.display='none';
+			   document.getElementById("clientPinErrPopup").style.display='block';
+			}
+			msgdiv.innerHTML = errMsg;
+			return false;
+		}
+		else
+		{			
+			return true;
+		}
+
+	}
+	   
+	
+	// Pass in the form object from the pclub login
+	function validateAndSubmitLogin(theForm) {
+		var errMsg = '';
+		var pcnStr = theForm.login.value;
+		var pinStr = theForm.password.value;
+
+		if(theForm.login.value == '' || theForm.password.value == '') {
+			errMsg = errMsg + ' You must enter either an Email address or a Priority Club number and a PIN.\n';
+		}
+
+ 		if(pinStr != '') {
+			if(pinStr.length < 4)
+				errMsg = errMsg + " Priority Club Membership PIN must be 4 digits.\n";
+		}
+
+		if(errMsg != '') {
+			alert(errMsg);
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+
+	}
+
+//-->
+</script> 
+
+
+
+
+
+
+  
+	  
+   
+  
+	
+  
+
+
+
+
+	
+	
+	  
+	
+
+
+
+
+   
+    
+    
+    <form name="pcLogin" id="pcLogin" action="https://secure.ichotelsgroup.com/h/d/hi/1/en/loginm?secure=true" method="POST" onsubmit="return validateAndSubmit(this);">
+    
+    
+	
+	
+     
+    
+    
+    
+    <div id="clientErrPopup">
+    </div>
+    <div id="clientPinErrPopup">
+    </div>
+    
+    <div id="advSearchPCRLogin">
+    <div id="advSearchPCRLogo">
+	    
+	        
+	    		<!-- InternalContent -->						<a href="http://www.ichotelsgroup.com/h/d/pc/1/en/home?cm_re=hi_hm-_-left-_-e3&a=b" onMouseOut="internalimg0077.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0077.InternalContentImage.jpg';" onmouseout="internalimg0077.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0077.InternalContentImage.jpg';" onmouseover="internalimg0077.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0077.InternalContentRolloverImage.jpg';" onMouseOver="internalimg0077.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0077.InternalContentRolloverImage.jpg';">											<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0077.InternalContentImage.jpg" alt="Priority Club Rewards" name="internalimg0077">											</a>						<!-- /InternalContent -->	
+		
+	    
+		
+	    
+    </div>
+    
+    <div id="advSearchPCRLoginForm">
+    
+    
+	
+		
+		
+			
+				
+					
+					<input type="hidden" name="loginSuccessURL" value='/h/d/hi/1/en/advancedsearch?secure=true&amp;WT.click=Login-From-Home'>
+				
+				
+			
+		
+	
+	<input type="hidden" name="loginErrorURL" value='/h/d/hi/1/en/advancedsearch'>
+	
+        <label for="pclubnumber">
+          Email or Priority Club#:
+        </label>
+        <br/>
+        
+	    
+	        																
+				<input name="login" size="25" id="pclubnumber" type="text" maxlength="75" class="f10" tabindex="1" onclick="return closePopUp(this);">
+			
+			
+		
+	
+	<div id="arrowPCNum">
+	     <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0042.Image.gif">
+           </div>
+	<br/>
+	<label for="pclubpin">
+	  PIN#:
+	</label>
+	<br/>
+	<input name="password" id="pclubpin" size="5" maxlength="4" type="password" class="f10" tabindex="1" onclick="return closePopUp(this);">
+	&nbsp;
+	
+		<a href="http://www.ichotelsgroup.com/h/d/pc/1/en/c/2/dec/pc/0/en/profile.html" title="Forgot/Need PIN#?">
+		  Forgot/Need PIN#?
+		</a>
+        
+        
+           <div id="arrowPCPin">
+	     <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0042.Image.gif">
+           </div>
+        
+        <div id="advSearchDontRememberCheckBox">   
+        <input type="checkbox" name="remember" id="dontremembercheckbox" value="false" style="width:13px;"/>
+	<label for="dontremembercheckbox" class="dontRememberCheckBoxLabel">
+	   Don't remember me.
+	</label>
+	</div>
+
+	
+	  
+	     <input type="image" src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0036.Image.gif" alt="Log In"  tabindex="3">
+	  
+	
+
+	<br/>
+	<br/>
+	
+		<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/reg?secure=true&offerId=WBJPC&cm_re=pcr-_-hmpg-_-bHI" title="Join Today &#62; &#62;">
+		   Join Today &#62; &#62;
+		</a>
+	
+	</div>
+    </div>
+    </form>
+    
+  
+  
+
+
+
+
+
+
+
+<!-- end /priorityclub/i_login_faceplate_interior.jsp -->
+
+						
+						
+					
+					
+			  
+			
+
+
+
+ 
+
+
+
+
+
+<!-- end /priorityclub/i_header.jsp -->
+				
+	</div>
+	
+	
+	
+	<div id="advancedSearchChatButton">
+		
+		 
+	
+ 
+ 
+
+
+
+
+<style>
+#smartbutton img { border: 0px; }
+</style>
+
+
+
+
+
+
+
+
+
+<meta name="WT.jsp" content="$Name: i_chat_pushtotalk.jsp $">
+
+
+
+<script language="javascript" type="text/javascript">
+<!--
+function cwaMeasurement() {
+
+ 
+  
+  
+  
+ <!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+					
+
+						cmCreatePageviewTag("CWA: advancedsearch|hi|1|en", "ManualPageView_CWA", "", "", "hi", "1", "en", "Anonymous", "", "PCRFaceplate Split 2:90112887_OLDPC", "99502222", "", "","");
+
+						
+						
+
+
+
+
+						
+
+					
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+}
+
+function twaMeasurement() {
+
+ 
+  
+  
+  
+ <!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+					
+
+						cmCreatePageviewTag("TWA: advancedsearch|hi|1|en", "ManualPageView_TWA", "", "", "hi", "1", "en", "Anonymous", "", "PCRFaceplate Split 2:90112887_OLDPC", "99502222", "", "","");
+
+						
+						
+
+
+
+
+						
+
+					
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+}
+
+function emaMeasurement() {
+
+ 
+  
+  
+  
+ <!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+					
+
+						cmCreatePageviewTag("EMA: advancedsearch|hi|1|en", "ManualPageView_EMA", "", "", "hi", "1", "en", "Anonymous", "", "PCRFaceplate Split 2:90112887_OLDPC", "99502222", "", "","");
+
+						
+						
+
+
+
+
+						
+
+					
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+}
+
+// IF AGENTS ARE AVAILABLE:
+function agents_available() {
+
+
+document.getElementById('smartbutton').innerHTML = '<A HREF="" onClick="window.open(\'http://www.ichotelsgroup.com/h/d/hi/1/en/chatcustomer?hotelName=null&pageId=advancedsearch\',\'custclient\',\'width=500,height=320,scrollbars=0\');cwaMeasurement();return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/brbt.Par.0002.Image.gif" alt="Click here to start a chat session with a reservations agent"></A>';
+if (document.getElementById('i_top_status_faceplateInt')) { document.getElementById('i_top_status_faceplateInt').style.visibility = 'visible'; } 
+if (document.getElementById('i_top_status_faceplate_content')) { document.getElementById('i_top_status_faceplate_content').style.visibility = 'visible'; } 
+
+//Next line seems to screw up styles. When removed it works fine. 
+//if (document.getElementById('leftNavInt')) { 
+//document.getElementById('leftNavInt').style.height = (document.getElementById('rightNavIntColumn').offsetHeight + "px"); }
+
+var hdChatTalkButtons = document.getElementById('hdChatTalkButtons');
+if (hdChatTalkButtons) {
+   hdChatTalkButtons.style.display='block';
+   hdChatTalkButtons.style.visibility='visible';
+   hdChatTalkButtons.style.backgroundColor='#FFF';
+   hdChatTalkButtons.style.paddingTop='10px';
+   hdChatTalkButtons.style.paddingBottom='10px';
+}
+return true;
+}
+
+// IF AGENTS ARE NOT AVAILABLE:
+function agents_not_available() {
+document.getElementById('smartbutton').innerHTML = '<A HREF="" onClick="window.open(&#039;https://admin.instantservice.com/links/5768/15020&#039;, &#039;custclient&#039;, &#039;width=500,height=320&#039;); emaMeasurement();return false;"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/textimg/phnu.Par.0003.Image.gif" alt="Click here to email a reservations agent" border="0"></A>';
+return true;
+}
+//-->
+</script>
+
+
+
+
+<!-- start /common/tracking/i_coremetrics_js.jsp -->
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/eluminate.js"></script> 
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/techprops.js"></script>
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/cmdatatagutils.js"></script> 
+			
+
+			
+			
+				
+				
+					
+					
+
+						<script language="javascript1.1" type="text/javascript">
+						<!--
+								cmSetProduction();
+						//-->
+						</script>
+
+
+					
+				
+				
+				
+			
+
+		
+	
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_js.jsp -->
+
+
+
+<div id="chatTalkButtons">
+	<table>
+		
+		<tr><td align="center"><script language="JavaScript">document.write('<img src="https://admin.instantservice.com/resources/smartbutton/5768/' + '14545' + '/available.gif?'+Math.floor(Math.random()*10001)+'" style="width:0;height:0;visibility:hidden;position:relative;" onLoad="agents_available()" >');</script><div id="smartbutton"></div></td></tr>
+		
+		
+		
+		<INPUT TYPE="HIDDEN" NAME="Page" VALUE="advancedsearch" >
+    <INPUT TYPE="HIDDEN" NAME="City" VALUE="">
+    <INPUT TYPE="HIDDEN" NAME="State" VALUE="" >
+    <INPUT TYPE="HIDDEN" NAME="Country" VALUE="UNITED STATES" >
+    <INPUT TYPE="HIDDEN" NAME="Hotel" VALUE="" >
+    <INPUT TYPE="HIDDEN" NAME="ArrivalDate" VALUE="08/10/2008" >
+    <INPUT TYPE="HIDDEN" NAME="DepartureDate" VALUE="08/15/2008" >
+    <INPUT TYPE="HIDDEN" NAME="Rooms" VALUE="1" >
+    <INPUT TYPE="HIDDEN" NAME="Adults" VALUE="2" >
+    <INPUT TYPE="HIDDEN" NAME="Children" VALUE="3" >
+    <INPUT TYPE="HIDDEN" NAME="PriorityClubNumber" VALUE="" >
+    <INPUT TYPE="HIDDEN" NAME="PriorityClubMemberLevel" VALUE="" >
+    <INPUT TYPE="HIDDEN" NAME="System" VALUE="SunOS 5.10" >
+    <INPUT TYPE="HIDDEN" NAME="Browser" VALUE="">
+		
+                   </table>
+</div>
+
+
+
+
+
+
+
+
+
+	</div>
+
+	
+	<div id="nextReservation"><br>
+		My Next Reservation		
+	</div>
+			
+	<div id="resItinerary">
+		
+	        
+	          
+	              
+	              
+	              
+	            
+	              
+	              
+	              
+	               	
+
+
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+<!--
+	var errors = '';
+	function validateForm(form) {
+	     if ((validateLastName(form))
+	            ) {
+	        submitted = true;
+	        return true;
+	                }
+	     else {
+	        submitted = false;
+	        alert(errors);
+	        errors = '';
+	        return false;
+	     }
+	}
+	
+	function validateLastName(form) {
+	       var lastName = form.elements["lastName"].value;
+	       for (var i = 0; i < lastName.length; i++) {
+	             if (lastName.charCodeAt(i) > 563 ) {
+	                errors = errors + '\r\n Last Name must be in English.';
+	                submitted = false;
+	                return false;
+	             }                                               
+	       }
+	       submitted = true;
+	       return true;
+	}
+-->
+</script>
+
+<form action="https://secure.ichotelsgroup.com/h/d/hi/1/en/rlm?secure=true" method="POST" name="lookupSingleReservationFaceplate">
+		<input name="errorURL" type="hidden" value="https://secure.ichotelsgroup.com/h/d/hi/1/en/rl?secure=true&secure=true"/>
+		<input name="successURL" type="hidden" value="https://secure.ichotelsgroup.com/h/d/hi/1/en/rd?secure=true&secure=true"/>
+		<input name="cancelledReservationURL" type="hidden" value="https://secure.ichotelsgroup.com/h/d/hi/1/en/rlc?secure=true"/>
+		
+		<p>Review, Change or Cancel Your Existing Reservations</p>
+		
+		<table cellspacing="0" cellpadding="0" border="0">
+			<tr>
+				<td style="text-align:left; width: 45%;"><label for="lastnametext">Last Name:</label></td>
+				<td style="text-align:left;">
+					
+						
+						
+							
+								
+								
+									<input name="lastName" id="lastnametext" type="text"size="10" class="f10">
+								
+							
+						
+					
+				</td>
+			</tr>
+			<tr>
+				<td style="text-align:left;"><label for="confirmationnumtext">Confirmation Number:</label></td>
+				<td style="text-align:left;">
+					
+						
+							
+							
+								<input name="confirmationNumber" id="confirmationnumtext" type="text" maxlength="8" size="10" class="f10">
+							
+						
+						
+						
+						
+					
+				</td>
+			</tr>
+		</table>
+
+	
+	
+    		
+	
+	
+       
+<div id="resItineraryButton">
+	
+		
+	      
+	          
+	          
+	          		
+	          		
+		          		
+		          		
+		              			<input type="image" src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0028.Image.gif" alt="Access Itinerary" onmouseover="src='http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0029.Image.gif';" onmouseout="src='http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0028.Image.gif';" />
+		              		
+	              		
+	          
+	      
+	
+	
+</div>                           
+                    
+
+			</form>
+
+
+
+
+
+
+	              
+	            
+		    	
+		
+	</div>
+			
+	<div id="resServices">
+	<div id="resServicesHeader">
+		Reservation Services</div>
+		
+			
+				
+					<a href="#" title="Group Bookings" onClick="window.open('http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/gb.html','desc','width=300,height=300,scrollbars=yes,resizable=yes'); return false;">Group Bookings</a><br>
+				
+			
+		
+		
+			
+				
+					<a href="http://www.ichotelsgroup.com/h/d/pc/1/en/c/2/content/dec/pc/0/en/winfo.html" title="Wireless Reservations">Wireless Reservations</a><br>
+				
+			
+		
+	</div>
+
+</div> <!-- close i_top_status_faceplateInt_content -->
+</div> <!-- end i_top_statusInt_faceplate -->
+
+</div> <!-- end leftNavInt -->
+
+                    </div>
+                    <div id="rightNavIntColumn">
+                      
+                      
+                      
+				
+				
+			    		
+				
+			
+
+                      <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0001.Image.gif">
+                      	<table width="100%" cellpadding="0" cellspacing="0" align="center">		<tr>	<td class="bookWithConfidence">		<!--<a onClick="window.open('http://www.sixcontinentshotels.com/holiday-inn?_template=resguar.html','desc','width=300,height=300,scrollbars=yes,resizable=yes'); return false;" href="#">Online Reservation Guarantee</a><br />-->		<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/rate.html" title="Lowest Internet Rate Guarantee" target="_blank" class="popup">Lowest Internet Rate Guarantee</a><br>Book here first -- if you find a lower rate on another site, we'll beat it!<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/res.html" title="Online Reservation Guarantee" target="_blank" class="popup">Online Reservation Guarantee</a><br>Your room is guaranteed - or your first night is on us.<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/nbf.html" title="No Booking Fees!" target="_blank" class="popup">No Booking Fees!</a><br>We do not charge any booking fees for making reservations directly with us.<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/pr.html" title="Privacy" target="_blank" class="popup">Privacy</a><br>IHG takes your privacy seriously and works to protect you.<br><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/3/content/dec/cn/0/en/rd/sec.html" title="Security" target="_blank" class="popup">Security</a><br>All personal information you provide is encrypted and secure with the use of Secure Sockets Layer (SSL) technology.	</td></tr></table> 
+                    </div><!-- end of rightNavIntColumn -->
+
+                    <div id="mainContentIntColumn">
+                        <div id="travelProfileInt">
+                          
+                            
+                          
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="javascript" type="text/javascript">
+function formSubmitJS(){
+
+	
+	
+		document.searchForm.action='http://www.ichotelsgroup.com/h/d/hi/1/en/tpltp'
+	
+
+	document.searchForm.submit();
+}
+</script>
+
+
+
+	
+	
+    
+
+
+
+
+
+
+
+
+                        </div>
+                        <div id="headerImgInt">
+                          
+                            	<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en.BrandImagePar.Single.BrandImage5.jpg" alt="Holiday Inn. Look Again."><br><!-- /BRAND IMAGE -->
+                          
+                        </div>
+                        <div id="topNavInt">
+
+                
+		
+			
+			
+
+                          
+				
+				
+                          <!-- InternalContent -->						<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/rates?cm_re=hi_hm-_-hdr-_-c1" onMouseOut="internalimg0022.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0022.InternalContentImage.jpg';" onmouseout="internalimg0022.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0022.InternalContentImage.jpg';" onmouseover="internalimg0022.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0022.InternalContentRolloverImage.jpg';" onMouseOver="internalimg0022.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0022.InternalContentRolloverImage.jpg';">											<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0022.InternalContentImage.jpg" alt="Reservations" name="internalimg0022">											</a>						<!-- /InternalContent -->	
+                          <!-- InternalContent -->						<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/feature_offers?cm_re=hi_hm-_-hdr-_-c2" onMouseOut="internalimg0082.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0082.InternalContentImage.jpg';" onmouseout="internalimg0082.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0082.InternalContentImage.jpg';" onmouseover="internalimg0082.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0082.InternalContentRolloverImage.jpg';" onMouseOver="internalimg0082.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0082.InternalContentRolloverImage.jpg';">											<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0082.InternalContentImage.jpg" alt="Special Offers" name="internalimg0082">											</a>						<!-- /InternalContent -->	
+                          <!-- InternalContent -->						<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/emhome?cm_re=hi_nhm-_-hdr-_-c3" onMouseOut="internalimg0025.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0025.InternalContentImage.jpg';" onmouseout="internalimg0025.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0025.InternalContentImage.jpg';" onmouseover="internalimg0025.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0025.InternalContentRolloverImage.jpg';" onMouseOver="internalimg0025.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0025.InternalContentRolloverImage.jpg';">											<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0025.InternalContentImage.jpg" alt="Meetings and Groups" name="internalimg0025">											</a>						<!-- /InternalContent -->	
+                          <!-- InternalContent -->						<a href="http://www.holidayinnpromotion.com/workhappens/tv%5Fgames/?cm_re=hi_nhm-_-hdr-_-c4" target="_blank" class="popup" onMouseOut="internalimg0023.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0023.InternalContentImage.jpg';" onmouseout="internalimg0023.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0023.InternalContentImage.jpg';" onmouseover="internalimg0023.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0023.InternalContentRolloverImage.jpg';" onMouseOver="internalimg0023.src = 'http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0023.InternalContentRolloverImage.jpg';">											<img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en/fphome.InternalContentPar.0023.InternalContentImage.jpg" alt="Games and More" name="internalimg0023">											</a>						<!-- /InternalContent -->	
+                          <!-- InternalContent --><!-- /InternalContent -->	
+                          <!-- InternalContent --><!-- /InternalContent -->	
+                         
+			
+		
+                        </div>
+                        
+                        
+
+<script language="javascript" type="text/javascript">
+
+function gotStates(value) {
+	var ccode;
+    if (value){
+    		ccode = value;
+    		}
+    else if(document.getElementById('countryselect')!=null) {
+    		ccode = document.getElementById('countryselect').value;
+    		}
+ 	if (ccode == "0001" || ccode == "USA" ) {
+		document.getElementById('stateLabel').innerHTML = "State:";
+		}
+	else if (ccode == "0260" || ccode == "CAN" ) {
+		document.getElementById('stateLabel').innerHTML = "Province:";
+	}
+
+ 	if (ccode == "0001" || ccode == "0260" || ccode == "USA" || ccode == "CAN") {
+		document.getElementById('stateSet').style.visibility = "visible";
+		return false;
+		}
+	else if(document.getElementById('stateSet')!=null){
+		document.getElementById('stateSet').style.visibility = "hidden";
+		return false;
+	}
+}
+
+function clearDestState(){
+		if (document.getElementById('destStateSet')) {
+			document.getElementById('destStateSet').style.visibility = "hidden";
+			}
+	}
+
+function blockin(which){
+	var posID = ("positive" + which);
+	var negID = ("negative" + which);
+
+if (document.images[negID].style.display)
+	{
+	show = (document.images[posID].style.display == 'none') ? 'inline' : 'none';
+	document.images[posID].style.display = show;
+	show = (document.images[posID].style.display == 'none') ? 'inline' : 'none';
+	document.images[negID].style.display = show;
+	}
+
+	var which_block = new Array("booking_content", "brands_content", "amenities_content", "hotels_along_content", "route_fields");
+	sect = (which - 1);
+	sect = which_block[sect];
+
+	if (document.layers)
+		{
+		current = (document.layers[sect].style.display == 'block') ? 'none' : 'block';
+		document.layers[sect].style.display = current;
+		}
+	else if (document.all)
+		{
+		current = (document.all[sect].style.display == 'block') ? 'none' : 'block';
+		document.all[sect].style.display = current;
+		}
+	else if (document.getElementById)
+		{
+		vista = (document.getElementById(sect).style.display == 'block') ? 'none' : 'block';
+		document.getElementById(sect).style.display = vista;
+		}
+	footerPosition();
+	}
+
+function collapseAll(){
+	var which_block = new Array("booking_content", "brands_content", "amenities_content", "hotels_along_content", "route_fields");
+	for (var i=0; i<5; i++){
+		var item = which_block[i];
+		if (document.getElementById(item)){
+			if (document.layers)
+				{
+				if (document.layers[item].style.display == 'block') { document.layers[item].style.display = 'none'; }
+				}
+			else if (document.all)
+				{
+				if (document.all[item].style.display == 'block') { document.all[item].style.display = 'none'; }
+				}
+			else if (document.getElementById)
+				{
+				if (document.getElementById(item).style.display == 'block') { document.getElementById(item).style.display = 'none'; }
+				}
+			}
+
+		j = i + 1;
+		var posID = ("positive" + j);
+		var negID = ("negative" + j);
+
+		if (document.images[negID])
+			{
+			if (document.images[negID].style.display == 'inline') {
+				document.images[posID].style.display = 'inline';
+				document.images[negID].style.display = 'none';
+				}
+			}
+
+		}
+	}
+function clearCity() {
+	document.searchForm.city.value='';
+	document.searchForm.stateId.value='';
+	document.searchForm.countryId.value='';
+	document.getElementById('stateSet').style.visibility= 'hidden';
+}
+
+function clearTPI() {
+	<!-- temp placeholder -->
+	}
+
+function clearFaveDest() {
+	if (document.searchForm.favDest) {
+		document.searchForm.favDest.value='';
+		}
+	}
+function footerPosition() {
+                        var centerHeight = (document.getElementById('advanced_search_form').offsetHeight + document.getElementById('advanced_search_form').offsetTop);
+                        if (centerHeight >= 650) {
+                          
+                          document.getElementById('adv_footer').style.top = ((document.getElementById('advanced_search_form').offsetHeight + document.getElementById('advanced_search_form').offsetTop + 45) + "px");
+                          document.getElementById('leftNavInt').style.height = ((document.getElementById('advanced_search_form').offsetHeight + 30) + "px");
+                          document.getElementById('rightNavIntColumn').style.height = ((document.getElementById('advanced_search_form').offsetHeight + 160) + "px");
+                        } else {
+                          
+                          document.getElementById('adv_footer').style.top = ((document.getElementById('advanced_search_form').offsetHeight + document.getElementById('advanced_search_form').offsetTop + 45) + "px");
+                          document.getElementById('leftNavInt').style.height = "492px";
+                          document.getElementById('rightNavIntColumn').style.height = "600px";
+                        }
+                      }
+function resetAll(){
+	milesFlag=false;
+	document.searchForm.reset();
+	var numOfElements = document.searchForm.elements.length;
+		for(i=0;i<numOfElements;i++){
+			 if(document.searchForm.elements[i].type == 'select-one'){
+				if(document.searchForm.elements[i].name=='radius'){
+					document.searchForm.elements[i].value=30;
+				}else if (document.searchForm.elements[i].name=='number_Nights'){
+                    continue;
+				}else{
+					document.searchForm.elements[i].value=document.searchForm.elements[i].options[0].value;
+				}
+			 }
+			 if(document.searchForm.elements[i].type == 'text'){
+				if(document.searchForm.elements[i].name=='checkInFullDate' ||document.searchForm.elements[i].name=='checkOutFullDate'){
+				  document.searchForm.elements[i].value='mm/dd/yyyy';
+				} else {
+				  document.searchForm.elements[i].value='';
+				}
+			 }
+
+			 if(document.searchForm.elements[i].type == 'radio'){
+				if(document.searchForm.elements[i].name=='inMiles' && milesFlag==false){
+					document.searchForm.elements[i].checked=true;
+					milesFlag=true;
+                }
+			 }
+	   }
+ }
+
+</script>
+
+
+	<SCRIPT LANGUAGE="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/priorityclubcoremetrics.js"></SCRIPT>
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+		
+		
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+<!--
+_uacct = "UA-1237384-14";
+_udn="none";
+_uhash="off";
+_ulink=1;
+__utmSetVar('anonymous_hi_1_en');
+urchinTracker();
+_uff=0;
+_uacct = "UA-1237384-11";
+__utmSetVar('anonymous_hi_1_en');
+urchinTracker();
+//-->
+</script>
+
+		
+		
+		
+		
+	
+	
+
+
+
+
+<!-- start /common/tracking/i_coremetrics_js.jsp -->
+
+
+
+
+
+
+
+	
+	
+		
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/eluminate.js"></script> 
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/techprops.js"></script>
+			
+			
+				<script language="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/cm/cmdatatagutils.js"></script> 
+			
+
+			
+			
+				
+				
+					
+					
+
+						<script language="javascript1.1" type="text/javascript">
+						<!--
+								cmSetProduction();
+						//-->
+						</script>
+
+
+					
+				
+				
+				
+			
+
+		
+	
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_js.jsp -->
+
+
+	
+		                             
+	
+<!-- start /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+
+
+
+
+
+
+	
+		
+			
+
+				<!-- Tag Body -->
+
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+						
+				
+				
+				
+				
+					
+						
+					
+					
+					
+				
+
+				
+				
+					
+						
+					
+					
+				
+
+				
+				
+					
+					
+						
+					
+				
+
+
+				
+					
+										
+						<script language="javascript1.1" type="text/javascript">
+						<!--
+					
+
+						cmCreatePageviewTag("advancedsearch", "hi/1/en", "", "", "hi", "1", "en", "Anonymous", "", "PCRFaceplate Split 2:90112887_OLDPC", "99502222", "", "","");
+
+						
+						
+
+
+
+
+											
+							//-->
+							</script>
+						
+
+					
+					
+				
+				
+
+				
+
+			
+		
+	
+
+
+
+<!-- end /common/tracking/i_coremetrics_pageview.jsp -->
+
+
+<div id="advanced_search_form">
+
+
+
+
+<form method="POST" action="http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?quickRes=null" name="searchForm" >
+<input name="countryRequired" type="hidden" value="yes">
+<input name="newSearch" type="hidden" value="yes"> 
+<input name="packageRatesFlag" type="hidden" value="">
+
+
+
+	    
+        <div id="res_direct_res_proc_header" style="float: right;">
+            
+            
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <tr>
+		<td width="null" valign="top" align="right" colspan="null" >
+
+
+
+
+  
+        
+			
+            
+            
+			
+            
+            
+                <img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/cn/icons.Par.0026.Image.gif">
+                <span style="vertical-align: 30%; font-family: Arial, Helvetica, Geneva, sans-serif; font-size: 11px;">
+                
+                
+                Book Online or Call:
+                
+		
+                
+	                   
+	                         
+	                        
+					<strong><BDO dir="ltr">1 888 HOLIDAY (888 465 4329)</BDO></strong>
+	                        
+	                    
+	        
+	        
+	        
+	        
+                
+                
+                
+                </span>
+            
+        
+
+        
+        </td>
+    </tr>
+
+
+
+
+
+        </div>
+		<br/>
+		<br/>
+
+	
+
+<div id="progression">
+
+	<span id="reservation_desk">
+	
+		
+			
+			
+			
+				Reservation Desk
+			
+		
+	
+	</span>
+
+	
+<div id="progression_bar">		
+	
+	
+		
+		
+			  
+			
+
+
+
+
+
+
+
+
+
+
+
+	<table id="progress">
+		
+		   
+			<tr id="progress_bar">
+				<td class="progress_status"></td>
+				<td></td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr id="progress_labels">
+				<td id="progress_step1">
+	                        
+	                            
+					Select: 
+	                            
+	                            
+		                
+				<b>Preferences</b>
+				</td>
+				<td id="progress_step2">Hotel</td>
+				<td id="progress_step3">Room Rate</td>
+				<td id="progress_step4">Guest Information</td>
+				<td id="progress_step5">Confirmation</td>
+			</tr>												
+
+		   
+		   
+		   
+		   
+		   
+
+		  
+
+
+	</table>
+
+
+
+
+
+
+
+			
+		
+	        
+			
+</div>  <!-- end progression bar -->
+</div>  <!-- end progression -->
+	<br clear="all"> <br/>
+	
+	<div id="advanced_search_paths">
+
+	
+	
+		<span style="float: right;">
+		
+			
+			
+			
+			
+				
+									
+					
+						
+							
+								
+									
+										<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/home?quickRes=city" title="Fewer Choices">Fewer Choices</a>
+									                             
+								
+							
+							
+							
+						
+					
+				
+			
+		
+		</span>
+	
+	
+	
+	
+		Find a Hotel in a City<br/>
+	
+
+	
+	
+		
+			Enter a city and travel dates (optional) to locate a hotel in a city.  You can also search for hotels:<br/>
+			
+
+		
+		
+		
+		
+		
+		By: &nbsp;
+
+		
+		
+			
+					<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?quickRes=address" title="Address">Address</a>&nbsp;
+				
+			&nbsp;|&nbsp;	
+		
+		
+			
+					<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?quickRes=attraction" title="Attraction">Attraction</a>&nbsp;
+				
+			&nbsp;|&nbsp;	
+		
+		
+			
+					<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?quickRes=airport" title="Airport">Airport</a>&nbsp;
+			
+		
+		
+			&nbsp;|&nbsp;	
+		
+		
+			
+				<a href="http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?quickRes=route" title="Route">Route</a>
+			
+		
+	
+
+	</div> <!-- end of advanced_search_paths -->
+
+	<div id="errors">
+     	
+		
+		
+		
+		
+		
+    		<br/>
+		
+			The number of persons travelling for your stay exceed the capacity of the room type booked.  Please select a different room type or increase the number of rooms.<br/>
+		
+		
+		
+		
+		
+	</div>
+  		
+
+	
+	
+
+    
+        
+        
+        
+    <div id="destination_header">Destination</div> 
+    <div id="destination_content">
+    <!--  -->
+
+    
+        
+ 
+<!-- start /common/reservation/i_availability_search_dest_city.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+var selectFlag =-1;
+function clearCityTextBox(){					
+	var selectBox = document.searchForm.countryId.value;								
+	if(selectFlag!=-1){
+		document.searchForm.city.value="";
+	}
+	selectFlag=selectBox;					
+	return true;
+}
+function clearCityTextBoxValue(){
+	var selectBox = document.searchForm.countryIds.value;
+	if(selectFlag!=-1){
+		document.searchForm.city.value="";
+	}
+	selectFlag=selectBox;
+	return true;
+}
+
+function setSelectFlag(){
+	var selectBox = document.searchForm.countryId.value;					
+	if(selectBox=="")	{
+		selectFlag=-1;
+	} else {
+		selectFlag=selectBox;
+	}
+	return true;
+}	
+function setSelectFlags(){
+	var selectBox = document.searchForm.countryIds.value;
+	if(selectBox=="")	{
+		selectFlag=-1;
+	} else {
+		selectFlag=selectBox;
+	}
+	return true;
+}
+</script>
+
+
+<!-- CQCONTENT: /dec/hi/1/en/rd -->
+
+
+
+      
+            <input name="errorURL" type="hidden" value="/h/d/hi/1/en/advancedsearch?quickRes=city" >
+            <input name="successURL" type="hidden" value="/h/d/hi/1/en/hotelsearchresults"/>
+            
+            
+             
+            <input name="advancedSearchForwardURL" type="hidden" value="/h/d/hi/1/en/asearch"/>            
+             
+	           
+            <input name="brandGroupCode" type="hidden" value="hi">
+            <input name="currentBrandId" type="hidden" value="HI" />
+            <input name="actionName" type="hidden" value="advancedSearch">
+            
+
+			
+			
+				
+					<input name="requiresCheckinDate" type="hidden" value="false"/>
+					
+						
+						
+							<input name="availabilitySearchSuccessURL" type="hidden" value="/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch"/>
+						
+						
+				
+				
+			
+		    
+
+            <input name="clarifyDestinationURL" type="hidden" value="/h/d/hi/1/en/hotelsearchclarify"/>
+            
+                <input name="searchGroupCodes" type="hidden" value="HI">
+            
+                <input name="searchGroupCodes" type="hidden" value="EX">
+            
+                <input name="searchGroupCodes" type="hidden" value="RS">
+            
+                <input name="searchGroupCodes" type="hidden" value="SL">
+            
+                <input name="searchGroupCodes" type="hidden" value="SS">
+            
+                <input name="searchGroupCodes" type="hidden" value="FS">
+            
+            <input name="rateGroupCode" type="hidden" value="hi">
+            <input type="hidden" name="fromAdvancedSearch" value="true"/>
+
+	<!--	       
+            
+                
+                <input name="cityAdvancedSearch" type="image" src="http://images3.ichotelsgroup.com/cq/etc/media_library/cn/0/en/reservation.Par.0025.Image.gif" alt="Check Availability" border="0">
+                
+            
+        -->    
+
+
+<script language="javascript" type="text/javascript">
+
+    function notifyMoreRooms(theBox)
+    {
+        if (theBox[theBox.selectedIndex].value == 9)
+        {
+            var msg = '';
+            msg = 'If you need to book more than 9 rooms, please call\nthe hotel directly, 1-800-MEETING, or visit\nwww.meetings.ichotelsgroup.com. Bookings\nfor more than 9 rooms by the same guest or group\nfrom this current page will not be honored.\n';
+            alert(msg);
+        }
+    }
+
+</script>
+
+
+
+
+
+
+    
+        
+        
+        
+    
+
+
+
+ 
+
+
+
+
+
+
+
+
+    
+    
+               
+    <div id="countrySet">
+    <LABEL for="countryselect">Country</LABEL>
+    <span class="formElement">
+	<select name="countryId" onchange="javascript:clearCityTextBox(); gotStates(value); clearFaveDest();" onfocus="javascript:setSelectFlag();" id="countryselect" tabindex="12" class="f10" >
+<option value="">Select Country</option>
+<option value="0001" selected="true">United States</option>
+<option value="0925">United Kingdom</option>
+<option value="0110">Afghanistan</option>
+<option value="0120">Albania</option>
+<option value="0125">Algeria</option>
+<option value="0060">American Samoa</option>
+<option value="0140">Andorra</option>
+<option value="0141">Angola</option>
+<option value="0142">Anguilla-St K-Nevis</option>
+<option value="0143">Antarctica</option>
+<option value="0149">Antigua And Barbuda</option>
+<option value="0150">Argentina</option>
+<option value="0135">Armenia</option>
+<option value="0100">Aruba</option>
+<option value="0155">Ashmore-Cartier Isl</option>
+<option value="0160">Australia</option>
+<option value="0165">Austria</option>
+<option value="0115">Azerbaijan</option>
+<option value="0180">Bahamas</option>
+<option value="0181">Bahrain</option>
+<option value="0182">Bangladesh</option>
+<option value="0184">Barbados</option>
+<option value="0211">Belarus</option>
+<option value="0190">Belgium</option>
+<option value="0227">Belize</option>
+<option value="0197">Benin</option>
+<option value="0195">Bermuda</option>
+<option value="0200">Bhutan</option>
+<option value="0205">Bolivia</option>
+<option value="0185">Bosnia &amp; Herzegovina</option>
+<option value="0210">Botswana</option>
+<option value="0208">Bouvet Island</option>
+<option value="0220">Brazil</option>
+<option value="0230">Brit Ind Ocean Ter.</option>
+<option value="0231">British Virgin Isl</option>
+<option value="0232">Brunei Darussalam</option>
+<option value="0245">Bulgaria</option>
+<option value="0927">Burkina Faso</option>
+<option value="0252">Burundi</option>
+<option value="0255">Cambodia</option>
+<option value="0257">Cameroon</option>
+<option value="0260">Canada</option>
+<option value="0265">Canary Islands</option>
+<option value="0264">Cape Verde</option>
+<option value="0107">Caribbean</option>
+<option value="0268">Cayman Islands</option>
+<option value="0269">Central African Rep</option>
+<option value="0273">Chad</option>
+<option value="0495">Channel Islands</option>
+<option value="0275">Chile</option>
+<option value="0280">China-P.R.C.</option>
+<option value="0502">Cocos (Keeling) Is.</option>
+<option value="0285">Colombia</option>
+<option value="0286">Comoros</option>
+<option value="0290">Congo</option>
+<option value="0293">Cook Islands</option>
+<option value="0295">Costa Rica</option>
+<option value="0296">Croatia</option>
+<option value="0300">Cuba</option>
+<option value="0305">Cyprus</option>
+<option value="0310">Czech Republic</option>
+<option value="0315">Denmark</option>
+<option value="0317">Djibouti</option>
+<option value="0318">Dominica</option>
+<option value="0320">Dominican Republic</option>
+<option value="0738">East Timor</option>
+<option value="0325">Ecuador</option>
+<option value="0922">Egypt</option>
+<option value="0330">El Salvador</option>
+<option value="0926">England</option>
+<option value="0332">Equatorial Guinea</option>
+<option value="0327">Eritrea</option>
+<option value="0331">Estonia</option>
+<option value="0335">Ethiopia</option>
+<option value="1003">Europe (Generic)</option>
+<option value="0337">Falkland Islands</option>
+<option value="0336">Faroe Islands</option>
+<option value="0338">Fiji Islands</option>
+<option value="0340">Finland</option>
+<option value="0350">France</option>
+<option value="0355">French Guiana</option>
+<option value="0367">French Polynesia</option>
+<option value="0370">French South Terr.</option>
+<option value="0388">Gabon</option>
+<option value="0389">Gambia</option>
+<option value="0390">Georgia</option>
+<option value="0394">Germany</option>
+<option value="0396">Ghana</option>
+<option value="0397">Gibraltar</option>
+<option value="0400">Greece</option>
+<option value="0405">Greenland</option>
+<option value="0406">Grenada</option>
+<option value="0407">Guadeloupe</option>
+<option value="0066">Guam</option>
+<option value="0415">Guatemala</option>
+<option value="0417">Guinea</option>
+<option value="0737">Guinea Bissau</option>
+<option value="0418">Guyana</option>
+<option value="0420">Haiti</option>
+<option value="0424">Heard Is-Mcdonald Is</option>
+<option value="0430">Honduras</option>
+<option value="0435">Hong Kong</option>
+<option value="0445">Hungary</option>
+<option value="0450">Iceland</option>
+<option value="0455">India</option>
+<option value="0458">Indonesia</option>
+<option value="0460">Iran</option>
+<option value="0465">Iraq</option>
+<option value="0470">Ireland</option>
+<option value="0475">Israel</option>
+<option value="0480">Italy</option>
+<option value="0485">Ivory Coast</option>
+<option value="0487">Jamaica</option>
+<option value="0490">Japan</option>
+<option value="0500">Jordan</option>
+<option value="0525">Kazakhstan</option>
+<option value="0505">Kenya</option>
+<option value="0398">Kiribati (Pacif Isl)</option>
+<option value="0515">Korea</option>
+<option value="0520">Kuwait</option>
+<option value="0510">Kyrgystan</option>
+<option value="0530">Laos</option>
+<option value="0531">Latvia</option>
+<option value="0540">Lebanon</option>
+<option value="0543">Lesotho</option>
+<option value="0545">Liberia</option>
+<option value="0550">Libya</option>
+<option value="0553">Liechtenstein</option>
+<option value="0532">Lithuania</option>
+<option value="0570">Luxembourg</option>
+<option value="0573">Macau</option>
+<option value="0574">Macedonia</option>
+<option value="0575">Madagascar</option>
+<option value="0577">Malawi</option>
+<option value="0580">Malaysia</option>
+<option value="0583">Maldives</option>
+<option value="0585">Mali</option>
+<option value="0590">Malta</option>
+<option value="0587">Mariana Islands</option>
+<option value="0073">Marshall Islands</option>
+<option value="0591">Martinique</option>
+<option value="0592">Mauritania</option>
+<option value="0593">Mauritius</option>
+<option value="0594">Mayotte</option>
+<option value="0595">Mexico</option>
+<option value="0063">Micronesia</option>
+<option value="0576">Moldova</option>
+<option value="0607">Monaco</option>
+<option value="0608">Mongolia</option>
+<option value="0612">Montenegro</option>
+<option value="0609">Montserrat</option>
+<option value="0610">Morocco</option>
+<option value="0615">Mozambique</option>
+<option value="0250">Myanmar</option>
+<option value="0821">Namibia</option>
+<option value="0621">Nauru</option>
+<option value="0625">Nepal</option>
+<option value="0630">Netherlands</option>
+<option value="0640">Netherlands Antilles</option>
+<option value="0645">New Caledonia</option>
+<option value="0660">New Zealand</option>
+<option value="0665">Nicaragua</option>
+<option value="0667">Niger</option>
+<option value="0670">Nigeria</option>
+<option value="0666">Niue</option>
+<option value="0683">Norfolk Island</option>
+<option value="0514">North Korea</option>
+<option value="0069">Northern Mariana Isl</option>
+<option value="0685">Norway</option>
+<option value="0616">Oman</option>
+<option value="0700">Pakistan</option>
+<option value="0075">Palau</option>
+<option value="0705">Palestinian Auth</option>
+<option value="0710">Panama</option>
+<option value="0712">Papua New Guinea</option>
+<option value="0715">Paraguay</option>
+<option value="0720">Peru</option>
+<option value="0725">Philippines</option>
+<option value="0727">Pitcairn</option>
+<option value="0730">Poland</option>
+<option value="0735">Portugal</option>
+<option value="0072">Puerto Rico</option>
+<option value="0747">Qatar</option>
+<option value="0750">Reunion</option>
+<option value="0755">Romania</option>
+<option value="0825">Russia</option>
+<option value="0758">Rwanda</option>
+<option value="0953">S Georgia-S Sandw Is</option>
+<option value="0782">San Marino</option>
+<option value="0783">Sao Tome Principe</option>
+<option value="0785">Saudi Arabia</option>
+<option value="0760">Scotland</option>
+<option value="0787">Senegal</option>
+<option value="0810">Serbia</option>
+<option value="0788">Seychelles</option>
+<option value="0790">Sierra Leone</option>
+<option value="0795">Singapore</option>
+<option value="0796">Slovakia</option>
+<option value="0797">Slovenia</option>
+<option value="0229">Solomon Islands</option>
+<option value="0800">Somalia</option>
+<option value="0801">South Africa</option>
+<option value="0830">Spain</option>
+<option value="0272">Sri Lanka</option>
+<option value="0765">St Helena</option>
+<option value="0763">St Kitts &amp; Nevis</option>
+<option value="0770">St Lucia</option>
+<option value="0773">St Pierre &amp; Miquelon</option>
+<option value="0775">St Vinc/Grenadines</option>
+<option value="0835">Sudan</option>
+<option value="0840">Suriname</option>
+<option value="0488">Svalbard-Jan Mayen</option>
+<option value="0847">Swaziland</option>
+<option value="0850">Sweden</option>
+<option value="0855">Switzerland</option>
+<option value="0858">Syria</option>
+<option value="1007">Tahiti</option>
+<option value="0281">Taiwan</option>
+<option value="0784">Tajikistan</option>
+<option value="0865">Tanzania</option>
+<option value="0875">Thailand</option>
+<option value="0883">Togo</option>
+<option value="0885">Tokelau</option>
+<option value="0886">Tonga</option>
+<option value="0887">Trinidad &amp; Tobago</option>
+<option value="0890">Tunisia</option>
+<option value="0905">Turkey</option>
+<option value="0909">Turkmenistan</option>
+<option value="0906">Turks &amp; Caicos Isl.</option>
+<option value="0908">Tuvalu</option>
+<option value="0074">US Min Outlying Isl</option>
+<option value="0078">US Virgin Islands</option>
+<option value="0910">Uganda</option>
+<option value="0804">Ukraine</option>
+<option value="0888">United Arab Emirates</option>
+<option value="0925">United Kingdom</option>
+<option value="0001" selected="true">United States</option>
+<option value="0930">Uruguay</option>
+<option value="0931">Uzbekistan</option>
+<option value="0651">Vanuatu</option>
+<option value="0934">Vatican City</option>
+<option value="0940">Venezuela</option>
+<option value="0945">Vietnam</option>
+<option value="1010">Wales</option>
+<option value="0950">Wallis and Futuna</option>
+<option value="0955">West Bank</option>
+<option value="0960">Western Sahara</option>
+<option value="0963">Western Samoa</option>
+<option value="0968">Yemen</option>
+<option value="0965">Yemen (Sanaa)</option>
+<option value="0990">Zambia</option>
+<option value="0818">Zimbabwe</option>
+</select>
+    </span>
+    </div><!-- end countrySet -->
+    <br/>
+
+    <div id="cityStateSet">
+    <LABEL for="citytext">City/Town</LABEL>
+    <span class="formElement">
+		
+        
+            
+            
+                
+                    
+                    
+                      <input type="text" id="citytext" name="city" value="" maxlength="20" class="f11" tabindex="13">
+                    
+                
+            
+        
+    	
+    
+	<span id="stateSet">
+	&nbsp; &nbsp; 
+	<span id="stateLabel">
+	State/Prov
+	</span>
+        <select name="stateId" id="statetext" tabindex="14" class="f10" >
+<option value="" selected="true"></option>
+<option value="AB">AB</option>
+<option value="AK">AK</option>
+<option value="AL">AL</option>
+<option value="AR">AR</option>
+<option value="AZ">AZ</option>
+<option value="BC">BC</option>
+<option value="CA">CA</option>
+<option value="CO">CO</option>
+<option value="CT">CT</option>
+<option value="DC">DC</option>
+<option value="DE">DE</option>
+<option value="FL">FL</option>
+<option value="GA">GA</option>
+<option value="HI">HI</option>
+<option value="IA">IA</option>
+<option value="ID">ID</option>
+<option value="IL">IL</option>
+<option value="IN">IN</option>
+<option value="KS">KS</option>
+<option value="KY">KY</option>
+<option value="LA">LA</option>
+<option value="MA">MA</option>
+<option value="MB">MB</option>
+<option value="MD">MD</option>
+<option value="ME">ME</option>
+<option value="MI">MI</option>
+<option value="MN">MN</option>
+<option value="MO">MO</option>
+<option value="MS">MS</option>
+<option value="MT">MT</option>
+<option value="NB">NB</option>
+<option value="NC">NC</option>
+<option value="ND">ND</option>
+<option value="NE">NE</option>
+<option value="NH">NH</option>
+<option value="NJ">NJ</option>
+<option value="NL">NL</option>
+<option value="NM">NM</option>
+<option value="NS">NS</option>
+<option value="NV">NV</option>
+<option value="NY">NY</option>
+<option value="OH">OH</option>
+<option value="OK">OK</option>
+<option value="ON">ON</option>
+<option value="OR">OR</option>
+<option value="PA">PA</option>
+<option value="PE">PE</option>
+<option value="QC">QC</option>
+<option value="RI">RI</option>
+<option value="SC">SC</option>
+<option value="SD">SD</option>
+<option value="SK">SK</option>
+<option value="TN">TN</option>
+<option value="TX">TX</option>
+<option value="UT">UT</option>
+<option value="VA">VA</option>
+<option value="VT">VT</option>
+<option value="WA">WA</option>
+<option value="WI">WI</option>
+<option value="WV">WV</option>
+<option value="WY">WY</option>
+</select>
+	</span> <!-- end stateSet  -->
+    	</span><!-- end formElement -->
+        </div><!-- end cityStateSet -->
+
+    
+
+
+
+    
+
+
+
+
+
+
+	<!--     
+	<br/>
+	<div id="postalCode">
+    	Postal Code
+   	<span class="formElement">
+   	
+        <input type="text" id="zipText" name="zipCode" value="" maxlength="10" class="f11">
+        
+        </span>
+  	</div>
+  	-->
+
+
+	
+	
+
+
+
+
+
+
+
+<!-- end /common/reservation/i_availability_search_dest_city.jsp -->
+    
+    
+    
+    
+    
+
+
+<br>
+
+
+	
+
+    </div>
+
+        
+    
+
+<div id="dates_preferences_header">
+	
+
+
+Travel Dates and Traveler Information (optional)
+
+
+
+
+</div> <!-- end of dates_preferences_header -->
+<div id="dates_preferences_content">
+	
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- CQCONTENT: /dec/hi/1/en/rd -->
+
+
+
+
+<script language="javascript" type="text/javascript">
+
+function notifyMoreRooms(theBox)
+{
+    if (theBox[theBox.selectedIndex].value == 9)
+    {
+        var msg = '';
+        msg = 'If you need to book more than 9 rooms, please call\nthe hotel directly, 1-800-MEETING, or visit\nwww.meetings.ichotelsgroup.com. Bookings\nfor more than 9 rooms by the same guest or group\nfrom this current page will not be honored.\n';
+        alert(msg);
+    }
+}
+
+
+    
+    
+    function formSubmitJS(){
+        document.searchForm.action='http://www.ichotelsgroup.com/h/d/hi/1/en/tpltp'
+        document.searchForm.submit();
+    }
+    function formSubmitAddTP(){
+        document.searchForm.action='http://www.ichotelsgroup.com/h/d/hi/1/en/tppraddtp'
+
+    }
+    
+
+
+function cal_in_pop() {
+	openFPCalendarCheckInAdvanced(document.searchForm, 'hi', '1', 'en', 'MM/dd/yyyy', 'false');
+	document.getElementById('checkInTextBox').value = "";
+	document.getElementById('checkInTextBox').focus();
+	return false;
+}
+
+function cal_out_pop() {
+	openFPCalendarCheckOutAdvanced(document.searchForm, 'hi', '1', 'en', 'MM/dd/yyyy', 'false');
+	document.getElementById('checkOutTextBox').value = "";
+	document.getElementById('checkOutTextBox').focus();
+	return false;
+}
+
+function updateFields() {
+	var nightsDropdown = document.getElementById('number_Nights');
+	var nights = nightsDropdown.selectedIndex + 1;
+	fieldAgreementNightsAdvanced(nights, 'MM/dd/yyyy');
+}
+
+function updateCheckOut() {
+	var nightsDropdown = document.getElementById('number_Nights');
+	if (nightsDropdown!=null && nightsDropdown!='undefined') {
+		setCheckoutDateByNights(nightsDropdown, 'MM/dd/yyyy');
+	}
+}
+
+function cal_checkin(){
+	var checkInValue = document.getElementById('checkInTextBox').value;
+	updateCheckinValue(checkInValue,'MM/dd/yyyy');
+	return false;
+}
+
+</script>
+
+<input name="datePattern" type="hidden" value="MM/dd/yyyy">
+<div id="check_in_set">
+	<LABEL for="checkinselect">Check-In Date</LABEL>
+<span class="formElement">
+	<input type="text" name="checkInFullDate" id="checkInTextBox" tabindex="20" width="115" size="18" maxlength="35" class="f10" onfocus="cal_in_pop();"  value="08/10/2008" />
+	&nbsp; &nbsp;
+	<span id="nights">
+	<LABEL for="noNights">Nights</LABEL>
+	<select name="number_Nights" id="number_Nights" class="f10" onChange="updateCheckOut();" tabindex="21" onFocus="calendarExit(); cal_checkin();updateFields();" >
+<option value="1" selected="true">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13</option>
+<option value="14">14</option>
+<option value="15">15</option>
+<option value="16">16</option>
+<option value="17">17</option>
+<option value="18">18</option>
+<option value="19">19</option>
+<option value="20">20</option>
+<option value="21">21</option>
+<option value="22">22</option>
+<option value="23">23</option>
+<option value="24">24</option>
+<option value="25">25</option>
+<option value="26">26</option>
+<option value="27">27</option>
+<option value="28">28</option>
+<option value="29">29</option>
+<option value="30">30</option>
+<option value="31">31</option>
+<option value="32">32</option>
+<option value="33">33</option>
+<option value="34">34</option>
+<option value="35">35</option>
+<option value="36">36</option>
+<option value="37">37</option>
+<option value="38">38</option>
+<option value="39">39</option>
+<option value="40">40</option>
+<option value="41">41</option>
+<option value="42">42</option>
+<option value="43">43</option>
+<option value="44">44</option>
+<option value="45">45</option>
+<option value="46">46</option>
+<option value="47">47</option>
+<option value="48">48</option>
+<option value="49">49</option>
+<option value="50">50</option>
+<option value="51">51</option>
+<option value="52">52</option>
+<option value="53">53</option>
+<option value="54">54</option>
+<option value="55">55</option>
+<option value="56">56</option>
+<option value="57">57</option>
+<option value="58">58</option>
+<option value="59">59</option>
+<option value="60">60</option>
+<option value="61">61</option>
+<option value="62">62</option>
+<option value="63">63</option>
+<option value="64">64</option>
+<option value="65">65</option>
+<option value="66">66</option>
+<option value="67">67</option>
+<option value="68">68</option>
+<option value="69">69</option>
+<option value="70">70</option>
+<option value="71">71</option>
+<option value="72">72</option>
+<option value="73">73</option>
+<option value="74">74</option>
+<option value="75">75</option>
+<option value="76">76</option>
+<option value="77">77</option>
+<option value="78">78</option>
+<option value="79">79</option>
+<option value="80">80</option>
+<option value="81">81</option>
+<option value="82">82</option>
+<option value="83">83</option>
+<option value="84">84</option>
+<option value="85">85</option>
+<option value="86">86</option>
+<option value="87">87</option>
+<option value="88">88</option>
+<option value="89">89</option>
+<option value="90">90</option>
+<option value="91">91</option>
+<option value="92">92</option>
+<option value="93">93</option>
+<option value="94">94</option>
+<option value="95">95</option>
+<option value="96">96</option>
+<option value="97">97</option>
+<option value="98">98</option>
+<option value="99">99</option>
+</select>
+	</select>
+	</span>
+
+</span> <!-- end formElements -->
+</div> <!-- end check_in_set -->
+
+<div id="AdvancedCheckInCalendar"></div>
+
+<br/>
+
+<div id="check_out_set">
+	<LABEL for="checkoutselect">Check-Out Date</LABEL>
+<span class="formElement">
+	<input type="text" name="checkOutFullDate" id="checkOutTextBox" tabindex="22" width="115" size="18" maxlength="35" class="f10" onfocus="cal_out_pop();"  value="08/15/2008" />
+
+	<span tabindex="23"  onFocus="calendarExit(); document.getElementById('adultSelect').focus();"></span>
+</span> <!-- end formElements -->
+</div> <!-- end check_in_set -->
+
+<div id="AdvancedCheckOutCalendar"></div>
+
+<br/>
+
+<div id="age_room_set">
+<span class="formElement">
+
+	<LABEL for="adultselect">Adults</LABEL>
+	
+		<select name="numberOfAdults" id="adultselect" class="f11" tabindex="24">
+		
+			
+			
+				<OPTION VALUE="1" >1</OPTION><OPTION VALUE="2" SELECTED>2</OPTION><OPTION VALUE="3" >3</OPTION><OPTION VALUE="4" >4</OPTION><OPTION VALUE="5" >5</OPTION><OPTION VALUE="6" >6</OPTION><OPTION VALUE="7" >7</OPTION><OPTION VALUE="8" >8</OPTION><OPTION VALUE="9" >9</OPTION><OPTION VALUE="10" >10</OPTION><OPTION VALUE="11" >11</OPTION><OPTION VALUE="12" >12</OPTION><OPTION VALUE="13" >13</OPTION><OPTION VALUE="14" >14</OPTION><OPTION VALUE="15" >15</OPTION><OPTION VALUE="16" >16</OPTION><OPTION VALUE="17" >17</OPTION><OPTION VALUE="18" >18</OPTION><OPTION VALUE="19" >19</OPTION><OPTION VALUE="20" >20</OPTION>
+			
+		
+		</select>
+	
+	&nbsp;
+	<LABEL for="childrenselect">Children</LABEL>
+	
+		<select name="numberOfChildren" id="childrenselect" class="f11" tabindex="25">
+		
+			
+			
+				<OPTION VALUE="0" >0</OPTION><OPTION VALUE="1" >1</OPTION><OPTION VALUE="2" >2</OPTION><OPTION VALUE="3" SELECTED>3</OPTION><OPTION VALUE="4" >4</OPTION><OPTION VALUE="5" >5</OPTION><OPTION VALUE="6" >6</OPTION><OPTION VALUE="7" >7</OPTION><OPTION VALUE="8" >8</OPTION><OPTION VALUE="9" >9</OPTION><OPTION VALUE="10" >10</OPTION><OPTION VALUE="11" >11</OPTION><OPTION VALUE="12" >12</OPTION><OPTION VALUE="13" >13</OPTION><OPTION VALUE="14" >14</OPTION><OPTION VALUE="15" >15</OPTION><OPTION VALUE="16" >16</OPTION><OPTION VALUE="17" >17</OPTION><OPTION VALUE="18" >18</OPTION><OPTION VALUE="19" >19</OPTION><OPTION VALUE="20" >20</OPTION>
+			
+		
+		</select>
+	
+	&nbsp;
+    
+		
+		
+			<LABEL for="roomselect">Rooms</LABEL>
+		
+	
+	
+	
+	<select name="numberOfRooms" id="roomselect" onchange="notifyMoreRooms(this);" class="f11" tabindex="26">
+	
+		
+		
+			
+				
+				
+					<OPTION VALUE="1" SELECTED>1</OPTION><OPTION VALUE="2" >2</OPTION><OPTION VALUE="3" >3</OPTION><OPTION VALUE="4" >4</OPTION><OPTION VALUE="5" >5</OPTION><OPTION VALUE="6" >6</OPTION><OPTION VALUE="7" >7</OPTION><OPTION VALUE="8" >8</OPTION><OPTION VALUE="9" >9</OPTION>
+				
+			
+		
+	
+	</select>
+	
+	
+</span> <!-- end formElements -->
+</div> <!-- end age_room_set -->
+<br/><br/>
+
+
+
+
+
+
+<div id="room_preference">
+<LABEL for="roomprefselect">Room Preference</LABEL>
+<span class="formElement">
+<select name="roomTypePreference" id="roomprefselect" class="f11" tabindex="27" >
+<option value="3">No Preference</option>
+<option value="OSN">1 Bed</option>
+<option value="TEX">2 Beds Executive</option>
+<option value="TWC">2 Beds Wheelchair Accessible</option>
+<option value="TDB">2 Double Beds</option>
+<option value="KNG">King Bed</option>
+<option value="KWC">King Bed Wheelchair Accessible</option>
+<option value="KEX">King Bed Executive</option>
+<option value="SUI" selected="true">Suite</option>
+<option value="XWC">Suite Wheelchair Accessible</option>
+</select>
+</span> <!-- end formElements -->
+</div> <!-- end room_preference -->
+<br/>
+
+<div id="smoking_preference">
+<LABEL for="smokingprefselect">Smoking Preference</LABEL>
+<span class="formElement">
+			<select name="smokingPreference" id="smokingprefselect" class="f11" tabindex="30">
+				
+					
+						
+							
+								
+								
+									
+									
+										
+											
+												
+												
+													<option value="3">No Preference</option>
+												
+											
+										
+										
+									
+								
+							
+						
+							
+								
+								
+									
+									
+										
+											
+												
+													<option value="1" selected>Non-Smoking</option>
+												
+												
+											
+										
+										
+									
+								
+							
+						
+							
+								
+								
+									
+									
+										
+											
+												
+												
+													<option value="2">Smoking</option>
+												
+											
+										
+										
+									
+								
+							
+						
+					
+				
+			</select>
+
+
+</span> <!-- end formElements -->
+</div> <!-- end smoking_preference -->
+
+<br/>
+
+<div id="rate_preference">
+
+
+
+
+Rate Preference
+<span class="formElement">
+                           <!-- when brand is BC then pass default rate code as 6CBARC -->
+				            
+        							
+        							
+        							
+        							
+        								<select class="f11" id="roomrateselect" name="rateTypeCodes"  tabindex="31">
+        									
+                                
+                                    
+                                        
+                                        
+        									
+        										
+        											
+        												
+        													
+        													<option value="6CBARC" selected>Best Available**
+        												
+        												
+        											
+        										
+        										
+        									
+                                        
+                                    
+
+                                    
+                                       
+                                       
+        									
+        										
+        											
+        												
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IDAAA">AAA/CAA Membership Rate
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IDENI">Entertainment Card
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IDADC">German Automobile Club
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IMCGV">Government Canada
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IMGOV">Government Rate
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IVANI">Reward Nights
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IDARP">Senior Discount
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        														
+        															
+        															
+        																
+        																	<option value="IMSTI">State Government-US
+                                                                                
+                                                                                    *
+        																	</option>
+        																
+        																
+        															
+        														
+        													
+        											
+        										
+        									
+                                       
+                                    
+                                 
+        								</select>
+        							
+                        
+        				
+
+</span> <!-- end formElements -->
+
+
+
+
+</div> <!-- end room_preference -->
+<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- end /common/reservation/i_availability_search_travel_dates.jsp -->
+
+</div> <!-- end of dates_preferences_content -->
+
+<div id="booking_header">
+<a onclick="blockin(1);" tabindex="40">
+<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/cn/bicons.Par.0003.Image.gif" alt="Collapse View" name="negative1" style="display: none;" border="0">
+<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/cn/bicons.Par.0004.Image.gif" alt="Expand View" name="positive1" border="0">
+</a> Corporate, Group & IATA Identification (optional)
+</div> <!-- end of booking_header -->
+<div id="booking_content_frame">
+<div id="booking_content">
+
+    
+
+<!-- start /common/reservation/i_advanced_search_booking_info.jsp -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- CQCONTENT: /dec/hi/1/en/rd -->
+
+
+
+
+<div id="corpID_set">
+
+             If your company has a preferred corporate account with us, please provide the account number here.This will allow us to display your company's preferred rates.<br><br>
+             <LABEL for="corpidtext">Worldwide Corp. Account#:</LABEL>&nbsp;&nbsp;&nbsp;&nbsp;
+<span class="formElement"> 
+			
+				
+					
+						
+						
+						
+						
+							
+							
+								
+								
+									&nbsp;&nbsp;<input type="text" name="corporateNumber" id="corpidtext" size="10" maxlength="9" class="f11" tabindex="41">
+								
+							
+						
+					
+				
+			
+</span> <!-- end formElements -->
+</div> <!-- end corpID_set -->
+<br/>
+				
+
+				
+					
+				
+<br/>
+<div id="IATA_set">
+	
+			<LABEL for="iatatext">IATA#:</LABEL>&nbsp;&nbsp;
+<span class="formElement">
+
+
+                
+                    
+                      
+                        
+                          
+                                 
+                                 
+                                     
+                                        
+                                            
+                                                
+                                                    
+                                                        99502222
+                                                        <input type="hidden" name="iata" size="10" maxlength="8" value="99502222" class="f11" tabindex="43">
+                                                    
+                                                    
+                                                
+                                            
+                                        
+                                        
+                                    
+                                
+                            
+                         
+                    
+                
+
+</span> <!-- end formElements -->
+</div> <!-- end IATA_set -->
+
+<br/>
+
+
+
+
+
+
+
+
+<!-- end /common/reservation/i_advanced_search_booking_info.jsp -->
+
+
+</div> <!-- end of booking_content -->
+</div> <!-- end of booking_content_frame -->
+
+<div id="brands_header">
+<a onclick="blockin(2);" tabindex="60">
+<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/cn/bicons.Par.0003.Image.gif" alt="Collapse View" name="negative2" style="display: none;" border="0">
+<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/cn/bicons.Par.0004.Image.gif" alt="Expand View" name="positive2" border="0">
+</a>  Hotel Brands (optional)
+</div> <!-- end of brands_header -->
+<div id="brands_content_frame">
+<div id="brands_content">
+	
+
+<table WIDTH="540" border=0 CELLPADDING="0" CELLSPACING="0" bgcolor="#ffffff">
+    <tr>
+        <TD valign="top" class="mq_body_text">
+	        <input type="checkbox" name="brands" value="IC" />
+	</TD>
+	<TD valign="top" class="mq_body_text">
+	        InterContinental<sup>&reg;</sup> Hotels & Resorts
+        </TD>
+        <td  valign="top" class="mq_body_text">
+            <input type="checkbox" name="brands" value="SS" checked="true" />
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Holiday Inn SunSpree Resorts<sup>&reg;</sup>
+        </td>
+    </tr>
+    <tr>
+        <td  valign="top" class="mq_body_text">
+            <input type="checkbox" name="brands" value="CP" checked="true" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Crowne Plaza<sup>&reg;</sup> Hotels & Resorts
+        </td>
+        <td  valign="top" class="mq_body_text">
+            <input type="checkbox" name="brands" value="FS" checked="true" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Nickelodeon Family Suites by Holiday Inn<sup>&reg;</sup>
+        </td>
+    </tr>
+    <tr>
+        <td  valign="top" class="mq_body_text">
+            <input type="checkbox" name="brands" value="IN" checked="true" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Hotel Indigo<sup>&reg;</sup>
+        </td>
+        <td valign="top" class="mq_body_text">
+            <input type="checkbox" name="brands" value="EX" checked="true" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Holiday Inn Express<sup>&reg;</sup>
+        </td>
+    </tr>
+    <tr>
+	<td valign="top" class="mq_body_text">
+            <input type="checkbox" name="brands" value="HI" checked="true" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Holiday Inn<sup>&reg;</sup>Hotels & Resorts
+        </td>
+        <td  valign="top" class="mq_body_text" valign="top">
+            <input type="checkbox" name="brands" value="SB" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Staybridge Suites<sup>&reg;</sup>
+          </td>
+    </tr>
+    <tr>
+	<td valign="top" class="mq_body_text" valign="top">
+            <input type="checkbox" name="brands" value="SL" checked="true" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Holiday Inn Select<sup>&reg;</sup>
+        </td>
+        <td  valign="top" class="mq_body_text" height="30" valign="top">
+            <input type="checkbox" name="brands" value="CW" />	
+        </TD>
+	<TD valign="top" class="mq_body_text">
+	        Candlewood Suites<sup>&reg;</sup>
+          </td>
+    </tr>
+  
+</table>
+
+</div> <!-- end of brands_content -->
+</div> <!-- end of brands_content_frame -->
+
+<div id="amenities_header">
+<a onclick="blockin(3);" tabindex="80">
+<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/cn/bicons.Par.0003.Image.gif" alt="Collapse View" name="negative3" style="display: none;" border="0">
+<img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/cn/bicons.Par.0004.Image.gif" alt="Expand View" name="positive3" border="0">
+</a> Amenities (optional)
+</div> <!-- end of amenities_header -->
+<div id="amenities_content_frame">
+<div id="amenities_content">
+	<TABLE WIDTH="100%" CELLPADDING="0" CELLSPACING="0" bgcolor="#ffffff" border=0>
+    <tr>
+             <td NOWRAP width="280"  class="mq_body_text">
+             			<input type="checkbox" name="amenities" value="IP" />
+                             Indoor Pool
+              </td>
+            <td NOWRAP class="mq_body_text">
+            		<input type="checkbox" name="amenities" value="LF" /> Laundry Facilities
+
+            </td>
+    </tr>
+     <tr>
+			  <td NOWRAP class="mq_body_text">
+			  	<input type="checkbox" name="amenities" value="NB" /> Beach Access (5 miles)
+            </td>
+             <td NOWRAP class="mq_body_text">
+             			<input type="checkbox" name="amenities" value="AS1" />  Airport Shuttle
+
+
+            </td>
+    </tr>
+     <tr>
+			  <td NOWRAP class="mq_body_text">
+                            <input type="checkbox" name="amenities" value="PA" />  Pets Allowed
+            </td>
+             <td NOWRAP class="mq_body_text">
+             			<input type="checkbox" name="amenities" value="KEF" />  Kids Eat Free
+
+            </td>
+    </tr>
+     <tr>
+			 <td NOWRAP class="mq_body_text">
+                            <input type="checkbox" name="amenities" value="OP" />  Outdoor Pool
+            </td>
+            <td NOWRAP class="mq_body_text">
+                            <input type="checkbox" name="amenities" value="KSS" />   KidSuites&reg;
+            </td>
+    </tr>
+    <tr>
+			 <td NOWRAP class="mq_body_text">
+                            <input type="checkbox" name="amenities" value="FB" /> Breakfast Included
+            </td>
+              <td NOWRAP class="mq_body_text">
+                          <input type="checkbox" name="amenities" value="HDM" />  Holidome&reg; (Holiday Inn Only)
+            </td>
+    </tr>
+     <tr>
+              <td NOWRAP class="mq_body_text" valign="top">
+                            <input type="checkbox" name="amenities" value="HIA" /> High Speed Internet Access
+            </td>
+			<td NOWRAP class="mq_body_text">
+                          <input type="checkbox" name="amenities" value="WP" />  Waterpark
+            </td>
+               <td NOWRAP class="mq_body_text">
+                           &nbsp;
+            </td>
+    </tr>
+
+
+</TABLE>
+</div> <!-- end of amenities_content -->
+</div> <!-- end of amenities_content-frame -->
+
+
+	
+	
+    		
+	
+
+
+        
+            
+            
+            
+                
+		
+                    <a onClick="javascript:callRoomPreferenceCoremetrics(searchForm, 'AccessibleRoomPreference'); "><input name="findHotels" type="image" src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0002.Image.gif" alt="Find Hotels" border="0"  style="float: right;" tabindex="101" onsubmit="fieldAgreement();"></a>
+		
+	    
+            
+        
+
+
+    
+        <a href="#" onClick="javascript:resetAll(); gotStates(); clearDestState(); collapseAll(); document.getElementById('errors').innerHTML=' ';" tabindex="100"><img  src="http://images3.ichotelsgroup.com/cq/etc/media_library/hi/0/en/rti.Par.0004.Image.gif" alt="Reset Form" style="float: left;" border="0" id="image"></a>
+    
+    
+
+</form>
+
+
+</div> <!-- end of advanced_search_form -->
+
+                      </div> <!-- end of mainContentIntColumn -->
+
+                      <div id="adv_footer">
+                        <div id="footerInt">
+                          	<br><center><a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/tc/pp.html" target="_blank" class="popupblank"><img border="0" src="http://images3.ichotelsgroup.com/cq/content/dec/hi/1/en.FooterPar.Single.FooterImage.gif" alt="TRUSTe"></a><br></center><br><font class="f11"><A CLASS=anchor HREF="http://www.ihg.com/pressoffice" TITLE="Press Office">Press Office</A> | <A CLASS=anchor HREF="http://www.ihg.com/careers" TITLE="Employment Information">Careers</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/hi/1/en/cs.html" title="Phone & Email Customer Service" class="leftNavGuides">Phone &amp; Email</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/home" title="Holiday Inn Hotels & Resorts" class="leftNavGuides">Hotels</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/tc.html" title="WebSite Terms of Use" class="leftNavGuides">Terms Of Use</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/tc/ps.html" title="ICHG Privacy Statement" class="leftNavGuides">Privacy Statement</A> <br><A CLASS=anchor HREF="http://holidayinn.com/development" TITLE="Hotel Development">Hotel Development</A> | <A CLASS=anchor HREF="http://www.ihg.com/corporate" TITLE="Corporate Information">Corporate Information</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/hi/1/en/cs/guides.html" title="City Guides" class="leftNavGuides">City Guides</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/hotel-directory" title="Hotel Directory" class="anchor">Hotel Directory</A> | <a href="http://www.ichotelsgroup.com/h/d/hi/1/en/c/2/content/dec/cn/0/en/cs/gsites.html" title="International WebSites" class="leftNavGuides">International Sites</A> | <A CLASS=anchor class=leftNavGuides HREF="http://affiliates.ichotelsgroup.com/" TITLE="Affiliate Program">Affiliate Program</A> | <a href="http://www.ichotelsgroup.com/h/d/pc/1/en/c/2/content/dec/pc/0/en/winfo.html" title="Wireless Reservations" class="anchor">Wireless Reservations</A><br><A CLASS=anchor class=leftNavGuides HREF="http://www.orlandohotels.holiday-inn.com/" TITLE="Orlando Hotels">Orlando</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.sandiegohotels.holiday-inn.com/" TITLE="San Diego Hotels">San Diego</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.neworleanshotels.holiday-inn.com/" TITLE="New Orleans Hotels">New Orleans</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.chicagohotels.holiday-inn.com/" TITLE="Chicago Hotels">Chicago</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.sanfranciscohotels.holiday-inn.com/" TITLE="San Francisco Hotels">San Francisco</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.sanantoniohotels.holiday-inn.com/" TITLE="San Antonio Hotels">San Antonio</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.newyorkhotels.holiday-inn.com/" TITLE="New York Hotels">New York</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.londonhotels.holiday-inn.com/" TITLE="London Hotels">London</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.washingtonhotels.holiday-inn.com/" TITLE="Washington DC Hotels">Washington DC</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.torontohotels.holiday-inn.com/" TITLE="Toronto Hotels">Toronto<br></A><A CLASS=anchor HREF="http://www.ihg.com" TITLE="Intercontinental Hotels Group">IHG</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.intercontinental.com" TITLE="InterContinental Hotels & Resorts">InterContinental</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.crowneplaza.com" TITLE="Crowne Plaza Hotels & Resorts">Crowne Plaza</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.hotelindigo.com" TITLE="Hotel Indigo">Hotel Indigo</A> | <A CLASS=anchor HREF="http://www.holidayinn.com" TITLE="Holiday Inn">Holiday Inn</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.hiexpress.com" TITLE="Holiday Inn Express">Holiday Inn Express</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.staybridge.com" TITLE="Staybridge Suites">Staybridge Suites</A> | <A CLASS=anchor class=leftNavGuides HREF="http://www.candlewoodsuites.com" TITLE="Candlewood Suites">Candlewood Suites</A><br>©2001-2008 IHG. All rights reserved. Most hotels are independently owned and operated.</font>
+                        </div>
+                        <div id="optionalFooterInt">
+                          <font class="f11">* Requires affiliation in the respective organization.  ** Best Available Rate Search does not include affiliation rates.</font>
+                        </div>
+                      </div>
+                      <script language="JavaScript1.1" type="text/javascript">
+                        
+
+                        if (document.getElementById('cityStateSet')) {
+                          var countryCode = document.getElementById('countryselect').value;
+                          gotStates(countryCode);
+                        }
+
+                        footerPosition();
+                      </script>
+                      
+
+<!-- start /common/i_webtrends.jsp -->
+
+
+
+
+
+
+
+	
+		<SCRIPT LANGUAGE="JavaScript" type="text/javascript" SRC="http://images3.ichotelsgroup.com/js/webtrends.js"></SCRIPT>
+	
+
+    
+    
+
+<!-- start /common/monitors/home.jsp -->
+
+
+
+
+
+
+	<!-- 
+	
+		$MONITOR: SUCCESS
+	
+	-->
+
+
+
+<!-- end /common/monitors/home.jsp -->
+
+
+
+
+<!-- end /common/i_webtrends.jsp -->
+					  
+						  
+							
+							  
+							  
+							  
+							  
+							  <script language="javascript" defer="defer" src="http://www.ichotelsgroup.com/survey356/HolidayInn/iPerceptions356.js"></script>
+							  
+							  
+							  
+							  
+							  
+							
+							
+						  
+						   
+                    </body>
+                  </HTML>
+
+
+                
+              
+            
+          
+          
+      
+    
+  
+

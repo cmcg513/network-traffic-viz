@@ -1,0 +1,12 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=1C4A3B36F5DCC53E960B88229ED029B2&CDDBMuiID=4302341&an=%E8%8F%85%E9%87%8E%E3%82%88%E3%81%86%E5%AD%90&pn=GITS%3A%20Stand%20Alone%20Complex%20OST HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: CC03A2CE-3864522E040A5032D88E9533E98E3184
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

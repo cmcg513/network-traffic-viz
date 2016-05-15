@@ -1,0 +1,21 @@
+/*       Source:  Local Cache                                                                 */
+/*     Location:  rsrc:105628:/html/css/home/pymk.css                                         */
+/*      Machine:  10.16.140.102                                                               */
+/*    Generated:  July 21st 2008 8:53:41 PM PDT                                               */
+/*    HTTP Host:  static.ak.fbcdn.net                                                         */
+
+
+.pymk .sidebar_item_body{padding:8px 0 8px 10px;overflow:hidden;}
+.pymk #pymk .friend_grid_row{margin:2px 0 6px 0;}
+.pymk #pymk .friend_grid_col{margin:0;}
+.pymk #pymk .friend_grid_col .fg_action_hide{margin:1px 5px 0 0;}
+.pymk #pymk .friend_grid_col .fg_action_hide h5 a{background:url(/images/spr_pymk_x_f7.gif) 0px 0px no-repeat;}
+.pymk #pymk .friend_grid_col .fg_action_hide h5 a:hover{background:url(/images/spr_pymk_x_f7.gif) -11px 0px no-repeat;}
+.pymk #pymk .friend_grid_col .fg_links{padding:0 0 0 7px;}
+.pymk #pymk .friend_grid_col .fg_name{font-size:11px;padding-bottom:2px;font-weight:bold;}
+.pymk #pymk .friend_grid_col .fg_name span{color:#333;}
+.pymk .friend_guess{margin:10px 0px 5px 0px;float:none;}
+.pymk .friend_guess .fg_img{float:left;width:50px;}
+.pymk .friend_guess .fg_links{float:left;padding:3px 0px 0px 8px;width:100px;}
+.pymk .friend_guess .fg_links .name{font-size:11px;padding-bottom:4px;}
+.pymk .friend_guess .fg_links .add_link .inactive{color:#666;}

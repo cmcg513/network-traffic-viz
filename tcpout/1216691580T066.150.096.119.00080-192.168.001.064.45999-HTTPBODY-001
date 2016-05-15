@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss2enclosuresfull.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><rss xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://web.resource.org/cc/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+
+<channel>
+<title>CyberSpeak's Podcast</title>
+<link>http://cyberspeak.libsyn.com</link>
+<description>Two former federal agents discussing computer forensics, cybcercrime, and computer security. </description>
+<language>en</language>
+<copyright>fairuse</copyright>
+<managingEditor>cyberspeak@gmail.com</managingEditor>
+<webMaster>podcasts@libsyn.com (Liberated Syndication)</webMaster>
+<generator>Liberated Syndication - libsyn.com</generator>
+<lastBuildDate>Sat, 19 Jul 2008 21:03:00 GMT</lastBuildDate>
+<ttl>180</ttl>
+<itunes:subtitle>Computer Forensics, Cyber Crime and Computer Security.</itunes:subtitle>
+<itunes:summary>Hosted by two former federal agents who investigated computer crime, this is a technology Podcast covering Computer Security, Computer Crime and Computer Forensics Topics.</itunes:summary>
+<itunes:category text="Technology" />
+<itunes:keywords>computer,security,network,forensics,technology</itunes:keywords>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:owner>
+<itunes:email>cyberspeak@gmail.com</itunes:email>
+<itunes:name>Bret Padres and Ovie Carroll</itunes:name>
+</itunes:owner>
+<itunes:image href="http://libsyn.com/podcasts/cyberspeak/images/sph.jpg" />
+<image><link>http://cyberspeak.libsyn.com</link><url>http://libsyn.com/images/cyberspeak/sph.jpg</url><title>CyberSPeak</title></image>
+<itunes:explicit>Clean</itunes:explicit>
+<geo:lat>38.7475</geo:lat><geo:long>-77.569176</geo:long><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.feedburner.com/Cyberspeak" type="application/rss+xml" /><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use.</feedburner:browserFriendly><item>
+<title>CyberSpeak July 19, 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/340146241/index.php</link>
+<description><![CDATA[Bret and Ovie are back!  (Yeah, Bret and Ovie - Not Ovie and Bret)  :)  
+Today they talk about low cost forensic imaging, <a href=" http://blog.wired.com/cars/2008/06/hackers-crack-l.html    ">hacking the London Tube</a>, American Boat Co v. Unknown Sunken Barget I &amp; II, modify your <a href="http://tnkgrl.wordpress.com/">Macbook Air DVD drive</a>, the <a href=" http://www.eye.fi/ ">Eye-Fi card</a>, <a href="http://www.gadgettrak.com">Gadget Track</a>, <a href="http://tripit.com">Tripit</a>, and <a href="http://glassdoor.com">Glassdoor</a>.
+
+<br/><br/>The forensic exam report we refer to is here:  http://blogs.csoonline.com/files/Forensic%20Report.pdf<br/><br/>Ovie and I are back from travel and hope to have more new shows soon!!<br/><br/>OUR EMAIL ADDRESS IS CYBERSPEAK -at- GMAIL.COM<br type="_moz"/>]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 19 Jul 2008 21:03:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=360462#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=360462#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/340146242/CyberSPeak_93_July_19_2008.mp3" length="59138153" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSPeak_93_July_19_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak June 28, 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/322887874/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><font face="Calibri"><font size="3">This
+week we discuss Brets new Kendle, Ovieâs new neat receipts and givce a
+secret to listen to podcasts twice as fast as before.<span>&nbsp;&nbsp; </span>The episode focused on forensic news and legal decisions of interest, specifically a APC pirate being convicted, a <a href="http://news.zdnet.co.uk/security/0,1000000189,39429909,00.htm">study that </a></font><span><a href="http:///">reports 68 percent</a> of all internet-based malware was now being hosted on legitimate sites, <a href="http://www.theregister.co.uk/2008/06/11/botherder_admits_to_ddos_assault/print.html">Bot-herder Greg King</a> is found guilty on two counts for launching a DDOS against <a href="http://www.castlecops.com/">Castel Cops</a>, and <a href="http://cyberforensics.purdue.edu/">Perdue offering Mac Forensics training</a> for 100 law enforcement.<span>&nbsp; </span>In legal news, we discuss Reasonable expectation of privacy and an <a href="http://circuit9.blogspot.com/2008/06/case-o-week-computer-containers-theory.html">allegation a warrant did not have probable cause</a> for a <a href="http://www.deanboland.com/files.cfm?fileID=69">computer search.</a> Web sites of the week included </span></font><a href="http://www.zinio.com/"><span><font face="Calibri" color="#0000ff">www.zinio.com</font></span></a><font face="Calibri"><span> and </span><span><a href="http://fedorahosted.org/liveusb-creator">http://fedorahosted.org/liveusb-creator</a>.&nbsp; <br/></span></font></p>
+Mac Forensic Training at Purdue university, Email Marcus for more info at rogersmk@purdue.edu.
+Study reports 68 percent of all internet-based malware was now being hosted on legitimate sites. http://news.zdnet.co.uk/security/0,1000000189,39429909,00.htm
+Barry Gitarts, 25, of Brooklyn, N.Y., was convicted today by a jury in the Eastern District of Virginia of conspiracy to commit criminal copyright infringement
+Fedora live cd creator https://fedorahosted.org/liveusb-creator  ]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 30 Jun 2008 00:54:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=354187#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=354187#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/322887876/CyberSpeak_92_June_28_2008.mp3" length="44364130" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_92_June_28_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak June 15, 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/316164233/index.php</link>
+<description><![CDATA[This is a repost to fix bad audio file.
+<p class="MsoNormal"><font face="Calibri"><font size="3">Happy Fathers Day!<span>&nbsp; </span>This week we discuss Brets new Kendle, Ovieâs new neat receipts and givce a secret to listen to podcasts twice as fast as before.<span>&nbsp;&nbsp; </span>The episode focused on forensic news and legal decisions of interest, specifically a APC pirate being convicted, a <a href="http://news.zdnet.co.uk/security/0,1000000189,39429909,00.htm">study that </a></font><span><a href="http://">reports 68 percent</a> of all internet-based malware was now being hosted on legitimate sites, <a href="http://www.theregister.co.uk/2008/06/11/botherder_admits_to_ddos_assault/print.html">Bot-herder Greg King</a> is found guilty on two counts for launching a DDOS against <a href="http://www.castlecops.com/">Castel Cops</a>, and <a href="http://cyberforensics.purdue.edu/">Perdue offering Mac Forensics training</a> for 100 law enforcement.<span>&nbsp; </span>In legal news, we discuss Reasonable expectation of privacy and an <a href="http://circuit9.blogspot.com/2008/06/case-o-week-computer-containers-theory.html">allegation a warrant did not have probable cause</a> for a <a href="http://www.deanboland.com/files.cfm?fileID=69">computer search.</a> Web sites of the week included </span></font><a href="http://www.zinio.com/"><span><font face="Calibri" color="#0000ff">www.zinio.com</font></span></a><font face="Calibri"><span> and </span><span><a href="http://fedorahosted.org/liveusb-creator">http://fedorahosted.org/liveusb-creator</a>. &nbsp;</span></font></p>]]></description>
+<category>podcasts</category>
+<pubDate>Fri, 20 Jun 2008 11:43:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=351361#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=351361#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/316164234/CyberSpeak_91-2_June_15_2008.mp3" length="44273222" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_91-2_June_15_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak_June_1_2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/302627400/index.php</link>
+<description><![CDATA[<p>Memorial Day Posdcast and interview tih Mark McKinnon from <a href="http://redwolfcomputerforensics.com">Red Wolf Computer Forensics</a> about his <a href="http://redwolfcomputerforensics.com/downloads/CSC_Parser.zip">CSC Parser</a>.&nbsp; It can be downloaded from here <a href="http://redwolfcomputerforensics.com/downloads/CSC_Parser.zip">http://redwolfcomputerforensics.com/downloads/CSC_Parser.zip</a>&nbsp;. Also check out his blog at <a href="http://cfed-ttf.blogspot.com">http://cfed-ttf.blogspot.com</a> </p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 2 Jun 2008 00:25:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=345398#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=345398#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/302627401/Cyberspeak_May_29_with_Mark.mp3" length="26233920" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_May_29_with_Mark.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak May 10 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/288890757/index.php</link>
+<description><![CDATA[This week, Bret and Ovie interview Al Lewis from <a href="http://subrosasoft.com/">Subrosasoft</a> http://www.macforensicslab.com about the <a href="http://www.macforensicslab.com/ProductsAndServices/index.php?main_page=product_info&cPath=12&products_id=2&zenid=5d755aff7982e332efa950329709c88a">Mac Lockpick</a>. We discuss the new Mac lockpick that can be preconfigured to collect volatile data on Windows, Mac and Linux System. This is the first cross platform utility we have seen. Web sites of the week include <a href=" http://www.flyclear.com/referafriend">www.flyclear.com</a> - use refer a friend code: DSCAM1127098<br/>and Ovie gets an extra month free. Oh, and&nbsp;I forgot Bret's web site but will find it and get it posted soon....I am sure it was a MAC website.]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 12 May 2008 18:42:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=338588#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:keywords>Mac lockpick sobrosasoft apple</itunes:keywords>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:subtitle>Mac Lockpick Interview</itunes:subtitle>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=338588#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/288890759/CyberSpeak_89_May_10_2008.mp3" length="40797317" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_89_May_10_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 27 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/279062678/index.php</link>
+<description><![CDATA[<p class="MsoNormal" id="z7_30" goog_docs_charindex="340">This week, Ovie's back from SANS, Bret's on his way back to Kuwait. This week Ovie and Bret answer some great listener email.&nbsp; Imaging an Apple XRaid, <a id="iu40" title="Google getting into the game of image recognition" href="http://www.siliconvalley.com/opinion/ci_8917598?nclick_check=1&forced=true">Google getting into the game of image recognition</a> to help identify people exploiting children, Andrew sent in a <a id="rr.m" title="website with a great collection of file signatures" href="http://www.garykessler.net/library/file_sigs.html">website with a great collection of file signatures</a>, and Web Sites of the week are <a id="ps.q" title="Netflix Thief Caught in the Act" href="http://www.krischeonline.com/index.php?option=com_content&view=article&id=46">Netflix Thief Caught in the Act</a> and <a id="bzns1" href="http://www.southparkstudios.com/"><font color="#551a8b">http://www.southparkstudios.com/</font></a> and <a id="p5:n" title="Windows Live Mesh" href="http://www.mesh.com/">Windows Live Mesh</a> </p>
+<p class="MsoNormal" id="z7_30" goog_docs_charindex="340">&nbsp;&nbsp;</p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 28 Apr 2008 00:57:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=333395#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=333395#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/279062679/CyberSpeak_88_Apr_26_2008.mp3" length="48031370" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_88_Apr_26_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 13, 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/269662387/index.php</link>
+<description><![CDATA[Bret and Ovie discuss Didier's email and the possibility of web browser prefetching links in an FBI sting operation. Michael helps clarify the OLD phpBB vulnerability, the UK's founding <a href="http://www.vnunet.com/vnunet/news/2214044/uk-top-computer-forensics">forensic father escapes a jail</a> sentence for fraud and Kerry sent in a <a href="http://www.e-evidence.info/thiefs_page.html">list of hundreds of forensic PDF files</a> and makes sure we knew about Quickview Plus (we also suggest <a href="http://www.cerious.com/thumbnails.shtml">Thumbs plus</a> for reviewing large number of graphics). Symantec Corporation released their <a href="http://arstechnica.com/news.ars/post/20080410-report-microsoft-fastest-to-issue-os-patches-sun-slowest.html">comprehensive security report</a> on the malware industry and Microsoft turns out to be the Best at patching vulnerabilities the quickest. <a href="http://eval.symantec.com/mktginfo/enterprise/white_papers/b-whitepaper_internet_security_threat_report_xiii_04-2008.en-us.pdf">The full report is available here</a>.&nbsp; Bret and Ovie discuss Skype and the technical data points of interest when conducting forensics.&nbsp; Web sites of the week include <a href="https://www1.teleflip.com/">Teleflip</a> and <a href="http://twitter.com/">Twitter</a> as we are now trying to tweetâ.erâtwitter.&nbsp; Follow <a href="http://twitter.com/bpadres">Bret</a> and <a href="http://twitter.com/ovie">Ovie</a>. ]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 13 Apr 2008 22:42:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=328191#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=328191#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/269662388/CyberSpeak_87_Apr_13_2008.mp3" length="47862261" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_87_Apr_13_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak March 31 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/262996187/index.php</link>
+<description><![CDATA[Bret and Ovie discuss a listeners question about a <a href="http://">sting operation to lure people wanting to look at child porn to click on a fake web link</a> and get busted for âattempted possession of child pornâ?.  What do you think? Fair or Unfair? We think it is NOT entrapment but could be too close to the line.  Itâs <a href="http://blogs.guardian.co.uk/technology/2008/03/28/macbook_air_first_to_fall_in_hacking_contest_vs_vista_and_linux.html">Miller Time after hacking an Apple in 2 minutes</a> and <a href="http://www.securityfocus.com/brief/703">Vista proves more secure than apple in CanSecWest</a>. The government can now <a href="http://www.securityfocus.com/brief/703">wiretap for a week before submitting a request to wiretap suspected terrorist</a>.  <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9068778&source=rss_topic17">The King of Spam gets 26 years in jail</a>.  A new <a href="http://www.vnunet.com/vnunet/news/2212123/second-mass-hack-reported">vulnerability affecting PHPbb sites,</a> 30 months in prison for <a href="http://www.securityfocus.com/brief/702">spoofing telephone numbers and placing phony emergency calls to manipulate police SWAT</a> teams, Websites of the week include <a href="http://stuffwhitepeoplelike.wordpress.com/">Stuff White People Like</a>,  and 
+A special tech tip - append â<span style="color: rgb(204, 0, 0);">&amp;fmt=6</span>â? (NO QUOTES) to the URL of your You Tube Video for better resolution. 
+]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 2 Apr 2008 01:50:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=323918#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:keywords>computer, forensics, cybercrime</itunes:keywords>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=323918#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/262996188/CyberSpeak_86_Mar_29_2008.mp3" length="41247892" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_86_Mar_29_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak March 16 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/257337315/index.php</link>
+<description><![CDATA[This week Ovie talks about Samaritans Feet in South East DC, calendar syncing problems, Plaxo suggested by two listeners.   A programming mistake leads to a G-Archiver reveationâand 1700 other peopleâs passwords. Ovie and Bret discuss WiebeTechâs fantastic new forensic combo dock.  Web site of the week is Programmers Notepad ]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 25 Mar 2008 00:21:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=320998#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=320998#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/257337316/CyberSpeak_85_Mar_16_2008.mp3" length="47573287" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_85_Mar_16_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak March 8, 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/249007979/index.php</link>
+<description><![CDATA[Today Bret and Ovie talk with Dr. Simson Garfinkel about the Advanced Forensic Format (AFF).  We also cover listener feedback and a Judge raps forensic expert for delaying child-porn cases.
+
+LINKS:  www.afflib.org  
+www.alberteinstein.info/
+google.com/calendar
+
+We apologize for some of the audio quality during the interview with Dr. Garfinkel.
+
+Thanks again for listening!!! Spread the word!]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 10 Mar 2008 17:50:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=316018#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=316018#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/249007980/CyberSpeak_84_Mar_8_2008.mp3" length="67984112" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_84_Mar_8_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Feb 17 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/237319855/index.php</link>
+<description><![CDATA[Show notes soon]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 19 Feb 2008 02:52:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=308794#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=308794#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/237319856/CyberSpeak_83_Feb17_2008.mp3" length="44491804" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_83_Feb17_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>Cyberspeak Feb 10, 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/232860261/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><span>This week on Cyberspeak, Ovieâs <a href="http://www.invisibleshield.com/"><font color="#800080">Invisible Shield</font></a> came in for his blackberry and he loves it. We discuss <a href="http://www.volokh.com/archives/archive_2007_12_16-2007_12_22.shtml#1197763604">US v Boucher</a> and the Fifth Amendment protection not to be compelled to disclose passwords. For some great reading on the issue, <a href="http://cyb3rcrim3.blogspot.com/2007/12/court-upholds-using-fifth-amendment-to.html"><font color="#800080">check out Susan Brennerâs blog post</font></a>. Department of Defense considers <a href="http://www.fcw.com/online/news/151440-1.html">cutting off all non-official Internet access</a>.<span>&nbsp; </span><span>&nbsp;</span>We discuss whole disk encryption and new advertised features in <a href="http://www.truecrypt.org/"><font color="#800080">True Crypt V5</font></a>.<span>&nbsp; </span>We discuss <a href="http://www.nuix.com/Forensic-Desktop.asp?active_page_id=114"><font color="#800080">Nuix, a new forensic utility</font></a> with special application for analysis of emails.<span>&nbsp; </span>Do you encrypt you forensic images before transport?<span>&nbsp; </span>Ovieâs Web site pick of the week is <a href="http://www.bureauofcommunication.com/compose/apology">http://www.bureauofcommunication.com/compose/apology</a></span><span> </span><span>and Bretâs is</span><span> </span><span><a href="http://www.fourmilab.ch/hackdiet/www/hackdietf.html">Hackers Diet</a>. </span></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 11 Feb 2008 00:43:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=305836#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=305836#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/232860262/CyberSpeak_82_Feb_9_2008.mp3" length="43731194" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_82_Feb_9_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak January 14, 2008</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/217388904/index.php</link>
+<description><![CDATA[Happy New Year...Today Bret and Ovie talk about 2008 Predictions.&nbsp; We also talk about Bret breaking his IPhone, <a href="http://www.blackhat.com">Black Hat</a> DC, <a href="http://events.apple.com.edgesuite.net/f27853y2/event/index.html?internal=fj2l3s9dm">Mac World 2008</a>, security vulnerabilities in the new <a href="http://www.wired.com/politics/security/news/2008/01/dreamliner_security">Boeing 787</a>, Bill Gates retirement <a href="http://gizmodo.com/341380/bill-gates-envisions-life-after-microsoft-in-keynote-video">video</a>, <a href="http://www.cybercrime.gov">www.cybercrime.gov</a>, very quick way to wipe a hard drive with badblocks, <a href="http://www.baselinemag.com/article2/0,1540,2242720,00.asp ">private investigator story</a> in the news again, search of computer in tax fraud investigation was ruled valid, Alienware 30 inch curved <a href="http://http://www.engadget.com/2008/01/07/alienware-curved-display-rocks-crysis-at-2880-x-900/ ">monitor</a>, and Ovie saves the world with <a href="http://www.invisibleshield.com">invisibleshield</a>.<br/><br/><br/>]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 16 Jan 2008 01:50:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=297144#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=297144#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/217388905/CyberSpeak_81_Jan_14_2008.mp3" length="56260987" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_81_Jan_14_2008.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak 21 December 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/204372386/index.php</link>
+<description><![CDATA[<p class="MsoNoSpacing"><span><a href="http://www.planebuzz.com/2007/11/we_knew_this_was_going_to_happ.html"><b><span>Elitist iPhone news</span></b></a>, </span><span><a href="http://www.wiebetech.com/products/Drive_eRazer.php"><b><span>Drive Eraser and Drive Eraser PRO</span></b></a>, <a href="http://www.tampabays10.com/news/local/article.aspx?storyid=68565"><b><span>Florida State Troopers need your help</span></b></a>, <span><a href="http://sans.org/top20/?portal=a2d65c8d3857648f135a3dbf64899ccc"><font color="#0000ff">SANS Top-20 2007 Security Risks (2007 Annual Update)</font></a><i>, </i><a href="http://www.taipeitimes.com/News/taiwan/archives/2007/11/11/2003387202"><font color="#0000ff">Trojan infected hard drives</font></a> phoning home to China, <a href="http://www.laptopgiving.org/"><font color="#0000ff">One Laptop per Child Extended</font></a>, Web Picks: </span></span><b><span><a href="http://everyscape.com/"><font face="Calibri" color="#0000ff" size="3">http://Everyscape.com</font></a><font face="Calibri" size="3"> and <a href="http://elfyourself.com">http://elfyourself.com</a><span>.&nbsp; </span>Merry Christmas!!</font></span></b><i><span> &nbsp;</span></i><span> </span></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 22 Dec 2007 01:35:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=289862#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=289862#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/204372387/Cyberspeak_Dec_21.mp3" length="14866581" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_Dec_21.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak November 12 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/183432217/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><font face="Calibri" size="3">This week we show you how you can </font><a href="http://www.laptopgiving.org/"><font face="Calibri" size="3">donate a laptop to a child</font></a><font face="Calibri" size="3"> in an under privileged country and get </font><a href="http://home.businesswire.com/portal/site/google/index.jsp?ndmViewId=news_view&newsId=20071102005824&newsLang=en"><font face="Calibri" size="3">12 months free -Mobile WiFi hotspot access</font></a><font face="Calibri" size="3">, </font><a href="http://www.engadget.com/2007/10/29/apple-not-just-refusing-cash-also-refusing-apple-gift-cards-for/"><font face="Calibri" size="3">apple will not take your cash</font></a><font face="Calibri" size="3">, apple is so secure they are turning off their firewall and the </font><a href="http://www.ironkey.com/"><font face="Calibri" color="#0000ff" size="3">CEO of IronKey talks about the security features of their IronKey thumb drive</font></a><font face="Calibri" size="3">.<span>&nbsp; </span>Web pick of the week is </font><a href="http://www.binaryfortress.com/displayfusion/"><font face="Calibri" size="3">Display Fusion</font></a><font face="Calibri" size="3">.</font></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 12 Nov 2007 07:00:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=277144#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=277144#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/183432218/CybrSpeak_78_12_Nov_2007.mp3" length="22627999" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CybrSpeak_78_12_Nov_2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak 15 October 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/169954173/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><font face="Calibri" size="3">This week on CyberSpeak we discuss the </font><a href="http://www.thetrainingco.com/html/TechnoForensics2007.html"><font face="Calibri" size="3">Techno Forensics Conference Oct 29-31</font></a><font face="Calibri" size="3">, Guidance Softwareâs policy on replacing dongles, Vista Recycle bin forensics, ways to securely </font><a href="http://www.microsoft.com/technet/sysinternals/Security/SDelete.mspx"><font face="Calibri" color="#0000ff" size="3">wipe unallocated or free space</font></a><font face="Calibri" size="3">, and the </font><a href="http://www.securityfocus.com/brief/603"><font face="Calibri" size="3">first class action law suit</font></a><font face="Calibri" size="3"> against Apples for bricking the iPhone.<span>&nbsp; </span>This weeks tech segment is all about Windows Mail, Vistaâs replacement to Outlook Express.<span>&nbsp; </span>Bretâs web picks of the week are a </font><a href="http://techdune.com/2007/10/09/amazing-xp-tools-to-arm-your-pc/"><font face="Calibri" size="3">great list of security tools</font></a><font face="Calibri" size="3">, an </font><a href="http://www.bimbambanana.com/index.php?p=&side=visProd&prod_id=321"><font face="Calibri" size="3">iPod toilet roll holder</font></a><font face="Calibri" size="3"> and a cool </font><a href="http://bbspot.com/video/rube-machine.html"><font face="Calibri" color="#0000ff" size="3">Rube Goldberg Machine</font></a><font face="Calibri" size="3">. <span>&nbsp;</span>Ovieâs web site of the week gives you a way to listen to the latest CyberSpeak podcast without an Internet connection.<span>&nbsp; </span>Just call (214) 283-8997 and you can listen from anywhere. </font></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 15 Oct 2007 03:10:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=266740#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=266740#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/169954174/CyberSpeak_78_October_13_2007.mp3" length="45128181" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_78_October_13_2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak 30 September 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/164485217/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><font face="Calibri" size="3">This week apple deals another blow to their sorry customers, Bret still loves Steve Jobs, Kevin Manson donates a laptop and </font><span><a href="http://www.shanghaidaily.com/sp/article/2007/200709/20070925/article_332460.htm"><font color="#800080">Jushu Technology</font></a>, </span><font face="Calibri" size="3">a Chinese company loses their mind and offers a convicted virus writer a job.<span>&nbsp; </span>A listener sends an email link to an article about Apple feeling bad about ripping off their customers and offers a </font><a href="http://www.bbspot.com/News/2007/09/jobs-offers-apple-lisa-early-adopters-store-credit.html"><font face="Calibri" size="3">$7000 rebate for Lisa customers</font></a><font face="Calibri" size="3">. <span>&nbsp;</span>Ovie and Bret discuss forensics issues about the Vista Recycle Bin.<span>&nbsp; </span>Web sites of the week include a link to the Department of Justice </font><a href="http://www.cybercrime.gov/forensics_chart.pdf"><font face="Calibri" size="3">Computer Forensic Methodology Flow Chart</font></a><font face="Calibri" size="3">, a </font><a href="http://sentencing.us/"><font face="Calibri" size="3">US Sentencing calculator</font></a><font face="Calibri" size="3"> web site and an </font><a href="http://iphone.nullriver.com/beta"><font face="Calibri" size="3">iPhone hacking web site</font></a><font face="Calibri" size="3">.</font></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 3 Oct 2007 01:39:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=262408#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=262408#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/164485218/CyberSpeak_77_30Sep2007.mp3" length="34118723" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_77_30Sep2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak 23 Sep 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/160369685/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><span>We are back!!!<span>&nbsp; </span>Thanks to all that wrote in concerned about our wellbeing.&nbsp; Todays show we discuss listener email, <a href="http://www.iht.com/articles/ap/2007/06/28/america/NA-GEN-US-Sex-Predator-Sting.php"><font color="#0000ff">ABC News report</font></a> on how Dateline NBCâs âTo Catch a Predatorâ? is making it difficult for law enforcement to prosecute child predators because they are using illegal techniques to initiate sexual talk with predators. <span>&nbsp;</span>Iam wants us to start an IRC chat channel, Andre started a <a href="http://www.google.com/coop/cse?cx=003583825449080011189:gic0utkdhyg"><font color="#0000ff">Google Computer Crime</font></a> web page. In the News, <a href="http://www.emporiagazette.com/news/2007/aug/27/forensics_expert_shows_cell_phone_evidence/"><font color="#0000ff">Forensics Expert Shows Cell Phone Evidence in Rape Case</font></a>, Bret is quoted in <a href="http://www.fcw.com/article103745-09-17-07-Print"><font color="#0000ff">Federal Computer Weekly</font></a> article, Ovie and Bret discuss the recent news coverage on <a href="http://www.youtube.com/watch?v=HgrFSHZfD1o"><font color="#0000ff">police use of stun guns</font></a>. Didier Stevens released his new version 2.3.0 of his <a href="http://didierstevens.wordpress.com/programs/userassist/"><font color="#0000ff">UserAssist tool</font></a>. <span>&nbsp;</span>We discuss WiebeTechâs new âHot Plugâ? device that allows investigators to seize and transport a running computer without having to shut it down. Also discuss is WiebeTechâs new <a href="http://wiebetech.com/products/rtx.php">RTX 400 and 600</a> portable storage devices.<span>&nbsp; </span>Bretâs web sites of the week was an iPhone site, <span>&nbsp;</span><a title="http://ibypass.net/" href="http://ibypass.net/"><span><font color="#0000ff">http://ibypass.net/</font></span></a> and <a href="http://freelanceswitch.com/working/35-absolutely-essential-mac-apps/">35 absolutely essential Mac applications</a> and Ovieâs pick was a web site that <a href="http://www.spywareguide.com/analyze/analyzer.php"><font color="#0000ff">analyzes EULAâs</font></a>.<span>&nbsp; </span>KEEP THOSE EMAILS COMING TO CyberSpeak at Gmail dot Com.<br/><br/></span></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 23 Sep 2007 22:56:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=258951#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=258951#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/160369686/CyberSpeak_76_23Sep2007.mp3" length="45768073" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_76_23Sep2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak 16 September 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/157235177/index.php</link>
+<description><![CDATA[The DEFCON SHOW!!
+Wow... Bet you didn't think it was ever going to happen...  Its here...  Thanks Geoff for getting this out...  I am posting this from my hotel room in Texas..  Thanks again to everyone for hanging in there... 
+
+Bret]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 16 Sep 2007 16:15:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=256308#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=256308#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/157235178/CyberSpeak_75_16Sep2007.mp3" length="22663235" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_75_16Sep2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak 29 Jul 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/139026721/index.php</link>
+<description><![CDATA[Show notes will follow.&nbsp; We are off to Defcon!!]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 31 Jul 2007 00:54:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=240442#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=240442#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/139026722/CyberSpeak_74_29Jul2007.mp3" length="52231811" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_74_29Jul2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak July 22, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/136323923/index.php</link>
+<description><![CDATA[Today Ovie talks with Didier Stevens about is <a href="http://didierstevens.wordpress.com/programs/userassist/">UserAssist registry parser</a>.&nbsp; Also, Bret and Ovie talk about the <a href="http://iphone.com">IPHONE</a>!&nbsp; In addition they talk about <a href="http://faronics.com">Deep Freeze</a>, <a href="http://www.abanet.org/journal/ereport/jy13tkjasn.html">Vista Forensics</a>, <a href="http://forensicir.blogspot.com">HogFly's blog forensic blog</a>, NAMBLA convention, The Unofficial Apple <a href="http://tuaw.com">Webblog</a>, <a href="http://shadowserver.org">shadowserver.org</a>, <a href="http://myfirstmac.com">myfirstmac.com</a>, <a href="http://energyfiend.com">energyfiend.com</a>, and <a href="http://streetviewR.com">streetviewR.com</a>.<br/><br/>Ovie agrees that everyone should own an Iphone and that he sleeps in a black tshirt with jeans. (I love being the one that posts the show notes)<br/><br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 23 Jul 2007 00:33:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=237797#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=237797#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/136323924/CyberSpeak_73_22Jul2007.mp3" length="57063854" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_73_22Jul2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak July 1, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/133551518/index.php</link>
+<description><![CDATA[Finally...it's here...the July 1st show!!!&nbsp; <br/><br/>Technical problems plagued this release...now it is here.<br/><br/>Ovie and Bret talk about lots of stuff.<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 14 Jul 2007 02:54:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=235018#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=235018#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/133551519/CyberSpeak_72_1Jul2007.mp3" length="48516133" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_72_1Jul2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>Cyberspeak June 24, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/127922768/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><span>This weeks show Bret and Ovie discuss the <a href="http://rawstory.com/news/2007/Pentagon_confirms_email_system_hacked_0621.html"><font color="#0000ff">Pentagonâs Confirmation of Hacked Email System </font></a>, an e-mail scam that includes a <a href="http://www.fbi.gov/page2/jan07/threat_scam011507.htm"><font color="#0000ff">Hit-Man Threat</font></a>, and Microsoftâs new Groove collaboration application.<span>&nbsp; </span>Ovie test and reports the forensic results of surfing the web with Safariâs Private Browser and answer a question from the episode 72 of the Paul Dot Com show.</span></p>
+<p class="MsoNormal"><span>Ovies web sites of the week - <a href="http://instantdomainsearch.com/">Instant Domain Search</a> and <span>&nbsp;</span></span></p>
+<p class="MsoNormal"><span><a href="http://redkid.net/graffiti/engine.php">Graffiti</a> and Bretâs pick was <a href="http://www.plinko.net/404/links.asp?type=cat&key=16">http://www.plinko.net/404/links.asp?type=cat&amp;key=16</a> <br/><br/></span></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 26 Jun 2007 01:34:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=229168#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=229168#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/127922769/CyberSpeak_71_27Jun2007.mp3" length="14496145" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_71_27Jun2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>Cyberspeak June 17, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/125641606/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><font face="Calibri" size="3">In todayâs show, Ovie and Bret discuss listener email, discuss hard drive write blocks and imaging devices, </font><a href="http://www.sleuthkit.org/sleuthkit/download.php"><font face="Calibri" color="#0000ff" size="3">sleuthkit V2.09</font></a><font face="Calibri" size="3"> is out, </font><a href="http://www.apple.com/safari"><font face="Calibri" color="#0000ff" size="3">Safari for Windows</font></a><font face="Calibri" size="3"> is but you </font><a href="http://www.scmagazine.com/us/news/article/664849/apple-updates-safari-window"><font face="Calibri" color="#0000ff" size="3">better patch quickly</font></a><font face="Calibri" size="3">, </font></p>
+<p class="MsoNormal"><font face="Calibri" size="3">In the news, </font><a href="http://www.theregister.co.uk/2007/06/13/aol_fraudster_jailed/print.html"><font face="Calibri" color="#0000ff" size="3">the first spammer sentenced under</font></a><font face="Calibri" size="3"> CAN-SPAM act, </font><a href="http://www.govexec.com/story_page.cfm?articleid=37191&dcn=todaysnews"><font face="Calibri" color="#0000ff" size="3">VA budgets 20 million</font></a><font face="Calibri" size="3"> for credit protection for its victims, Secret Service agent spins a tale but</font><a href="http://www.nowpublic.com/nightmare_at_reagan_national_airport_a_security_story_to_end_all_security_stories"><font face="Calibri" color="#0000ff" size="3"> surveillance video</font></a><font face="Calibri" size="3"> unravels her story, and </font><a href="http://www.yomiuri.co.jp/dy/national/20070614TDY01004.htm"><font face="Calibri" color="#0000ff" size="3">Japanese police</font></a><font face="Calibri" size="3"> learn a lesson in security.<span>&nbsp; </span>The </font><a href="http://geektechnique.org/projectlab/781/slurpr-the-mother-of-all-wardrive-boxes"><font face="Calibri" size="3">Slurper</font></a><font face="Calibri" size="3"> aggregates 6 unsecure WiFi access points <span>&nbsp;</span>and web sites of the week: </font><a href="http://www.drobo.com/"><font face="Calibri" size="3">Drobo robotic storage</font></a><font face="Calibri" size="3">, </font><a href="http://www.gasapp.com/"><font face="Calibri" color="#0000ff" size="3">Cheapest Gas</font></a><font face="Calibri" size="3">, and </font><a href="http://www.consumerreports.org/cro/cars/safety-recalls/carcrashtest/crashtestvideo.htm"><font face="Calibri" color="#0000ff" size="3">Vehicle crash test</font></a><font face="Calibri" size="3"> site.</font></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 17 Jun 2007 22:51:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=226384#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=226384#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/125641607/CyberSpeak_70_17Jun2007.mp3" length="18327576" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_70_17Jun2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>Cyberspeak June 10 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/124165408/index.php</link>
+<description><![CDATA[Listener email, an interview with Paul Ohm, <span>Associate Professor, </span><span>University of Colorado Law School about his friends of the court brief. New <a href="http://csrc.nist.gov/publications/nistpubs/#sp800-101">cell phone forensics document released</a>&nbsp;and web sites of the week, <a href="http://www.1-click.jp/">www.1-click.jp</a>, <a href="http://wiihaveaproblem.com/">Wii have a problem</a>,&nbsp;<a href="http://www.securityanalogies.com/">securityanalogies</a>, &nbsp;and Google Street View </span>]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 12 Jun 2007 09:42:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=224562#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=224562#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/124165409/CyberSpeak_69_10Jun2007.mp3" length="34161960" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_69_10Jun2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak June 2, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/122972234/index.php</link>
+<description><![CDATA[Today Ovie and Bret talk about listener email.&nbsp; They talk about <a href="http://www.google.com/products?q=monster+power+to+go&hl=en&safe=off&client=firefox-a&rls=org.mozilla:en-US:official&hs=Mh3&pwst=1&um=1&sa=X&oi=froogle&ct=title">portable monster power strip</a>, <a href="http://www.freenigma.com">freenigma GPG for webmail</a>, <a href="http://www.sandboxie.com">sandboxie</a>, <a href="http://www.mountimage.com/virtual-forensic-computing-vfc.php">VFC for booting from encase files</a>, <a href="http://www.bit-tech.net/news/2007/05/21/radiation-proof_underwear_/1">radiation proof underwear,</a>&nbsp; wiping data, <a href="http://www.whitedust.net/eve/">network visualization tool Eve</a>, <a href="http://www.phoenixdatagroup.com">Mac forensics class at phoenixdatagroup.com</a>,&nbsp; <a href="http://www.ex-parrot.com/~pete/upside-down-ternet.html">upside down and fuzy neighbor wireless Internet access</a>, <a href="http://www.tubesnow.com">tubesnow</a>, <a href="http://www.fuelcostcalculator.com">fuelcostcalculator.com</a>, and <a href="http://www.key-port.com">key-port.com</a>.<br/><br/>Good to be back!!!&nbsp; Thanks for hanging in there!!! <script type="text/javascript" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=222408" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 6 Jun 2007 00:01:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=222408#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=222408#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/122972235/CyberSpeak_68_02Jun2007.mp3" length="28933291" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_68_02Jun2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak May 20, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/118337420/index.php</link>
+<description><![CDATA[In todays show Bret talks about selling his Vette on CraigsList.  Ovie wins the lottery (ok he didn't).  We get some great listener analogies.  Ovie and Bret bust the hard drive wiping myth.  <a href="http://www.techworld.com/security/news/index.cfm?RSS&NewsID=8709">New Vista attacks,</a> <a href="http://www.theregister.co.uk/2007/05/09/computer_expert_pleads_guilty/">man could get 10 years for lying about background</a>, <a href="http://www.allheadlinenews.com/articles/7007308238">Cybersleuth named best of 2007,</a> one in 10 web pages have malicious code, <a href="http://www.visual-literacy.org/periodic_table/periodic_table.html">visual periodic table,</a> and <a href="http://www.touchgraph.com/TGGoogleBrowser.html">TouchGraph</a>.<br/><hr style="width: 100%; height: 2px;"/><br/><span style="font-weight: bold;">Bret is in London, England and Ovie is somewhere in Malaysia this week...So if your a listener in one of these places, drop us a line!</span><br/>
+
+
+
+<script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=216950" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 21 May 2007 06:36:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=216950#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=216950#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/118337421/CyberSpeak_67_20May2007.mp3" length="27919740" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_67_20May2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak May 13, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/116456139/index.php</link>
+<description><![CDATA[<span><strong>Today we have an interview of Russell Yawn,Chief Investigator,&nbsp;Office of Prosecutorial Services for the&nbsp;State of Alabama and panel mamber for the National Computer Forensics Institute. Also, check out <a href="http://www.mountimage.com/virtual-forensic-computing-vfc.php">Mount image Pro's new Virtual Forensic Computer</a> that gives you the ability to virtually boot EnCase, DD, and Smart images.&nbsp; Sorry for any hissing sound on Ovie's side, we are exchanging a defective mixer</strong></span><script src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=214438" type="text/javascript" charset="utf-8"></script><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript"></script> ]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 14 May 2007 01:18:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=214438#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=214438#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/118262989/CyberSpeak12_May_2007M.mp3" length="28775520" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak12_May_2007M.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 29, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/114005774/index.php</link>
+<description><![CDATA[Man!!!Busy week...Show notes may not make it...But at least the show got posted!!!<script src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=210910" type="text/javascript" charset="utf-8"></script><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript"></script> ]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 30 Apr 2007 00:51:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=210910#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=210910#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/114005775/CyberSpeak_65_29April1007.mp3" length="28593908" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_65_29April1007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 22, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/111281342/index.php</link>
+<description><![CDATA[Bret and Ovie talk to Jesse Kornblum, Pricipal Computer Forensic Engineer, ManTech International, about <a href="http://www.forensicswiki.org">Forensicswiki.org</a>. Ovie talks about <a href="http://en.wikipedia.org/wiki/Analogy">analogies</a> (tastes like butter.)&nbsp;  Listener email.&nbsp; If you have a question for Kevin Mitnick send it to cyberspeak.gmail.com.&nbsp; Bret and Ovie talk about Vmware differences, Vmware Ace, <a href="http://www.virb.com">Virb.com</a>, get your <a href="http://www.opendns.com">freedns</a> here, and create timelines with <a href="http://simile.mit.edu/timeline/">timelines</a>.<br/>
+
+
+
+
+<script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=206805" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript"></script>
+]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 22 Apr 2007 13:22:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=206805#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=206805#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/111281343/CyberSpeak_64_22April2007.mp3" length="18176066" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_64_22April2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 15, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/109334462/index.php</link>
+<description><![CDATA[<p class="MsoNormal"><font face="Calibri" size="3">Ovie is in the dog house, Bret lets listeners off on the April Fools Joke -- Forensicator Pro --Gotcha!!!<span>&nbsp; </span><a href="http://news.com.com/After+setback%2C+Vonage+wins+temporary+relief/2100-1036_3-6173991.html">Vonage gets a reprieve</a> and can still recruit customers, federal <a href="http://news.com.com/2102-1028_3-6173540.html?tag=st.util.print">appeals court rules</a> no reasonable expectation of privacy on personal computer at work.<span>&nbsp; </span>Be nice to your sister and don't offer her up for sexual favors on craigslist.<span>&nbsp; </span>Tell it to the Bank says <a href="http://news.bbc.co.uk/2/hi/programmes/moneybox/6513835.stm">UK Fraud Act</a> which requires victims to stop reporting online fraud to police.<span>&nbsp; </span>Interview with <a href="http://en.wikipedia.org/wiki/Jim_Christy">Jim Christy</a>, <a href="http://www.dc3.mil/">Defense Cyber Crime Center</a> Director of Futures Exploration and Bret talked about an investigation solved by tracking down the USB drive.<span>&nbsp; </span>web site picks: Trace from <a href="http://www.x-ways.com">www.x-ways.com</a> .<span>&nbsp; </span>Stop by&nbsp;&nbsp;<a href="http://multimediaforensics.com/index.php?PHPSESSID=8c1aa869feb00068f6b2914443699d78&board=17.0">MultimediaForensics</a></font><font face="Calibri" size="3"><a href="http://">&nbsp;</a>for full show notes.</font></p>
+
+
+
+
+
+<script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=202328" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 15 Apr 2007 21:28:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=202328#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=202328#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/109334463/CyberSpeak_63_15Apr2007.mp3" length="27968014" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_63_15Apr2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 1, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/105882871/index.php</link>
+<description><![CDATA[Today Bret and Ovie talk with Kevin Smith from <a href="http://www.ltutech.com/en/">LTU Technologies</a> about <a href="http://www.ltutech.com/en/technology-and-products.image-seeker.html">Image-Seeker.</a>&nbsp; They also talk about listener email, <a href="http://rainbowcrack-online.com">rainbowcrack-online.com</a>, TOR not really broken, Bret loves Twitchy, virustotal.com, and <a href="http://linuxtracker.org/torrents-details.php?id=3840">GParted-Clonezilla-LiveCD</a>.<br/>
+<script type="text/javascript" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=198931" charset="utf-8"></script>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = &quot;UA-1635303-1&quot;;
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 1 Apr 2007 22:25:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=198931#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=198931#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/105882872/CyberSpeak_62_1Apr2007..mp3" length="25494506" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_62_1Apr2007..mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak March 25, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/104523824/index.php</link>
+<description><![CDATA[Our first Live Show at ShmooCon2007!!!<br/><br/>Lots of interviews on the floor of the show...<br/><br/><br/>
+<script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=196411" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 26 Mar 2007 02:51:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=196411#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=196411#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/104523826/CyberSpeak_61_25Mar2007.mp3" length="24483697" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_61_25Mar2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak March 18, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/102699956/index.php</link>
+<description><![CDATA[Today Bret and Ovie talk with Tony Hogeveen, Sales Director for <a href="http://www.deepspar.com/">Deepspar</a> Data Recovery Systems.&nbsp; Bret and Ovie also talk about the <a href="http://froogle.google.com/froogle?q=linksys+cit400&hl=en&btnG=Search">Linksys CIT-400</a>, the <a href="http://www.jawbone.com/">Jawbone</a> bluetooth headset (hey what kinda show is this anyway), <a href="http://www.shmoocon.org/">ShmooCon</a> 2007 meetup, listener email, <a href="http://www.engadget.com/2007/02/14/hitachis-rfid-powder-freaks-us-the-heck-out/">RFID Powder</a>, DHS <a href="http://www.fcw.com/article97894-03-12-07-Web&printLayout">launches national center for computer forensics training</a>, <a href="http://www.informationweek.com/news/showArticle.jhtml?articleID=198000229">Information Week</a> story on Vista being banned, <a href="http://www.boston.com/business/globe/articles/2007/03/13/tjx_faces_scrutiny_by_ftc/">Congressman Ed Markey asks for FTC investigation</a>, <a href="http://www.nirsoft.net/utils/usb_devices_view.html">Nirsoft USB utility</a>, <a href="http://www.informit.com/articles/article.asp?p=706210&rl=1http://www.informit.com/articles/article.asp?p=706210&rl=1">Max OS X Security Part 1</a>, and a Mac forensics <a href="http://lists.apple.com/mailman/listinfo/appleforensics">mailing list</a>.<br/><br/>See you all at the Meetup this Friday!<br/><br/>&nbsp;&nbsp; 9 PM on March 23rd @ Chipotle<br/>&nbsp; &nbsp;2600 Connecticut Ave<br/>&nbsp; &nbsp;Washington, DC 20008<br/><br/><br/><br/><script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=193897" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 19 Mar 2007 02:05:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=193897#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=193897#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/102699957/CyberSpeak_60_18Mar_2007.mp3" length="63015774" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_60_18Mar_2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak March 12, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/101017658/index.php</link>
+<description><![CDATA[Ovie flys solo today.  On todays show Bret and Ovie interview Trevor Fairchild.  Complete show notes as soon as Ovie gets around to it.
+
+<script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=191265" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 12 Mar 2007 02:29:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=191265#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=191265#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/101017659/CyberSpeak_59_12Mar07.mp3" length="23812037" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_59_12Mar07.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak March 4, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/99343106/index.php</link>
+<description><![CDATA[Technical problems on my end have prevented us from recording the show this week.  We should be back up and running for next weeks show.  In the mean time <a href="http://media.libsyn.com/media/cyberspeak/IOActive.mp3">check out our recording of the press conference</a> at Blackhat about the <a href="http://www.newsfactor.com/story.xhtml?story_id=0020002HD6KG">IOActive RFID talk that never was</a> (Warning:&nbsp; Audio quality of the recording is not good.)<br/><br/>&nbsp;Ovie and I will see you next week..
+
+<br/><br/>-Bret
+
+<script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=188728" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 5 Mar 2007 00:55:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=188728#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=188728#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/99343108/CyberSpeak_58_4Mar07.mp3" length="3579097" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_58_4Mar07.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak February 25, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/96601008/index.php</link>
+<description><![CDATA[Today Ovie and Bret talk with Mark Menz from MyKey Technology Inc.&nbsp; We also drop in on Jeff Moss as he prepares for Black Hat Federal.<br/><br/>In the interest of getting the show out, show notes are <a href="http://multimediaforensics.com/index.php/topic,163.0.html">HERE</a>..<br/><br/>Get well soon Mike.<br/>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 27 Feb 2007 04:17:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=186649#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=186649#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/96601009/CyberSpeak_57_26Feb07.mp3" length="40003585" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_57_26Feb07.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak February 18, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/93313932/index.php</link>
+<description><![CDATA[Today, in an extended show, Bret and Ovie talk with <a href="http://www.philzimmermann.com/">Phil Zimmermann</a>, creator of PGP encryption software.&nbsp; Phil talks about his new <a href="http://zfoneproject.com/">Zfone</a> project.&nbsp; Bret and Ovie also talk about a <a href="http://edition.cnn.com/2007/LAW/02/13/teacher.porn.ap/index.html">UK teacher who is fired</a> for showing porn to students, steps of a forensic exam, new Microsoft Word <a href="http://www.informationweek.com/showArticle.jhtml?articleID=197006393&cid=RSS">vulnerability</a>, Shaw Carpenter gets <a href="http:///">4.3 million for wrongful termination</a>, a man <a href="http://charlotte.bizjournals.com/philadelphia/stories/2007/02/12/daily17.html">sentenced</a> for stealing data from the American College of Physicians, another laptop missing; this time from <a href="http://www.baltimoresun.com/news/local/bal-te.md.identity13feb13,1,271722,print.story?coll=bal-home-headlines&ctrack=1&cset=true">St. Marys Hospital emergency care center</a>, <a href="http://www.vnunet.com/vnunet/news/2183150/belgian-newspapers-claim-final">Belgian court upheld ruling that prohibits Google</a> from using snippets of headlines, <a href="http://www.apple.com/downloads/macosx/ipod_itunes/tubesock.html">TubeSock</a>, <a href="http:///">Mac Media Center Project</a>, <a href="http:///">Ext2 in Windows</a>, <a href="http:///">Metalosis Maligna,</a> and <a href="http://www.empressr.com/">online presentations</a>.<br/><script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=186649" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 20 Feb 2007 12:42:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=184068#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=184068#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/93313933/CyberSpeak_56_18Feb07.mp3" length="38607103" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_56_18Feb07.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak February 11, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/89587089/index.php</link>
+<description><![CDATA[Today we talk with <a href="http://myharddrivedied.com/">Scott Moulton</a> from Forensic Strategy Services.&nbsp; Scott talks about advanced hard drive recovery topics.&nbsp; In addition, Bret and Ovie talk about detection of full disk encryption with <a href="http://toorcon.techpathways.com/uploads/zeroview.zip">ZeroView</a>, Danny Garcia didn't <a href="http://www.pcworld.com/article/id,128750-c,cybercrime/article.html">hack the SuperBowl</a>, <a href="http://www.scmagazine.com.au/news/45262,myspace-superworm-creator-sentenced-to-probation-community-service.aspx">MySpace worm creator sentenced</a> to probation, <a href="http://news.bbc.co.uk/1/hi/england/6331517.stm">three men who used internet chat room to hatch a plot to rape</a>, decode your <a href="http://www.eff.org/Privacy/printers/docucolor/">printers secret code</a>, <a href="http://www.paypal.com/cgi-bin/webscr?cmd=xpt/cps/securitycenter/general/PPSecurityKey-outside">paypal security key</a>, google.com/searchhistory, www.freewareosx.com, and www.xslimmer.com. <br/>
+<script charset="utf-8" src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=181009" type="text/javascript"></script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 12 Feb 2007 02:19:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=181009#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=181009#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/89587090/CyberSpeak_55_-_11Feb07.mp3" length="37674071" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_55_-_11Feb07.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak January 28, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/83107004/index.php</link>
+<description><![CDATA[Ovie is back!!&nbsp; Today Ovie and Bret talk with Jesse Kornblum, Principal Computer Forensics Engineer at <a href="http://mantech.com/">ManTech</a> about his Buffalo paper on memory analysis.&nbsp; Also they talk about listener email, <a href="http://www.fletc.gov/training/programs/legaldivision/podcasts">fletc legal division podcasts</a>, <a href="http://lifehacker.com/software/privacy/geek-to-live--hide-data-in-files-with-easy-steganography-tools-230915.php">stego</a>, <a href="http://www.randi.org/research/index.html">the million dollar paranormal challenge</a>, <a href="http://dheera.net/projects/blur.php">why blurring data can be bad</a>, and see who is stealing your laptop at <a href="http://www.slappingturtle.com">slappingturtle.com</a>.<br/>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 28 Jan 2007 22:16:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=175719#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=175719#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/83107005/CyberSpeak_54_-_28Jan07.mp3" length="53704111" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_54_-_28Jan07.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak January 17, 2007</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/77037366/index.php</link>
+<description><![CDATA[Today Bret talks with <a href="http://www.chadanthonymcmillan.com/">Chad McMillan</a>, Principal Security Engineer and <a href="http://www.mandiant.com">Mandiant</a>.&nbsp; Chad talks about his new entropy tool for malware detection.&nbsp; Bret also talks about listener feedback, <a href="http://www.shmoocon.org">ShmooCon</a>, <a href="http://blackhat.org">Blackhat Federal</a>, <a href="http://www.eset.com/">ESETs NOD32</a>, <a href="http://news.com.com/2100-1041_3-6147032.html?part=rss&tag=2547-1_3-0-20&subj=news">flash drives for laptops</a>, Jim Christy in WIRED Magazine, <a href="http://www.itsecurity.com/features/nastiest-malware-trends-011207/">malware trends,</a> <a href="http://www.thestar.com/article/169413">canadian coins with RFID chips</a>, <a href="http://www.securityfocus.com/brief/405">iDefense annouced they will pay 800 for each remotely exploitable flaw in Vista and IE</a>, and <a href="http://www.delicious-monster.com">Delicious Monster</a>.<br/>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1635303-1";
+urchinTracker();
+</script>]]></description>
+<category>podcasts</category>
+<pubDate>Thu, 18 Jan 2007 02:21:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=172098#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=172098#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/77037367/Cyberspeak_January_15_2007.mp3" length="23559590" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_January_15_2007.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak January 7, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888358/index.php</link>
+<description><![CDATA[Today, Bret talks with Jamie Butler, Principal Software Engineer at <a href="http://www.mandiant.com">Mandiant</a>.&nbsp; Jamie is the co-author of <a href="http://www.amazon.com/Rootkits-Subverting-Addison-Wesley-Software-Security/dp/0321294319">Rootkits: Subverting the Windows Kernel</a>.&nbsp; He talks with Bret about the state of rootkit technology.&nbsp; Bret also talks about a man who stumbles into an online law enforcement training class and ends up with an <a href="http://www.newsleader.com/apps/pbcs.dll/article?AID=/20070105/NEWS01/701050310/1002">indictment,</a> <a href="http://mapsexoffenders.com">mapsexoffenders.com</a>, <a href="http://www.securityfocus.com/infocus/1884">wireless forensics</a>, <a href="http://http://www.gearthblog.com/blog/archives/2007/01/watch_remote_control.html">remote control plane to capture images for Google Earth,</a> <a href="https://www.sapotek.com">DesktopTwo</a>, and a <a href="http://bytemycode.com">neat code repository website</a>.&nbsp; Bret also talks about his lovely wife Jill buying him a <a href="http://www.usa.canon.com/consumer/controller?act=ModelDetailAct&fcategoryid=139&modelid=14256">Canon Rebel XTI</a> and <a href="http://mindstorms.lego.com/">Lego Mindstorms NXT</a> for christmas!<br/><br/>Also Congratulations to Ken Pryor for <a href="http://multimediaforensics.com/viewtopic.php?t=43">his &quot;Where's Ovie&quot; submission</a>.&nbsp; He will be receiving a &quot;one of a kind&quot; autographed <a href="http://www.cafepress.com/cyberspeak.43582885">CyberSpeak mousepad</a>.&nbsp; Thanks Ken!!<br/><br/>I had a REAL OVIE SIGHTING the other day.&nbsp; Hmmmmm...is he coming back soon!?!?!?!<br/><br/>We are light on mail this week...send us your ideas, thoughts, praise, scorn, or whatever.&nbsp;&nbsp; CYBERSPEAK at GMAIL dot COM<br/><br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 8 Jan 2007 01:38:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=168508#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+<script src="http://feeds.feedburner.com/~s/Cyberspeak?i=http://cyberspeak.libsyn.com/index.php?post_id=168508" type="text/javascript" charset="utf-8" />
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=168508#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888359/CyberSpeak_January_7_2006.mp3" length="26369721" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_January_7_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 31, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888360/index.php</link>
+<description><![CDATA[Last show of 2006!!&nbsp; Today on a short show, Bret talks about <a href="http://www.techweb.com/showArticle.jhtml;?articleID=196701659">Sony's settlement</a> with seveal states, January 2007 is the month of <a href="http://blog.washingtonpost.com/securityfix/2006/12/january_2007_month_of_apple_bu.html">Apple Security Bugs,</a> <a href="http://www.eweek.com/article2/0,1895,2073611,00.asp#">Vista exploits selling for 50K</a>, <a href="http://www.networkworld.com/community/?q=node/9999">congressional aid caught</a> trying to get his grades changed, <a href="http://ninjawords.com/">a fast dictionary</a>, <a href="http://www.hackergames.net/">hacker challanges and puzzles</a>, <a href="http://www.guerrillamail.com/">email address that will expire in 15 mins</a>, and a virtual <a href="http://www.thinkature.com">collaboration whiteboard.</a><br/><br/>You still have time to submit you &quot;where is Ovie&quot; picture at www.multimediaforensics.com.<br/><br/>Happy New Year!!<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 1 Jan 2007 03:10:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=166380#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=166380#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888361/CyberSpeak_December_31_2006.mp3" length="7210684" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_December_31_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 17, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888362/index.php</link>
+<description><![CDATA[On this festive pre-Christmas show Bret talks with Mike Younger and Geoff Michelli.&nbsp; They talk about a <a href="http://news.bbc.co.uk/2/hi/business/6179117.stm">Skype lie detector</a>, <a href="http://devices.natetrue.com/macshift">mac changing utility</a>, <a href="http://www.aplusproxy.com">anonymous</a> surfing <a href="http://www.slyuser.com">websites</a>, <a href="http://freepops.sourceforge.net ">a pop3 aggrigator</a>, <a href="http://locknote.steganos.com ">secure notepad</a>, the VA Army National Guard members <a href="http://wowktv.com/story.cfm?func=viewstory&storyid=17093">personal data stolen</a> on a laptop, class president at <a href="http://www.sun-sentinel.com/news/local/broward/sfl-sgrades13dec13,0,5928437.story?coll=sfla-news-broward">Cooper City High charged with chaging grades</a>, Hackthissite.org founder <a href="http://www.hackthissite.org/chicagotribunecapture.txt">sentenced</a> to 24 months, <a href="http://www.schneier.com/blog/archives/2006/12/realworld_passw.html">interesting password article</a>, <a href="http://users.erols.com/gmgarner/forensics/">imaging Windows memory</a>, <a href="http://www.hackerslab.org/eorg/hackingzone/hackingzone.htm">hack free zone</a>, your browser information <a href="http://ipid.shat.net/">site</a>, and how to hack a master lock <a href="http://www.i-hacked.com/">at i-hacked</a>.&nbsp; <a href="http://www.mit.edu/~vona/bass/bass.html">How to make your bass say &quot;PORK&quot;?</a><br/><br/>Where is Ovie?!&nbsp; Check out these submissions and enter the contest!!<br/><br/><a href="http://multimediaforensics.com/viewtopic.php?t=43">http://multimediaforensics.com/viewtopic.php?t=43</a><br/><br/>The winner will get an autographed CyberSpeak mousepad!!<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 19 Dec 2006 03:33:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=162911#</guid>
+<itunes:duration>01:01:02</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=162911#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888363/CyberSpeak_December_17_2006.mp3" length="29185947" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_December_17_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 10, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888364/index.php</link>
+<description><![CDATA[Today Bret has Mike Younger on the show.&nbsp; Bret and Mike talk about <a href="http://www.infosecurity-magazine.com/news/061205_spam_Postini_research.htm">spam</a> statistics, IT <a href="http://www.informationweek.com/news/showArticle.jhtml;jsessionid=EBA3IT0NZBRMWQSNDLPSKH0CJUNN2JVN?articleID=196602415">background checks</a>, Blackberry forensics, gmail <a href="http://mail.google.com/support/bin/answer.py?ctx=%67mail&hl=en&answer=21288">mail fetcher,</a> <a href="http://preview.local.live.com">preview.local.live.com</a>, and <a href="http://www.tmto.org">www.tmto.org</a>.<br/><br/>Remember <a href="http://">www.multimediaforensics.com!</a><br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 11 Dec 2006 00:53:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=160007#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=160007#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888365/CyberSpeak_December_10_2006.mp3" length="18193390" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_December_10_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 3, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888366/index.php</link>
+<description><![CDATA[Today Bret talks with Brian Dykstra, CIO and Director of Education at <a href="http://www.mandiant.com">Mandiant</a>, about the ediscovery rule changes.&nbsp; Bret also talks about <a href="http://weblog.infoworld.com/virtualization/archives/2006/11/virtual_machine_1.html">virtual machine detection in malware</a>, <a href="http://www.spamgourmet.com">spamgourmet</a>, <a href="http://www.careerjournal.com/columnists/theorypractice/20061114-theorypractice.html">employee comensation</a>, <a href="http://www.guidancesoftware.com">Encase version 6</a>, <a href="http://www.foxnews.com/story/0,2933,232500,00.html">Nigerian scam still works</a>, <a href="http://www.indystar.com/apps/pbcs.dll/article?AID=/20061128/LOCAL/61128029">FBI dropps boarding pass generator investigation</a>, <a href="http://forum.parallels.com/thread5997.html">Parallels build 3036</a>, <a href="http://sharjeelsayed.blogspot.com/2006/03/beat-censorship-using-these-proxies.html">proxy site lists</a>, <a href="http://www.thesimpledollar.com/2006/12/01/30-essential-pieces-of-free-and-open-software-for-windows/">30-essential pieces of free and open software</a> for Windows.<br/><br/>Please take the time to give us a review on <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=108218375">iTunes.</a><br/><br/>Drop by Brian Dykstra's site at <a href="http://www.virtualwar.com">www.virtualwar.com</a><br/><br/><br type="_moz"/>]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 3 Dec 2006 22:45:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=157657#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=157657#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888367/CyberSpeak_December_3_2006.mp3" length="24533987" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_December_3_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak November 26, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888368/index.php</link>
+<description><![CDATA[Today we have a short Thanksgving weekend show.  Bret talks about a Mac remote control program called <a href="http://www.apple.com/downloads/macosx/networking_security/iforgot.html">iForgot</a>, a <a href="http://yro.slashdot.org/article.pl?sid=06/11/21/158207">decision</a> by the Florida Supreme Court upholding the conviction of Michael Simmons, <a href="http://hype-free.blogspot.com/2006/11/to-pack-or-not-to-pack.html">Hype-Free article on packing</a>, <a href="http://www.securityfocus.com/brief/366">F-Secure publishes IAdware</a>, <a href="http://www.securityfocus.com/brief/361">Virus in Second Life</a>, <a href="http://www.microsoft.com/technet/sysinternals/SystemInformation/processmonitor.mspx">Procmon</a> from Microsoft, <a href="http://www.safepasswd.com">safe passwords</a>, <a href="http://www.rayninfo.co.uk/vimtips.html">VIM Tips</a> , <a href="http://www.socketsoft.net/SpoofMAC">MacSpoof</a>, and <a href="http://video.google.com/videoplay?docid=2747795879540679409&q=forest+gump">Speed Talker video</a>.<br/><br/>Don't forget to checkout www.multimediaforensics.com for more detailed show notes.<br type="_moz"/> ]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 26 Nov 2006 22:55:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=155453#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=155453#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888369/CyberSpeak_November_26_2006.mp3" length="7314647" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_November_26_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak November 19, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888370/index.php</link>
+<description><![CDATA[This show we interview Kris Kendall, Principal Consultant for <a href="http://www.mandiant.com">Mandiant</a>.&nbsp; He talks about unpacking binaries when conducting malware analysis.&nbsp;&nbsp; Bret talks about a <a href="http://www.armfor.uscourts.gov/opinions/2006Term/05-5002.pdf">recent court decision</a> from the Military Courts of Appeals, <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9005165&source=NLT_SEC&nlid=38">Guidance Software settles complaint filed by the FTC</a>, <a href="http://www.securityfocus.com/news/11424">malware in the movies</a>, <a href="http://www.securityfocus.com/brief/360">malware on video cards</a>, toon site <a href="http://www.homestarrunner.com">www.homestarrunner.com</a>, and a site with linux tutorials <a href="http://www.howtoforge.com/">www.howtoforge.com</a>.<br/><br/>Thanks again to Geoff Michelli our new Sound Engineer.&nbsp; <br/><br/>Detailed show notes can be found at <a href="http://www.multimediaforensics.com">www.multimediaforensics.com</a><br/>]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 19 Nov 2006 16:38:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=153162#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=153162#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888371/CyberSpeak_November_19_2006.mp3" length="17509708" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_November_19_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak November 12, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888372/index.php</link>
+<description><![CDATA[Today Bret talks with Jesse Kornblum, Principle Computer Forensics Engineer for ManTech's Computer Forensics and Intrusion Analysis Division, about his paper, Eploiting the Rootkit Paradox with Windows Memory Analysis.  Complete show notes can be found <a href="http://www.multimediaforensics.com/viewforum.php?f=17&sid=2c8761fa9bf81928a1c1c539237e0198">here</a>.]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 12 Nov 2006 02:25:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=150690#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=150690#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888373/CyberSpeak_November_12_2006.show.mp3" length="30583458" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_November_12_2006.show.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak October 29, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888374/index.php</link>
+<description><![CDATA[This short show we talk about upcoming interviews and some behind the scenes info from CyberSpeak.&nbsp; Also checkout http://www.pcnames.com/ and http://www.cheapmacapps.com.<br/><br/>Bret<br type="_moz"/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 30 Oct 2006 03:07:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=146122#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=146122#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888375/CyberSpeak_October_29_2006.mp3" length="8083817" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_October_29_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak October 15, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888376/index.php</link>
+<description><![CDATA[Today Mike and Bret talk about listener feedback, google fully adopting Writly, Tchnalign releases linux based computer forensics system, Purdue researchers receive funding for digital forensics, www.internetfrog.com, perian.org, and Mike says hi to Seth.
+
+<br/><br/>PS.  You might have noticed that we have added a subscribe button to our page.  This will allow listeners to donate $2 a month to help support the show.  Thanks to all that have already chipped in!]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 17 Oct 2006 12:14:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=141606#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=141606#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888377/CyberSpeak_October_15_2006.mp3" length="25019157" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_October_15_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak October 8, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888378/index.php</link>
+<description><![CDATA[Today we have an interview with Tom Gallagher, Microsoft Office Security Test Team Lead about his new book <a href="http://www.amazon.com/Hunting-Security-Bugs-Pro-Developer-Paperback/dp/073562187X">Hunting Security Bugs</a>.&nbsp; Tom tells an interesting story about how Microsoft almost balked at allowing some of the reverse engineering content in the book.&nbsp; Bret and Mike talk about listener email, <a href="http://www.infoworld.com/article/06/10/03/HNmozilladuped_1.html">Firefox flaw joke</a>, another conversation about <a href="http://www.hack247.co.uk/2006/10/05/hacking-an-atm-machine/">hacking ATMs</a>, the <a href="http://www.hak5.org/wiki/USB_Hacksaw">USB Hacksaw</a>,&nbsp; <a href="http://myslak.bonsonno.org">MySlax</a> utility, <a href="http://www.dappit.com">www.dappit.com</a>, and <a href="http://www.cl1p.net">www.cl1p.net.</a>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 9 Oct 2006 01:54:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=138553#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=138553#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888379/CyberSpeakOct-8.mp3" length="53269216" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeakOct-8.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak October 1, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888380/index.php</link>
+<description><![CDATA[Interview with <a href="http://liveview.sf.net">LiveView</a> author, Brian Kaplan from CERT.&nbsp; Also Bret talks about a <a href="http://news.zdnet.com/2100-1009_22-6121608.html">zero-day Firefox exploit</a>, <a href="http://www.nzherald.co.nz/section/story.cfm?c_id=1&objectid=10403297">a New Zealand man who recently escaped a hacking conviction</a>, <a href="http://www.zdnetasia.com/insight/security/0,39044829,61955207,00.htm">would you hire a black hat?</a>, <a href="http://www.tvsquad.com/2006/10/01/where-to-find-your-favorite-shows-online/">great TV shows online</a>, and <a href="http://www.remote-exploit.org">backtrack bootable CD at remote-exploit.org</a>.<br/><br/>I apologize in advance for the audio quality of the interview with Brian Kaplan.&nbsp; I tried my best to clean it up.<br/><br/>rm -rf *<br/><br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 2 Oct 2006 00:46:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=136127#</guid>
+<itunes:duration>00:29:00</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=136127#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888381/CyberSpeak_October_1_2006.mp3" length="27843299" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_October_1_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak September 24, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888382/index.php</link>
+<description><![CDATA[Today Bret talks about listener experiences with <a href="http://liveview.sourceforge.net/">LiveView</a> (Harlan Carvey posted <a href="http://windowsir.blogspot.com/2006/08/liveview.html">his experiences</a><a href="http://windowsir.blogspot.com/2006/08/liveview.html"> here </a>and Richard Betlich <a href="http://taosecurity.blogspot.com/2006/08/liveview.html">posted here</a>),&nbsp; the <a href="http://www.techsec.com/html/TechnoForensics2006.htm">Techno Forensics Conference 2006</a>, the <a href="http://www.mce.com/shop/product_detail/product_id/22690/category_id/1545">Highpoint X4 Multi-lane 4 Bay External SATA Enclosure with PCI-X Controller</a> for multi-terrabyte external storage, an individual who posted <a href="http://www.xkcd.com/c155.html">his google search history</a>, <a href="http://passivemode.net/updates/2006/9/22/atm-master-passwords-list.html">ATM manual and default password list</a>, <a href="http://www.jgc.org/blog/2006/09/watching-phishing-attack-live.html">hunting phishers</a>, <a href="http://itpolicy.princeton.edu/voting">security of Diabold's evoting machine</a>, metadata tools, <a href="http://www.networkworld.com/news/2006/091806-cross-site-scripting-the-top-security.html">cross site scripting</a>, <a href="http://passivemode.net/updates/2006/6/5/windows-xp-privilege-escalation-exploit.html">escalating your privileges</a> on a windows XP system, a <a href="http://www.squarefree.net/htmledit/">real time HTML editor</a>, and an <a href="http://www.farecast.com/">airline ticket forecasting</a> site.&nbsp; <br/><br/>We are giving away a copy of <a href="http://www.oreilly.com/catalog/1597491292/">Enemy at the Watercooler</a> to the best listener email.&nbsp; <br/><br/>Also, don't forget to support Mandiant First Response and go to <a href="http://www.scmagazine.com/us/awards/categories/26164/best-computer-forensics-solution/">SC Magazine's Best Computer Forensic Solution.</a> VOTING IS NOW ON, check it out <a href="http://www.scmagazine.com/us/awards/categories/26164/best-computer-forensics-solution/">here</a>.<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 24 Sep 2006 15:57:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=133549#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=133549#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888383/CyberSpeak_Sep_24_2006.mp3" length="24942507" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Sep_24_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak September 17, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888384/index.php</link>
+<description><![CDATA[<p>Today Bret and Mike talk about Forensic Imaging issues.&nbsp; We also discuss a <a href="http://home.hamptonroads.com/stories/story.cfm?story=110889&ran=223062">man who reprograms an ATM</a>, <a href="http://www.projectleadership.net/documents/ComputerForensicsTrainingSeriesPR.pdf">free forensics training</a>, <a href="http://www.news-press.com/apps/pbcs.dll/article?AID=/20060823/NEWS01/60823017/1075">child porn found after 911 call</a>, liveview, how to create a context menu to print filelistings in Windows XP, creating gmail spam filters, <a href="http://www.derlien.com/">a&nbsp;Mac OS X disk inventory utility</a>,&nbsp;and <a href="http://www.techsec.com/html/TechnoForensics2006.htm">Techno Forensics 2006</a>.</p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 18 Sep 2006 14:06:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=131575#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=131575#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888385/CyberSpeak_September_17_2006.mp3" length="51181341" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_September_17_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak September 10</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888386/index.php</link>
+<description><![CDATA[Show notes will be posted soon<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 11 Sep 2006 01:58:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=129038#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:duration>00:50:55</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=129038#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888387/Cyberspeak_Sep_10-Final.mp3" length="36608167" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_Sep_10-Final.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak September 3, 2006 (Repeat)</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888388/index.php</link>
+<description><![CDATA[This is a repeat of the September 3rd posting.  There was a problem with the file being posted.  If you have the September 3rd edition of the show with the Keith Jones interview you can delete this one.]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 6 Sep 2006 14:47:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=127575#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=127575#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888389/CyberSpeak_Sep_3_2006.mp3" length="59081579" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Sep_3_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak September 3, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888390/index.php</link>
+<description><![CDATA[This episode with have Keith Jones, Director of Computer Forensics, Incident Response, and Litigation Support for <a href="http://www.mandiant.com">MANDIANT</a> who recently testified as an expert witness in the <a href="http://www.informationweek.com/showArticle.jhtml;jsessionid=ABA2SFNKOLSESQSNDLQSKHSCJUNN2JVN?articleID=189900017">UBS Painwebber trial</a>.&nbsp; Check out his site at <a href="http://www.realdigitalforensics.com">realdigitalforensics.com</a>. We also talk about <a href="http://money.cnn.com/2006/08/21/news/companies/aol.reut/index.htm">AOL's recent release of search query data</a>, <a href="http://www.fletc.gov/training/programs/legal-division/podcasts">new fletc podcast</a>, Apple's first look at <a href="http://www.apple.com/macosx/leopard/">Leapord</a>, <a href="http://liveview.sourceforge.net/">liveview</a> forensic tool to boot vmware images, <a href="http://www.sophos.com/products/free-tools/sophos-anti-rootkit.html">Sophos rootkit detector</a>, <a href="http://www.officerecovery.com/freeundelete/">free undelete</a> utility, <a href="http://www.accessdata.com/ftkuser/imager.htm">ftk imager</a>, <a href="http://www.freeconference.com/">free conference</a> calls at freeconference.com, <a href="http://powergramo.com">record your conference calls at powergramo.com</a>, and send files with <a href="http://senduit.com">senduit.com</a>.&nbsp; <br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 4 Sep 2006 03:22:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=126731#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=126731#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888389/CyberSpeak_Sep_3_2006.mp3" length="59081579" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Sep_3_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak August 27, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888391/index.php</link>
+<description><![CDATA[<p><span>Back from vacation.&nbsp; This week we talk with Special Agent David Farquhar from the <a href="http://www.fbi.gov/">Federal Bureau of Investigations</a> about his recent successful <a href="http://seattlepi.nwsource.com/local/282674_botnet26.html"><em><strong>botnet</strong></em> case</a> in <place w:st="on"></place><city w:st="on"></city>Seattle <state w:st="on"></state>Washington.<span>&nbsp; </span>We also talk about the <a href="http://www.mortorola.com/support/q">Motorola Q</a>, <a href="http://defcon.org/">DefCon</a>, <a href="http://speedtest.net/">speedtest.net</a>, <a href="http://thinkfree.com/">thinkfree.com</a>, and listener email.</span></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 28 Aug 2006 00:36:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=124252#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=124252#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888392/Aug_27th_CyberspeakEDITED_With_intro.mp3" length="58299519" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Aug_27th_CyberspeakEDITED_With_intro.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak August 13, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888393/index.php</link>
+<description><![CDATA[This show we have a special guest Richard Bejtlich, founder of <a href="http://www.taosecurity.com">TAO Security</a>, who talks about his <a href="http://taosecurity.blogspot.com/">security blog</a> and his book Real Digital Forensics (see link on cyberspeak page).&nbsp; Bret has a short show this week, Ovie is recovering from his Blackhat hangover (ok really he is working this weekend, but hangover sounds more interesting).&nbsp; Bret talks about <a href="http://www.blackhat.com">BlackHat</a> 2006, changes on the <a href="http://cyberspeak.libsyn.com">cyberspeak</a> site, Kevin Mandia's <a href="http://www.scmagazine.com/us/news/article/568364/what-pill-i-cyber-insecurity/">SC Magazine article &quot;What pill can I take for cyber insecurity?&quot;</a>,&nbsp; and <a href="http://www.java.com/en/everywhere/airportmonitor.jsp">real time airport monitoring</a>.<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 14 Aug 2006 00:04:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=119799#</guid>
+<itunes:duration>00:30:00</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=119799#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888394/CyberSpeak_Show_Aug_13_2006.mp3" length="28789446" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Aug_13_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak August 10, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888395/index.php</link>
+<description><![CDATA[This show we interview Brian Contos, Chief Security Officer for <a href="http://www.arcsight.com/">ArcSight</a>.&nbsp; He talks about his new book <a href="http://www.syngress.com/catalog/?pid=4240 ">Insider Threat: Enemy at the Watercooler</a>.&nbsp; Also on this show we discuss the new <a href="http://i.cmpnet.com/gocsi/db_area/pdfs/fbi/FBI2006.pdf">FBI computer crime survey results</a>, <a href="http://www.mandiant.com/webhistorian.htm">Web Historian 1.3</a>, new look to <a href="http://cyberspeak.libsyn.com">CyberSpeak</a> site, and a couple of websites of the week.&nbsp; This show is dedicated to Tim Poole's &quot;bloody left mouse clicking finger.&quot;<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Fri, 11 Aug 2006 01:09:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=118940#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=118940#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888396/CyberSpeak_Aug_6_2006.mp3" length="58663395" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Aug_6_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak July 30, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888397/index.php</link>
+<description><![CDATA[This episode we have an exclusive talk with Jesse Kornblum about his new SSDeep tool for piecewise fuzzy hashing!!&nbsp; This is a revolutionary way to approach computer forensics!&nbsp; We also talk about antivirus solutions <a href="http://www.clamwin.com/">clamav</a> and <a href="http://free.grisoft.com/doc/2/lng/us/tpl/v5">AVG</a>, <a href="http://www.zdnet.com.au/blogs/securifythis/soa/Why_popular_antivirus_apps_do_not_work_/0,39033341,39264249,00.htm  ">why antivirus doesn't work</a>, <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9001885 ">CISCO to get&nbsp; new vulnerabilities released at BlackHat</a>, <a href="http://www.wugnet.com/myspeed/speedtest.asp">speedtest website</a>, and <a href=" http://www.ccc.de/biometrie/fingerabdruck_kopieren.xml?language=en">how to make fake biometrically sound fingerprints</a>.&nbsp; Extra credit this show goes out to our Producer/Editor Tim Poole.<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 30 Jul 2006 23:22:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=115142#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=115142#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888398/Cyberspeak_July30_2006.mp3" length="62623660" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_July30_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak July 18, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888399/index.php</link>
+<description><![CDATA[<p class="MsoNormal">This show we speak with the <span style="font-weight: bold;">Dark Tangent</span> about changes this year for <a href="http://defcon.org">DEF CON</a> and <a href="http://blackhat.com">BlackHat</a>.  Also in this episode we discuss the <a href="http://www.informationweek.com/industries/showArticle.jhtml?articleID=189602693&pgno=1&queryText">UBS Painwebber logicbomb trial</a>, <a href="http://entmag.com/news/rss.asp?editorialsid=7618">consultant hacks FBI</a>, <a href="http://blog.washingtonpost.com/securityfix/2006/07/citibank_phish_spoofs_2factor_1.html">two-factor authentication phishing</a> attacks, <a href="http://www.dailytech.com/article.aspx?newsid=3389">Semantec says Windows Vista is less secure than Windows XP</a>, t<a href="http://www.spambox.us">hrow away email account</a>s, t<a href="http://www.teqhead.com/node/7 ">ruecrypt flash toutoria</a>l, <a href="http://www.sodaplay.com/constructor/player.htm">sodaplay</a> (<span style="font-style: italic;">let me know what this is</span>), <a href="http://4shared.com">website to transer and share files</a>, t<a href="http://www.thecableguy.tv/ ">v on the we</a>b, <a href="http://www.ensuretech.com ">Xyloc devices</a>, and a <a href="http://www.nerdparadise.com/index.php?content_id=95 ">tool to obfuscate your email address in javascript</a> code.&nbsp; The show is 61 mins long.&nbsp; This show is brought to you by the letter 45.<br/></p>]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 19 Jul 2006 03:58:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=111586#</guid>
+<itunes:duration>01:01:00</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=111586#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888400/CyberSpeak_Show_July_18_2006.mp3" length="58535807" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_July_18_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak July 9, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888401/index.php</link>
+<description><![CDATA[Today we send Ovie overseas and talk with Johnny Long.&nbsp; Johnny talks about his upcoming talks at Blackhat and DEFCON this year.&nbsp; We also cover how to detect if you are being spied on by the NSA, the VA gets it laptop back, and guess what, Microsoft is getting sued!<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 11 Jul 2006 23:46:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=109314#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=109314#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888402/CyberSpeak_July_9_2006_-_final.mp3" length="41599476" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_July_9_2006_-_final.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak July 1, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888403/index.php</link>
+<description><![CDATA[This week we talk about Mandiant's webinar, vmware, <a href="http://cybercrime.gov">DOJ CCIPS</a>, <a href="http://www.securityfocus.com/brief/233">police using data brokers</a>,&nbsp; <a href="http://blackhat.org">Blackhat</a>,&nbsp; <a href="http://sectools.org/">the top 100 security tools</a>, <a href="http://www.eweek.com/article2/0,1895,1979756,00.asp">Windows call back</a>, a <a href="http://www.washingtonpost.com/wp-dyn/content/article/2006/06/21/AR2006062101854_pf.html">Washington Post story incorrectly quoting Kevin Mandia</a>, and <a href="http://zohoshow.com">ZoHoShow</a>.<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 3 Jul 2006 23:15:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=106845#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=106845#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888404/CyberSpeak_July_1_2006_-_final.mp3" length="40184266" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_July_1_2006_-_final.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak June 24, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888405/index.php</link>
+<description><![CDATA[<p>Show notes coming soon!?</p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 24 Jun 2006 04:04:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=104707#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=104707#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888406/June_24_CyberSpeak_-_final.mp3" length="38759861" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/June_24_CyberSpeak_-_final.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak June 17, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888407/index.php</link>
+<description><![CDATA[<p>We have Mr Younger back in the studio!&nbsp; Bret gives out <a href="https://appsecinc.webex.com/mw0302l/mywebex/default.do?service=1&siteurl=appsecinc&main_url=%2Fmc0703l%2Fe.do%3Fsiteurl%3Dappsecinc%26AT%3DMI%26EventID%3D90330432%26Host%3D107c5f5c7a5b1918%26RG%3D1">link</a> to free <a href="http://www.mandiant.com/">MANDIANT</a> webinar on database intrusions.&nbsp; We talk about Microsoft updates, theft of laptops with sensitive data from AIG, <a href="http://www.tuaw.com/2006/06/17/apples-windows-site-mentions-parallels-desktop-instead-of-boot/">Parallels on Apple</a>, <a href="http://www.hackaday.com/entry/1234000107073749/">USB hacking</a>, <a href="http://blogs.techrepublic.com.com/Ou/?p=43">dumb ways to secure wireless</a>, <a href="http://www.techcrunch.com/2006/06/13/ebay-announces-skype-integration/">Skype integrated into Ebay</a>, <a href="http://merged.ca/monetize/flat/how-to-get-billions-of-pages-indexed-by-Google.html">getting millions of pages indexed by Google</a>, <a href="http://www.gizmodo.com/archives/sushi-usb-flash-drives-023561.php">sushi USB drives</a>, and <a href="http://www.darkreading.com/document.asp?doc_id=97378">research on quick hard drive destruction</a>.&nbsp; Websites of the day include <a href="http://www.ojp.usdoj.gov/nij/">National Institue of Justice</a>&nbsp;and <a href="http://beta.zoomr.com/home">Zoomr geo-photo gallery</a>.&nbsp; Sorry for all the sound effects.&nbsp; We (Bret) got carried away.</p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 19 Jun 2006 02:49:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=102116#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=102116#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888408/CyberSpeak_June_17_-_final.mp3" length="45386604" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_June_17_-_final.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak June 10, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888409/index.php</link>
+<description><![CDATA[<p class="MsoNormal">Bret discusses his quad-monitor display unit, Wal-Mart is a chick magnet, Mercury's Free Evidence Mover, Nic Harbor updating DCFLDD.<span>&nbsp; </span>A story about Best Buy's Geek Squad failing to destroy old hard drives and they wind up at a flea Market. Eraser programs- <a href="http://dban.sourceforge.net/">Derick's Boot and Nuke</a>, <a href="http://www.heidi.ie/eraser">www.heidi.ie/eraser</a> .<span>&nbsp; </span>New version to Skeuthkit found at <a href="http://www.sleuthkit.org">www.sleuthkit.org</a>, and Harlan Carvey give a go-by for his Forensic Server Project which can be found at <a href="http://windowsir.blogspot.com/">http://windowsir.blogspot.com/</a>. <span>&nbsp;</span></p>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 12 Jun 2006 01:15:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=99796#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:duration>00:56:07</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=99796#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888410/Cyberspeak_June_10_-_final.mp3" length="53871304" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_June_10_-_final.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak June 3, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888411/index.php</link>
+<description><![CDATA[This show we have a great inteview with Jesse Kornblum about memory analysis.&nbsp; We also talk with Steve Bunting about LogParser 2.2 from Microsoft.&nbsp; Ovie and Bret recite an Apple cartoon.<br/>]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 6 Jun 2006 13:20:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=98104#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=98104#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888412/CyberSpeak_Show_Jun_3_2006.mp3" length="69668246" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Jun_3_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak May 29, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888413/index.php</link>
+<description><![CDATA[This show we have Mike Younger in the studio.&nbsp; We talk with Mike about stuff.&nbsp; Mike talks about stuff.&nbsp; And then we talked about more stuff.]]></description>
+<category>podcasts</category>
+<pubDate>Tue, 30 May 2006 01:38:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=95639#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=95639#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888414/CyberSpeak_Show_May_29_2006.mp3" length="45913756" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_May_29_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak May 21, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888415/index.php</link>
+<description><![CDATA[This week we have Mike Younger drop in on us.&nbsp;&nbsp; We talk about Microsoft patch Tuesday, MAC vulnerabilities, Pentagon is hacked, Football player beats up nerd, ABC to start showing programs on the web, and free webbased storage.]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 22 May 2006 14:06:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=93051#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=93051#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888416/CyberSpeak_Show_May_21_2006.mp3" length="59851543" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_May_21_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak May 13, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888417/index.php</link>
+<description><![CDATA[<p>The episode we talk with Steve Bunting about his new <a href="http://www.amazon.com/gp/product/0782144357/sr=8-1/qid=1147654172/ref=pd_bbs_1/104-9849137-9342349?%5Fencoding=UTF8">ENCE Study Guide</a>.&nbsp; We also talk about&nbsp;the <a href="http://science.slashdot.org/article.pl?sid=06/05/06/1247236">UK hacker&nbsp;Gary McKinnon,</a> <a href="http://ideas.live.com/">Microsoft Live Answers</a>, and <a href="http://www.valleyschwag.com/">Valley Schwag</a> for $15 a month. Rep. <a target="_blank" href="http://news.zdnet.com/2100-9595_22-6069210.html">Joe Barton</a> of Texas,
+who chairs the House committee responsible for writing Internet and
+telecommunications law, has pledged to work on legislation related to mandatory
+data retention.&nbsp; <span>A <a href="http://news.zdnet.com/2100-1009_22-6069238.html">20-year-old California man has pleaded guilty</a> to launching a bot network attack that compromised
+computers at a Seattle hospital and several universities.&nbsp; We also discuss poor Patrick Kennedy and his recent memory loss after his traffic accident.&nbsp; We also answer a question from George from <a href="http://www.kevindevin.com/">In the Trenches podcast</a>. &nbsp;</span> </p>
+
+
+<p> </p>
+
+
+
+
+<p>A great web site pick of the week is at <a href="http://remote-exploit.org">Remote Exploit.org</a>.&nbsp; <br/></p>]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 14 May 2006 00:44:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=90491#</guid>
+<itunes:duration>01:05:15</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=90491#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888418/CyberSpeak_Show_May_13_2006.mp3" length="62645394" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_May_13_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak May 6, 2006  FINALLY!</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888419/index.php</link>
+<description><![CDATA[<p>Sorry about the slip of a week, but we are now back on track.&nbsp; We talk to Mark Rache columnist for Security Focus and Senior Vice President and Chief Security Counsel at Solutionary Inc. about his &quot;<a href="http://www.securityfocus.com/columnists/399">Forensic felonies</a>&quot; article.&nbsp; We also talk with Dave Merkel, Vice President of Products at <a href="http://www.mandiant.com/">MANDIANT</a> about the release of <a href="http://www.mandiant.com/firstresponse.htm">First Response version 1.1</a>, <a href="http://www.sophos.com/pressoffice/news/articles/2006/04/ransom.html">trojans that hold your computer for ransom</a>, <a href="http://www.watchyourend.com/2006/04/29/hacking-applications-that-run-on-thumb-drive/">USB ported security applications</a>, <a href="http://www.pcworld.com/news/article/0,aid,125587,00.asp">residential WiFi sharing</a>, <a href="http://www.eweek.com/article2/0,1895,1945808,00.asp">impossible to recover from spyware and viruses</a>, <a href="http://freenetproject.org/">Freenet version 0.7</a>, and <a href="http://www.securitywizardry.com/radar.htm">SecurityWizardry.com.</a></p>]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 8 May 2006 02:44:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=88085#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=88085#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888420/CyberSpeakShow__Apr_29_2006.mp3" length="56551131" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeakShow__Apr_29_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Apr 22, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888421/index.php</link>
+<description><![CDATA[<p>In this show we interview Jaime Florence from <a href="http://www.microforensics.com/">MicroForensics</a>&nbsp;about Mercury, a&nbsp;new forensic text indexing product.&nbsp; We also talk about the <a href="http://www.itworld.com/Man/2681/060421usdoj/">DOJ's initiative to fight child porn</a>, <a href="http://snapshot.opera.com/">Opera version 9 Beta</a>, <a href="http://www.fcw.com/article94067-04-13-06-Web">Texas Governor Issued executive order prohibiting P2P</a>, <a href="http://www.techcrunch.com/2006/04/20/microsoft-live-drive-may-launch-before-google-drive/">Microsoft Live Drive</a>, <a href="http://arstechnica.com/news.ars/post/20060421-6647.html">new wifi law</a>, data<a href="http://news.com.com/U.S.+attorney+general+calls+for+reasonable+data+retention/2100-1030_3-6063185.html?tag=st.rn"> retention for ISPs</a>, <a href="http://news.yahoo.com/s/ap/20060422/ap_on_hi_te/air_force_one_hoax">video showing graffiti on Air Force One</a>, and <a href="http://www.free411.com/">free 411</a>.&nbsp; </p>
+<p>Upcoming Conferences:</p>
+<pre>LayerOne 2006<br/>Apr 15-16, Los Angeles, CA<br/><a class="moz-txt-link-freetext" href="http://www.layerone.info/index.html">http://www.layerone.info/index.html</a>
+
+2006 GFIRST Conference
+Apr 30-May 05, Orlando, FL
+<a class="moz-txt-link-freetext" href="http://www.us-cert.gov/GFIRST">http://www.us-cert.gov/GFIRST</a>
+
+Computer and Enterprise Investigations Conference (CEIC) 2006
+May 03-06, Las Vegas, NV
+<a class="moz-txt-link-freetext" href="http://www.ceic2006.com/">http://www.ceic2006.com</a></pre><p><em>The show is about 1 hour 9 mins long.&nbsp; Thanks to <strong>Brian</strong> for pointing out how to put links in the show notes!&nbsp; Thanks to <strong>Tim</strong> for editing the show again!</em></p>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 24 Apr 2006 02:54:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=83304#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=83304#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888422/CyberSpeak_Show_Apr_22_2006.mp3" length="59597740" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Apr_22_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 15</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888423/index.php</link>
+<description><![CDATA[
+
+<p class="MsoNormal">In this show we discuss recent computer crime news, Micro Forensicâs
+Mercury indexing software, upcoming conferences and more. </p>
+
+
+<span style="font-weight: bold; color: rgb(255, 0, 0);">SANS Fire 2006 </span><strong>July 5 - 13, 2006 Washington , DC</strong><span style="font-weight: bold; color: rgb(255, 0, 0);">- CyberSpeak Listeners get 5% off - that is a savings of $150+ <br/><br/>CyberSpeal Listeners get $50.00 off purchase of Mercury - htt[://www.microforensics.com<br/><br/></span><span style="font-weight: bold;"><span style="color: rgb(0, 0, 153);">Guidance Software has partnered with Sybex, a John Wiley imprint, to release the industryâs first in-depth study guide for EnCEâ</span><br/><br/></span>http://www.forensicswiki.org<br/><a href="http://blog.outer-court.com/archive/2006-04-14-n59.html"></a>http://www.dexterity.com/articles/overcoming-procrastination.htm <span style="font-weight: bold; color: rgb(255, 0, 0);"><br/><br/></span>
+]]></description>
+<category>podcasts</category>
+<pubDate>Mon, 17 Apr 2006 13:24:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=81018#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:duration>00:29:35</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>Clean</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=81018#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888424/CyberSpeak_April_15_2006_-_final.mp3" length="28404822" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_April_15_2006_-_final.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak April 8th</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888425/index.php</link>
+<description><![CDATA[
+
+<p class="MsoNormal">In this short show we talk about some Microsoft initiatives,
+shared access, deciphering information in the Windows/prefetch directory,
+live.com, expo.live.com.<span>&nbsp; </span>Weâve been
+Zinged by <a href="http://www.podzinger.com/">www.podzinger.com</a>. <span>&nbsp;</span>We also briefly discuss a new indexing tool
+that works with EnCase called Mercury from <a href="http://www.microforensics.com/">www.microforensics.com</a> â ALL CyberSpeak
+listeners can get $50 off by emailing the owner and saying that you heard about
+Mercury on CyberSpeak.<span>&nbsp; </span><span>&nbsp;</span>We also discuss Appleâs âBoot Campâ?.<span>&nbsp; </span>Appleâs sanctioned application to dul boot
+and run Windows XP on your MacBook.<span>&nbsp; </span>We
+also have a new SOUND engineer editing our podcast.<span>&nbsp; </span></p>
+
+
+]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 12 Apr 2006 21:50:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=79515#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=79515#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888426/Cyberspeak_Show__April8.mp3" length="29102847" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_Show__April8.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Apr 1, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888427/index.php</link>
+<description><![CDATA[In this show we interview Harlan Carvey author of the Forensic Server Project.  Also we talk about SansFire 2006, CyberSpeak is good for CISSP credits, piggybacking wireless, and cute overload.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 1 Apr 2006 23:58:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=75940#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=75940#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888428/CyberSpeak_Show_Apr_1_2006.mp3" length="47462448" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Apr_1_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Mar 25, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888429/index.php</link>
+<description><![CDATA[In this show we give a walkthrough of MANDIANT's First Response tool.  We also talk about Microsoft creating C# for the Mac, Firefox 2 Alpha 1, spray on fabric, on10.net,  and listener email.  ]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 26 Mar 2006 02:08:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=73444#</guid>
+<itunes:duration>00:55:50</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=73444#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888430/CyberSpeak_Show_Mar25_2006.mp3" length="52924416" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Mar25_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Mar 18, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888431/index.php</link>
+<description><![CDATA[In this show we play the second part of our interview with Kris Kendal from Mandiant about malware analysis.  Also we talk about the FBIs new computer system, reaffirmation of computer forensic tools, does gmail ever delete your email, RFID tag vulnerabilities and listener email.  This show is 58 minutes 17 seconds.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 18 Mar 2006 20:17:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=70876#</guid>
+<itunes:duration>00:58:17</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=70876#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888432/CyberSpeak_Show_Mar_18_2006.mp3" length="41964590" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Mar_18_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Mar 11, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888433/index.php</link>
+<description><![CDATA[This show Bret announces his marriage to Jill, we talk to forensic equipment manufactures at FOSE; James Wiebe from Wiebetech.com about 2 new devices, a CD/DVD automated imaging device and a new SCSI to fire wire 400 write block device. We also talk to Todd Bellows, a sales representative from LogiCube.com about the CellDek, a new cell phone imaging device and the new Triton which is the next generation LogiCube.  We discuss free forensic tools, analysis of RAM, and GoodMail. Bret hacks his wife's Prius car area network (CAN). This show is 62 minutes. ]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 12 Mar 2006 21:49:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=68485#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=68485#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888434/March_11_CyberSpeak-mono.mp3" length="44746848" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/March_11_CyberSpeak-mono.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Mar 4, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888435/index.php</link>
+<description><![CDATA[This show we talk to Dave Merkel, Vice President of Products at MANDIANT.  He talks about the release of their First Response tool for incident response.  We also talk about Microsoft Anti-Spyware, Javascript bug in Gmail, where Bret shops for his clothes, and the color purple.  This show is 51mins 46 secs.]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 5 Mar 2006 03:39:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=65976#</guid>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=65976#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888436/CyberSpeak_Show_Mar_4_2006.mp3" length="37287120" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Mar_4_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Feb 25, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888437/index.php</link>
+<description><![CDATA[This week part one of our talk with Kris Kendall from Mandiant about malware analysis.  Also Mike Younger from Stroz Friedberg, LLC joins us for a chat.  We cover a question about USC 2703, how to build a keylogger, and an update on the Washington Post story about the botmaster.
+]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 25 Feb 2006 19:28:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=63014#</guid>
+<itunes:duration>01:12:00</itunes:duration>
+<itunes:author>Bret Padres and Ovie Carroll</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=63014#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888438/Cyberspeak_Show_Feb_25_2006.mp3" length="51910752" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_Show_Feb_25_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Feb 18, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888439/index.php</link>
+<description><![CDATA[In this show we interview Bruce Potter founder of the Shmoo Group, a non-profit think-tank of computer security professionals.  We also talk about Max OS X viruses, interview with a botmaster, indictment of a botmaster, file registary, Web Historian, and listener email.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 18 Feb 2006 13:46:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=60190#</guid>
+<itunes:duration>01:16:36</itunes:duration>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=60190#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888440/CyberSpeak_Show_Feb_18_2006.mp3" length="55159824" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Feb_18_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Feb 11, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888441/index.php</link>
+<description><![CDATA[In this show we talk again to Mr Jesse Kornblum.  Also we discuss slipstreaming, dynamic drive partitioning, caffeine naps, and Google Desktop Beta 3.  Bret and Ovie talk a little about their backgrounds.  This show is approx 1hr 2mins.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 11 Feb 2006 14:09:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=57717#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=57717#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888442/CyberSpeak_Show_Feb_11_2006.mp3" length="45260544" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Feb_11_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Feb 4, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888443/index.php</link>
+<description><![CDATA[This week we talk with Brian Carrier, author of File System Forensic Analysis.  Also we dicuss NTFS performance, TOR FTK, and the TI-99/4a.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 4 Feb 2006 19:50:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=55496#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=55496#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888444/CyberSpeak_Show_Feb_4_2006.mp3" length="46874496" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Feb_4_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Jan 28, 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/73888445/index.php</link>
+<description><![CDATA[In this episode we interview President of Red Cliff Consulting, Mr. Kevin Mandia, about trends in incident response.  Also we talk about the windows registry, what not to do when interviewing for a tech job, brief talk with Nicholas Harbour about new version of DCFLDD, and NSA document redaction guidelines.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 28 Jan 2006 19:50:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=52645#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=52645#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888446/CyberSpeak_Show_Jan_28_2006.mp3" length="50737440" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Jan_28_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Jan 21 2006</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76627451/index.php</link>
+<description><![CDATA[This show features an interview with Johnny Long.  Johnny talks about his work with GoogleHacking and his new book OS X for Hackers at Heart.  Also in this episode, web based network tools, how to trace an email, more info on WMF vulnerability, and sticky note Firefox extension.]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 22 Jan 2006 04:07:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=50333#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=50333#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888447/CyberSpeak_Show_Jan_21_2006.mp3" length="38387424" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Jan_21_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak Special Vulnerability Report</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76530022/index.php</link>
+<description><![CDATA[Microsoft Windows Silent Adhoc Network Advertisement Vulnerability.  Last weekend Simple Nomad, hacker and security researcher, announced a new Windows wireless vulnerability during his "Hacking the Friendly Skies" presentation at ShmooCon 2006.  CyberSpeak interviews Nomad about his findings and how to protect your systems.  This show is abbreviated and is released out of sequence to get this information to our listeners quickly.  We will be releasing our full length show as usual later this coming weekend.]]></description>
+<category>podcasts</category>
+<pubDate>Wed, 18 Jan 2006 05:03:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=49424#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=49424#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888448/CyberSpeak_Show_Jan18_2006.mp3" length="18331824" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Jan18_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>Jan 14 2006 CyberSpeak</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76508693/index.php</link>
+<description><![CDATA[This show features how to run other operating systems on your PC, Windows Password Reset, Pinball, Core Force Firewall, ZoHo Writer, Senuti, Windows Font Vulnerability and discussions on methods forensic examiners can use to process Email and large data sets.]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 15 Jan 2006 04:50:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=48189#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=48189#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888449/CyberSpeak_Show_Jan14_2006.mp3" length="39314720" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_Jan14_2006.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>Jan 7 2006 CyberSpeak</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76537491/index.php</link>
+<description><![CDATA[This show features an interview with Helix creator, Mr. Drew Fahey.  Also, new OpenOffice portable applications, what's a zero day, student arrested for recommending the F5 key and listener email.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 7 Jan 2006 13:47:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=46167#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=46167#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888450/Jan_7_2006_Cyberspeak.mp3" length="33047568" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Jan_7_2006_Cyberspeak.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 31, 2005</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76530023/index.php</link>
+<description><![CDATA[This podcast features an interview with Mr. Jesse Kornblum about his work with open source forensic tools. Also in this episode man says he is a victim of a "drive by upload", SMS indictments, a zeroday computer security exploit for IE and WMF files, and a discussion about the reasonable expectation of privacy of employees.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 31 Dec 2005 20:53:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=44734#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=44734#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888451/Cyberspeak_Show_Dec_31_2005-4.mp3" length="43264368" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/Cyberspeak_Show_Dec_31_2005-4.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 23, 2005</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76547311/index.php</link>
+<description><![CDATA[This show covers Guidance Software hack, Hackthissite hack, and child porn offender turns him self in because of worm.]]></description>
+<category>podcasts</category>
+<pubDate>Sat, 24 Dec 2005 22:32:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=43300#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=43300#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888452/CyberSpeak_Show_December23_2005-2.mp3" length="31619808" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_December23_2005-2.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 18, 2005</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76589874/index.php</link>
+<description><![CDATA[This show covers an update on the Sober worm, a hard drive destruction device, an update on the Best Buy hacker, and an appearance by opensource forensics tool author Nicholas Harbour.]]></description>
+<category>podcasts</category>
+<pubDate>Sun, 18 Dec 2005 21:43:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=41743#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=41743#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888453/CyberSpeak_Show_December18_2005.mp3" length="36051600" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_December18_2005.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 09, 2005</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76519758/index.php</link>
+<description><![CDATA[Two former federal agents speak about comptuer crime, computer security and computer forensics. This show covers USB write blockers, Firefox vulnerability, MD5 hashing, and tests of a new hard drive imager.]]></description>
+<category>podcasts</category>
+<pubDate>Thu, 15 Dec 2005 00:18:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=40873#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=40873#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888454/CyberSpeak_Show_2.mp3" length="40487218" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_2.mp3</feedburner:origEnclosureLink></item>
+<item>
+<title>CyberSpeak December 04, 2005</title>
+<link>http://feeds.feedburner.com/~r/Cyberspeak/~3/76537492/index.php</link>
+<description><![CDATA[Technology Podcast with computer security, computer crime, and computer forensics topics.  Hosted by Ovie Carroll and Bret Padres. Today we talk about Gmail virus protection, botnets, and digital camera ripoffs.]]></description>
+<category>podcasts</category>
+<pubDate>Thu, 15 Dec 2005 00:04:00 GMT</pubDate>
+<guid isPermaLink="false">http://cyberspeak.libsyn.com/index.php?post_id=40871#</guid>
+<author>cyberspeak@gmail.com</author>
+<itunes:explicit>No</itunes:explicit>
+
+
+<feedburner:origLink>http://cyberspeak.libsyn.com/index.php?post_id=40871#</feedburner:origLink><enclosure url="http://feeds.feedburner.com/~r/Cyberspeak/~5/73888455/CyberSpeak_Show_1.mp3" length="55008800" type="audio/mpeg" /><feedburner:origEnclosureLink>http://media.libsyn.com/media/cyberspeak/CyberSpeak_Show_1.mp3</feedburner:origEnclosureLink></item>
+<feedburner:awareness>http://api.feedburner.com/awareness/1.0/GetFeedData?uri=Cyberspeak</feedburner:awareness></channel></rss>

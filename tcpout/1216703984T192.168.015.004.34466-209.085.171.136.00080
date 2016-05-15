@@ -1,0 +1,11 @@
+GET /safebrowsing/update?client=navclient-auto-ffox&appver=2.0.0.16&version=goog-white-domain:1:481,goog-white-url:1:371,goog-black-url:1:23288,goog-black-enchash:1:55649 HTTP/1.1
+Host: sb.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+

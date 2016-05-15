@@ -1,0 +1,103 @@
+$(document).ready(function(){
+	$('.searchPageButton').click(function() {
+		element = $(this);
+		
+		page = element.attr('rel');
+		query = $("#searchQuerySafe").html();
+		
+		$(".searchPageButton").removeClass('selected');
+		
+		$.ajax({
+			type: "get",
+			url: "/search/buildresults",
+			data: "p=" + page + "&q=" + query,   
+			beforeSend: function() {
+				$(".loadingNewPageIndicator").show();
+				$("#ShowWhichPageIsLoading").empty();
+				$("#ShowWhichPageIsLoading").append(page);
+			},
+			success: function(data) {
+				$("#linkarena-results").empty();
+				$("#linkarena-results").append(data);
+				$(element).addClass('selected');
+				$("#ShowWhichPageIsLoading").empty();
+				$(".loadingNewPageIndicator").hide();
+				document.location.href='#head';
+			}
+		});
+		
+		return false;
+	});
+	
+	if(document.location.pathname.search(/search\/results.*/) > 0) {
+		$(".moreSemagerLink").hide();
+		$(".loadingNewPageIndicator").hide();
+	}
+	
+	$('.linkarena-results').click(function() {
+		$(".pagination").show();	
+	});
+	
+	$('.own-results').click(function() {
+		$(".pagination").hide();	
+	});
+	$('.yahoo-results').click(function() {
+		$(".pagination").hide();	
+	});
+	$('.google-results').click(function() {
+		$(".pagination").hide();	
+	});
+	
+	$('.expandPageButtons').click(function() {
+		$(".hideSearchPageButton").toggle();
+		$(".expandPageButtons").toggle();
+		$(".showAllPageLinks").toggle();
+	});
+});
+
+function loadSemager() {	
+	query = $("#searchQuerySafe").html();	
+	$.get('/search/semager?q=' + query, function(e) {
+		$("#semagerSuggestions").empty();
+		$("#semagerSuggestions").append(e);
+	});
+}
+
+function loadOwnBookmarks() {
+	query = $("#searchQuerySafe").html();		
+	$.getJSON('/search/ownbookmarks?q=' + query, function(e) {
+		$("#own-results").empty();
+		$("#own-results").append(e['html']);
+		
+		if(e['count'] > 0) {
+			$("#countOwnResults").empty();
+			$("#countOwnResults").append(e['count']);
+		}
+	},'json');
+}
+
+function loadYahooResults() {	
+	query = $("#searchQuerySafe").html();	
+	$.getJSON('/search/yahoo?q=' + query, function(e) {
+		$("#yahoo-results").empty();
+		$("#yahoo-results").append(e['html']);
+		
+		if(e['count'] > 0) {
+			$("#countYahooResults").empty();
+			$("#countYahooResults").append(e['count']);
+		}
+	},'json');
+}
+
+function loadGoogleResults() {	
+	query = $("#searchQuerySafe").html();	
+	$.getJSON('/search/google?q=' + query, function(e) {
+		$("#google-results").empty();
+		$("#google-results").append(e['html']);
+		
+		if(e['count'] > 0) {
+			$("#countGoogleResults").empty();
+			$("#countGoogleResults").append(e['count']);
+		}
+	},'json');
+}

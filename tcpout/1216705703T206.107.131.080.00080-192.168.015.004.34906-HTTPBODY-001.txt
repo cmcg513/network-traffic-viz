@@ -1,0 +1,16 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 05:48:47 GMT
+Server: Apache (Unix)
+P3P: policyref="http://ante.tacoda.net/w3c/p3p.xml", CP="NON DSP COR NID CURa ADMo DEVo TAIo PSAo PSDo OUR DELa IND PHY ONL UNI COM NAV DEM"
+Set-Cookie: /SC=2; path=/
+Set-Cookie: /PC=2; path=/; expires=Tue, 29-Jul-2008 05:48:47 GMT
+Ad-Reach: Burst!Media
+Set-Cookie: /ad13655.12106=,CFC,GFC; path=/
+Location: http://www.revresda.com/js.ng/Section=results&area=tacoda&adsize=728x90_top&CookieName=OSC&secure=false&site=orbitz&
+Pragma: no-cache
+Cache-Control: no-cache
+Connection: close
+Transfer-Encoding: chunked, chunked
+Content-Type: text/plain
+
+document.write('</font>');

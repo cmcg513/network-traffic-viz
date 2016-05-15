@@ -1,0 +1,5 @@
+GAddCopyright("m","0",22.0310,-125.2410,49.0930,-62.7100,3,"Tele Atlas",null,false);
+GVerify("http://www.google.com/verify/EAAAAGD8v6-mxMfscNmEGHCCe1I.gif");
+window.GAppFeatures && window.GAppFeatures({cb:{bounds:[{s:36217687,w:-123310547,n:39372526,e:-120794678,ix:51}]}
+,traffic:{bounds:[{s:36880860,w:-123556517,n:38677492,e:-120800000,ix:0},{s:38309558,w:-121835862,n:38848547,e:-121146396,ix:24}]}
+});

@@ -1,0 +1,167 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:42 GMT
+Server: Apache
+AdServer: ad8ad14:9678:1
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0, no-cache
+Expires: Tue, 22 Jul 2008 04:35:42 GMT
+Pragma: no-cache
+Content-Length: 487
+Keep-Alive: timeout=5, max=15
+Connection: Keep-Alive
+Content-Type: text/html
+
+<a target="_blank" href="/event.ng/Type=click&FlightID=4621&AdID=4789&TargetID=1515&Segments=730,2743,3030,3285,8463,8796,9496,9554,9779,9781,9853,10381,13760,14879,15539,16113,17251&Targets=16503,1515&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,4413,4418,4429,47182,48063,49554,52263,52509,52779,52897,54682,54765,55058,55059,56058,56376&RawValues=&Redirect=http://www.cnn.com"><img src="http://i.cnn.net/cnn/images/1.gif" border=0 height=1 width=1 alt="" align="center"></a>HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:42 GMT
+Server: Apache
+AdServer: ad8ad14:9678:1
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0, no-cache
+Expires: Tue, 22 Jul 2008 04:35:42 GMT
+Pragma: no-cache
+Content-Length: 3973
+Keep-Alive: timeout=5, max=14
+Connection: Keep-Alive
+Content-Type: text/html
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<script>
+        function cnnad_getTld (hostname)
+        {
+               var data = hostname.split(".");
+               if (data.length >= 2)
+               {
+                       return (data[data.length-2] + "." + data[data.length-1]);
+               }
+               return(null);
+        }
+ 
+        var cnnDocDomain = cnnad_getTld(location.hostname);
+        if(cnnDocDomain) {document.domain = cnnDocDomain;}
+
+	function cnnGetId(query) {
+		var keyValPairs = query.split('&');
+		if(!keyValPairs) {
+			keyValPairs = new Array();
+			keyValPairs[keyValPairs.length]=query;
+		}
+		for(var counter=0; counter < keyValPairs.length;counter++) {
+			var keyVal = keyValPairs[counter].split('=');
+			if(keyVal[0]=='domId') {
+				//alert("returning id: " + keyVal[1]);
+				return keyVal[1];
+			}
+		}
+	}
+			
+	function cnnSendData2() {
+		var docId = cnnGetId(decodeURIComponent(location.pathname.substring(9)));
+		var height = 90;
+		var width = 283;
+		top.cnnad_showAd(docId);
+		if ((height > 0)&&(width > 0))
+		{
+			top.cnnad_setAdSize(docId,height,width);
+		}
+	}
+</script> 
+</head>
+
+<body STYLE="background-color:transparent" onload="cnnSendData2()">
+<!--FlightID: 59114-->
+<style type="text/css" media="screen">
+@import url(http://i.cdn.turner.com/cnn/.element/css/2.0/common.css);
+</style>
+<style type="text/css">
+.cnnBelT1AdImg
+{float:left;display:inline;margin:0 12px 6px 9px;}
+* html .cnnBelT1AdImg
+{margin-right:9px;}
+.cnnBelT1AdDesc
+{margin:0;font-size:12px;line-height:14px;padding-bottom:2px;font-weight:normal;color:#949494;}
+.cnnBelT1AdBull ul
+{margin: 0 0 0 142px;padding:0;list-style:none;clear:none;}
+.cnnBelT1AdBull ul li
+{padding-left:5px;font-size:10px;line-height:14px;background: url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/gray_bull.gif) no-repeat left 5px;margin:0;}
+.cnnBelT1AdBull ul li a
+{font-weight:bold;}
+* html .cnnBelT1AdBull ul li
+{padding-left:3px;}
+</style>
+<div class="cnnBelT1AdImg"><a href="http://ads.cnn.com/event.ng/Type=click&FlightID=59125&AdID=132142&TargetID=3584&Segments=730,2467,2743,3030,3285,3619,6041,6520,8463,8796,9496,9779,9781,9853,10381,12915&Values=1588&Redirect=http://www.cnn.com/blackinamerica" target="_blank"><img src="http://i.cdn.turner.com/cnn/cnn_adspaces/2.0/creatives/2008/7/6/373620bia_120X90_e.jpg" width="120" height="90" border="0" alt=""></a></div>
+<div class="cnnBelT1AdDesc">Groundbreaking Documentary</div>
+<div class="cnnBelT1AdBull">
+            <ul>
+                        <li><a href="http://ads.cnn.com/event.ng/Type=click&FlightID=59125&AdID=132142&TargetID=3584&Segments=730,2467,2743,3030,3285,3619,6041,6520,8463,8796,9496,9779,9781,9853,10381,12915&Values=1588&Redirect=http://www.cnn.com/blackinamerica" target="_blank">With Soledad O'Brien</a></li>
+			<li><a href="http://ads.cnn.com/event.ng/Type=click&FlightID=59125&AdID=132142&TargetID=3584&Segments=730,2467,2743,3030,3285,3619,6041,6520,8463,8796,9496,9779,9781,9853,10381,12915&Values=1588&Redirect=http://www.cnn.com/blackinamerica" target="_blank">July 23 and 24, 9 PM ET</a></li>
+			<li><a href="http://ads.cnn.com/event.ng/Type=click&FlightID=59125&AdID=132142&TargetID=3584&Segments=730,2467,2743,3030,3285,3619,6041,6520,8463,8796,9496,9779,9781,9853,10381,12915&Values=1588&Redirect=http://www.cnn.com/blackinamerica" target="_blank">Watch the Preview</a></li>
+            </ul>
+</div>
+<img src="http://ads.cnn.com:80/event.ng/Type=count&ClientType=2&ASeg=&AMod=&AdID=196127&FlightID=59114&TargetID=16192&SiteID=1588&EntityDefResetFlag=0&Segments=730,2278,2743,3030,3285,6041,8045,8463,8796,9496,9685,9779,9781,9853,10381,13760,14879,15105,15539,16113,16484,17251&Targets=1101,2727,1515,37383,16192,30646&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2724,4413,4418,4429,47182,48063,49554,52263,52509,52897,54682,54765,55058,55059,56058,56376&RawValues=&random=bdwdWww,beikyNRfdufWj" width=1 height=1 border=0>
+</body>
+</html>HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:44 GMT
+Server: Apache
+Last-Modified: Tue, 16 May 2006 13:26:25 GMT
+ETag: "190019-2fa-bfea0240"
+Accept-Ranges: bytes
+Content-Length: 762
+Cache-Control: max-age=0, no-cache
+Expires: Tue, 22 Jul 2008 04:35:44 GMT
+Pragma: no-cache
+Keep-Alive: timeout=5, max=13
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+if(typeof(dclk_isDartRichMediaLoaded) == "undefined") {
+	dclk_isDartRichMediaLoaded = true;
+	
+	function dclkWrite(str){
+		if(dclk_shouldOverride) {
+			dclk_original_documentWrite(str);
+		}
+		else{
+			document.write(str);
+		}
+	}
+
+
+	function dclkWriteln(str){
+		if(dclk_shouldOverride) {
+			dclk_original_documentWriteLn(str);
+		}
+		else{
+			document.writeln(str);
+		}
+	}
+
+	
+	function dclk_isInternetExplorer() {
+		return (navigator.appVersion.indexOf("MSIE") != -1 && navigator.userAgent.indexOf("Opera") < 0);
+	}
+
+	dclk_shouldOverride = dclk_isInternetExplorer();
+
+	if(dclk_shouldOverride) {
+		dclk_original_documentWrite = document.write;
+		dclk_original_documentWriteLn = document.writeln;
+		document.write = dclkWrite;
+		document.writeln = dclkWriteln;
+	}
+}
+
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 04:35:45 GMT
+Server: Apache
+Pragma: no-cache
+Content-Length: 0
+Cache-control: no-cache, max-age=0, no-cache
+Location: http://i.cdn.turner.com/cnn/images/1.gif
+Expires: Tue, 22 Jul 2008 04:35:45 GMT
+Keep-Alive: timeout=5, max=12
+Connection: Keep-Alive
+Content-Type: text/html
+

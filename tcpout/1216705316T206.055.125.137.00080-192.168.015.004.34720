@@ -1,0 +1,11 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 22 Jul 2008 05:42:20 GMT
+Server: Apache/2.0.54 (Unix) mod_ssl/2.0.54 OpenSSL/0.9.7a
+P3P: policyref="http://feed.validclick.com/w3c/p3p.xml", CP="ALL BUS LEG DSP COR ADM CUR DEV PSA OUR NAV INT"
+Set-Cookie: HID=4857; expires=Wed, 23-Jul-2008 17:42:20 GMT; path=/; domain=feed.validclick.com
+Pragma: no-cache
+Location: result_redir.php?key=tag-4857-1-296657324134&affID=4857&id=LFPvAffVC1&sitehost=www.HolidayInnSacramento.com
+Connection: close
+Content-Length: 0
+Content-Type: text/html; charset=ISO-8859-1
+

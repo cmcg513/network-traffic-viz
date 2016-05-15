@@ -1,0 +1,357 @@
+<?xml version="1.0"?>
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+        <channel>
+				
+			<atom:link href="http://www.joefrank.com/cast/JoeFrank.xml" rel="self" type="application/rss+xml" />			
+
+<itunes:owner>
+												 <itunes:name>Joe Frank</itunes:name>
+												 <itunes:email>joe@joefrank.com</itunes:email>
+</itunes:owner>
+								<title>Joe Frank Radio</title>
+                <link>http://joefrank.com/cast/</link>
+                <description>Joe Frank, award-winning master of the dark, humorous and absurd, transforms the 
+								everyday banality of the human comedy into an inspired weirdness that feeds on pathos and irony, and feels a lot like revelation. 
+								Joe Frank produced radio programs in four series beginning with Work in Progress, 
+								then In The Dark, followed by Somewhere Out There, and finally The Other Side.	</description>
+								<language>en-us</language>
+                <copyright>Copyright 2003-2008 Joe Frank</copyright>
+                <pubDate>31 Mar 2008 10:00:00 PST</pubDate>
+                <lastBuildDate>31 Mar 2008 10:00:00 PST</lastBuildDate>
+                <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+								<webMaster>webmaster@joefrank.com (Joe Frank)</webMaster>
+                <category>Radio</category>
+								<itunes:author>Joe Frank</itunes:author>
+								
+								
+								<item> 
+										 
+                        <title>Lynchpins</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">Lynchpins</guid>
+                        <description>From the show Performer produced for Work in Progress in 1989.
+												Lester Nafzger, Joe Frank
+												</description>
+												<itunes:image href="http://mypodcast.joefrank.com/joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/Lynchpins.mp3" length="4871630" type="audio/mpeg" />
+                        <itunes:duration>10:00</itunes:duration>
+												<pubDate>31 Mar 2008 10:00:00 PST</pubDate>
+            </item>
+								
+									<item> 
+										 
+                        <title>Ashtray at the End of the World</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">Ashtray at the End of the World</guid>
+                        <description>From the show Predator produced for The Other Side, 1999. A Joe Frank monologue.
+												</description>
+												<itunes:image href="http://mypodcast.joefrank.com/joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/Ashtray.mp3" length="6298752" type="audio/mpeg" />
+                        <itunes:duration>13:10</itunes:duration>
+												<pubDate>31 Mar 2008 10:00:00 PST</pubDate>
+            </item>
+								
+								 <item> 
+										 
+                        <title>Clinton's Lost Speech</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">Clinton's Lost Speech</guid>
+                        <description>Selection from the show Jam produced for The Other Side in 2000. Joe Frank monlogue.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/HuffingtonDate.mp3" length="5634824" type="audio/mpeg" />
+                        <itunes:duration>11:40</itunes:duration>
+												<pubDate>22 Mar 2008 10:00:00 PST</pubDate>
+            </item>
+								
+							 <item> 
+										 
+                        <title>My Date with Ariana Huffington</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">My Date with Ariana Huffington</guid>
+                        <description>Selection from the show Bad Faith produced for Joe Frank Online in 2005. Joe Frank with Lester Nafzger.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/HuffingtonDate.mp3" length="5634824" type="audio/mpeg" />
+                        <itunes:duration>11:40</itunes:duration>
+												<pubDate>16 Mar 2008 10:00:00 PST</pubDate>
+            </item>
+								
+								 <item> 
+										 
+                        <title>Darlene</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">Prison Songs</guid>
+                        <description>Selection from the show Prison Songs produced for The Other Side in 1999. A monologue by Joe Frank.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/Darlene.mp3" length="5653214" type="audio/mpeg" />
+                        <itunes:duration>11:46</itunes:duration>
+												<pubDate>12 Feb 2008 10:00:00 PST</pubDate>
+            </item>
+								
+								
+								 <item> 
+										 
+                        <title>Arthur and Eleanor</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">Rent-a-Family</guid>
+                        <description>Selection from Rent-a-Family produced in 1987 for Work in Progress with Barbara Sohmers, Mark Hammer and Carolyn Swift</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/ArthurAndEleanor.mp3" length="4502572" type="audio/mpeg" />
+                        <itunes:duration>9:22</itunes:duration>
+												<pubDate>12 Feb 2008 10:00:00 PST</pubDate>
+            </item>
+								
+								 <item> 
+										 
+                        <title>The Loved One</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">The Loved One</guid>
+                        <description>Selection from the program, The Loved One, produced in 1996 for Somewhere Out There. A Joe Frank monologue. </description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/TheLovedOne.mp3" length="4367571" type="audio/mpeg" />
+                        <itunes:duration>9:05</itunes:duration>
+												<pubDate>12 Jan 2008 10:00:00 PST</pubDate>
+            </item>
+								
+								<item> 
+										 
+                        <title>Annalee's Story</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">The End</guid>
+                        <description>Selection Rent-a-Family produced in 1987 for Work in Progress with Barbara Sohmers, Mark Hammer and Carolyn Swift</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/Annalee.mp3" length="2105576" type="audio/mpeg" />
+                        <itunes:duration>4:23</itunes:duration>
+												<pubDate>12 Jan 2008 10:00:00 PST</pubDate>
+            </item>
+								
+								
+								 <item> 
+										 
+                        <title>Happy New Year</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">At the Dark End of the Bar</guid>
+                        <description>Selection from At the Dark End of the Bar, part 2. Joe Frank monologue featuring a piece by musicians assembled for this 1997 production for Somewhere Out There. Have a happy new year everyone. </description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/HappyNewYear.mp3" length="10470403" type="audio/mpeg" />
+                        <itunes:duration>21:48</itunes:duration>
+												<pubDate>31 Dec 2007 10:00:00 PST</pubDate>
+            </item>
+								
+								
+								 <item> 
+										 
+                        <title>Film</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/decline.html</guid>
+                        <description>Selection from The Decline of Spengler produced for NPR Playhouse in 1983. A monologue by Joe Frank.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+												<enclosure url="http://mypodcast.joefrank.com/Film.mp3" length="6443157" type="audio/mpeg" />
+                        <itunes:duration>13:25</itunes:duration>
+												<pubDate>20 Dec 2007 10:00:00 PST</pubDate>
+            </item>
+								
+								<item>  
+								
+												<title>Bank Robber</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid isPermaLink="false">Great Lives</guid>
+                        <description>Selection from Great Lives produced for Work in Progress in 1989.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/BankRobber.mp3" length="1574559" type="audio/mpeg" />
+                        <itunes:duration>3:17</itunes:duration>
+												<pubDate>20 Dec 2007 10:00:00 PST</pubDate>
+            </item>
+								
+								<item>  
+								
+												<title>My Crimes</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/cast/</guid>
+                        <description>Selection from Great Lives produced for Work in Progress in 1989. Ryan Cutrona.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/MyCrimes.mp3" length="917528" type="audio/mpeg" />
+                        <itunes:duration>1:55</itunes:duration>
+												<pubDate>20 Dec 2007 10:00:00 PST</pubDate>
+               </item>
+								
+								<item>
+								
+                        <title>Amen</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/god.prayer.html</guid>
+                        <description>Selection from Prayer produced for In the Dark in 1994. Anonymous.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <itunes:duration>8:19</itunes:duration>
+												<enclosure url="http://mypodcast.joefrank.com/Amen.mp3" length="3994334" type="audio/mpeg" />
+                        <pubDate>20 Dec 2007 10:00:00 PST</pubDate>
+            </item>
+								
+								<item>
+								
+                        <title>Joseph</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/biblestory.html</guid>
+                        <description>Selection from Bible Stories produced for Somewhere Out There in 1997. A monologue by Joe Frank.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/Joseph.mp3" length="5242880" type="audio/mpeg" />
+                        <itunes:duration>10:52</itunes:duration>
+												<pubDate>14 Dec 2007 10:00:00 PST</pubDate>
+             </item>
+								
+								<item>
+								
+                        <title>Men on the Street</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/street.html</guid>
+                        <description>Selection from The Street produced for Work in Progress in 1988. </description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/MenOnStreet.mp3" length="6160384" type="audio/mpeg" />
+                        <itunes:duration>6:24</itunes:duration>
+												<pubDate>14 Dec 2007 10:00:00 PST</pubDate>
+              </item>
+								
+								<item>
+								
+                        <title>OJ Valet</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/oj.html</guid>
+                        <description>Selection from The OJ Chronicles produced for Somewhere Out There in 1997. </description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/OJValet.mp3" length="3670016 " type="audio/mpeg" />
+                        <itunes:duration>7:37</itunes:duration>
+												<pubDate>14 Dec 2007 10:00:00 PST</pubDate>
+            </item>
+								
+								<item>
+								
+                        <title>Larry and Zack</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/k3.html</guid>
+                        <description>Selection from the show Karma 3 produced in 2000 for The Other Side, with Larry Block and Zachary Block.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/LAndZ.mp3" length="4681668" type="audio/mpeg" />
+                        <itunes:duration>9:45</itunes:duration>
+												<pubDate>29 Nov 2007 15:00:00 PST</pubDate>																			
+            </item>
+								
+								<item>
+								
+								        <title>Sweepstakes Winner</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/</guid>
+                        <description>Selection from a radio station fund drive show that Joe Frank produced in 2000 for The Other Side. With Ryan Cutrona, Grace Zabriskie and Matt Holzman. </description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/Winner.mp3" length="2249563" type="audio/mpeg" />
+                        <itunes:duration>4:41</itunes:duration>
+												<pubDate>29 Nov 2007 15:00:00 PST</pubDate>
+            </item>
+								
+								<item>
+									 
+                        <title>It</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/hitman.hotline.html</guid>
+                        <description>Selection from Hot Line produced for In the Dark in 1994 . Cast: David Nash.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/It.mp3" length="2177048" type="audio/mpeg" />
+                        <itunes:duration>4:32</itunes:duration>
+												<pubDate>29 Nov 2007 15:00:00 PST</pubDate>
+             </item>
+	
+								<item>
+								
+                        <title>Burning Mail</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/ice2.html</guid>
+                        <description>A Joe Frank monologue written and produced for Work in Progress in 1990. From the show Iceland. </description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/BurningMail.mp3" length="2634295" type="audio/mpeg" />
+                        <itunes:duration>5:29</itunes:duration>
+												<pubDate>29 Nov 2007 15:00:00 PST</pubDate>
+             </item>				
+								
+								<item>
+								
+                        <title>Ode to War</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/crazy.html</guid>
+                        <description>A classic Joe Frank monologue from the show I'm Not Crazy written and produced for Work in Progress in 1990. </description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/OdeToWar.mp3" length="1937766" type="audio/mpeg" />
+                        <itunes:duration>4:02</itunes:duration>
+												<pubDate>29 Nov 2007 15:00:00 PST</pubDate>
+             </item>			
+								
+								<item>
+								
+                        <title>No More My Lord</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/badk.html</guid>
+                        <description>Selection from Bad Karma produced for The Other Side in 2000. A monologue by Joe Frank.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/NoMore.mp3" length="6538034" type="audio/mpeg" />
+                        <itunes:duration>13:37</itunes:duration>
+											  <pubDate>06 Nov 2007 10:00:00 PST</pubDate>
+												
+             </item>
+								
+								<item>
+								
+                        <title>Minister</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/jam.html</guid>
+                        <description>Selection from Jam produced for The Other Side in 2000 with David Cross and Joe Frank.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/Minister.mp3" length="2617576" type="audio/mpeg" />
+                        <itunes:duration>5:27</itunes:duration>
+												<pubDate>06 Nov 2007 10:00:00 PST</pubDate>
+             </item>
+						 
+								<item>
+								
+                        <title>Suicide Bridge</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/blackhole.html</guid>
+                        <description>A selection from Black Hole produced for The Other Side in 2001 with Tim Jerome.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/SuicideBridge.mp3" length="962040" type="audio/mpeg" />
+                        <itunes:duration>2:00</itunes:duration>
+											  <pubDate>06 Nov 2007 10:00:00 PST</pubDate>
+            </item>
+								
+								<item>
+								
+                        <title>Telephone Prayer</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/prayer.html</guid>
+                        <description>Selection from the show Prayer produced in 1995 for Somewhere Out There, with David Franks.</description>
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/TelephonePrayer.mp3" length="3881903" type="audio/mpeg" />
+                        <itunes:duration>8:05</itunes:duration>
+											  <pubDate>06 Nov 2007 15:00:00 PST</pubDate>
+												
+            </item>
+								
+								<item>
+								
+                        <title>God</title>
+                        <link>http://www.joefrank.com/cast/</link>
+                        <guid>http://www.joefrank.com/greatlives.html</guid>
+                        <description>Selection from the show Great Lives produced in 1989 for Work in Progress, with Ryan Cutrona. </description>														
+												<itunes:image href="http://mypodcast.joefrank.com/Joe1.jpg" />
+                        <enclosure url="http://mypodcast.joefrank.com/God.mp3" length="1048576" type="audio/mpeg" />
+                        <itunes:duration>2:07</itunes:duration>
+												<pubDate>06 Nov 2007 15:00:00 PST</pubDate>
+												
+                </item>
+																				
+								<itunes:explicit>no</itunes:explicit>
+								<itunes:category text="Arts">
+								<itunes:category text="Performing Arts" />
+								</itunes:category>
+									
+        
+				</channel>
+
+</rss>

@@ -1,0 +1,44 @@
+GET /pagead/ads?client=ca-pub-5181998329895443&dt=1216706601828&lmt=1216706601&format=728x90_as&output=html&correlator=1216706601812&url=http%3A%2F%2Fwww.sendanonymousemail.net%2Fsend.php&ad_type=text_image&ref=http%3A%2F%2Fwww.sendanonymousemail.net%2F&frm=0&cc=1703&ga_vid=2789727745902496300.1216706602&ga_sid=1216706602&ga_hid=692821370&flash=6.0.88.0&u_h=778&u_w=1050&u_ah=744&u_aw=1050&u_cd=32&u_tz=60&u_his=8&u_java=true HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.sendanonymousemail.net/send.php
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+
+GET /pagead/abglogo/abg-en-100c-000000.png HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 03 May 2007 20:40:03 GMT
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+
+GET /pagead/ads?client=ca-primedia-premium_js&dt=1216706620093&hints=Email%2CAnonymous%20Email%20and%20Remailer%20Services%20%20About%20Email&adsafe=medium&oe=latin1&lmt=1216706620&num_ads=8&output=js&correlator=1216706620093&channel=primedia_email&url=http%3A%2F%2Femail.about.com%2Fod%2Fanonymousemailservices%2FAnonymous_Email_and_Remailer_Services.htm&num_radlinks=5&max_radlink_len=20&ref=http%3A%2F%2Femail.about.com%2Fod%2Fanonymousemail%2FSend_Anonymous_Email_Messages.htm&loc=http%3A%2F%2Femail.about.com%2Fod%2Fanonymousemailservices%2FAnonymous_Email_and_Remailer_Services.htm&frm=0&ga_vid=3239134908590362600.1216706620&ga_sid=1216706620&ga_hid=1469407924&flash=6.0.88.0&u_h=778&u_w=1050&u_ah=744&u_aw=1050&u_cd=32&u_tz=60&u_his=8&u_java=true HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+
+GET /pagead/ads?client=ca-pub-1112722574718853&dt=1216706648250&lmt=1216706648&format=728x15_0ads_al_s&output=html&correlator=1216706648250&url=http%3A%2F%2Fwww.willselfdestruct.com%2Fsecure%2Fsubmit&color_bg=E5E5E5&color_text=000000&color_link=0000FF&color_url=008000&color_border=E5E5E5&ad_type=text_image&ref=http%3A%2F%2Femail.about.com%2Fgi%2Fdynamic%2Foffsite.htm%3Fzi%3D1%2FXJ%26sdn%3Demail%26cdn%3Dcompute%26tm%3D17%26gps%3D101_1829_788_511%26f%3D00%26su%3Dp284.9.336.ip_p504.1.336.ip_%26tt%3D4%26bt%3D1%26bts%3D1%26zu%3Dhttp%253A%2F%2Fwww.willselfdestruct.com%2Fsecure%2Fsubmit&frm=0&ga_vid=1048350421386986900.1216706648&ga_sid=1216706648&ga_hid=1704461776&flash=6.0.88.0&u_h=778&u_w=1050&u_ah=744&u_aw=1050&u_cd=32&u_tz=60&u_java=true HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.willselfdestruct.com/secure/submit
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+
+GET /pagead/ads?client=ca-pub-1112722574718853&dt=1216706688906&lmt=1216706688&format=728x15_0ads_al_s&output=html&correlator=1216706688906&url=http%3A%2F%2Fwww.willselfdestruct.com%2Fsecure%2Fsuccess&color_bg=E5E5E5&color_text=000000&color_link=0000FF&color_url=008000&color_border=E5E5E5&ad_type=text_image&ref=http%3A%2F%2Fwww.willselfdestruct.com%2Fsecure%2Fsubmit&frm=0&ga_vid=4078647344932550700.1216706689&ga_sid=1216706689&ga_hid=1712645670&flash=6.0.88.0&u_h=778&u_w=1050&u_ah=744&u_aw=1050&u_cd=32&u_tz=60&u_his=1&u_java=true HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.willselfdestruct.com/secure/success
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+

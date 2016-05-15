@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:35:42 GMT
+Server: Apache
+AdServer: ad8ad14:9678:1
+P3P: CP="NOI DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0, no-cache
+Expires: Tue, 22 Jul 2008 04:35:42 GMT
+Pragma: no-cache
+Content-Length: 488
+Keep-Alive: timeout=5, max=15
+Connection: Keep-Alive
+Content-Type: text/html
+
+<a target="_blank" href="/event.ng/Type=click&FlightID=4621&AdID=4789&TargetID=1515&Segments=730,2743,3030,3285,8463,8796,9496,9779,9781,9853,10381,12853,13760,14879,15539,16113,17251&Targets=34606,1515&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,4413,4418,4429,47182,48063,49554,52263,52509,52786,52897,54682,54765,55058,55059,56058,56376&RawValues=&Redirect=http://www.cnn.com"><img src="http://i.cnn.net/cnn/images/1.gif" border=0 height=1 width=1 alt="" align="center"></a>HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 04:35:42 GMT
+Server: Apache
+Pragma: no-cache
+Content-Length: 0
+Cache-control: no-cache, max-age=0, no-cache
+Location: http://i.cdn.turner.com/cnn/images/1.gif
+Expires: Tue, 22 Jul 2008 04:35:42 GMT
+Keep-Alive: timeout=5, max=14
+Connection: Keep-Alive
+Content-Type: text/html
+

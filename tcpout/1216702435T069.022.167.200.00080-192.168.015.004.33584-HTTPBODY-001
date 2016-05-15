@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/y2004/m06/d08/h05/s06.lntgweeg.enc.jpg?downloadKey2=1217307259_e35d1687b556b7d1af61f193871bc5d6</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Joshua Rifkin &amp; The Bach Ensemble</string>
+    <key>playlistName</key><string>J.S. Bach: 6 Favourite Cantatas</string>
+    <key>artistId</key><string>45469543</string>
+    <key>playlistId</key><string>68971654</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

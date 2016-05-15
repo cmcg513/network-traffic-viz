@@ -1,0 +1,12 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=968E2BB15BB064C0CCF1C4EAD79C5BE2&CDDBMuiID=1603587&an=Takacs%20Quartet%20%2F%20Pauk&pn=Mozart%20%3A%20String%20Quintets%20K515%2FK516 HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: C04A4B16-75C8C1E8B75ECE0B00B4F87BB2000045
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

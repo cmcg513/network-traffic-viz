@@ -1,0 +1,11 @@
+GET /images/masks/ornament_stroke_flat.png HTTP/1.1
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 09F8DBA4-9348BD4652EB1D24112EF84274F15B47
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

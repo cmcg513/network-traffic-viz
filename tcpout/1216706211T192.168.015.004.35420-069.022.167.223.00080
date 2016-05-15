@@ -1,0 +1,52 @@
+GET /js/v/us/features/site_catalyst/common.js HTTP/1.1
+Host: include.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Patent-Leather-Tote-Shoulder-Bag-Purse-Satchel-Handbag_W0QQitemZ350081390982QQihZ022QQcategoryZ63852QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+If-Modified-Since: Sun, 13 Jul 2008 05:21:15 GMT
+If-None-Match: "6894b145a8e4c81:7be"
+
+GET /js/v/us/features/site_catalyst/cookies/ssPagename.js HTTP/1.1
+Host: include.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Patent-Leather-Tote-Shoulder-Bag-Purse-Satchel-Handbag_W0QQitemZ350081390982QQihZ022QQcategoryZ63852QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+If-Modified-Since: Sun, 13 Jul 2008 05:21:15 GMT
+If-None-Match: "3836c245a8e4c81:7be"
+
+GET /js/v/us/features/site_catalyst/cookies/lastListWrite.js HTTP/1.1
+Host: include.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Patent-Leather-Tote-Shoulder-Bag-Purse-Satchel-Handbag_W0QQitemZ350081390982QQihZ022QQcategoryZ63852QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+If-Modified-Since: Sun, 13 Jul 2008 05:21:15 GMT
+If-None-Match: "c8b3be45a8e4c81:7be"
+
+GET /js/v/us/features/site_catalyst/viewitem.js HTTP/1.1
+Host: include.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Patent-Leather-Tote-Shoulder-Bag-Purse-Satchel-Handbag_W0QQitemZ350081390982QQihZ022QQcategoryZ63852QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+If-Modified-Since: Sun, 13 Jul 2008 05:21:16 GMT
+If-None-Match: "64a58546a8e4c81:7be"
+

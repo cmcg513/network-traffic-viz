@@ -1,0 +1,13 @@
+GET /rss20.xml HTTP/1.1
+Host: fxfeeds.mozilla.com
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+X-Moz: livebookmarks
+Cookie: s_vi=[CS]v1|4875855000004A86-A000B2100007028[CE]; __utma=183859642.1072914972.1174698800.1215992549.1216616050.10; __utmz=183859642.1206154312.7.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); s_cc=true; s_sq=%5B%5BB%5D%5D; __utmc=183859642
+Cache-Control: max-age=0
+

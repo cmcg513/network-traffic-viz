@@ -1,0 +1,19 @@
+/*       Source:  Local Cache                                                                 */
+/*     Location:  rsrc:104065:/html/css/status.css                                            */
+/*      Machine:  10.16.140.110                                                               */
+/*    Generated:  July 21st 2008 8:53:35 PM PDT                                               */
+/*    HTTP Host:  static.ak.fbcdn.net                                                         */
+
+
+.profile_status img{margin:0px;padding:0px;float:left;}
+.profile_status #status_body{float:left;padding:0px;margin:0px 0px 0px 5px;width:115px;}
+.profile_status #status_body #status_content{color:#000;}
+#status_content #su_placeholder{color:#3b5998;}
+.profile_status #status_meta{color:gray;display:block;font-size:9px;line-height:11px;padding-top:2px;}
+#status_editor{position:relative;}
+input#edit_status_text{float:left;display:block;border-top:1px solid #777;border-left:1px solid #777;border-bottom:1px solid #777;border-right:0;height:17px;width:144px;margin:0px;padding:3px 2px 0px;}
+#edit_status_toggle{display:block;float:left;margin:0px;padding:3px 0px 0px;height:17px;width:14px;color:#3B5998;border-top:1px solid #777;border-right:1px solid #777;border-bottom:1px solid #777;border-left:none;background:#D8DFEA url(/images/status_off.gif) no-repeat 3px 9px;text-align:center;}
+#edit_status_toggle:hover{text-decoration:none;}
+#edit_status_select{display:none;position:absolute;z-index:2;width:162px;border-left:1px solid #777;border-right:1px solid #777;border-bottom:1px solid #777;}
+#edit_status_select a{display:block;overflow:hidden;width:156px;background:#fff;color:#000;border:none;border-top:1px solid #eee;padding:3px;margin:0px;margin-top:-1px;}
+#edit_status_select a:hover{text-decoration:none;color:#fff;background:#3B5998;}

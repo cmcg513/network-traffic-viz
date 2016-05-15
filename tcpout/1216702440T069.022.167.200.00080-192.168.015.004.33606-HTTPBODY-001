@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/7f/65/71/mzi.rjpkshwb.enc.jpg?downloadKey2=1217307264_3c663f53b4c1f53f7eef1db2d823ccbe</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Various Artists</string>
+    <key>playlistName</key><string>The Great Composers: Mozart</string>
+    <key>artistId</key><string>295138</string>
+    <key>playlistId</key><string>126350449</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

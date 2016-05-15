@@ -1,0 +1,12 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?an=The%20Who%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&pn=no%20title%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20 HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 189AA5CF-82A92B176545A3B41F2BCC08C66C744B
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

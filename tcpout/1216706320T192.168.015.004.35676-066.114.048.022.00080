@@ -1,0 +1,9 @@
+GET /contents/25419/1007_001_B_300250_S.gif HTTP/1.1
+Accept: */*
+Referer: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&site=140455&section_code=12804230&cb=1216706342866901&ycg=&yyob=&pub_redirect_unencoded=1&pub_redirect=http://us.ard.yahoo.com/SIG=151t17duk/M=674272.12804230.13083170.11084775/D=know/S=2115300547:LREC/Y=YAHOO/EXP=1216713542/L=00DYDNFJu9zds5DxSIV3DgG3RoZbDEiFdyYABwjT/B=Xrs_FULEYrk-/J=1216706342866901/A=5404802/R=0/*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: cdn2.specificmedia.com
+Connection: Keep-Alive
+

@@ -1,0 +1,854 @@
+
+  <View rightInset="9" viewName="J4UFrame" leftInset="9" height="256">
+  
+      <VBoxView rightInset="8" bottomInset="0" leftInset="8" topInset="30" stretchiness="1">
+
+  
+  
+
+  
+  
+    <View stretchiness="1">
+      <Test comparison="less" value="7.0.0" property="iTunes version">
+  
+        <VBoxView stretchiness="1">
+          
+          <MatrixView topInset="0" columnFormat="1,100%,1" rowFormat="100%" bottomInset="0" stretchiness="1">
+            <View width="1" topInset="0" bottomInset="0" backColor="445e82"></View>
+            <View topInset="0" bottomInset="0">
+              
+              <View rightInset="0" topInset="0" bottomInset="0" leftInset="0" backColor="ffffff"></View>
+            </View>
+            <View width="1" topInset="0" bottomInset="0" backColor="445e82"></View>
+          </MatrixView>
+          
+            <HBoxView leftInset="0" rightInset="0">
+              <PictureView leftInset="0" width="11" height="11" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_ornament_ffffff_445e82_100_botl.png" bottomInset="0"></PictureView>
+              <View rightInset="0" leftInset="0" stretchiness="1" backColor="ffffff">
+                <View rightInset="0" bottomInset="0" leftInset="0" height="1" backColor="445e82"></View>
+              </View>
+              <PictureView width="11" height="11" rightInset="0" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_ornament_ffffff_445e82_100_botr.png" bottomInset="0"></PictureView>
+            </HBoxView>
+          
+          
+        </VBoxView>
+      
+</Test>
+      <Test comparison="greater or equal" value="7.0.0" property="iTunes version">
+  
+        <View rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(255,255,255)" mask="/images/masks/ornament_fill_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(68,94,130)" mask="/images/masks/ornament_stroke_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+</View>
+
+      
+</Test>
+
+      <VBoxView rightInset="1" leftInset="1">
+
+        <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+
+        
+        <VBoxView rightInset="0" topInset="0" viewName="J4UFullViewName" leftInset="0" height="216" backColor="ffffff">
+
+          
+            
+            <View topInest="0" leftInset="0" rightInset="0">
+<PictureView leftInset="0" topInset="0" horizontalBehavior="stretch" stretchiness="1" height="20" rightInset="0" url="http://ax.phobos.apple.com.edgesuite.net/images/swoosh/swoosh_tab_background_dbddeo.png"></PictureView>
+  <MatrixView rightInset="0" bottomInset="0" leftInset="0" topInset="0" height="20" stretchiness="1" rowFormat="100%" columnFormat="25%,1,25%,1,25%,1,25%">
+    
+    
+    
+    
+    <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+      <VBoxView topInset="0" bottomInset="0" stretchiness="1" backColor="ffffff">
+        <View stretchiness="1"/>
+          <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>All</b></Color></TextView>
+        <View stretchiness="1"/>
+      </VBoxView>
+      <View rightInset="0" leftInset="0" height="1" backColor="ffffff"></View>
+    </VBoxView>
+    
+
+    
+    
+      <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+
+      
+      
+      
+      
+      
+      <LoadFrameURL transitionMovement="cos" url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/j4uGenre?leftLabel=New+Releases&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;rightLabel=See+All&amp;linkedToPageType=newReleases&amp;backColorForStack=f1f5fa&amp;frameViewName=J4UFrame&amp;genreId=21" transitionDuration="500" frameViewName="J4UFrame" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="J4UFullViewName" transitionStartViewName="J4UFullViewName">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+              <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Rock</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+      
+      
+      
+      
+    
+      <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+
+      
+      
+      
+      
+      
+      <LoadFrameURL transitionMovement="cos" url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/j4uGenre?leftLabel=New+Releases&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;rightLabel=See+All&amp;linkedToPageType=newReleases&amp;backColorForStack=f1f5fa&amp;frameViewName=J4UFrame&amp;genreId=18" transitionDuration="500" frameViewName="J4UFrame" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="J4UFullViewName" transitionStartViewName="J4UFullViewName">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+              <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Hip-Hop/Rap</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+      
+      
+      
+      
+    
+      <View width="1" topInset="0" bottomInset="0" stretchiness="1" backColor="a3a7ad"></View>
+
+      
+      
+      
+      
+      
+      <LoadFrameURL transitionMovement="cos" url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/j4uGenre?leftLabel=New+Releases&amp;showSwooshTabs=true&amp;showRightLabel=true&amp;rightLabel=See+All&amp;linkedToPageType=newReleases&amp;backColorForStack=f1f5fa&amp;frameViewName=J4UFrame&amp;genreId=14" transitionDuration="500" frameViewName="J4UFrame" transitionModifier="bottom" transitionType="dissolve" transitionEndViewName="J4UFullViewName" transitionStartViewName="J4UFullViewName">
+        <VBoxView topInset="0" bottomInset="0" transparentClicks="1">
+          <VBoxView topInset="0" bottomInset="0" stretchiness="1">
+            <View stretchiness="1"/>
+              <TextView topInset="1" truncation="right" leftInset="1" rightInset="0" styleSet="basic11" textJust="center" maxLines="1"><Color color="000000"><b>Pop</b></Color></TextView>
+            <View stretchiness="1"/>
+          </VBoxView>
+          <View rightInset="0" leftInset="0" height="1" backColor="a3a7ad"></View>
+        </VBoxView>
+      </LoadFrameURL>
+      
+      
+      
+      
+    
+  </MatrixView>
+</View>
+          
+
+          
+          <View topInset="0">
+            
+            
+
+
+            
+
+            <MatrixView rightInset="0" columnFormat="50%,50%" viewName="J4UView" rowFormat="100%" bottomInset="0" leftInset="0" stretchiness="1">
+              
+              
+                <MatrixView leftInset="13" rightInset="0" topInset="19" columnFormat="50%,5,50%,3" rowFormat="*,100%">
+                  
+                    <VBoxView>
+                      <HBoxView>
+                        
+                          
+                            
+
+
+
+  <MatrixView columnFormat="100%" rowFormat="*,3,100%" stretchiness="1">
+    
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=123888&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=123888&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r1c1" inhibitDragging="false" draggingName="The Cream of Clapton" target="main">
+    
+      
+      
+      
+        
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="1" verticalAlignment="bottom" shadowHeight="2" horizontalAlignment="center" height="53" rightInset="0" url="http://a1.phobos.apple.com/us/r10/Music/y2003/m3/d9/h2/s01.odbbbkvr.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="true"></PictureView>  
+
+
+
+  
+
+      
+      
+    
+  </GotoURL>
+
+
+
+    <View />
+    
+      
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=123888&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=123888&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r1c1" inhibitDragging="false" draggingName="The Cream of Clapton" target="main">
+    
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle"><B>The Cream of Clapton</B></SetFontStyle></TextView>
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle">Eric Clapton</SetFontStyle></TextView>
+        
+        
+        
+        
+        
+        
+      
+  </GotoURL>
+
+
+
+      
+      
+      
+    
+  </MatrixView>
+
+
+
+
+
+
+
+                          
+                        
+                      </HBoxView>
+                      <View height="12"/>
+                    </VBoxView>
+                    <View/>
+                  
+                    <VBoxView>
+                      <HBoxView>
+                        
+                          
+                            
+
+
+
+  <MatrixView columnFormat="100%" rowFormat="*,3,100%" stretchiness="1">
+    
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=179557&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=179557&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r1c2" inhibitDragging="false" draggingName="Earth" target="main">
+    
+      
+      
+      
+        
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="1" verticalAlignment="bottom" shadowHeight="2" horizontalAlignment="center" height="53" rightInset="0" url="http://a1.phobos.apple.com/r10/Music/y2003/m3/d31/h21/s03.tizqsrwo.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="true"></PictureView>  
+
+
+
+  
+
+      
+      
+    
+  </GotoURL>
+
+
+
+    <View />
+    
+      
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=179557&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=179557&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r1c2" inhibitDragging="false" draggingName="Earth" target="main">
+    
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle"><B>Earth</B></SetFontStyle></TextView>
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle">Jefferson Starship</SetFontStyle></TextView>
+        
+        
+        
+        
+        
+        
+      
+  </GotoURL>
+
+
+
+      
+      
+      
+    
+  </MatrixView>
+
+
+
+
+
+
+
+                          
+                        
+                      </HBoxView>
+                      <View height="12"/>
+                    </VBoxView>
+                    <View/>
+                  
+                    <VBoxView>
+                      <HBoxView>
+                        
+                          
+                            
+
+
+
+  <MatrixView columnFormat="100%" rowFormat="*,3,100%" stretchiness="1">
+    
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=578935&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=578935&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r2c1" inhibitDragging="false" draggingName="Alone Again and Other Hits" target="main">
+    
+      
+      
+      
+        
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="1" verticalAlignment="bottom" shadowHeight="2" horizontalAlignment="center" height="53" rightInset="0" url="http://a1.phobos.apple.com/us/r10/Music/y2003/m04/d13/h20/s02.nrfefqut.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="true"></PictureView>  
+
+
+
+  
+
+      
+      
+    
+  </GotoURL>
+
+
+
+    <View />
+    
+      
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=578935&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=578935&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r2c1" inhibitDragging="false" draggingName="Alone Again and Other Hits" target="main">
+    
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle"><B>Alone Again and Other Hits</B></SetFontStyle></TextView>
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle">Dokken</SetFontStyle></TextView>
+        
+        
+        
+        
+        
+        
+      
+  </GotoURL>
+
+
+
+      
+      
+      
+    
+  </MatrixView>
+
+
+
+
+
+
+
+                          
+                        
+                      </HBoxView>
+                      <View height="12"/>
+                    </VBoxView>
+                    <View/>
+                  
+                    <VBoxView>
+                      <HBoxView>
+                        
+                          
+                            
+
+
+
+  <MatrixView columnFormat="100%" rowFormat="*,3,100%" stretchiness="1">
+    
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=251698&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=251698&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r2c2" inhibitDragging="false" draggingName="The Allman Brothers Band: A Decade of Hits 1969-1979" target="main">
+    
+      
+      
+      
+        
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="1" verticalAlignment="bottom" shadowHeight="2" horizontalAlignment="center" height="53" rightInset="0" url="http://a1.phobos.apple.com/us/r10/Music/y2003/m4/d2/h19/s03.bzofobqt.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="true"></PictureView>  
+
+
+
+  
+
+      
+      
+    
+  </GotoURL>
+
+
+
+    <View />
+    
+      
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=251698&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=251698&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r2c2" inhibitDragging="false" draggingName="The Allman Brothers Band: A Decade of Hits 1969-1979" target="main">
+    
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle"><B>The Allman Brothers Band: A Decade of Hits 1969-1979</B></SetFontStyle></TextView>
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle">The Allman Brothers Band</SetFontStyle></TextView>
+        
+        
+        
+        
+        
+        
+      
+  </GotoURL>
+
+
+
+      
+      
+      
+    
+  </MatrixView>
+
+
+
+
+
+
+
+                          
+                        
+                      </HBoxView>
+                      <View height="12"/>
+                    </VBoxView>
+                    <View/>
+                  
+                    <VBoxView>
+                      <HBoxView>
+                        
+                          
+                            
+
+
+
+  <MatrixView columnFormat="100%" rowFormat="*,3,100%" stretchiness="1">
+    
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=364339&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=364339&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r3c1" inhibitDragging="false" draggingName="Pleasure Victim" target="main">
+    
+      
+      
+      
+        
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="1" verticalAlignment="bottom" shadowHeight="2" horizontalAlignment="center" height="53" rightInset="0" url="http://a1.phobos.apple.com/us/r10/Music/y2003/m04/d08/h00/s03.dklxdddb.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="true"></PictureView>  
+
+
+
+  
+
+      
+      
+    
+  </GotoURL>
+
+
+
+    <View />
+    
+      
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=364339&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=364339&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r3c1" inhibitDragging="false" draggingName="Pleasure Victim" target="main">
+    
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle"><B>Pleasure Victim</B></SetFontStyle></TextView>
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle">Berlin</SetFontStyle></TextView>
+        
+        
+        
+        
+        
+        
+      
+  </GotoURL>
+
+
+
+      
+      
+      
+    
+  </MatrixView>
+
+
+
+
+
+
+
+                          
+                        
+                      </HBoxView>
+                      <View height="12"/>
+                    </VBoxView>
+                    <View/>
+                  
+                    <VBoxView>
+                      <HBoxView>
+                        
+                          
+                            
+
+
+
+  <MatrixView columnFormat="100%" rowFormat="*,3,100%" stretchiness="1">
+    
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=888765&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=888765&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r3c2" inhibitDragging="false" draggingName="The Essentials: White Lion" target="main">
+    
+      
+      
+      
+        
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="1" verticalAlignment="bottom" shadowHeight="2" horizontalAlignment="center" height="53" rightInset="0" url="http://a1.phobos.apple.com/us/r10/Music/y2003/m04/d21/h15/s02.jrymxpwx.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="true"></PictureView>  
+
+
+
+  
+
+      
+      
+    
+  </GotoURL>
+
+
+
+    <View />
+    
+      
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=888765&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=888765&amp;s=143441&amp;ign-lr=US_Main+Main-J4USwoosh-All-Lockup_r3c2" inhibitDragging="false" draggingName="The Essentials: White Lion" target="main">
+    
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle"><B>The Essentials: White Lion</B></SetFontStyle></TextView>
+        <TextView topInset="0" truncation="right" leftInset="0" rightInset="0" styleSet="basic10" textJust="center" maxLines="1"><SetFontStyle normalStyle="inBoxStyle">White Lion</SetFontStyle></TextView>
+        
+        
+        
+        
+        
+        
+      
+  </GotoURL>
+
+
+
+      
+      
+      
+    
+  </MatrixView>
+
+
+
+
+
+
+
+                          
+                        
+                      </HBoxView>
+                      <View height="12"/>
+                    </VBoxView>
+                    <View/>
+                  
+                </MatrixView>
+              
+              
+
+              
+              <MatrixView columnFormat="3,1,100%" rowFormat="7,100%">
+
+                
+                <View />
+                <View backColor="e7e5e5" topInset="0" bottomInset="0"/>
+                <View backColor="f1f5fa" topInset="0" bottomInset="0"/>
+
+                <View/>
+                <View backColor="e7e5e5" topInset="0" bottomInset="0"/>
+                <MatrixView leftInset="0" rightInset="0" topInset="0" bottomInset="0" columnFormat="*,2,100%" rowFormat="*" stretchiness="1">
+                  
+                    
+                      <VBoxView height="19" backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">1.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View backColor="f1f5fa"></View>
+                      <VBoxView backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=643878" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Jump</b> Van Halen</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">2.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View></View>
+                      <VBoxView>
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=657382" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Missing You</b> John Waite</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19" backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">3.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View backColor="f1f5fa"></View>
+                      <VBoxView backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=713622" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Iron Man (Live)</b> Black Sabbath</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">4.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View></View>
+                      <VBoxView>
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=720219" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>A Change Is Gonna Come</b> Otis Redding</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19" backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">5.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View backColor="f1f5fa"></View>
+                      <VBoxView backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=1485714" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Rock &#39;n Roll All Nite</b> Kiss</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">6.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View></View>
+                      <VBoxView>
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=3595400" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>My Generation</b> The Who</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19" backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">7.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View backColor="f1f5fa"></View>
+                      <VBoxView backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=5821166" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Bomb the World (Armageddon Version)</b> Michael Franti &amp; Spearhead</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">8.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View></View>
+                      <VBoxView>
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=6725452" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Runnin&#39; with the Devil</b> Van Halen</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19" backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">9.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View backColor="f1f5fa"></View>
+                      <VBoxView backColor="f1f5fa">
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=19034137" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Hangar 18</b> Megadeth</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                    
+                      <VBoxView height="19">
+                        <View stretchiness="1"/>
+                        <TextView topInset="0" leftInset="2" rightInset="2" styleSet="basic11" textJust="right" maxLines="1">10.</TextView>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                      <View></View>
+                      <VBoxView>
+                        <View stretchiness="1"/>
+                        <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations?selectedItemId=27066421" target="main">
+                          <TextView topInset="0" truncation="right" leftInset="0" rightInset="5" styleSet="basic11" maxLines="1"><b>Son of a Bush</b> Public Enemy</TextView>
+                        </GotoURL>
+                        <View stretchiness="1"/>
+                      </VBoxView>
+                    
+                  
+                </MatrixView>
+              </MatrixView>
+              
+            </MatrixView>
+            
+          </View>
+
+        </VBoxView>
+
+        
+        <MatrixView columnFormat="50%,50%" rowFormat="100%" topInset="0" bottomInset="0" stretchiness="1">
+          
+          <View/>
+          <MatrixView columnFormat="3,1,100%" rowFormat="100%">
+            <View/>
+            <View backColor="e7e5e5" topInset="0" bottomInset="1"/>
+            <View/>
+          </MatrixView>
+        </MatrixView>
+
+        </VBoxView>
+
+      </VBoxView>
+
+      
+        
+        
+
+        
+
+        <Test comparison="lt" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureView leftInset="1" width="4" topInset="0" horizontalBehavior="tile" verticalBehavior="tile" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_shadow_l.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureButtonView leftInset="0" width="11" topInset="0" cap-bottom="11" cap-top="11" cap-left="11" url="http://ax.phobos.apple.com.edgesuite.net/images/masks/ornament_shadow_flat_l.png" bottomInset="0"></PictureButtonView>
+        
+</Test>
+
+        <Test rightInset="0" comparison="lt" value="7.0.0" property="iTunes version">
+  
+          <PictureView width="4" topInset="0" horizontalBehavior="tile" rightInset="1" verticalBehavior="tile" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_shadow_r.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test rightInset="0" comparison="ge" value="7.0.0" property="iTunes version">
+  
+          <PictureButtonView width="11" topInset="0" cap-bottom="11" cap-top="11" rightInset="0" url="http://ax.phobos.apple.com.edgesuite.net/images/masks/ornament_shadow_flat_r.png" bottomInset="0" cap-right="11"></PictureButtonView>
+        
+</Test>
+
+        <Test comparison="lt" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureView leftInset="11" horizontalBehavior="tile" height="5" rightInset="11" verticalBehavior="tile" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_shadow_b.png" bottomInset="1"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureButtonView leftInset="11" rightInset="11" url="http://ax.phobos.apple.com.edgesuite.net/images/masks/ornament_shadow_bot.png" bottomInset="0" height="4"></PictureButtonView>
+        
+</Test>
+      
+
+    </View>
+  
+</VBoxView>
+
+      
+      
+      <VBoxView rightInset="8" leftInset="8" topInset="10">
+
+  
+  
+    <View>
+      <HBoxView leftInset="0" rightInset="0">
+        <PictureView width="7" topInset="0" height="20" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_293c5c_100_topl.png"></PictureView>
+        <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_293c5c_100_top.png" bottomInset="0"></PictureView>
+        <PictureView width="7" topInset="0" height="20" url="http://ax.phobos.apple.com.edgesuite.net/images/boxcolor2/boxcolor_293c5c_100_topr.png"></PictureView>
+      </HBoxView>
+      <VBoxView topInset="0" bottomInset="0">
+        <View stretchiness="1"/>
+        
+        <View stretchiness="1"/>
+      </VBoxView>
+    </View>
+  
+
+  
+  
+</VBoxView>
+      <HBoxView topInset="0" leftInset="17">
+        <HBoxView>
+          <View stretchiness="1">
+            <TextView topInset="14" truncation="right" height="13" leftInset="1" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="topHeadingStyle"><Color color="1c1c1c"><b>JUST FOR YOU</b></Color></SetFontStyle></TextView>
+            <TextView topInset="13" truncation="right" height="13" leftInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="topHeadingStyle"><b><GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations" target="main">JUST FOR YOU</GotoURL></b></SetFontStyle></TextView>
+          </View>
+        </HBoxView>
+      </HBoxView>
+      <HBoxView topInset="0" rightInset="16">
+        <VBoxView>
+          <View stretchiness="1"/>
+          <TextView topInset="13" truncation="right" height="13" rightInset="5" styleSet="basic11" textJust="right" maxLines="1"><SetFontStyle normalStyle="topHeadingStyle"><b><GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations" target="main">See All</GotoURL></b></SetFontStyle></TextView>
+          <View stretchiness="1"/>
+        </VBoxView>
+        <VBoxView>
+          <View height="1"/>
+          <View stretchiness="1"/>
+          <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/seeAllRecommendations" target="main"><PictureButtonView width="12" topInset="13" picts="plain,pressed,rollover" transparentClicks="1" rightInset="0" url="http://ax.phobos.apple.com.edgesuite.net/images/arrowoutline/arrow_ffffff_r.png" height="12"></PictureButtonView></GotoURL>
+          <View stretchiness="1"/>
+        </VBoxView>
+      </HBoxView>
+      
+      
+
+</View>
+
+

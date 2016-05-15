@@ -1,0 +1,10 @@
+HTTP/1.1 304 Not Modified
+Date: Tue, 22 Jul 2008 05:51:42 GMT
+Connection: close
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, private
+Cache-Control: post-check=0, pre-check=0
+Vary: Accept-Encoding
+Set-Cookie: cookie_l10n=en-us%3Bus; expires=Friday, 22-Jul-11 05:51:42 GMT; path=/; domain=flickr.com
+Set-Cookie: cookie_intl=deleted; expires=Monday, 23-Jul-07 05:51:41 GMT; path=/; domain=flickr.com
+

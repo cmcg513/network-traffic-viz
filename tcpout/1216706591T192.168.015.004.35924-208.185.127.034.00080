@@ -1,0 +1,30 @@
+GET /?rdl=1&d=1/&g=2&a=&r=http%3a%2f%2fwww%2egoogle%2ecom%2fsearch%3fhl%3den%26q%3dsend%2banonymous%2bmail&id=&s=&h=87M63Y06OkWA0556&hs=87M63Y06OkWA0556&t=14&x=87M63e1dOkWA02BW&f=&gt=87M001&u=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemail%2fSend%5fAnonymous%5fEmail%5fMessages%2ehtm HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemail/Send_Anonymous_Email_Messages.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Cookie: TMog=87M63Y06OkWA0556; Mint=87M63Y06OkWA0556; zBT=1; pc=1; zFD=87M10870110800101; zRf=1; gs=email; jsc=13; zDot=1; ANXD=x; TData=; TID=3fg20oa148au1n; AxData=; Axxd=1
+Connection: Keep-Alive
+Host: up.about.com
+
+GET /?rdl=1&d=1/&g=2&a=&r=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemail%2fSend%5fAnonymous%5fEmail%5fMessages%2ehtm&id=&s=&h=&hs=&t=14&x=87M64S1bOkWA00bc&f=87M10870110800101&gt=87M001&u=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fAnonymous%5fEmail%5fand%5fRemailer%5fServices%2ehtm HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: up.about.com
+Connection: Keep-Alive
+Cookie: TMog=87M63Y06OkWA0556; Mint=87M63Y06OkWA0556; zBT=1; pc=2; zFD=87M20870210800201; zRf=1; gs=email; jsc=13; zDot=1; ANXD=x; TData=; TID=3fg20oa148au1n; AxData=; Axxd=1; up=87M63Y06OkWA0556; ups=87M63Y06OkWA0556; zGT=87M001; zGTL=87M001
+
+GET /?rdl=1&d=1/&g=2&a=&r=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fAnonymous%5fEmail%5fand%5fRemailer%5fServices%2ehtm&id=&s=&h=&hs=&t=4&x=87M64a1bOkWA081b&f=87M20870210800201&gt=87M001&u=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fgr%2fwill%5fself%5fdestr%2ehtm HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: up.about.com
+Connection: Keep-Alive
+Cookie: TMog=87M63Y06OkWA0556; Mint=87M63Y06OkWA0556; zBT=1; pc=3; zFD=87M30870310800301; zRf=1; gs=email; jsc=13; zDot=1; ANXD=x; TData=; TID=3fg20oa148au1n; AxData=; Axxd=1; up=87M63Y06OkWA0556; ups=87M63Y06OkWA0556; zGT=87M001; zGTL=87M001
+

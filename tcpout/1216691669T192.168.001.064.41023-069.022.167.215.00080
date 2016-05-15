@@ -1,0 +1,12 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?an=Steve%20Fisk&pn=448%20Deathless%20Days HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: DF5B1F58-12F19080428A0323A4732926B77B3E87
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

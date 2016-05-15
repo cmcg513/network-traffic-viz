@@ -1,0 +1,10 @@
+GET /mail/?logout&hl=en HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://mail.google.com/mail/?ui=2&view=bsp&ver=1qygpcgurkovy
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __utma=173272373.902839046.1185282466.1197590670.1198997636.12; __utmx=173272373.; GX=DQAAAG8AAAAfAfUyhQ_sggWzv9rJkh1qKAce_T4qWmRpGQYwFUhxRk5XWOcB5kG_dYKSKeKef2ubSJgMLj3DQn9xIH9gq6Uo-CjQ0RT_NTmK1FyrCAc9MneVvZjA_JUhHzUy6-zfWBK9yAv30h_qRLkKMVk4C1LA; S=gmail=1OFTCadh-U_8vClXyCDznQ:gmail_yj=ftV2ptv6CmMF75tsD4j6-Q:gmproxy=7ud63rWMnuM:gmproxy_yj=_PScfiZhkHs:gmproxy_yj_sub=Ur-7SoDI0mM; GMAIL_AT=xn3j32popno6mlbc3jnl1r7fac4285; gmailchat=mylady.ixchel@gmail.com/984626; rememberme=false; GMAIL_RTT=176; SID=DQAAAG4AAADmt3jT_B55uo7H5gJJvjtGEdgsnfF-jgm5y5PBFX6QttLC_3RMU4MHlLq6RJOPBnBUoHlfQxR-fy6G6DuGBvFyGIRjGxg8dBLpxSgd3Pp5BkScLdDEAwZz1tPW86OvBYD6FJikyjB0Kn6glx9FHrBi; TZ=420; NID=12=F-75BlIcjxeMtos5dAcyIa31CUM_10jhW_MQSB4mWcB2XMjpiNqX56lqCBqLOtkoww7dK0k82w3rd95ce_cDES3Q28zG-mImP9VJXBT0wupzyGjKkWMzbqpvIMnjXO_e; PREF=ID=6d23dd9ef592e5cc:TM=1172981425:LM=1215674544:GM=1:S=37LPhMc_jLvRNQ3x
+Connection: keep-alive
+Host: mail.google.com
+

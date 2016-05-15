@@ -1,0 +1,9 @@
+GET /t.php?sc_project=1252802&resolution=1280&h=800&camefrom=http%3A//web.mit.edu/&u=http%3A//web.mit.edu/newsoffice/2008/i-shoe-0716.html&t=Balance%20problems%3F%20Step%20into%20the%20iShoe%20-%20MIT%20News%20Office&java=1&security=3e233978&sc_random=0.3518286789767444 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://web.mit.edu/newsoffice/2008/i-shoe-0716.html
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: c12.statcounter.com
+

@@ -1,0 +1,492 @@
+GET /images/facebook_logo.gif?0:67387 HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/
+Cookie: G6X9=CT
+
+GET /images/shadow_gray.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=CT
+
+GET /images/icons/photo.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/98481/css/welcome.css
+Cookie: G6X9=CT
+
+GET /images/icons/friend_guy.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/98481/css/welcome.css
+Cookie: G6X9=CT
+
+GET /images/search_glass.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=CT
+
+GET /images/welcome/btn_register_signup_active_bg.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=CT
+
+GET /images/facebook_logo.gif?01AD=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8&0:67387 HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/
+Cookie: G6X9=CT
+
+GET /rsrc.php/107632/inbox/css/composer.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/56012/css/info.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/72217/css/feed_ad.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/19905/css/typeahead.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/99444/css/mobilepro.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/105463/css/feed.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/107914/css/feed/fan.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/105628/css/home/requests.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/101722/css/friend_guess.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/99481/css/addfriend.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/111397/js/lib/util/quickling.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/105529/js/fbml.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/108938/js/lib/ui/typeaheadpro/search_typeaheadpro.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/103311/js/lib/ui/typeaheadpro/sources/search_friend_source.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/107194/js/pages.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/104972/js/friend_suggester.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/indicator.gif?0:19905 HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/im_offline.gif?0:63263 HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /pics/q_silhouette.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/global_menu_space.gif?0:37897 HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/invite_friends.gif?0:58794 HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/icons/alert.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/blank.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/presence/buddy_list.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/chat/new_msg_badge_bg.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/down_arrow_grey_small.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/global_menu_arrow.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/pkg/60/111255/css/common.css.pkg.php
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/newsfeed_line.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/106726/css/home/base.css
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/icons/requests.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/105628/css/home/requests.css
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/friend_finder.gif HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://static.ak.fbcdn.net/rsrc.php/106726/css/home/base.css
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/106241/css/reqs.css HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/96067/js/confirminvite.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /rsrc.php/94453/js/video/requests.js HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+
+GET /images/icons/friend_suggestion.gif?0:80300 HTTP/1.1
+Host: static.ak.fbcdn.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/home.php?
+Cookie: G6X9=2-2-B2112219548915772F0E585B3610515880641911D7BC38065F5DEA7DF8F57209-3078AAA7E22988688A28AF046F227C502E6A5FD74592D8B9EBC2151E2924C2D8
+

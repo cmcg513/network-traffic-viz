@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	>
+
+<channel>
+	<title>The Privacy Place</title>
+	<atom:link href="http://theprivacyplace.org/feed/" rel="self" type="application/rss+xml" />
+	<link>http://theprivacyplace.org</link>
+	<description>An Academic Privacy Research Center</description>
+	<pubDate>Fri, 18 Jul 2008 16:44:01 +0000</pubDate>
+	<generator>http://wordpress.org/?v=2.6</generator>
+	<language>en</language>
+			<item>
+		<title>Are Google Health&#8217;s Privacy Practices Healthy?</title>
+		<link>http://theprivacyplace.org/2008/06/are-google-healths-privacy-practices-healthy/</link>
+		<comments>http://theprivacyplace.org/2008/06/are-google-healths-privacy-practices-healthy/#comments</comments>
+		<pubDate>Fri, 20 Jun 2008 13:18:31 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[Privacy Policies]]></category>
+
+		<category><![CDATA[Google Health]]></category>
+
+		<category><![CDATA[PHRs]]></category>
+
+		<category><![CDATA[Privacy Policy]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/?p=164</guid>
+		<description><![CDATA[by Jessica Young and Annie I. Antón
+On May 19, 2008, Google launched Google Health [1], a new Personal Health Record (PHR) web portal that allows patients to gather and organize their medical records while keeping their physicians up to date about their health condition. As with other PHRs, like Microsoft&#8217;s HealthVault, Google Health does not [...]]]></description>
+			<content:encoded><![CDATA[<p><em>by Jessica Young and Annie I. Antón</em></p>
+<p>On May 19, 2008, Google launched Google Health [<a href="http://www.google.com/health">1</a>], a new Personal Health Record (PHR) web portal that allows patients to gather and organize their medical records while keeping their physicians up to date about their health condition. As with other PHRs, like Microsoft&#8217;s HealthVault, Google Health does not appear to be covered by federal or state health privacy laws. According to the Google Health Terms of Service, Google is not a “covered entity” as defined in the Health Insurance Portability and Accountability Act (HIPAA); as such, “HIPAA does not apply to the transmission of health information by Google to any third party” [<a href="https://www.google.com/health/html/terms.html">2</a>].</p>
+<p>Researchers at ThePrivacyPlace.org have evaluated privacy policies and privacy breaches since its founding in 2001. In particular, The Privacy Place researchers are addressing the extent to which information is protected in financial and health care systems that must comply with relevant laws and regulations.</p>
+<p>Google Health is not a covered entity as defined in HIPAA. Thus, any personal health data that you submit to Google Health will not be afforded the same legal protections required of health care providers under HIPAA. Until state and federal agencies establish and enforce laws to protect the privacy of personal health records maintained by non-covered entities, individuals should carefully consider the risks involved in submitting sensitive health information to Google Health and other PHRs such as HealthVault.  PHRs are not subject to the same privacy and security laws to which traditional medical records are subject to in the United States.</p>
+<p>As with our analysis of Microsoft&#8217;s HealthVault [<a href="http://theprivacyplace.org/2007/10/is-that-vault-really-protecting-your-privacy/">3</a>] in October 2007, we encourage patients to carefully consider and question the privacy practices as articulated in the Google Health privacy policy, terms of service, and frequently asked questions. To further explore this new service, we analyzed and evaluated the protections and vulnerabilities involved in using Google Health.  The Google Health Help Center provides a link and U.S. Postal Address—but no other contact method, such as email address or phone number —for users to submit a “Question About Privacy” [<a href="http://www.google.com/support/health/bin/request.py">4</a>]; clicking on this link displays a web page with a form for inquiries that states, “[w]e hope this information [Privacy Policy] will help you make an informed decision about sharing your personal information with us” [<a href="http://www.google.com/support/health/bin/request.py?contact_type=privacy">5</a>]. Unfortunately, Google has been unresponsive to our questions regarding its Google Health privacy policy.</p>
+<p>We sent four questions regarding Google Health&#8217;s privacy practices via the Google Health Help Center [<a href="http://www.google.com/support/health/bin/request.py?contact_type=privacy">5</a>] on May 23, 2008. On June 4, 2008, we submitted the same four questions but this time via Google&#8217;s Web Search Help Center [<a href="http://www.google.com/support/bin/request.py?form_type=user&#038;stage=fm&#038;user_type=user&#038;contact_type=privacy&#038;hl=en">6</a>], where users are invited to submit questions specifically about Google&#8217;s privacy practices.  It has been over three weeks since our first inquiry and we have yet to receive a response of any kind to any of our questions.  Patients are concerned about the privacy of their health information [<a href="http://www.chcf.org/topics/view.cfm?itemID=115694">7</a>].  A lack of prompt replies to questions regarding health privacy is disconcerting and suggests that privacy is not a priority for those managing Google Health or manning the Google Help Center.</p>
+<p>We focused on three questions of Microsoft&#8217;s HealthVault in our previous analysis [<a href="http://theprivacyplace.org/2007/10/is-that-vault-really-protecting-your-privacy/">3</a>]. Here we examine these same three questions within the context of Google Health.</p>
+<p><em><strong>Will your health information be stored in other countries without appropriate legal oversight, skirting many of the protections afforded by the HIPAA?</strong></em></p>
+<p>The three Google Health privacy-related documents provide no insights about where personal health information will be stored. As we received no answers to our inquiries to the Google Health Help Center, we turned to the general Google Privacy Policy, which states, “Google processes personal information on our servers in the United States of America and in other countries” [<a href="http://www.google.com/privacypolicy.html">8</a>]. Users should always be concerned about the location of their data because different countries have different data protection standards and laws. If your data is breached in some way, the physical location of the server on which it was stored will affect the recourses that will be available to you.</p>
+<p><em><strong>Will your health care records be merged with other personal information about you that was previously collected within the context of non-health related services?</strong></em></p>
+<p>No, according to the documents we reviewed. Google Health’s Privacy Policy states: “The [record] log information will be used to operate and improve service and will not be correlated with your use of other Google services” [<a href="https://www.google.com/health/html/privacy.html">9</a>]. This is also addressed in the FAQ by the statement that “no personal or medical information in your Google Health profile is used to customize your Google.com search results or used for advertising” [<a href="https://www.google.com/health/html/faq.html">10</a>]. At this point in time, it appears that Google Health information will not be merged with information from other Google services without your consent.</p>
+<p><em><strong>Are the access controls to your health records based not only on your consent, but also on the principle of least privilege?</strong></em></p>
+<p>Google Health allows users to grant read/write access to their information to other third-party sites and/or individuals. The Google Health Privacy Policy states: “you [as a Google Health user] can revoke sharing privileges at any time. When you revoke someone’s ability to read your health information, that party will no longer be able to read your information, but may have already seen or may retain a copy of the information” [<a href="https://www.google.com/health/html/privacy.html">9</a>]. Thus, users should determine their access control rules as soon as possible when setting up their accounts.  Access control rules and the ability to change these rules become immaterial once private health information reaches an unauthorized or unintended agent. Google is not clearly implementing the principle of least privilege, because it appears that others may be able to grant read/write access to your health information, leaving the door open for data breaches. </p>
+<p><strong>References</strong></p>
+<p>[1] <a href="http://www.google.com/health">Google Health</a>.</p>
+<p>[2] <a href="https://www.google.com/health/html/terms.html">Google Health Terms of Service</a>, April 28, 2008</p>
+<p>[3] A.I. Antón. <a href="http://theprivacyplace.org/2007/10/is-that-vault-really-protecting-your-privacy/">Is That Vault Really Protecting Your Privacy?</a>, ThePrivacyPlace.org Blog, October 9, 2007.</p>
+<p>[4] <a href="http://www.google.com/support/health/bin/request.py">Google Health Help Center Contacting Support</a> page.</p>
+<p>[5] <a href="http://www.google.com/support/health/bin/request.py?contact_type=privacy">Google Health Help Center Contact Us</a> [Question about privacy] page.</p>
+<p>[6] <a href="http://www.google.com/support/bin/request.py?form_type=user&#038;stage=fm&#038;user_type=user&#038;contact_type=privacy&#038;hl=en">Google Web Search Help Center</a>.</p>
+<p>[7] <a href="http://www.chcf.org/topics/view.cfm?itemID=115694">National Consumer Health Privacy Survey</a>, California Health Care Foundation, 2005.</p>
+<p>[8] <a href="http://www.google.com/privacypolicy.html">Google Privacy Policy</a>, October 14, 2005.</p>
+<p>[9] <a href="https://www.google.com/health/html/privacy.html">Google Health Privacy Policy</a>, no date provided.</p>
+<p>[10] <a href="https://www.google.com/health/html/faq.html">Google Health Frequently Asked Questions</a>, no date provided.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2008/06/are-google-healths-privacy-practices-healthy/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>ThePrivacyPlace Construction</title>
+		<link>http://theprivacyplace.org/2008/05/theprivacyplace-construction/</link>
+		<comments>http://theprivacyplace.org/2008/05/theprivacyplace-construction/#comments</comments>
+		<pubDate>Thu, 22 May 2008 16:05:37 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[The Privacy Place News]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/blog/?p=162</guid>
+		<description><![CDATA[ThePrivacyPlace is pleased to announce that we are moving to a new hosting provider and will be revamping our site to make it more informative.  Please bear with us as we work to provide better service!
+]]></description>
+			<content:encoded><![CDATA[<p>ThePrivacyPlace is pleased to announce that we are moving to a new hosting provider and will be revamping our site to make it more informative.  Please bear with us as we work to provide better service!</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2008/05/theprivacyplace-construction/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Online Behavioral Advertising</title>
+		<link>http://theprivacyplace.org/2008/04/online-behavioral-advertising/</link>
+		<comments>http://theprivacyplace.org/2008/04/online-behavioral-advertising/#comments</comments>
+		<pubDate>Fri, 11 Apr 2008 02:32:36 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[The Privacy Place News]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2008/04/10/online-behavioral-advertising/</guid>
+		<description><![CDATA[ThePrivacyPlace.org is pleased to announce that Peter Swire, a law professor at Ohio State University, and Annie Antón, a computer science professor at North Carolina State University, have co-authored comments to the Federal Trade Commission regarding Online Behavioral Advertising.  The FTC has requested comments for its Proposed Self-Regulatory Principles for Online Behavioral Advertising.  [...]]]></description>
+			<content:encoded><![CDATA[<p>ThePrivacyPlace.org is pleased to announce that <a href="http://www.peterswire.net/">Peter Swire</a>, a law professor at Ohio State University, and <a href="http://www.csc.ncsu.edu/faculty/anton">Annie Antón</a>, a computer science professor at North Carolina State University, have co-authored comments to the Federal Trade Commission regarding Online Behavioral Advertising.  The FTC has requested comments for its <a href="http://www.ftc.gov/opa/2007/12/principles.shtm">Proposed Self-Regulatory Principles for Online Behavioral Advertising</a>.  Professor Swire and Professor Antón&#8217;s comments examine the technical steps necessary to achieve consumer control.  <a href="http://www.americanprogress.org/issues/2008/04/swire_anton_testimony.html">Their comments are available on the Center for American Progress website</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2008/04/online-behavioral-advertising/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>ThePrivacyPlace.org Launches New Privacy Policy</title>
+		<link>http://theprivacyplace.org/2008/02/theprivacyplaceorg-launches-new-privacy-policy/</link>
+		<comments>http://theprivacyplace.org/2008/02/theprivacyplaceorg-launches-new-privacy-policy/#comments</comments>
+		<pubDate>Wed, 06 Feb 2008 03:30:15 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[The Privacy Place News]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2008/02/05/theprivacyplaceorg-launches-new-privacy-policy/</guid>
+		<description><![CDATA[ThePrivacyPlace.org is pleased to announce that our latest privacy policy has gone live.  You can see the new privacy policy here.  You may also be interested in seeing a summary of changes from our previous version or perhaps older versions of the privacy policy.
+]]></description>
+			<content:encoded><![CDATA[<p>ThePrivacyPlace.org is pleased to announce that our latest privacy policy has gone live.  You can see the <a href="http://theprivacyplace.org/privacy-policy/">new privacy policy here</a>.  You may also be interested in seeing a <a href="http://theprivacyplace.org/privacy-policy/privacy-policy-changes-effective-25-august-2007/">summary of changes from our previous version</a> or perhaps <a href="http://theprivacyplace.org/privacy-policy/#revisions">older versions of the privacy policy</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2008/02/theprivacyplaceorg-launches-new-privacy-policy/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>ThePrivacyPlace.org Authentication Technologies Survey Still Available</title>
+		<link>http://theprivacyplace.org/2008/01/theprivacyplaceorg-authentication-technologies-survey-still-available/</link>
+		<comments>http://theprivacyplace.org/2008/01/theprivacyplaceorg-authentication-technologies-survey-still-available/#comments</comments>
+		<pubDate>Tue, 29 Jan 2008 01:08:16 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[The Privacy Place News]]></category>
+
+		<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2008/01/28/theprivacyplaceorg-authentication-technologies-survey-still-available/</guid>
+		<description><![CDATA[Researchers at ThePrivacyPlace.Org are still conducting an online survey about individuals’ experience with and perceptions of authentication technologies. The survey was released last August and is supported by an NSF ITR grant (National Science Foundation Information Technology Research).  Your participation will help us with our investigations regarding digital identities. It will take about 15 [...]]]></description>
+			<content:encoded><![CDATA[<p>Researchers at ThePrivacyPlace.Org are still conducting an online survey about individuals’ experience with and perceptions of authentication technologies. The survey was <a href="http://theprivacyplace.org/2007/08/14/theprivacyplaceorg-authentication-technologies-survey/">released last August</a> and is supported by an NSF ITR grant (National Science Foundation Information Technology Research).  Your participation will help us with our investigations regarding digital identities. It will take about 15 to 20 minutes to complete the survey.</p>
+<p>As a way of saying thank you for taking the time to complete our survey, we are also offering the chance to enter a drawing for one of two $50 Amazon gift certificates.</p>
+<p>The URL is: <a href="http://www.theprivacyplace.org/current-survey/">http://www.theprivacyplace.org/current-survey/</a></p>
+<p>The results will be posted on ThePrivacyPlace.org later in 2008.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2008/01/theprivacyplaceorg-authentication-technologies-survey-still-available/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Data Privacy Day</title>
+		<link>http://theprivacyplace.org/2008/01/data-privacy-day/</link>
+		<comments>http://theprivacyplace.org/2008/01/data-privacy-day/#comments</comments>
+		<pubDate>Sat, 26 Jan 2008 19:30:26 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[The Privacy Place News]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2008/01/26/data-privacy-day/</guid>
+		<description><![CDATA[Coinciding with the Duke Law School Data Privacy Conference, this Monday, January 28th, is officially Data Privacy Day by proclamation of the Governor of North Carolina.  Please take the day to raise awareness and educate your colleagues about the importance of data privacy in all areas of information technology.  Alternatively, as Governor Easley, [...]]]></description>
+			<content:encoded><![CDATA[<p>Coinciding with the <a href="http://theprivacyplace.org/2007/12/17/upcoming-duke-law-school-data-privacy-conference/">Duke Law School Data Privacy Conference</a>, this Monday, January 28th, is officially <a href="http://www.governor.state.nc.us/News/Proclamations/Default.asp">Data Privacy Day by proclamation of the Governor of North Carolina</a>.  Please take the day to raise awareness and educate your colleagues about the importance of data privacy in all areas of information technology.  Alternatively, as Governor Easley, suggests you can &#8220;observe the day with appropriate ceremonies and activities that promote awareness of data privacy.&#8221;  <img src='http://theprivacyplace.org/blog/wp-includes/images/smilies/icon_smile.gif' alt=':-)' class='wp-smiley' /></p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2008/01/data-privacy-day/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Upcoming Duke Law School Data Privacy Conference</title>
+		<link>http://theprivacyplace.org/2007/12/upcoming-duke-law-school-data-privacy-conference/</link>
+		<comments>http://theprivacyplace.org/2007/12/upcoming-duke-law-school-data-privacy-conference/#comments</comments>
+		<pubDate>Tue, 18 Dec 2007 03:57:07 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[The Privacy Place News]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2007/12/17/upcoming-duke-law-school-data-privacy-conference/</guid>
+		<description><![CDATA[On Monday January 28, 2008, the Duke University School of Law will be sponsoring Data Privacy in Transatlantic Perspective: Conflict or Cooperation?  The event will focus on the privacy differences between the United States and Europe.  The all-day conference will include internationally recognized privacy experts from government and industry discussing the history of [...]]]></description>
+			<content:encoded><![CDATA[<p>On Monday January 28, 2008, the Duke University School of Law will be sponsoring <a href="http://www.jhfc.duke.edu/ces/index.html">Data Privacy in Transatlantic Perspective: Conflict or Cooperation?</a>  The event will focus on the privacy differences between the United States and Europe.  The all-day conference will include internationally recognized privacy experts from government and industry discussing the history of privacy, consumer privacy concerns, national security as it affects privacy and how global data flows interact with national privacy standards.  <a href="http://www.csc.ncsu.edu/faculty/anton">Dr. Annie Antón</a>, director of <a href="http://theprivacyplace.org">ThePrivacyPlace.org</a>, will be a panelist on panel 2: Consumer Privacy through Notice and Consent.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2007/12/upcoming-duke-law-school-data-privacy-conference/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>VentureBeat and ZDNet comment on HealthVault</title>
+		<link>http://theprivacyplace.org/2007/10/venturebeat-and-zdnet-comment-on-healthvault/</link>
+		<comments>http://theprivacyplace.org/2007/10/venturebeat-and-zdnet-comment-on-healthvault/#comments</comments>
+		<pubDate>Tue, 23 Oct 2007 18:18:52 +0000</pubDate>
+		<dc:creator>Aaron Massey</dc:creator>
+		
+		<category><![CDATA[HIPAA]]></category>
+
+		<category><![CDATA[Technologies]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2007/10/23/venturebeat-and-zdnet-comment-on-healthvault/</guid>
+		<description><![CDATA[Our recent coverage of HealthVault has received some attention from other news outlets.
+VentureBeat author David P. Hamilton has been covering HealthVault.  He began with an attempt to review HealthVault that ended in frustration attempting to register a password.  His next post was a review of HealthVault itself.  Recently he posted his thoughts [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://theprivacyplace.org/2007/10/09/is-that-vault-really-protecting-your-privacy/">Our recent coverage of HealthVault</a> has received some attention from other news outlets.</p>
+<p><a href="http://venturebeat.com/">VentureBeat</a> author David P. Hamilton has been covering <a href="http://www.healthvault.com/">HealthVault</a>.  He began with an attempt to review HealthVault that <a href="http://venturebeat.com/2007/10/04/microsoft-launches-healthvault-its-bid-to-manage-your-health-records/">ended in frustration attempting to register a password</a>.  His next post was a <a href="http://venturebeat.com/2007/10/04/microsofts-healthvault-puts-your-medical-records-online-and-in-your-hands-sort-of/">review of HealthVault itself</a>.  Recently he <a href="http://venturebeat.com/2007/10/14/does-microsofts-healthvault-really-protect-your-privacy/">posted his thoughts</a> regarding our coverage of HealthVault.</p>
+<p>Our comments also <a href="http://healthcare.zdnet.com/?p=346">received some attention from Dana Blankenhorn</a> at <a href="http://www.zdnet.com/">ZDNet</a>.  Robin Harris, another ZDNet author, believes that <a href="http://blogs.zdnet.com/storage/?p=208">HealthVault is a sick joke</a>.  ZDNet also has <a href="http://content.zdnet.com/2346-12558_22-168270-1.html">some screenshots of HealthVault in action</a> for those who may not have the time to play around with the site themselves.  ZDNet also has a news article about <a href="http://news.zdnet.com/2100-9595_22-6211575.html">Microsoft&#8217;s efforts to get health records online</a>.</p>
+<p>All of the articles are well worth reading if you are concerned about the privacy implications of electronic health records.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2007/10/venturebeat-and-zdnet-comment-on-healthvault/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Is That Vault Really Protecting Your Privacy?</title>
+		<link>http://theprivacyplace.org/2007/10/is-that-vault-really-protecting-your-privacy/</link>
+		<comments>http://theprivacyplace.org/2007/10/is-that-vault-really-protecting-your-privacy/#comments</comments>
+		<pubDate>Tue, 09 Oct 2007 04:23:26 +0000</pubDate>
+		<dc:creator>Annie Antón</dc:creator>
+		
+		<category><![CDATA[HIPAA]]></category>
+
+		<category><![CDATA[Legislation]]></category>
+
+		<category><![CDATA[Privacy Policies]]></category>
+
+		<category><![CDATA[Technologies]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2007/10/09/is-that-vault-really-protecting-your-privacy/</guid>
+		<description><![CDATA[Last week, Microsoft announced a new PHR (Patient Health Records) system called HealthVault.  HealthVault is a web-based portal that enables end-users to upload their health records on the web.  Unfortunately, what people don’t realize is that HealthVault and similar PHR systems are not subject to or governed by law. When the Health Insurance [...]]]></description>
+			<content:encoded><![CDATA[<p>Last week, Microsoft announced a new PHR (Patient Health Records) system called HealthVault.  <a href="http://www.healthvault.com/" target="_blank">HealthVault</a> is a web-based portal that enables end-users to upload their health records on the web.  Unfortunately, what people don’t realize is that HealthVault and similar PHR systems are not subject to or governed by law. When the Health Insurance Portability and Accountability Act (HIPAA) was enacted, we did not envision that private software firms would eventually want to create databases for our health records. As a result, HealthVault and other PHR systems are not subject to the same privacy and security laws to which traditional medical records are subject to in the United States because they are not “covered entities” as specified in the HIPAA.</p>
+<p>Over the course of the past 7 years, researchers at <a href="http://www.theprivacyplace.org/" target="_blank">ThePrivacyPlace.org</a> have evaluated over 100 privacy statements for financial and healthcare web portals.   In addition, we focus on evaluating the extent to which the privacy of sensitive information is protected in these systems as well as the extent to which system comply with relevant regulations.</p>
+<p>Even though physicians and the press are excited about the introduction of these new PHR systems [1], there are questions that I urge the public to ask before entrusting their sensitive health records to any PHR system.  My concerns are based on a careful evaluation of the HealthVault privacy statements [2, 3].  Microsoft appears to have sought the counsel of physicians who believe that patient consent is the best indicator of privacy protections.  Unfortunately, most physicians do not understand the subtleties buried within healthcare privacy statements within the context of the software that implements those statements.  For this reason, I now list three primary questions that one should ask before entrusting their health records to HealthVault or any other PHR system:</p>
+<p><em>Will your health information be stored in other countries without appropriate legal oversight, skirting many of the protections afforded by the HIPAA?</em></p>
+<p style="margin-left:20px;">The HealthVault privacy statement explicitly states that your health records may be off-shored to countries that do not afford the same privacy protections for sensitive information that we do in the United States. In particular, if information is disclosed or altered, do you have any legal recourse or remedy?</p>
+<p><em>Will your health care records be merged with other personal information about you that was previously collected within the context of non-health related services?</em></p>
+<p style="margin-left:20px;">Within the context of HealthVault, the answer to this question is yes.  Microsoft explicitly states that they will merge the information they have previously collected from you via non-health related services with your HealthVault information.  Moreover, it is unclear what information Microsoft already has about us other than our names and contact information and precisely what information third parties may access. Furthermore, we don&#8217;t know if that information is accurate or complete. Thus, use of the merged information may not be what we expect.</p>
+<p><em>Are the access controls to your health records based not only on your consent, but also on the principle of least privilege?</em></p>
+<p style="margin-left:20px;">Although HealthVault requires patient consent for any accesses and sharing of your health records, access controls leave the door wide open for data breaches.  HealthVault enables individuals to grant access to other people and programs that can further grant read/write access to your health record.  The only safeguard is a history mechanism to provide an accounting of accesses if you suspect that your information has been breached after the fact.   A better approach would be for Microsoft to proactively enforce contractual obligations via audits and monitoring mechanisms.</p>
+<p>The hype surrounding HealthVault’s privacy protections among those in the medical community must be balanced with the reality of the information security and privacy practice expressed in its public privacy statements.   It is critical to address these privacy concerns in the design of PHR systems before we deploy them with vulnerabilities that will ultimately lead to yet another rash of data breaches.</p>
+<p><strong>References</strong></p>
+<p>[1] Steve Lohr. <a href="http://www.nytimes.com/2007/10/04/technology/04nd-soft.html?_r=1&#038;oref=slogin" target="_blank">Microsoft Rolls Out Personal Health Records</a>, New York Times, 4 October 2007.</p>
+<p>[2] <a href="http://www.healthvault.com/SearchPrivacy" target="_blank">Microsoft HealthVault Search and HealthVault.com Beta Version Privacy Statement</a>, October 2007.</p>
+<p>[3] <a href="http://www.healthvault.com/privacy" target="_blank">Microsoft HealthVault Beta Version Privacy Statement</a>, October 2007.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2007/10/is-that-vault-really-protecting-your-privacy/feed/</wfw:commentRss>
+		</item>
+		<item>
+		<title>Dr. Earp discusses privacy concerns in public records with Secretaries of State</title>
+		<link>http://theprivacyplace.org/2007/09/dr-earp-discusses-privacy-concerns-in-public-records-with-secretaries-of-state/</link>
+		<comments>http://theprivacyplace.org/2007/09/dr-earp-discusses-privacy-concerns-in-public-records-with-secretaries-of-state/#comments</comments>
+		<pubDate>Fri, 07 Sep 2007 20:09:35 +0000</pubDate>
+		<dc:creator>The Privacy Place</dc:creator>
+		
+		<category><![CDATA[The Privacy Place News]]></category>
+
+		<guid isPermaLink="false">http://theprivacyplace.org/2007/09/07/dr-earp-discusses-privacy-concerns-in-public-records-with-secretaries-of-state/</guid>
+		<description><![CDATA[Dr. Julie Earp, associate professor of information systems at NC State’s College of Management and member of ThePrivacyPlace.org, recently discussed privacy and information security concerns with the National Association of Secretaries of State.  Topics included redaction of Social Security Numbers and other identifiers as well as the security implications of electronic public records.  [...]]]></description>
+			<content:encoded><![CDATA[<p><a href="http://www4.ncsu.edu/%7ejbearp/">Dr. Julie Earp</a>, associate professor of information systems at NC State’s College of Management and member of ThePrivacyPlace.org, recently discussed privacy and information security concerns with the National Association of Secretaries of State.  Topics included redaction of Social Security Numbers and other identifiers as well as the security implications of electronic public records.  For more information, see the <a href="http://mgt.ncsu.edu/news/2007/faculty_earp_redactSecState.php">news article from the North Carolina State College of Management</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>http://theprivacyplace.org/2007/09/dr-earp-discusses-privacy-concerns-in-public-records-with-secretaries-of-state/feed/</wfw:commentRss>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,11 @@
+GET /firefox?client=firefox-a&rls=org.mozilla:en-US:official HTTP/1.1
+Host: en-us.start2.mozilla.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9b5) Gecko/2008032619 Firefox/3.0b5
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: __utma=183859642.1058254972.1177989980.1207197918.1208156624.11
+

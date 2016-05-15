@@ -1,0 +1,9 @@
+GET /__utm.gif?utmwv=1.3&utmn=476717754&utmcs=ISO-8859-1&utmsr=1920x1200&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=9.0%20r124&utmdt=PHD%20Comics%3A%20Only%20when%20you%20don't%20need%20them&utmhn=www.phdcomics.com&utmhid=598864633&utmr=-&utmp=/comics.php?n=1045&utmac=UA-350926-1&utmcc=__utma%3D180107493.4005672680921627600.1211429766.1216492615.1216691540.13%3B%2B__utmz%3D180107493.1211429768.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.phdcomics.com/comics.php?n=1045
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.google-analytics.com
+

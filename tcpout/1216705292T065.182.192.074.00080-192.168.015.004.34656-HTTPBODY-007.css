@@ -1,0 +1,184 @@
+html, body{margin:0;padding:0;height:100%;}
+body {
+	text-align:center;
+	background:#858eb9 url(images/imgBgMain.jpg) repeat-x;color:#000;
+	margin-top:20px;
+	font:normal 70%/125% Verdana, Arial, Helvetica, sans-serif;
+}
+
+*{margin:0;padding:0;}
+table{padding:0;margin:0;border:0;}
+
+h3{font:bold 1.4em/100% "Trebuchet MS", Verdana, sans-serif;color:#153495;text-decoration:none;padding:0 .3em;margin:0;margin-top:-3px;margin-bottom:.5em;}
+h4{font:bold 1.1em/130%  Verdana, Arial, Helvetica, sans-serif;text-decoration: none;padding:0 .3em;margin:0;margin-top:-3px;}
+
+/* top text */
+#cityGuideTop h1, #cityGuideTop h2{font: normal 90%/135% Verdana, Arial, Helvetica, sans-serif;padding: 0px 5px;}
+td{vertical-align:top;}
+
+/* -- white background    -------------------------------------------------------------- */	
+#container{width:80%;margin:1% auto;height:100%;}
+
+#topNavLeft{background:url(images/imgTopBgMain.gif) no-repeat left top;width:99%;height:120px;}
+#topNavRight{background:url(images/imgRightTopBg.gif) no-repeat right top;width:11px;height:120px;}
+
+#leftBg{background:url(images/imgLeftBg.gif) repeat-y;width:1%}	
+#rightBg{background:url(images/imgRightBg.gif) repeat-y right top;width:11px;}
+	
+#mainContent{
+line-height:normal;
+background-color:#fff;
+width:100%;height:100%;
+text-align:left;
+padding-right:5px;	
+}
+
+#contentTable{width:100%;margin:0;padding:0;border:0;height:100%;}
+
+/* -- bottom rounded corners -- */
+#bottomLeft{background:url(images/imgLeftBottomBg.gif) no-repeat;width:1%;}						
+#bottomRight{background:url(images/imgRightBottomBg.gif) no-repeat  right top;width:1%;}						
+#bottomCenter{background:url(images/imgBottomBg.gif) repeat-x;}						
+/* -- bottom rounded corners -- */
+/* -- white background    -------------------------------------------------------------- */
+/* --Flash  -------------------------------------------------------------- */
+#topNavFlash{margin:0;padding:0;z-index:77;position:relative;left:0;top:-20px ;width:500px;height:85px;margin-left:2px;}
+#flashContent p{margin:0;padding:0;z-index:77;position:relative;left:0;top:-20px ;width:500px;height:85px;margin-left:2px;font-size:11px;text-align:left;margin-left:95px;}
+#flashContent img {float:left;width:88px;}
+/* -- top navigation -------------------------------------------------------------- */
+#topNav{
+margin:0;margin-top:-27px;margin-left:2px;
+padding: 5px 0px 0px 0px;
+position:relative;left:0;top:0;
+width:660px;height:26px;
+z-index:777;
+}
+#topNav li {margin:0;padding:0;display:inline;list-style-type:none;}
+#topNav a {
+float:left;
+line-height:14px;
+font-weight:bold;
+font-size:12px;
+padding:5px 12px 6px 4px;
+text-decoration:none;
+color:#fff;
+background:url(images/navBg.gif) no-repeat right top;
+}
+
+/*dynamic page location */
+body#homeNav #topNav a.homeNav,
+body#yellowPagesNav #topNav a.yellowPagesNav,
+body#artistNav #topNav a.artistNav,
+body#whiteNav #topNav a.whiteNav,
+body#eventsNav #topNav a.eventsNav,
+body#bandsNav #topNav a.bandsNav,
+#topNav a.active, #topNav a:hover {color:#0a1742;background: url(images/navDivHover.gif) no-repeat right top;}
+#topNav a.lastLink {
+float:left;
+line-height:14px;
+font-weight:bold;font-size: 12px;
+padding:5px 12px 6px 5px;
+text-decoration:none;
+color:#fff;background:url(images/navDivRight.gif) no-repeat right top;
+}
+
+body#classifiedsNav #topNav a.classifiedsNav, #topNav a.lastLink:hover {color:#0a1742;background: url(images/navDivRightHover.gif) no-repeat right top;}
+/* -- top navigation -------------------------------------------------------------- */
+/* -- green  navigation -------------------------------------------------------------- */		
+#bottomNav{margin:0;margin-top:-1px;padding: 0px;z-index:777;position:relative;left:7px;top:0;width:100%;height:10px;}		
+#bottomNav li {margin:0;padding:0;display:inline;list-style-type:none;}		
+#bottomNav a {float:left;padding:6px 5px;text-decoration:none;color:#fff;background:url(images/navBottom.gif) no-repeat right top;font:normal 85%/85% Verdana, Arial, Helvetica, sans-serif;}		
+#bottomNav a.active, #bottomNav a:hover {color:#0a1742;background: url(images/navBottom.gif) no-repeat right top;}		
+/* -- / green navigation /-------------------------------------------------------------- */
+/* -- advertise / nearby cities --- */
+.nearCities{margin:0;padding:0; font-size:10px;color:#4766c7;line-height:110%;}
+.nearCities a:link {color:#4766c7;text-decoration:none;}
+.nearCities a:visited {color:#4766c7;text-decoration:none;}
+.nearCities a:hover {color:#008900;text-decoration:none;}
+#citiesTd{padding-top:5px;}
+/* -- /advertise / nearby cities --- */	
+/* local toolbar */
+#toolBar{	
+color:#00008a;
+margin:0;padding:0;margin-top:-50px;
+height:25px;width:100px;
+background:url(images/imgToolbarArrow.gif) no-repeat left 80%;
+position:relative;left:87%;
+text-align:right;background-color:#FFF;
+}
+#toolBar a{margin:0;padding:0;font-size:10px;padding:15px 0 0 14px;}
+
+/*   / local toolbar */
+/* -------------- content  tables -------------------------------*/
+.contentTopBottom_ebf2e4{background-color:#ebf2ef;height:7px;width:99%;}
+.content_ebf2e4{background-color:#ebf2ef;width:99%;}
+.topLeft_ebf2e4{background:url(images/imgTopLeft_ebf2e4.gif) no-repeat left top; width:7px;height:7px;}
+.botLeft_ebf2e4{background:url(images/imgBotLeft_ebf2e4.gif) no-repeat left top; width:7px;height:7px;}
+.topRight_ebf2e4{background:url(images/imgTopRight_ebf2e4.gif) no-repeat right top; width:7px;height:7px;}
+.botRight_ebf2e4{background:url(images/imgBotRight_ebf2e4.gif) no-repeat right top; width:7px;height:7px;}
+
+.contentTopBottom_fffbb2{background-color:#fffbb2;height:7px;width:99%;}
+.content_fffbb2{background-color:#fffbb2;width:99%;}
+.topLeft_fffbb2{background:url(images/imgTopLeft_fffbb2.gif) no-repeat left top; width:7px;height:7px;}
+.botLeft_fffbb2{background:url(images/imgBotLeft_fffbb2.gif) no-repeat left top; width:7px;height:7px;}
+.topRight_fffbb2{background:url(images/imgTopRight_fffbb2.gif) no-repeat right top; width:7px;height:7px;}
+.botRight_fffbb2{background:url(images/imgBotRight_fffbb2.gif) no-repeat right top; width:7px;height:7px;}
+
+.contentTopBottom_cedfbb{background-color:#cedfbb;height:7px;width:99%;}
+.content_cedfbb{background-color:#cedfbb;width:99%;}
+.content_cedfbb p {padding:5px;}
+.topLeft_cedfbb{background:url(images/imgTopLeft_cedfbb.gif) no-repeat left top; width:7px;height:7px;}
+.botLeft_cedfbb{background:url(images/imgBotLeft_cedfbb.gif) no-repeat left top; width:7px;height:7px;}
+.topRight_cedfbb{background:url(images/imgTopRight_cedfbb.gif) no-repeat right top; width:7px;height:7px;}
+.botRight_cedfbb{background:url(images/imgBotRight_cedfbb.gif) no-repeat right top; width:7px;height:7px;}
+
+/* table widths */
+#centerWidth{width:60%;height:100%;}
+#centerWidthB{width:80%;height:100%;}
+
+#leftWidth_f1e9d2 {width:195px;height:98%;border-right:5px solid #fff;background-color: #f1e9d2}
+.leftBotWidth_f1e9d2{background-color:#f1e9d2;border-right:5px solid white;height:12px;}
+
+#rightWidth_f1e9d2 {width:195px;height:98%;border-left:5px solid #fff;background-color: #f1e9d2}
+.rightBotWidth_f1e9d2{background-color:#f1e9d2;border-left:5px solid white;height:12px;}
+
+#leftWidth_ebf2e4 {width:20%;height:99%;border-left:5px solid #fff;background-color: #ebf2e4}
+.leftWidth_ebf2e4{background-color:#ebf2e4;border-left:5px solid white;height:12px;}
+
+#rightWidth_ebf2e4 {width:20%;height:99%;border-left:5px solid #fff;background-color:#ebf2e4;}
+.rightBotWidth_ebf2e4{background-color:#ebf2e4;border-left:5px solid white;height:12px;}
+
+.table50{width:100%;height:49%;}
+.table100{width:100%;height:99%;}
+.spaceTop5{margin-top:5px;}
+.spaceBottom5{margin-bottom:5px;}
+.wide100{width:100%;}
+.high100{height:100%;}
+
+.whiteTopBorder{border-top:5px solid #fff;}
+.whiteBotBorder{border-bottom:5px solid #fff;}
+.whiteTopBotBorder{border-top:5px solid #fff;border-bottom:5px solid #fff;}
+
+/* -------------- content  tables -------------------------------*/
+/* yellow pages */
+.yellowPages{width:100%;padding:0;}
+.yellowPages form{margin:0;padding:5px;	}
+.textBox{width:165px;}
+.selectBox{width:170px;}
+.btnYellowPagesSearch{text-align:center;margin: .5em 25% 0 22%;width:55px;}						
+.yellowPages label, .yellowPages input, .yellowPages select {display:block;float:left;margin-bottom: 5px;font:normal 90%/125% Verdana, Arial, Helvetica, sans-serif;}
+.yellowPages  br {clear:left;} 
+.yellowPages h4{padding:0 4px 3px 5px;font:bold 11px/115% Verdana, Arial, Helvetica, sans-serif;}
+.yellowPages p {padding:0 4px 3px 3px;font:normal 11px/115% Verdana, Arial, Helvetica, sans-serif;}										
+.yellowPages a {color:#00008a;background:url(images/liGreenArrow.gif) no-repeat left 60%;padding-left:7px;}
+.yellowPages a:link {color:#00008a;text-decoration:none;}
+.yellowPages a:visited {color:#00008a;text-decoration:none;}
+.yellowPages a:hover {color:#008900;text-decoration:none;}									
+/* /yellow pages */
+/* ---- floats */
+.floatRight{float:right;}
+.floatLeft{float:left}
+.botImage{border:0;margin-bottom:-7px;}
+.greenArrow{margin-left:1em;list-style-type:none;line-height:1.5em;}
+.greenArrow li a{color:#00008a;background:url(images/liGreenArrow.gif) no-repeat left 60%;padding-left:7px;text-decoration:none;}
+.noPrint{display:none;}

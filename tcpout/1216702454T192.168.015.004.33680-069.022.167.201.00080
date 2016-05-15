@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=E58DE354C64BFA918A42E1158C084304&CDDBMuiID=773169&an=Georg%20Friedrich%20H%C3%A4ndel%20(1685-1759)&pn=Orlando%20(ext)%20-%20William%20Christie%20-%20Les%20Arts%20Florissants HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: BFEA099F-FEFF151C555BB1E3CEF68452F2AA0A07
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

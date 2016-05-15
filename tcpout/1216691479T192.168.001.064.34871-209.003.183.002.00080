@@ -1,0 +1,32 @@
+GET /i/20/460988031/08wk30_toms_a3.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko)
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: f.e.drugstore.com
+
+GET /i/20/460988031/drugstore-logo-192-45.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko)
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: f.e.drugstore.com
+
+GET /i/20/460988031/leaf.GIF HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko)
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: f.e.drugstore.com
+
+GET /i/20/460988031/08wk30_toms_a1.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko)
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: f.e.drugstore.com
+

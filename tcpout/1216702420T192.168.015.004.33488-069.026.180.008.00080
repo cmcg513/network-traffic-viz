@@ -1,0 +1,10 @@
+GET /images/G/01/x-locale/communities/tags/your-tags-285347.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/gp/product/0345494997/ref=s9wishf_r3_at-rfc_g1?ie=UTF8&coliid=I2SBUL0HF19IZ7&colid=28H4EU3E4I35K&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=right-1&pf_rd_r=0VBJJK4TJGD3QP4XYRFA&pf_rd_t=101&pf_rd_p=280762101&pf_rd_i=507846
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Tue, 01 Jul 2008 11:19:12 GMT
+Connection: keep-alive
+Host: z-ecx.images-amazon.com
+

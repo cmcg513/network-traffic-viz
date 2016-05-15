@@ -1,0 +1,6 @@
+document.write('<iframe scrolling=\"no\" marginwidth=\"0\" marginheight=\"0\" frameborder=\"0\" height=\"150\" width=\"180\" src=\"http://ad.yieldmanager.com/iframe3?WaUDACNyBQDEmQ4A1-wEAAIAAkoAAP8AAAACFgIADwKTrgEASlIHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP..yzwcquI.mpmZmZmZ8T...8s8HKriP5qZmZmZmfE.AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArfN1vVJNzgQNGiR6TgAPnlXR9JhnHDNYClLgIAAAAAA=,http://us.ard.yahoo.com/SIG=14sh3kps8/M=674272.12805016.13083907.8781275/D=news/S=8903239:REC/_ylt=AmYRl9ALEzHzhMhJYJ9yn7ZH2ocA/Y=YAHOO/EXP=1216709869/L=wp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj/B=p51hANj8fbY-/J=1216702669777136/A=5406810/R=0/*$,http://news.yahoo.com/s/ap/20080722/ap_on_re_us/wiesel_accosted\"></iframe>');
+var rm_data = new Object();
+rm_data.creative_id = 956868;
+rm_data.offer_type = 19;
+rm_data.entity_id = 56119;
+if (window.rm_crex_data) {rm_crex_data.push(956868);}

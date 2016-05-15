@@ -1,0 +1,10 @@
+GET /879366/flashwrite_1_2.js HTTP/1.1
+Accept: */*
+Referer: http://ad.doubleclick.net/adi/abt.compute/compute_email;svc=;site=email;t=14;bt=1;bts=1;pc=1;auc=1;fd=0;fs=0;sp2=1;gr=http%3A//email.about.com/od/anonymousemail/Send_Anonymous_Email_Messages.htm;go=9;a=;sbj=anonymousemail;kw=;chan=compute;syn=about;tile=1;r=1;u=|14;dcopt=ist;sz=728x90;ord=187M63Y06OkWA055625736
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 06 Mar 2006 22:04:39 GMT; length=801
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: m1.2mdn.net
+Connection: Keep-Alive
+

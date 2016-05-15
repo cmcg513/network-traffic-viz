@@ -1,0 +1,20 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+p3p: policyref="http://www.specificmedia.com/w3c/p3p.xml",  CP="NON DSP COR ADM DEV PSA PSD IVA OUT BUS STA"
+Set-Cookie: dmc=7r4-ijOCnU.26mcqJwLi2Y8Lv; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 05:59:04 GMT; Path=/
+Set-Cookie: dmk=7r4-ijOCnU; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 05:59:04 GMT; Path=/
+Set-Cookie: smc=7r4-ijOCnU.26mcqJwLi2Y8Lv; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 05:59:04 GMT; Path=/
+Set-Cookie: smk=7r4-ijOCnU; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 05:59:04 GMT; Path=/
+Set-Cookie: dmp=; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 05:59:04 GMT; Path=/
+Set-Cookie: smk=7r4-ijOCnU; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 05:59:04 GMT; Path=/
+Set-Cookie: apfe=0^26mc; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 05:59:04 GMT; Path=/
+Content-Type: text/html
+Transfer-Encoding: chunked
+Date: Tue, 22 Jul 2008 05:59:03 GMT
+
+c7
+var chunkCount=0;var cxt_str = "";
+document.write("<SCRI"+"PT SRC='http://adopt.specificclick.net/adopt.sm?l=808551479&sz=300x250&rnd=22521&r=j&cxt="+cxt_str+"&kw=&smuid=7r4-ijOCnU'></SCRI"+"PT>");
+
+0
+

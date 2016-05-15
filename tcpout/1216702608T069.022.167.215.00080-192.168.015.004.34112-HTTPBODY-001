@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r40/Music/c9/99/d1/mzi.vavnrdbn.enc.jpg?downloadKey2=1217307432_01417c99bd999fa5393a32e5f1c11d45</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Alison Moyet</string>
+    <key>playlistName</key><string>Alison Moyet: Singles</string>
+    <key>artistId</key><string>548342</string>
+    <key>playlistId</key><string>267229237</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

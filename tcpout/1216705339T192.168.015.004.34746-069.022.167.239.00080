@@ -1,0 +1,36 @@
+GET /cq/etc/media_library/hi/0/en/rti.Par.0017.Image.gif HTTP/1.1
+Host: images3.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?whichtype=room&roomResult=none&hotelCode=saccp&quickRes=city&_requestid=113467
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222
+
+GET /cq/etc/media_library/hi/0/en/rti.Par.0036.Image.gif HTTP/1.1
+Host: images3.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?whichtype=room&roomResult=none&hotelCode=saccp&quickRes=city&_requestid=113467
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222
+
+GET /cq/etc/media_library/cn/0/cn/icons.Par.0042.Image.gif HTTP/1.1
+Host: images3.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?whichtype=room&roomResult=none&hotelCode=saccp&quickRes=city&_requestid=113467
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222
+

@@ -1,0 +1,24 @@
+GET /cm?tid=1&ci=90081223%3B90086566&vn2=e4.0&st=1216705552303&vn1=4.0.23&ec=UTF-8&pi=advancedsearch&cg=hi/1/en&pv1=hi&pv2=1&pv3=en&pv14=PCRFaceplate%20Split%202%3A90112887_OLDPC&pv15=99502222&li=1&ps1=advancedsearch&ps2=Anonymous&rf=http%3A//www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch%3Fwhichtype%3Droom%26roomResult%3Dnone%26hotelCode%3Dsaccp%26quickRes%3Dcity%26_requestid%3D113467&ul=http%3A//www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp%3Fias%3Dy%26errorURL%3D/h/d/hi/1/en/advancedsearch%26availCheckCaching%3Dn%26_requestid%3D114716&lp=advancedsearch HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp?ias=y&errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=114716
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705552; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705552; 01AI=CT
+
+GET /cm?ci=90081223%3B90086566&st=1216705552303&vn1=4.0.23&ec=UTF-8&pi=advancedsearch&tid=10&ti=1216705596922&fo=pcLogin%3A0%3BlookupSingleReservationFaceplate%3A1%3BsearchForm%3A2%3B&ac=2%3AS&hr=/h/d/hi/1/en/advancedsearch%3FquickRes%3Dnull&fi=2%3A30%3AroomTypePreference%3B2%3A21%3Acity%3B2%3A22%3AstateId%3B HTTP/1.1
+Host: cls.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/rates/saccp?ias=y&errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=114716
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; CoreID6=30121216705363075120343; TestSess3=30121216705363075120343; 90081223_login=1216705363020139316290081223; 90081223_reset=1216705552; 90086566_login=1216705363020139316290086566; 90086566_reset=1216705552; 01AI=CT
+

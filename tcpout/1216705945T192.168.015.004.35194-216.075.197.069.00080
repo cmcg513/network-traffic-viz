@@ -1,0 +1,12 @@
+GET /dmm/servlet/view?trid=8099184125&trmagic=188495461&pid=12800&pp=0&cg=21&ms=21&comId=2137&parentMsgId=1094&msgCampId=1098&launch=1297&tid=1119&type=1&fid=101&promoId=6&sourceId=2&is_control=false&is_test=false&tz=420&mid=3190292984&impn=1&rfrh=8cb1a54a9fb73ab96a0adea61766508d&keyword_pd=%3Ckeyword_pd+keyword%3D%22Australian+Bag+Outfitters%22+%2F%3E HTTP/1.1
+Host: usadmm.dotomi.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://usadmm.dotomi.com/dmm/servlet/dmm?rurl=http%3A//ads.dotomi.com/ads.php%3Fpid%3D12800%26mtg%3D0%26ms%3D21%26btg%3D1%26mp%3D1%26dres%3Diframe%26rwidth%3D160%26rheight%3D600%26pp%3D0%26cg%3D21%26tz%3D420&pid=12800&dres=iframe&mtg=0&ms=21&btg=1&mp=1&rwidth=160&rheight=600&pp=0&cg=21&tz=420&cturl=[INSERT%20ENCODED%20CLICK%20URL%20HERE]
+Cookie: DotomiUser=394342388$305$327419919$cc18f03a-54c2-4b5f-bd84-a12b9c22d17f; DotomiSession_2137=2129267406$394342388$1216622146647; DotomiNet=1$CD8ubldiGTMGCWVfAgR8XQVae3IQKkMUBF5gQwwdInJna1dPWARBS1dOFktJSEBZbGVfdW5lUXJC
+

@@ -1,0 +1,18 @@
+GET /__utm.gif?utmwv=1.3&utmn=4308592&utmcs=windows-1252&utmsr=1050x778&utmsc=32-bit&utmul=en-us&utmje=1&utmfl=6.0%20r88&utmcn=1&utmhn=www.annoy.com&utmhid=216071941&utmr=-&utmp=/&utmac=UA-4847853-1&utmcc=__utma%3D27907948.4308592.1216706291.1216706291.1216706291.1%3B%2B__utmz%3D27907948.1216706291.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google-analytics.com
+Connection: Keep-Alive
+
+GET /__utm.gif?utmwv=1.3&utmn=2130330387&utmcs=windows-1252&utmsr=1050x778&utmsc=32-bit&utmul=en-us&utmje=1&utmfl=6.0%20r88&utmdt=annoy.com%20homepage&utmhn=www.annoy.com&utmhid=1935782013&utmr=0&utmp=/home.html&utmac=UA-4847853-1&utmcc=__utma%3D27907948.4308592.1216706291.1216706291.1216706291.1%3B%2B__utmz%3D27907948.1216706291.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B%2B HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google-analytics.com
+Connection: Keep-Alive
+

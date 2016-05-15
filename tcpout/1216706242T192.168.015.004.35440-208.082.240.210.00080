@@ -1,0 +1,55 @@
+GET /preview/ka/karygus/header_top_right_elg2.gif HTTP/1.1
+Host: imagehost.vendio.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://stores.ebay.com/Exclusive-Leather-Goods_W0QQfrsrcZ1QQfsubZ222693419QQtZkm
+
+GET /preview/ka/karygus/store_left.gif HTTP/1.1
+Host: imagehost.vendio.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://stores.ebay.com/Exclusive-Leather-Goods_W0QQfrsrcZ1QQfsubZ222693419QQtZkm
+
+GET /preview/ka/karygus/store_about_elg.gif HTTP/1.1
+Host: imagehost.vendio.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://stores.ebay.com/Exclusive-Leather-Goods_W0QQfrsrcZ1QQfsubZ222693419QQtZkm
+
+GET /preview/ka/karygus/store_shipping.gif HTTP/1.1
+Host: imagehost.vendio.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://stores.ebay.com/Exclusive-Leather-Goods_W0QQfrsrcZ1QQfsubZ222693419QQtZkm
+
+GET /preview/ka/karygus/store_stretch_elg.gif HTTP/1.1
+Host: imagehost.vendio.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://stores.ebay.com/Exclusive-Leather-Goods_W0QQfrsrcZ1QQfsubZ222693419QQtZkm
+

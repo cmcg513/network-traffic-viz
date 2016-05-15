@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=6204215F6481039142FE2FF33877B370&CDDBMuiID=1549710&an=Britten%20(Richard%20Hicox)&pn=Britten%3A%20Noye's%20Fludde%20op.59%20Seranade%20op.31 HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 378A104F-2A6366919E61518502E3924CE609027A
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

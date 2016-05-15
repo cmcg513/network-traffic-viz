@@ -1,0 +1,9 @@
+GET /2547-1_3-0-5.xml HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: XCLGFbrowser=Cg+IKEgx8iJDAQAAbg0; s_vsn_cnetnews_1=9844017666764; s_lastvisit=1214931660104
+Connection: keep-alive
+Host: news.cnet.com
+

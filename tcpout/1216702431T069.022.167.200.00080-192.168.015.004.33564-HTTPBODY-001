@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/5a/69/af/mzi.zafgjrxq.enc.jpg?downloadKey2=1217307255_3269e1e4677dfe06afe0001286b40505</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Classical Kids</string>
+    <key>playlistName</key><string>Mr. Bach Comes to Call</string>
+    <key>artistId</key><string>252181981</string>
+    <key>playlistId</key><string>252279047</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

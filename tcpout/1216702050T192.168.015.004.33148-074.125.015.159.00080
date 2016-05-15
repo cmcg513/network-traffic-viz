@@ -1,0 +1,9 @@
+GET /get_video?video_id=WaIR9dAZRR0&origin=lax-v258.lax.youtube.com&signature=AE8E8A7AADF8D80C72759FEC1F2423EAA0900E25.BF50346333BF687DFE5D5FA1AEF374ADE1068C3C&ip=70.134.91.12&ipbits=16&expire=1216723674&key=yt1&sver=2 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept-Encoding: gzip, deflate
+Referer: http://www.youtube.com/watch?v=WaIR9dAZRR0
+Accept: */*
+Accept-Language: en-us
+Connection: keep-alive
+Host: v6.cache.googlevideo.com
+

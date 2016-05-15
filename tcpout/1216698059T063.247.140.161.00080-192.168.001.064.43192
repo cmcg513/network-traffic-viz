@@ -1,0 +1,218 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 03:41:27 GMT
+Server: Apache/2.0.63 (Unix) mod_ssl/2.0.63 OpenSSL/0.9.7a mod_auth_passthrough/2.1 mod_bwlimited/1.4 FrontPage/5.0.2.2635 PHP/5.2.6
+Last-Modified: Fri, 18 Jul 2008 20:22:24 GMT
+ETag: "1b9cd17-3bce-1d95e000"
+Accept-Ranges: bytes
+Content-Length: 15310
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+   <channel>
+      <title>Haft of the Spear</title>
+      <link>http://haftofthespear.com/</link>
+      <description>ruminating on issues related to the pointy end</description>
+      <language>en</language>
+      <copyright>Copyright 2008</copyright>
+      <lastBuildDate>Fri, 18 Jul 2008 16:20:25 -0600</lastBuildDate>
+      <generator>http://www.sixapart.com/movabletype/</generator>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+            <item>
+         <title>silent running</title>
+         <description>Off to stalk and slay walleye for a week (read: catch no walleyes, but an annoying about of bluegill). </description>
+         <link>http://haftofthespear.com/2008/07/silent-running-2/</link>
+         <guid>http://haftofthespear.com/2008/07/silent-running-2/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Admin</category>
+        
+        
+         <pubDate>Fri, 18 Jul 2008 16:20:25 -0600</pubDate>
+      </item>
+            <item>
+         <title>proof of concept?</title>
+         <description><![CDATA[The people who pay for the widgets can't/not talking to the people who make the widgets: <a href="http://www.defensenews.com/story.php?i=3632342&c=AME&s=TOP">the guys who need to use widgets end up paying the price</a>. How could TT 2.0 fix this?
+
+<ul>
+<li>If legal interpretations are going to change with administrations, there can be no guarantee that formal sit-downs on problem programs, much less for general purposes will take place with regularity. This is a serious problem for efforts that run 5, 10 years or more. It negatively impacts trust, leads to communications breakdowns, which exacerbates current problems and creates new ones. TT 2.0 as an assembly of those with .mil and .com experience who can act as sounding board and honest broker ensures a stable and trusted comms path.</li>
+<li>In that honest broker role, TT 2.0 can serve as the "Gartner" or "Forrester" for defense (and perhaps later IC) offices and programs looking for advice and guidance on what tech or strategic paths to follow. Helps avoid falling victim to <a href="http://www.drunkendata.com/?p=1806 ">"nobody ever got fired"</a> syndrome.</li>
+<li>As a more accessible entity, TT 2.0 can also take into consideration practitioner and engineer input that would most likely be ignored by high-level panels. This is not about real or perceived corruption or temptation, but a more-minds-better-solutions thing. The filter from field to mahogany row can be severe.</li>
+</ul>
+
+No shortage of possible participants, and of course the technology is here, but the 800 lbs gorilla is how to pay for it. Mix of gov and corporate dollars (fixed and aggregated to reduce external influence) is one option. Now, if only we had a proponent . . .
+]]></description>
+         <link>http://haftofthespear.com/2008/07/proof-of-concept/</link>
+         <guid>http://haftofthespear.com/2008/07/proof-of-concept/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Think Tank 2.0</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">defense</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">industry</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">think tank 2.0</category>
+        
+         <pubDate>Fri, 18 Jul 2008 12:07:17 -0600</pubDate>
+      </item>
+            <item>
+         <title>get your prediction on II</title>
+         <description><![CDATA[Will a <a href="http://predict.groupintel.com/markets/13424">peace deal be reached between Israel and Palestine</a>, by the end of Bush's term?
+
+BTW: If you've got an idea for a market, you can create it on the site (pending admin approval). 
+]]></description>
+         <link>http://haftofthespear.com/2008/07/get-your-prediction-on-ii/</link>
+         <guid>http://haftofthespear.com/2008/07/get-your-prediction-on-ii/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Misc Bits</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">prediction</category>
+        
+         <pubDate>Fri, 18 Jul 2008 12:05:38 -0600</pubDate>
+      </item>
+            <item>
+         <title>because another czar will make all the difference</title>
+         <description><![CDATA[When one of your nat-sec advisors used to be the cyberterror czar, <a title="technewsworld: Obama Calls for Cyberterror Czar" href="http://www.technewsworld.com/story/63842.html">this is not surprising</a>.
+
+Given that "cyberterror" is actually un-terrifying, it makes more sense to try and tackle what terrorists are doing online: communicating and making money. In other words: cyber crime and the digital black globalization the enables it.
+
+ . . . Wow. Now that I put it that way, and given that we're on our third 5-year rota of "getting serious" about cyber crime, it kind of seems hopeless/pointless . . .
+
+Still waiting for the original thinking in this space. What is clear – at the risk of drawing a real/cyber world metaphor – is that the too-few Marshals to cover too much territory model of policing the wild frontier of cyber space isn't working. We can <a title="CCSA: Buccaneer.com – PDF)" href="http://www.cyberconflict.org/pdf/CCSAJournal.pdf">fight the digital hoard with a hoard of our own</a>, or we can let the brigands run roughshod over us and wonder why we ever left the old (analog) country.
+
+]]></description>
+         <link>http://haftofthespear.com/2008/07/because-another-czar-will-make/</link>
+         <guid>http://haftofthespear.com/2008/07/because-another-czar-will-make/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Information Security</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">cyber crime</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">cybersecurity</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">information security</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">policy</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">politics</category>
+        
+         <pubDate>Fri, 18 Jul 2008 05:53:31 -0600</pubDate>
+      </item>
+            <item>
+         <title>awfully slicc</title>
+         <description><![CDATA[Its <a href="http://www.washingtonpost.com/wp-dyn/content/article/2008/07/17/AR2008071703161.html?hpid=topnews">easy to make fun</a>, but at some point it would be prudent to note that at a certain level in any organization, travel time is not an excuse to catch up on (fitful) sleep or bust out the PSP, its just another opportunity to get some work done. Granted, there is your standard first class seating and then there is your <a href="http://www.emirates.com/us/english/flying/cabin_features/first_class/new_private_suites.aspx">flying private suite</a>, and I don't know that we should be reprogramming CT funds for this, but give a General a break. ;-)]]></description>
+         <link>http://haftofthespear.com/2008/07/awfully-slicc/</link>
+         <guid>http://haftofthespear.com/2008/07/awfully-slicc/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Defense</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">air force</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">defense</category>
+        
+         <pubDate>Fri, 18 Jul 2008 05:11:19 -0600</pubDate>
+      </item>
+            <item>
+         <title>good news</title>
+         <description><![CDATA[I forget the gov't doesn't work at the speed of Brown:
+
+<blockquote><p>The Office of the Director of National Intelligence (DNI) is pleased to confirm your attendance at the "DNI Open Source Conference 2008: Decision Advantage" at the Ronald Reagan Building in Washington, DC, on September 11-12, 2008.</p></blockquote>]]></description>
+         <link>http://haftofthespear.com/2008/07/good-news/</link>
+         <guid>http://haftofthespear.com/2008/07/good-news/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Admin</category>
+        
+        
+         <pubDate>Fri, 18 Jul 2008 04:55:57 -0600</pubDate>
+      </item>
+            <item>
+         <title>get your prediction on</title>
+         <description><![CDATA[<a href="http://predict.groupintel.com/markets/13384">Syria-Israel Peace Deal.</a>]]></description>
+         <link>http://haftofthespear.com/2008/07/get-your-prediction-on/</link>
+         <guid>http://haftofthespear.com/2008/07/get-your-prediction-on/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Misc Bits</category>
+        
+        
+         <pubDate>Thu, 17 Jul 2008 22:16:51 -0600</pubDate>
+      </item>
+            <item>
+         <title>on profiling</title>
+         <description><![CDATA[Airports, <a href="http://voxday.blogspot.com/2008/07/joys-of-vibrant-community.html">amusement parks</a>, no matter, its all wrong (right?).]]></description>
+         <link>http://haftofthespear.com/2008/07/on-profiling/</link>
+         <guid>http://haftofthespear.com/2008/07/on-profiling/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Security</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">security</category>
+        
+         <pubDate>Thu, 17 Jul 2008 12:06:06 -0600</pubDate>
+      </item>
+            <item>
+         <title>blog tank</title>
+         <description><![CDATA[Cheryl rings the bell for <a href="http://whirledview.typepad.com/whirledview/2008/07/blog-tank-natio.html">round two</a>. (H/T <a href="http://zenpundit.com/">Zen</a>)]]></description>
+         <link>http://haftofthespear.com/2008/07/blog-tank/</link>
+         <guid>http://haftofthespear.com/2008/07/blog-tank/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Think Tank 2.0</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">think tank 2.0</category>
+        
+         <pubDate>Thu, 17 Jul 2008 12:03:13 -0600</pubDate>
+      </item>
+            <item>
+         <title>pushing dust bunnies</title>
+         <description><![CDATA[Twice in the same week I find myself torn between wanting to applaud a fellow intelligence commentator and smack my forehead in frustration at their density. The latest voice from behind the curtain is Melvin Goodman, whose <a title="Baltimore Sun: Housecleaning time for the CIA" href=" http://www.baltimoresun.com/news/opinion/oped/bal-op.intel17jul17,0,4175001.story">op-ed in the Baltimore Sun</a> is a great example of a former practitioner who is stuck in a rut and wants us to believe he's blazing a trail.]]></description>
+         <link>http://haftofthespear.com/2008/07/pushing-dust-bunnies/</link>
+         <guid>http://haftofthespear.com/2008/07/pushing-dust-bunnies/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Intelligence</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">intelligence reform</category>
+        
+         <pubDate>Thu, 17 Jul 2008 05:48:50 -0600</pubDate>
+      </item>
+            <item>
+         <title>superempowered?</title>
+         <description><![CDATA[<a href="http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2008/07/14/BAOS11P1M5.DTL">Not an exceedingly common event</a>, but fairly regular and on varying scales in various industries. Now imagine a bunch of torqued-off expats from the sub-continent going disobedient on your info infrastructure because they aren't down with your foreign policy. Hmmmm.
+]]></description>
+         <link>http://haftofthespear.com/2008/07/superempowered/</link>
+         <guid>http://haftofthespear.com/2008/07/superempowered/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Technology</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">technology</category>
+        
+         <pubDate>Wed, 16 Jul 2008 12:07:39 -0600</pubDate>
+      </item>
+            <item>
+         <title>army CNO gets online</title>
+         <description><![CDATA[<a href="http://www.usacewp.blogspot.com/">Hooah!</a>]]></description>
+         <link>http://haftofthespear.com/2008/07/army-cno-gets-online/</link>
+         <guid>http://haftofthespear.com/2008/07/army-cno-gets-online/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Information Operations</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">computer network operations</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">information operations</category>
+                  <category domain="http://www.sixapart.com/ns/types#tag">information warfare</category>
+        
+         <pubDate>Wed, 16 Jul 2008 05:34:26 -0600</pubDate>
+      </item>
+            <item>
+         <title>annoyed</title>
+         <description>Buddy Matt recently vented about Apple&apos;s cr@p customer service. They&apos;re probably also providing the customer service for the DNI OSINT Conference. Helloooooo?! Little help at the registration desk please?</description>
+         <link>http://haftofthespear.com/2008/07/annoyed/</link>
+         <guid>http://haftofthespear.com/2008/07/annoyed/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Admin</category>
+        
+        
+         <pubDate>Tue, 15 Jul 2008 12:11:49 -0600</pubDate>
+      </item>
+            <item>
+         <title>blogroll addition</title>
+         <description><![CDATA[Meant to get <a href="http://lewisshepherd.wordpress.com/">Lewis Shepherd's blog up on the 'roll</a> ages ago . . . hey brother has bills to pay . . . baby needs a new pair of shoes . . .]]></description>
+         <link>http://haftofthespear.com/2008/07/blogroll-addition-2/</link>
+         <guid>http://haftofthespear.com/2008/07/blogroll-addition-2/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Admin</category>
+        
+        
+         <pubDate>Tue, 15 Jul 2008 12:10:18 -0600</pubDate>
+      </item>
+            <item>
+         <title>if you are not predicting the future . . .</title>
+         <description><![CDATA[. . . <a href="http://predict.groupintel.com">you're wrong</a>. Easy to set up, easy to participate, private, and it helps out a good friend (I wouldn't be blabbing on the 'tubes without him). ]]></description>
+         <link>http://haftofthespear.com/2008/07/if-you-are-not-predicting-the/</link>
+         <guid>http://haftofthespear.com/2008/07/if-you-are-not-predicting-the/</guid>
+                  <category domain="http://www.sixapart.com/ns/types#category">Misc Bits</category>
+        
+                  <category domain="http://www.sixapart.com/ns/types#tag">prediction</category>
+        
+         <pubDate>Tue, 15 Jul 2008 05:24:18 -0600</pubDate>
+      </item>
+      
+   </channel>
+</rss>

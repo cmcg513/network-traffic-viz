@@ -1,0 +1,2 @@
+GET http://www.vmware.com/noupdate.txt HTTP/1.0
+

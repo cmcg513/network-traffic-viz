@@ -1,0 +1,9 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 22 Jul 2008 07:24:45 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=C16BFAC8710DA82AB3D8D80AE0F4F05A; Path=/
+Location: http://www.willselfdestruct.com/secure/success
+Content-Length: 0
+Connection: close
+Content-Type: text/plain; charset=UTF-8
+

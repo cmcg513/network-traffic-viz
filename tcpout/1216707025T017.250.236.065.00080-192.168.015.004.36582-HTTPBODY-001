@@ -1,0 +1,82 @@
+
+    
+  <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/myAlerts" inhibitDragging="false" draggingName="My Alerts" target="main">
+    
+<View topInset="1">
+  <VBoxView height="17">
+    <View stretchiness="1"></View>
+    <HBoxView rightInset="8" leftInset="0">
+      <TextView topInset="0" truncation="right" leftInset="11" squishiness="1" styleSet="basic11" maxLines="1"><SetFontStyle normalStyle="normalTextFontStyle"><b>My Alerts</b></SetFontStyle></TextView>
+  <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/myAlerts" inhibitDragging="false" draggingName="My Alerts" target="main">
+    
+  </GotoURL>
+
+
+
+    </HBoxView>
+    <View bottomInset="1" stretchiness="1"></View>
+  </VBoxView>
+</View>
+
+  </GotoURL>
+
+
+
+
+
+
+
+    
+  <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/viewCMASeeAll" inhibitDragging="false" draggingName="Complete My Album" target="main">
+    
+<View topInset="1">
+  <VBoxView height="17">
+    <View stretchiness="1"></View>
+    <HBoxView rightInset="8" leftInset="0">
+      <TextView topInset="0" truncation="right" leftInset="11" squishiness="1" styleSet="basic11" maxLines="1"><SetFontStyle normalStyle="normalTextFontStyle"><b>Complete My Album</b></SetFontStyle></TextView>
+  <GotoURL url="http://phobos.apple.com/WebObjects/MZPersonalizer.woa/wa/viewCMASeeAll" inhibitDragging="false" draggingName="Complete My Album" target="main">
+    
+  </GotoURL>
+
+
+
+    </HBoxView>
+    <View bottomInset="1" stretchiness="1"></View>
+  </VBoxView>
+</View>
+
+  </GotoURL>
+
+
+
+
+
+
+
+    
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/iTunesPlusPage" inhibitDragging="false" draggingName="iTunes Plus" target="main">
+    
+<View topInset="1">
+  <VBoxView height="17">
+    <View stretchiness="1"></View>
+    <HBoxView rightInset="8" leftInset="0">
+      <TextView topInset="0" truncation="right" leftInset="11" squishiness="1" styleSet="basic11" maxLines="1"><SetFontStyle normalStyle="normalTextFontStyle"><b>iTunes Plus</b></SetFontStyle></TextView>
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/iTunesPlusPage" inhibitDragging="false" draggingName="iTunes Plus" target="main">
+    
+  </GotoURL>
+
+
+
+    </HBoxView>
+    <View bottomInset="1" stretchiness="1"></View>
+  </VBoxView>
+</View>
+
+  </GotoURL>
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=6C28165A5F052ED40337AC62A86C8076&CDDBMuiID=1590695&an=I%3A%20Allegro&pn=Andrej%20Gavrilov%20%2F%20Sir%20Neville%20Marriner%20%2F%20The%20Academy%20Of%20St.Martin%20In%20The%20Fields%20-%20Keyboard%20Concertos HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 233F6C14-9CF6AF25467298B7AEF7963F7073B12C
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

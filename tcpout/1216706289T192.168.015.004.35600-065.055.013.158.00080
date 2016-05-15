@@ -1,0 +1,6 @@
+HEAD /v7/windowsupdate/selfupdate/wuident.cab?0807220558 HTTP/1.1
+Accept: */*
+User-Agent: Windows-Update-Agent
+Host: www.update.microsoft.com
+Connection: Keep-Alive
+

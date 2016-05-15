@@ -1,0 +1,9 @@
+GET /ireport/sm/prod/2008/07/21/WE00047219/147177/Anon1216644063-OpenOurEyes678604_p2.jpg HTTP/1.1
+Referer: http://www.cnn.com/
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: i.cdn.turner.com
+

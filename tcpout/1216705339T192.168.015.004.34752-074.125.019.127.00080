@@ -1,0 +1,11 @@
+GET /__utm.gif?utmwv=1.3&utmt=var&utmn=1489369132&utmac=UA-1237384-11&utmcc=__utma%3D1.1574351283.1216705363.1216705363.1216705363.1%3B%2B__utmz%3D1.1216705363.1.1.utmccn%3D(referral)%7Cutmcsr%3Dsacramentohi.com%7Cutmcct%3D%2Freservations.aspx%7Cutmcmd%3Dreferral%3B%2B__utmv%3D1.anonymous_hi_1_en%3B HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/advancedsearch?whichtype=room&roomResult=none&hotelCode=saccp&quickRes=city&_requestid=113467
+

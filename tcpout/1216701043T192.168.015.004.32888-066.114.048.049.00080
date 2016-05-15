@@ -1,0 +1,9 @@
+GET /counter/counter_xhtml.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://web.mit.edu/newsoffice/2008/i-shoe-0716.html
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.statcounter.com
+

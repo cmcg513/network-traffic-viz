@@ -1,0 +1,438 @@
+<html>
+<head>
+<title>ImageGallery</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<style type="text/css">
+body  { overflow:hidden; text-align:center }
+
+a img { border:none }
+
+.BPbg{
+	background-color:#ffffff;
+}
+
+table.main { 
+  width:120px;
+  background-color:#ffffff;
+  border:1px solid #66BBFF; 
+  position:absolute;
+  left:0px; 
+  top:0px;
+}
+td {
+	font-family:Arial;
+	font-weight:normal;
+	color:#000000;
+	font-size:11px;
+}
+a.navigation{
+	font-family:Arial;
+	font-weight:normal;
+	color:#3366FF;
+	font-size:11px;
+}
+
+td.btnBack{
+	background: url("../../IGTemplates/IGTemplate4/images/bg-btn-bk.gif") no-repeat;
+}
+td.btnFwd{
+		background: url("../../IGTemplates/IGTemplate4/images/bg-btn-fw.gif") no-repeat;
+}
+td.numbers{
+	background-color:#CCEEFF;
+}
+td.thumbTD{background-color:#eee}
+
+</style>
+<script language="JavaScript">
+
+
+function GetTmb(num){var imgArr=BigPictures[num].split('_');var s=BigPictures[num];s=imgArr[0]+'_'+imgArr[1]+'_'+imgArr[2]+'_'+'T'+'.jpg';return s;}
+
+function BuildThumbnails(){
+	var thmbStrip = document.getElementById('lyr');
+	var tblContent='';
+		tblContent = '<table border="0" cellpadding="2" cellspacing="0">';
+			for(i=0;i<Array_Thumbnails.length;i++){
+				tblContent = tblContent + '<tr><td align="center" class="thumbTD" height="'+(thmbMaxWidSize+2)+'"><a href="javascript:ShowBigPic('+i+')"><img src="'+ Array_Thumbnails[i] +'" border="0" ' + GetDimensionT(i,thmbMaxWidSize,thmbMaxHeiSize) +'"></a></td></tr><tr><td></td></tr>';
+			}
+		tblContent = tblContent + '</table>';
+thmbStrip.innerHTML = tblContent;
+}
+
+
+function GetDimensionT(num,dimWid,dimHei){
+if(bUseThbResize>0){
+var arrDimension = Array_BigPicture_Dimensions[num].split(';');
+var imgWid = parseInt(arrDimension[0]);
+var imgHei = parseInt(arrDimension[1]);
+var aspRatio;
+if((imgWid > dimWid)||(imgHei>dimHei)){
+	if(imgWid>imgHei){
+		aspRatio = imgWid/imgHei;
+		return 'width="'+ dimWid +'" height="'+ Math.round(dimWid/aspRatio);
+	}else {
+		aspRatio = imgHei/imgWid;
+		return 'width="'+Math.round(dimHei/aspRatio)+'" height="'+ dimHei;	
+	}
+}
+else{
+		return 'width="'+imgWid+'" height="'+ imgHei;
+		}
+	}else{ // return empty string when 'bUseThbResize' set to 0 (zero)
+		return;
+	}
+}
+
+function GetDimensionBP(num,dimWid,dimHei){
+var arrDimension = Array_BigPicture_Dimensions[num].split(';');
+var imgWid = arrDimension[0];
+var imgHei = arrDimension[1];
+var aspRatio;
+if((imgWid > dimWid)||(imgHei>dimHei)){
+	if(imgWid>imgHei){
+		aspRatio = imgWid/imgHei;
+		if(Math.round(dimHei/aspRatio) > imgHei ){
+			return 'width="'+ dimWid +'" height="'+ Math.round(dimWid/aspRatio);
+		}else{
+			if(Math.round(dimHei*aspRatio)>dimWid){
+				return 'width="'+ dimWid +'" height="'+ Math.round(dimWid/aspRatio);
+			}else{
+			return 'width="'+Math.round(dimHei*aspRatio)+'" height="'+ dimHei;	
+			}
+		}
+	}else {
+		aspRatio = imgHei/imgWid;
+		if(Math.round(dimHei*aspRatio) > imgWid ){
+			return 'width="'+Math.round(dimHei/aspRatio)+'" height="'+ dimHei;	
+		}else{
+			return 'width="'+Math.round(dimHei*aspRatio)+'" height="'+ dimHei;
+		}
+	}
+}
+else{
+		return 'width="'+imgWid+'" height="'+ imgHei;
+	}
+}
+
+
+
+
+function ShowBigPic(capnum) {
+currentImage = capnum;
+
+var startP,endP 
+var selImgLeft = (maxNumOnGal - 1) / 2;
+
+startP = capnum-selImgLeft;
+endP = capnum + selImgLeft + 1;
+
+if(startP<=0) startP = 0;
+if(startP==0) endP = maxNumOnGal;
+if(BigPictures.length <= maxNumOnGal) startP = 0;
+
+DisplayPaging(startP,endP,capnum)
+
+var BigPicture = document.getElementById('BPHere');
+		BigPicture.innerHTML = '<img src="'+BigPictures[capnum]+'" border="0" '+ GetDimensionBP(capnum,BPMaxWidSize,BPMaxHeiSize) +'">' ;
+}
+
+function DisplayPaging(startFrom,endsOn,selectedImg){
+var numbLyr = document.getElementById('numb');
+var pagingStr='';
+var startFromLeft = startFrom-1;
+var endsOnLeft = endsOn-1;
+var startFromRight = startFrom+1;
+var endsOnRight =  endsOn+1;
+	
+if(endsOn>imgArrLength) endsOn = imgArrLength;
+	pagingStr = '<table border="0" cellpadding="1" cellspacing="1"><tr>';
+	
+//Put an " ... " before in case that more than maxImages presents
+	if(startFrom > 0){
+		pagingStr = pagingStr + '<td align="center" style="width:8px"><a class="navigation" href="javascript:GetPrevSet('+startFrom+')"> ... </a></td>'
+	}
+	
+	for(i=startFrom;i<endsOn;i++){
+		if(i == selectedImg){
+			pagingStr = pagingStr + '<td align="center" style="width:8px"><b>' +(i+1) + '</b></td>'
+		}else{
+			pagingStr = pagingStr + '<td align="center" style="width:8px"><a class="navigation" href="javascript:ShowBigPic('+i+')"> ' +(i+1) + ' </a></td>'
+		}
+	}
+
+//put an " ... " to the end of numbers string if there more than maxImages 
+	if(imgArrLength>endsOn){
+		pagingStr = pagingStr + '<td align="center" style="width:8px"><a class="navigation" href="javascript:GetNextSet('+i+')"> ... </a></td>'
+	}
+
+pagingStr += '</tr></table>';
+numbLyr.innerHTML = pagingStr;
+}
+
+
+function GetNextSet(num){
+	ShowBigPic(num);
+}
+
+function GetPrevSet(num){
+	ShowBigPic(num);
+}
+
+function DispNextImage(){
+var getImageNumF = currentImage+1;
+	if (getImageNumF >=  imgArrLength) getImageNumF = 0;
+		ShowBigPic(getImageNumF);
+}
+
+function DispPrevImage(){
+var getImageNumB = currentImage-1;
+	if (getImageNumB <  0) getImageNumB = imgArrLength-1;
+		ShowBigPic(getImageNumB);
+}
+</script>
+
+
+
+<script language='javascript'>
+
+var BigPictures = new Array();
+var Array_comp_caption = new Array();
+var Array_BigPicture_Dimensions = new Array();
+var Array_Thumbnails = new Array();
+var Hotel_Name;
+var Hotel_City;
+var Hotel_Country;
+var Hotel_Address;
+var Hotel_desc;
+
+//begin loading
+BigPictures[0] = "T09620_EXT_01_I.jpg";
+Array_comp_caption[0] = "Exterior View";
+Array_Thumbnails[0] = "T09620_EXT_01_A.jpg";
+
+Array_BigPicture_Dimensions[0] = '384;288';
+BigPictures[1] = "T09620_EXT_02_I.jpg";
+Array_comp_caption[1] = "Exterior View";
+Array_Thumbnails[1] = "T09620_EXT_02_A.jpg";
+
+Array_BigPicture_Dimensions[1] = '384;255';
+BigPictures[2] = "T09620_EXT_03_I.jpg";
+Array_comp_caption[2] = "Exterior View";
+Array_Thumbnails[2] = "T09620_EXT_03_A.jpg";
+
+Array_BigPicture_Dimensions[2] = '384;260';
+BigPictures[3] = "T09620_EXT_04_I.jpg";
+Array_comp_caption[3] = "Exterior View";
+Array_Thumbnails[3] = "T09620_EXT_04_A.jpg";
+
+Array_BigPicture_Dimensions[3] = '384;255';
+BigPictures[4] = "T09620_LOBB_01_I.jpg";
+Array_comp_caption[4] = "Lobby View";
+Array_Thumbnails[4] = "T09620_LOBB_01_A.jpg";
+
+Array_BigPicture_Dimensions[4] = '384;255';
+BigPictures[5] = "T09620_LOBB_02_I.jpg";
+Array_comp_caption[5] = "Lobby View";
+Array_Thumbnails[5] = "T09620_LOBB_02_A.jpg";
+
+Array_BigPicture_Dimensions[5] = '384;255';
+BigPictures[6] = "T09620_LOBB_03_F.jpg";
+Array_comp_caption[6] = "Lobby View";
+Array_Thumbnails[6] = "T09620_LOBB_03_A.jpg";
+
+Array_BigPicture_Dimensions[6] = '300;293';
+BigPictures[7] = "T09620_ROOM_01_F.jpg";
+Array_comp_caption[7] = "Guest Room";
+Array_Thumbnails[7] = "T09620_ROOM_01_A.jpg";
+
+Array_BigPicture_Dimensions[7] = '300;225';
+BigPictures[8] = "T09620_ROOM_02_I.jpg";
+Array_comp_caption[8] = "Guest Room";
+Array_Thumbnails[8] = "T09620_ROOM_02_A.jpg";
+
+Array_BigPicture_Dimensions[8] = '384;255';
+BigPictures[9] = "T09620_ROOM_03_I.jpg";
+Array_comp_caption[9] = "Guest Room";
+Array_Thumbnails[9] = "T09620_ROOM_03_A.jpg";
+
+Array_BigPicture_Dimensions[9] = '384;255';
+BigPictures[10] = "T09620_ROOM_04_I.jpg";
+Array_comp_caption[10] = "Guest Room";
+Array_Thumbnails[10] = "T09620_ROOM_04_A.jpg";
+
+Array_BigPicture_Dimensions[10] = '384;255';
+BigPictures[11] = "T09620_ROOM_05_I.jpg";
+Array_comp_caption[11] = "Guest Room";
+Array_Thumbnails[11] = "T09620_ROOM_05_A.jpg";
+
+Array_BigPicture_Dimensions[11] = '384;261';
+BigPictures[12] = "T09620_ROOM_06_I.jpg";
+Array_comp_caption[12] = "Guest Room";
+Array_Thumbnails[12] = "T09620_ROOM_06_A.jpg";
+
+Array_BigPicture_Dimensions[12] = '384;255';
+BigPictures[13] = "T09620_ROOM_07_I.jpg";
+Array_comp_caption[13] = "Guest Room";
+Array_Thumbnails[13] = "T09620_ROOM_07_A.jpg";
+
+Array_BigPicture_Dimensions[13] = '384;255';
+BigPictures[14] = "T09620_ROOM_08_I.jpg";
+Array_comp_caption[14] = "Guest Room";
+Array_Thumbnails[14] = "T09620_ROOM_08_A.jpg";
+
+Array_BigPicture_Dimensions[14] = '384;255';
+BigPictures[15] = "T09620_ROOM_09_I.jpg";
+Array_comp_caption[15] = "Guest Room";
+Array_Thumbnails[15] = "T09620_ROOM_09_A.jpg";
+
+Array_BigPicture_Dimensions[15] = '384;265';
+BigPictures[16] = "T09620_ROOM_10_I.jpg";
+Array_comp_caption[16] = "Guest Room";
+Array_Thumbnails[16] = "T09620_ROOM_10_A.jpg";
+
+Array_BigPicture_Dimensions[16] = '384;200';
+BigPictures[17] = "T09620_ROOM_11_I.jpg";
+Array_comp_caption[17] = "Double-Bedded Guest Room";
+Array_Thumbnails[17] = "T09620_ROOM_11_A.jpg";
+
+Array_BigPicture_Dimensions[17] = '384;255';
+BigPictures[18] = "T09620_ROOM_12_I.jpg";
+Array_comp_caption[18] = "Guest Room";
+Array_Thumbnails[18] = "T09620_ROOM_12_A.jpg";
+
+Array_BigPicture_Dimensions[18] = '384;255';
+BigPictures[19] = "T09620_ROOM_13_I.jpg";
+Array_comp_caption[19] = "Double-Bedded Guest Room";
+Array_Thumbnails[19] = "T09620_ROOM_13_A.jpg";
+
+Array_BigPicture_Dimensions[19] = '384;255';
+BigPictures[20] = "T09620_ROOM_14_I.jpg";
+Array_comp_caption[20] = "Guest Room";
+Array_Thumbnails[20] = "T09620_ROOM_14_A.jpg";
+
+Array_BigPicture_Dimensions[20] = '384;255';
+BigPictures[21] = "T09620_ROOM_15_I.jpg";
+Array_comp_caption[21] = "Double-Bedded Guest Room";
+Array_Thumbnails[21] = "T09620_ROOM_15_A.jpg";
+
+Array_BigPicture_Dimensions[21] = '384;255';
+BigPictures[22] = "T09620_REST_02_I.jpg";
+Array_comp_caption[22] = "Breakfast Bar";
+Array_Thumbnails[22] = "T09620_REST_02_A.jpg";
+
+Array_BigPicture_Dimensions[22] = '384;255';
+BigPictures[23] = "T09620_REST_03_I.jpg";
+Array_comp_caption[23] = "Breakfast Area";
+Array_Thumbnails[23] = "T09620_REST_03_A.jpg";
+
+Array_BigPicture_Dimensions[23] = '384;255';
+BigPictures[24] = "T09620_REST_04_I.jpg";
+Array_comp_caption[24] = "Breakfast Area";
+Array_Thumbnails[24] = "T09620_REST_04_A.jpg";
+
+Array_BigPicture_Dimensions[24] = '384;255';
+BigPictures[25] = "T09620_REST_05_I.jpg";
+Array_comp_caption[25] = "Breakfast Area";
+Array_Thumbnails[25] = "T09620_REST_05_A.jpg";
+
+Array_BigPicture_Dimensions[25] = '384;255';
+BigPictures[26] = "T09620_REC_01_I.jpg";
+Array_comp_caption[26] = "Recreational Facility";
+Array_Thumbnails[26] = "T09620_REC_01_A.jpg";
+
+Array_BigPicture_Dimensions[26] = '384;255';
+BigPictures[27] = "T09620_HLTH_01_I.jpg";
+Array_comp_caption[27] = "Health Club";
+Array_Thumbnails[27] = "T09620_HLTH_01_A.jpg";
+
+Array_BigPicture_Dimensions[27] = '384;288';
+Hotel_Name = "SACRAMENTO CONVENTION CENTER";
+Hotel_desc = "";
+Hotel_Address = "728 SIXTEENTH STREET";
+Hotel_City = "Sacramento";
+Hotel_Country = "United States";
+
+//end of Arrays
+
+
+
+//Vars
+var maxNumOnGal = 11;
+var i;
+var imgArrLength = BigPictures.length;
+var currentImage=0;
+
+//template configuration
+var thmbMaxWidSize = 70; // Max Thumbnail Width
+var thmbMaxHeiSize = 70; // Max Thumbnail Height
+var BPMaxWidSize = 436; // Max Big Picture size, Width
+var BPMaxHeiSize = 300; // Max Big Picture size, Height
+var bUseThbResize = 1; // 1 - Use Resize, 0 - do note use resize functionality
+
+//ShowBigPic();
+//
+
+</script>	
+</head>
+
+<body onload="BuildThumbnails();DisplayPaging(0,11);ShowBigPic(0);">
+
+<table class="main" cellspacing="0" cellpadding="0" border="0" width="590">
+	
+	<tr>
+   <td width="120" align="center">
+
+		<div id="wn1" style="overflow:auto;height:365px;width:120px"> 
+			<div id="lyr" class="content"></div>
+		</div>
+		</td>
+	
+	<td valign="top" align="center">
+
+<table cellpadding="0" cellspacing="0" border="0" height="50">
+	<tr>
+		<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" align="center">
+				<tr>
+					<td><a href="javascript:DispPrevImage()" class="navigation">Prev</a></td>
+					<td>&nbsp;&nbsp;</td>
+					<td width="25"><a href="javascript:DispPrevImage()" class="navigation"><img src="../../IGTemplates/IGTemplate4/images/btn-bk.gif" border="0"></a></td>
+					<td class="numbers" width="180" align="center">
+							<div id="numb"></div>
+					</td>
+					<td width="25"><a href="javascript:DispNextImage()" class="navigation"><img src="../../IGTemplates/IGTemplate4/images/btn-fw.gif" border="0"></a></td>
+					<td>&nbsp;&nbsp;</td>
+					<td><a href="javascript:DispNextImage()" class="navigation">Next</a></td>
+				</tr>
+			</table>
+		
+		</td>
+	</tr>
+</table>
+
+
+<table width="468" align="center" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td>
+<table border="0" cellpadding="0" cellspacing="0" width="436" height="300" id="BP" align="center">
+		<tr>
+		<td align="center" class="BPbg" valign="top">
+		<div id="BPHere"></div>
+		</td>
+		</tr>
+</table>
+		</td>
+	</tr>
+</table>
+
+		
+	</td>
+	
+	
+	</tr>
+	
+</table>
+
+</body>
+</html>

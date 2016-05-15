@@ -1,0 +1,23 @@
+POST /send.php HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.sendanonymousemail.net/
+Accept-Language: en-us
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.sendanonymousemail.net
+Content-Length: 275
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: PHPSESSID=762adba03236142ccec305f6a20aaffa
+
+email=lilytuckrige@yahoo.com&sender=the_whole_world_is_watching@nitroba.org&subject=Your+class+stinks&message=Why+do+you+persist+in+teaching+a+boring+class%3F%0D%0A%0D%0AWe+don%27t+like+it.%0D%0A%0D%0AWe+don%27t+like+you.%0D%0A%0D%0A&security_code=xkpmkb&submit=+++SEND%21+++GET /CaptchaSecurityImages.php?width=100&height=40&character=5 HTTP/1.1
+Accept: */*
+Referer: http://www.sendanonymousemail.net/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.sendanonymousemail.net
+Connection: Keep-Alive
+Cookie: PHPSESSID=762adba03236142ccec305f6a20aaffa
+

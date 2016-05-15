@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r40/Music/df/6b/e7/mzi.icnhpcox.enc.jpg?downloadKey2=1217307279_2013b63e589821ae89330398958eb5d9</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Royal Philharmonic Chorus, Royal Philharmonic Orchestra &amp; Sir Thomas Beecham</string>
+    <key>playlistName</key><string>Handel: Messiah (Highlights)</string>
+    <key>artistId</key><string>14783229</string>
+    <key>playlistId</key><string>260408974</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

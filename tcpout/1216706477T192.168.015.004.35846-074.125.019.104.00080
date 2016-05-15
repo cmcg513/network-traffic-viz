@@ -1,0 +1,33 @@
+POST /calendar/load HTTP/1.1
+Accept: */*
+Accept-Language: en-us
+Referer: http://www.google.com/calendar/render?utm_campaign=en&utm_source=en-ha-na-us-bk&utm_medium=ha&utm_term=google+calendar
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Content-Length: 266
+Connection: Keep-Alive
+Cache-Control: no-cache
+Cookie: __utma=173272373.890237978.1216706402.1216706402.1216706402.1; __utmb=173272373; __utmc=173272373; __utmx=173272373.00000983192309928271:2:; __utmz=173272373.1216706402.1.1.utmccn=(organic)|utmcsr=google|utmctr=google+calendar|utmcmd=organic; S=calendar=NUTTfiR-uG9g7c8EUw6UHA; OL_SESSION=jcoachj@gmail.com-cal; CAL=DQAAAG4AAAAyprUKisFp1wFlwiwIIZowqnpAerq-KS7yto_wd6bxSPzzEXHl0StDzuPdNyyn__poTb_5cy6Oflk7HqznK3QMZyVK0v0dzSPDiLSkyWSL0U2yIpYhnj94aV1D-RTdxjidUFLs32SWCI7EULqR4cD0; secid=708511d04431b1dbce35563e903f2854; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60
+
+emf=amNvYWNoakBnbWFpbC5jb20%2020080520%2F20080716%200%0AamNvYWNoakBnbWFpbC5jb20%2020080716%2F20080730%2063352389700%0AamNvYWNoakBnbWFpbC5jb20%2020080730%2F20081104%200&ctz=America%2FLos_Angeles&hl=en&lef=amNvYWNoakBnbWFpbC5jb20&secid=708511d04431b1dbce35563e903f2854GET /gen_204?oi=promos_vis&cad=hppwebie6tb:en-GB&atyp=i HTTP/1.1
+Accept: */*
+Referer: http://www.google.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60
+
+GET /extern_js/f/CgJlbhICdXMrMAc4ASw/ZydcY-5ZQLU.js HTTP/1.1
+Accept: */*
+Referer: http://www.google.com/search?hl=en&q=send+anonymous+mail
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1216706486:GM=1:S=vvxeHX0oIXNyR8Zj; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV; __utmx=173272373.00000983192309928271:2:; __utmxx=173272373.00000983192309928271:1216706401:2592000; SID=DQAAAGwAAACH8Y_j5izp1fdbDJzwdRFDGtU3aaeZKWgZ7DwUjYpLoqH7F1_E-X5taC4l0uvzXtrVeE6Zq1gcoQt50MC7lgQFv5YtK9GsvrNTKTTB36PHXZM_goWkl-6JXuYxw0Vx0dtx3GeHiG9jMFjCFOgqNK0f; TZ=-60
+

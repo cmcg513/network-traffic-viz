@@ -1,0 +1,28 @@
+GET /BurstingPipe/AdServerPipe.asp?param=%3CType%3ACommand%3BCode%3A14%3BobjRef%3AgEbCurBanner%3BFlightID%3A569570%3BPluID%3A0%3BPage%3Aemail.about.com%3BWebPageSource%3A0%3B%3E%3CType%3APlugin%3BAudioVersion%3A1%3BFlashVersion%3A6.088%3BPlatform%3A8%3BBrowser%3A4%3BWMPVersion%3A9%3BResolution%3A0%3B%3E&ord=101117974123521521216706621265&CSVersion=5.6&OptOut=0 HTTP/1.1
+Accept: */*
+Referer: http://ad.doubleclick.net/adi/abt.compute/compute_email;svc=;site=email;t=14;bt=1;bts=1;pc=2;auc=2;fd=0;fs=0;sp2=1;gr=http%3A//email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm;go=13;a=;sbj=anonymousemailservices;kw=;chan=compute;syn=about;tile=3;r=1;u=3fg20oa148au1n|14;sz=336x280;ord=187M63b0AOkWA014I79405
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bs.serving-sys.com
+Connection: Keep-Alive
+Cookie: eyeblaster=BWVal=&BWDate=&debuglevel=&FLV=6.088&RES=0&WMPV=9; U=9f044230-fe8a-4970-b3ca-75020c078144; A2=3Lq0582l06E00000820weB; B2=25ge0820weB; C3=0dyu820weB0000g00_; D3=0dyu03rz820weB; E2=06E0820weB
+
+GET /BurstingPipe/BurstingInteractionsPipe.asp?interactionsStr=1009543%7Eemail.about.com%7E0%5EebAdDuration%7E8%7E0%7E1%7E0%7E2%7E0%7E0&OptOut=0&ebRandom=0.4920117015353437&flv=6.088&wmpv=9&res=0 HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bs.serving-sys.com
+Connection: Keep-Alive
+Cookie: eyeblaster=BWVal=&BWDate=&debuglevel=&FLV=6.088&RES=0&WMPV=9; U=9f044230-fe8a-4970-b3ca-75020c078144; A2=3Su7582r02WG0000820weB3Lq0582l06E00000820weB; B2=2b3y0820weB25ge0820weB; C3=0dyu820weB0000g00_0dMa820weB0000001_; D3=0dyu03rz820weB0dMa002w820weB; E2=02WG820weB06E0820weB
+
+GET /BurstingPipe/AdServerPipe.asp?param=%3CType%3ACommand%3BCode%3A14%3BobjRef%3AgEbCurBanner%3BFlightID%3A569570%3BPluID%3A0%3BPage%3Aemail.about.com%3BWebPageSource%3A0%3B%3E%3CType%3APlugin%3BAudioVersion%3A1%3BFlashVersion%3A6.088%3BPlatform%3A8%3BBrowser%3A4%3BWMPVersion%3A9%3BResolution%3A0%3B%3E&ord=30945567350000961216706631281&CSVersion=5.6&OptOut=0 HTTP/1.1
+Accept: */*
+Referer: http://ad.doubleclick.net/adi/abt.compute/compute_email;svc=;site=email;t=4;bt=1;bts=1;pc=3;auc=2;fd=0;fs=0;sp2=1;gr=http%3A//email.about.com/od/anonymousemailservices/gr/will_self_destr.htm;go=13;a=;kw=;chan=compute;syn=about;tile=3;r=1;u=3fg20oa148au1n|4;sz=336x280;ord=187M63l01OkWA0d7R98277
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: bs.serving-sys.com
+Connection: Keep-Alive
+Cookie: eyeblaster=BWVal=&BWDate=&debuglevel=&FLV=6.088&RES=0&WMPV=9; U=9f044230-fe8a-4970-b3ca-75020c078144; A2=3Su7582r02WG0000820weB3Lq0582l06E00000820weB; B2=2b3y0820weB25ge0820weB; C3=0dyu820weB0000g00_0dMa820weB0000001_; D3=0dyu03rz820weB0dMa002w820weB; E2=02WG820weB06E0820weB
+

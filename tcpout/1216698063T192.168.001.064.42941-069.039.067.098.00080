@@ -1,0 +1,8 @@
+GET /feed/ HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: theprivacyplace.org
+

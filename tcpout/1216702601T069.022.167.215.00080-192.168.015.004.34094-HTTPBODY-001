@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/fa/a3/12/mzi.gadrnyis.enc.jpg?downloadKey2=1217307425_89a547b22c01959d54ff36be263d72f4</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Justin Timberlake</string>
+    <key>playlistName</key><string>FutureSex / LoveSounds</string>
+    <key>artistId</key><string>398128</string>
+    <key>playlistId</key><string>187310980</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

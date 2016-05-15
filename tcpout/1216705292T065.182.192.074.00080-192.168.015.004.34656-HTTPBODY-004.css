@@ -1,0 +1,71 @@
+#cityTitle {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 18px; 
+	color: White; 
+	font-weight: bolder; 
+	text-align: right;
+	padding-right: 5px
+}
+
+
+#Headline {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 15px; 
+	color: Black; 
+	font-weight: bolder; 
+	padding: 20px;
+}
+
+#subNavHead {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 14px; 
+	color: #990000; 
+	font-weight: bolder; 
+	padding: 0px 0px 0px 10px ;
+}
+
+#subNav {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px; 
+	color: #990000; 
+	text-decoration: none;
+	font-weight: normal; 
+}
+
+
+#nav {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 10px;
+}
+
+#sides {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 10px;  
+	padding: 5px;
+}
+
+#bodyStyle {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px;  
+	font-weight: normal; 
+}
+
+#footer {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 10px;  
+	text-align: center;
+}
+
+#travel {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 14px;  
+	padding: 5px;
+	font-weight: bolder; 
+}
+
+#news {
+	font-family: Arial, Helvetica, sans-serif; 
+	font-size: 12px;  
+	padding: 5px;
+	font-weight: normal; 
+}

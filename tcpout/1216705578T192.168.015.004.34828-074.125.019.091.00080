@@ -1,0 +1,24 @@
+GET /mt?n=404&v=ap.80&hl=en&x=40&y=100&zoom=9&s=Gali HTTP/1.1
+Host: mt0.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=13=VgKsAAQWBPuEpEWGpX89WxlWxk_5QWA1ig6Bi4Hza4GbI49iK7BsVihOa6tacqdjDkqK_dinLL5BEubMCkJDIEnM4NurWCZBtdK2oWWslLw3ysxTHcNJikbfEy52N4y_; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /mt?n=404&v=ap.80&hl=en&x=42&y=97&zoom=9&s=Galileo HTTP/1.1
+Host: mt0.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=13=VgKsAAQWBPuEpEWGpX89WxlWxk_5QWA1ig6Bi4Hza4GbI49iK7BsVihOa6tacqdjDkqK_dinLL5BEubMCkJDIEnM4NurWCZBtdK2oWWslLw3ysxTHcNJikbfEy52N4y_; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+

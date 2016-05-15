@@ -1,0 +1,11 @@
+GET /atoms/13/11/3d/d3/13113dd342ca44160d37855178993c61.gif HTTP/1.1
+Host: content.yieldmanager.edgesuite.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=160x600&site=140060&section_code=12796317&cb=1216706998522728&ycg=&yyob=&promote_sizes=1&pub_redirect_unencoded=1&pub_redirect=http://pn1.ard.yahoo.com/SIG=15c7i8e2v/M=621216.12796317.13078505.12225377/D=eb_cmptr/S=97553668:SKY/Y=EBAY_US/E=ebay:/EXP=1216714198/L=ikuFGNj8fU8jASHXQnAf7D2XRoZbDEiFebYAB_B6/B=Ml4nA9j8fc8-/J=1216706998522728/A=5334030/R=0/*
+

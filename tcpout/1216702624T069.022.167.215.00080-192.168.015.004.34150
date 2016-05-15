@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Content-Length: 846
+Content-Type: text/xml; charset=UTF-8
+x-apple-asset-version: 46862
+X-Apple-Partner: origin.0
+Vary: Accept-Encoding
+x-webobjects-loadaverage: 0
+x-apple-application-instance: 249
+x-apple-date-generated: Tue, 22 Jul 2008 04:57:29 GMT
+x-apple-request-store-front: 143441
+x-apple-max-age: 3600
+Expires: Tue, 22 Jul 2008 04:57:29 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Tue, 22 Jul 2008 04:57:29 GMT
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/ad/91/a9/mzi.apoxtobp.enc.jpg?downloadKey2=1217307449_eebb768ddd785cefbcd6c1fc623dbe19</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Berliner Philharmoniker &amp; Herbert Von Karajan</string>
+    <key>playlistName</key><string>Mozart: Die Zauberflöte</string>
+    <key>artistId</key><string>579853</string>
+    <key>playlistId</key><string>205443773</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

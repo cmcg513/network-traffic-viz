@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+goN2DUManager.responseHead('/gp/history/external/rhf-rec-handler-t1^rhf^a^a^');
+
+
+
+
+
+
+ybhContent = [];
+ybhFunctions = [];
+
+ybhContent[0] = '<table border="0" cellpadding="0" id="footerRecs" cellspacing="0" style="margin-top: 10px"><tr>\n\
+\n\
+\n\
+<td width="25%" valign="top" align="center" style="margin: 15px 0 0 0; padding: 0 15px 0 7px;">\n\
+    \n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/Pretext-War-Americas-Intelligence-Agencies/dp/B000C25WQS/ref=pd_rhf_f_i_cs_1"><span id="rhfUpsellImage.B000C25WQS"><img src="http://ecx.images-amazon.com/images/I/41KFJN0MM2L._SL500_SS120_.jpg" width="120" alt="A Pretext for War" height="120" border="0" /></span><br /></a>\n\
+<div style="text-align:left; margin: 15px 0 0 0;">\n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/Pretext-War-Americas-Intelligence-Agencies/dp/B000C25WQS/ref=pd_rhf_f_t_cs_1"><span id="rhfUpsellTitle.B000C25WQS">A Pretext for War</span></a>\n\
+<span id="rhfUpsellCreator.B000C25WQS">\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+by James Bamford\n\
+\n\
+</span></div></td>\n\
+\n\
+\n\
+<td width="25%" valign="top" align="center" style="margin: 15px 0 0 0; padding: 0 15px 0 7px;">\n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/Eye-Fi-Card-Wireless-GB-Memory/dp/B000X27XDC/ref=pd_rhf_f_i_cs_2"><span id="rhfUpsellImage.B000X27XDC"><img src="http://ecx.images-amazon.com/images/I/51cBxrk-q4L._SL500_SS120_.jpg" width="120" alt="Eye-Fi Card, Wireless 2 GB SD Memory Card" height="120" border="0" /></span><br /></a>\n\
+<div style="text-align:left; margin: 15px 0 0 0;">\n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/Eye-Fi-Card-Wireless-GB-Memory/dp/B000X27XDC/ref=pd_rhf_f_t_cs_2"><span id="rhfUpsellTitle.B000X27XDC">Eye-Fi Card, Wireless 2 GB SD Memory Card</span></a>\n\
+<span id="rhfUpsellCreator.B000X27XDC">\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+by Eye-Fi\n\
+\n\
+</span></div></td>\n\
+\n\
+\n\
+<td width="25%" valign="top" align="center" style="margin: 15px 0 0 0; padding: 0 15px 0 7px;">\n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/SD-CF-Type-Adapter-SD-CF/dp/B000YZGCIU/ref=pd_rhf_f_i_cs_3"><span id="rhfUpsellImage.B000YZGCIU"><img src="http://ecx.images-amazon.com/images/I/31y-QBXqUKL._SL500_SS120_.jpg" width="120" alt="SD to CF Type II Adapter (SD-CF II)" height="120" border="0" /></span><br /></a>\n\
+<div style="text-align:left; margin: 15px 0 0 0;">\n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/SD-CF-Type-Adapter-SD-CF/dp/B000YZGCIU/ref=pd_rhf_f_t_cs_3"><span id="rhfUpsellTitle.B000YZGCIU">SD to CF Type II Adapter (SD-CF II)</span></a>\n\
+<span id="rhfUpsellCreator.B000YZGCIU">\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+by SEMCO\n\
+\n\
+</span></div></td>\n\
+\n\
+\n\
+<td width="25%" valign="top" align="center" style="margin: 15px 0 0 0; padding: 0 15px 0 7px;">\n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/Silent-Warfare-Understanding-World-Intelligence/dp/1574883453/ref=pd_rhf_f_i_cs_4"><span id="rhfUpsellImage.1574883453"><img src="http://ecx.images-amazon.com/images/I/410ZRJ2EWHL._SL500_PIsitb-dp-500-arrow,TopRight,45,-64_OU01_SS120_.jpg" width="120" alt="Silent Warfare" height="120" border="0" /></span><br /></a>\n\
+<div style="text-align:left; margin: 15px 0 0 0;">\n\
+\n\
+\n\
+\n\
+\n\
+<a href="http://www.amazon.com/Silent-Warfare-Understanding-World-Intelligence/dp/1574883453/ref=pd_rhf_f_t_cs_4"><span id="rhfUpsellTitle.1574883453">Silent Warfare</span></a>\n\
+<span id="rhfUpsellCreator.1574883453">\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+\n\
+by Abram N. Shulsky\n\
+\n\
+</span></div></td></tr></table>';
+
+ybhContent[1] = '<strong>Continue shopping</strong> Customers Who Bought Items in Your Recent History Also Bought:';
+
+
+goN2DUManager.onDataAvailable('/gp/history/external/rhf-rec-handler-t1^rhf^a^a^', ybhContent, ybhFunctions, 0, false);
+delete ybhContent;
+delete ybhFunctions;
+
+
+
+goN2DUManager.responseComplete();

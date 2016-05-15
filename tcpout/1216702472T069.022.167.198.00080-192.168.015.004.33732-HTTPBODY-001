@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/y2005/m05/d31/h10/s06.pbccunhi.enc.jpg?downloadKey2=1217307296_bf7b9c47267852b4f09b8c4019bb6618</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Loreena McKennitt</string>
+    <key>playlistName</key><string>The Mask and Mirror</string>
+    <key>artistId</key><string>287357</string>
+    <key>playlistId</key><string>67630175</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

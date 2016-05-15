@@ -1,0 +1,8 @@
+GET /checkurl/ZmlsZTovLy9BcHBsaWNhdGlvbnMvU2FmYXJpLmFwcC9Db250ZW50cy9SZXNvdXJjZXMv HTTP/1.1
+User-Agent: CFNetwork/330.4
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: checkurl.phishtank.com
+

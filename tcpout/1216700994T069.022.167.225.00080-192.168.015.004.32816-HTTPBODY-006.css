@@ -1,0 +1,12 @@
+.s9-popover { font-family:Verdana,Tahoma,sans-serif; font-size:10px; padding: 7px; }
+.s9-popover table td { font-size:10px; }
+.s9-popover .basicProductInfo { font-size:11px; margin:0pt 0pt 10px; }
+.s9-popover .moreInfo { border-top:1px dashed #999999; margin:10px 0pt 0px 0px; padding:5px 0pt 0pt; }
+.s9-popover .basicProductInfo p, .s9-popover .moreInfo p { margin:0pt 0pt 5px; }
+.s9-popover .reviewInfo { font-size:10px; margin:0pt 0pt 5px 0px;}
+.s9-popover .recsReason { padding:2px 0pt 0pt; }
+.s9-popover .buyOptionButtons { margin:5px 0pt 0pt; }
+.s9-popover .buyOptionButtons form { margin:0pt; }
+.s9-popover .availabilityInfo, .s9-popover .priceInfo { margin:0pt; }
+.s9-popover .priceInfo .priceBlock { margin:0pt 0pt 2px; }
+.s9-popover a { text-decoration:underline; }

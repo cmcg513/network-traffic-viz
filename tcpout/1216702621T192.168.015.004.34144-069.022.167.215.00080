@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=FD3451D5F67E275A596306E24D71D2F7&CDDBMuiID=48151&an=Maurice%20Gendron&pn=Bach%20(JS)%3A%20Cello%20Suites%20%5BDisc%201%5D HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: C78BC6DE-795BB85A72E58285B3FCFD668308F5E8
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

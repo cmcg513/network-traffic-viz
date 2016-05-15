@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<response>
+		<meta>
+			<timestamp>2008-07-22T01:52:21+00:00</timestamp>
+			<serverid>ebb667fe</serverid>
+			<requestid>192.168.0.101.48853d55d13337.30951788</requestid>
+		</meta>
+		<results>
+			<url0>
+				<url><![CDATA[http://www.phdcomics.com/comics.php?n=1045]]></url>
+				<in_database>false</in_database>
+			</url0>
+		</results>
+	</response>

@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 05:42:20 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.29
+Set-Cookie: SessionData=02u3hs9yoaT4tKLixNTUk1sQEAQ0MTJxNLI0cjM7Vj1ODi4vzMoDwWQaamRkYuBsaOlhaGZk5OAE5jixgO; domain=.overture.com; path=/; expires=Tue, 22-Jul-2008 05:47:20 GMT
+Set-Cookie: ConvData=02u3hs9yoajk0OOzDDQwyjb%2FJZtScPBh1WPQPnQEigJz3UcLehhG95LgETgD7WXF%2FR39oNGQkiihycm7GHaj4jGXSX32NKmPNth4nR5yNt6MXWHBPiJE%2BwIk3f0Ce%2BQy3aH%2BNtgWXXaPs7Rml2cjCbm%2FDU6wMlVig%3D; domain=.overture.com; path=/; expires=Fri, 20-Jul-2018 05:42:20 GMT
+Set-Cookie: UserData=02u3hs9yoaT4tKLixNTUk1sQEAQ0MTJxNLI0cjM7Vj4tCQVBZRpqZGRi4Gxo6WFoZmTk4ATl5X0ww%3D; domain=.overture.com; path=/; expires=Fri, 20-Jul-2018 05:42:20 GMT
+P3P: CP=" NOI DSP COR CURa ADMa DEVa TAIa PSAa PSDa HISa OTPa OUR STP IND UNI COM NAV INT STA "
+Pragma: no-cache
+Location: http://www.HolidayInnSacramento.com/?source=yahoo
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/plain
+
+0
+

@@ -1,0 +1,6 @@
+GET /ChannelInfo?stic_id=C35F9BFFB7F04F56A0A0218753B06B0A&ticket=&authenticator=&stic_ver=2.14.11.12 HTTP/1.1
+Accept: */*
+User-Agent: ee://aol/http
+Host: fetch.download.aol.com
+Cache-Control: no-cache
+

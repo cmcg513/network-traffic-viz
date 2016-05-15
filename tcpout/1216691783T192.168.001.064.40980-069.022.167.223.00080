@@ -1,0 +1,11 @@
+GET /CDN/80279/FindAJob_120x90_3-6.gif HTTP/1.1
+Accept: */*
+Referer: http://at.atwola.com/adiframe/3.0/5113.1/221794/0/-1/size=120x90;noperf=1;alias=93242651;target=_blank;aduho=-60;group=691804468;misc=691804468
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Wed, 02 Apr 2008 21:50:27 GMT
+If-None-Match: "911c6-1a6e-47f3ffa3"
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; AIM Browser 1.0; Windows NT 5.1; SV1)
+Host: cdn2.adsdk.com
+Connection: Keep-Alive
+

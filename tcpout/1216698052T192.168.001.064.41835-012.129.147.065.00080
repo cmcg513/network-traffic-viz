@@ -1,0 +1,9 @@
+GET /wp-dyn/rss/print/asection/index.xml HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: s_pers=%20s_nr%3D1213032500990%7C1215624500990%3B%20s_lastvisit%3D1213032500991%7C1307640500991%3B%20s_vnum%3D1215624500993%2526vn%253D1%7C1215624500993%3B%20s_invisit%3Dtrue%7C1213034300993%3B; s_vi=[CS]v1|484D683700003ED4-A2B0BA400001F7A[CE]
+Connection: keep-alive
+Host: www.washingtonpost.com
+

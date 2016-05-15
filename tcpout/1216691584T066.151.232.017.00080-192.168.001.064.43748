@@ -1,0 +1,8 @@
+HTTP/1.1 302 Moved Temporarily
+Date: Tue, 22 Jul 2008 01:53:28 GMT
+Server: Apache
+Location: http://stream-ai.publicbroadcasting.net/production/mp3/fairgame/local-fairgame-633619.mp3?volomedia_src_url=http%3A%2F%2Fwww.publicbroadcasting.net%2Ffairgame%2F.jukebox%2Fmedia%2Ffairgame%2F633619%2Fmp3%2FfairGameSegs%2Fpodcast%2F2743%2F633619.mp3
+Content-Length: 0
+Connection: close
+Content-Type: audio/mpeg
+

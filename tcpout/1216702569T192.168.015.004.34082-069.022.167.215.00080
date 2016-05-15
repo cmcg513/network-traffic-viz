@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=73D4585D83C2EA07E926AB8173D018D8&CDDBMuiID=1346510&an=%E6%96%B0%E5%B1%85%E6%98%AD%E4%B9%83&pn=NOIR%20ORIGINAL%20SOUNDTRACK%20%E2%85%A0 HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 29A4C360-FC8E577E0B294861CC6E44D173085BD8
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

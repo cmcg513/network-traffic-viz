@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 01:53:28 GMT
+Server: Apache/2.2.4
+Location: http://pubint.vo.llnwd.net/o1/QuerySplicedItemContent?file_name=vc_33bdae616d3caddfc61b4a8ae13900b0.ver_1.videosdyn3.20080721170202.mp3&case_number=33bdae616d3caddfc61b4a8ae13900b0.mp3&llnw_original_url=http%3A%2F%2Fstream-ai.publicbroadcasting.net%2Fproduction%2Fmp3%2Ffairgame%2Flocal-fairgame-633619.mp3%3Fvolomedia_src_url%3Dhttp%253A%252F%252Fwww.publicbroadcasting.net%252Ffairgame%252F.jukebox%252Fmedia%252Ffairgame%252F633619%252Fmp3%252FfairGameSegs%252Fpodcast%252F2743%252F633619.mp3
+Content-Length: 687
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://pubint.vo.llnwd.net/o1/QuerySplicedItemContent?file_name=vc_33bdae616d3caddfc61b4a8ae13900b0.ver_1.videosdyn3.20080721170202.mp3&amp;case_number=33bdae616d3caddfc61b4a8ae13900b0.mp3&amp;llnw_original_url=http%3A%2F%2Fstream-ai.publicbroadcasting.net%2Fproduction%2Fmp3%2Ffairgame%2Flocal-fairgame-633619.mp3%3Fvolomedia_src_url%3Dhttp%253A%252F%252Fwww.publicbroadcasting.net%252Ffairgame%252F.jukebox%252Fmedia%252Ffairgame%252F633619%252Fmp3%252FfairGameSegs%252Fpodcast%252F2743%252F633619.mp3">here</a>.</p>
+</body></html>

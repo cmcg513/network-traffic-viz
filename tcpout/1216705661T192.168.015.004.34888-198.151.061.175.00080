@@ -1,0 +1,384 @@
+GET /js.ng/channel=home&Section=main&adsize=468x60_top&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705682981&width=468&height=60&adType=noframe& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+
+GET /DartRichMedia_1_03.js HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+
+GET /html.ng/channel=home&Section=main&adsize=342x188&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705682981&rotator=true&width=342&height=188&adType=script& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+
+GET /Marketing/Images/ORB_bnr_PriceAssurance-Names_728x90.swf?clickTag=http%3A//www.revresda.com/event.ng/Type%3Dclick%26FlightID%3D51052%26AdID%3D99999%26TargetID%3D24594%26ASeg%3D%26AMod%3D%26Segments%3D52%2C65%2C3724%2C4842%2C4979%2C5788%2C7262%2C7409%2C8303%2C11672%2C11967%2C12591%2C15155%2C19734%2C22067%2C22782%2C22848%2C22849%2C23213%26Targets%3D10%2C10015%2C19558%2C16079%2C8615%2C8458%2C13149%2C24219%2C24594%26Values%3D30%2C46%2C51%2C63%2C82%2C93%2C100%2C134%2C194%2C216%2C264%2C32876%2C33113%2C33155%2C33177%2C33232%2C33242%2C33243%2C33244%2C33245%2C33263%2C33277%2C33279%2C33280%2C33292%2C33864%2C34137%2C34581%2C34641%2C34960%2C35048%2C35050%2C35257%2C35587%2C54018%2C66797%2C67440%26RawValues%3D%26Redirect%3Dhttp%3A//www.orbitz.com/App/PerformMDLPDealsContent%3Fdeal_id%3Dorbitz-price-assurance%26cnt%3DOVI%26type%3Dlb_qs%26ad_id%3D99999%26ad_ch%3Dhome%26WT.ac%3D1 HTTP/1.1
+Host: www.revresda.com:80
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+
+GET /DartRichMedia_1_03.js HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+If-Modified-Since: Thu, 10 Aug 2006 22:30:05 GMT
+If-None-Match: "264405-2fa-5e91f540"
+
+GET /Marketing/Images/dest_ASSET_unit1.swf HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+
+GET /js.ng/channel=home&Section=main&adsize=120x55_footer&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705682981& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+
+GET /html.ng/channel=home&Section=main&adsize=1x1&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705682981&width=1&height=1& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/
+Cookie: NGUserID=aeb2f46-9739-1216608599-1
+
+GET /Marketing/Images/1x1.gif HTTP/1.1
+Host: www.revresda.com:80
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /js.ng/channel=hotel&Section=main&adsize=120x60&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705725978& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /Marketing/Images/US/PM/CapitalOne/CapitalOne_Visa_120x55_070708.jpg HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /js.ng/channel=hotel&Section=main&adsize=313x120&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705725978& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /js.ng/channel=hotel&Section=main&adsize=313x75&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705725978& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /Marketing/Images/US/MERCH/dph/ORB_htl_DisneyWorld69_313x75.jpg HTTP/1.1
+Host: www.revresda.com:80
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /js.ng/Section=results&area=tacoda&adsize=728x90_top&CookieName=OSC&secure=false&site=orbitz& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /Marketing/Images/US/PM/CapitalOne/CapOne_117x41_banner_070908.jpg HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+If-Modified-Since: Wed, 09 Jul 2008 13:20:19 GMT
+If-None-Match: "c3b9747-16a2-2b86aac0"
+
+GET /Marketing/Images/US/MERCH/Interstitials/ORB_int_PriceAssurance-Check_550x340.gif HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.revresda.com/html.ng/channel=hotel&Section=interstitialNoAd&adsize=550x340&dest=SACRAMENTO&area=SACRAMENTO&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705738952&
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /html.ng/channel=hotel&Section=results&adsize=hotwireTop&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /Marketing/Images/1x1_matrixblue.gif HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.revresda.com/html.ng/channel=hotel&Section=results&adsize=hotwireTop&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703&
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /html.ng/channel=hotel&Section=results&adsize=hotwireBottom&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /js.ng/channel=hotel&Section=results&adsize=160x600&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /Marketing/Images/Orbitzblue_125x175.gif HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.revresda.com/html.ng/channel=hotel&Section=results&adsize=hotwireBottom&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703&
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /js.ng/channel=hotel&Section=results&adsize=160x600_bottom&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /js.ng/channel=hotel&Section=main&adsize=120x55_footer&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /html.ng/channel=hotel&Section=results&adsize=1x1&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705743703&width=1&height=1& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /DartRichMedia_1_03.js HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.revresda.com/html.ng/channel=hotel&Section=interstitialresults&adsize=550x340&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705813909&
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+If-Modified-Since: Thu, 10 Aug 2006 22:29:40 GMT
+If-None-Match: "3bc43e-2fa-5d147d00"
+
+GET /html.ng/channel=hotel&Section=results&adsize=120x600&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705818334& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /Marketing/Images/US/PM/CapitalOne/CapOne_117x41_banner_070908.jpg HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+If-Modified-Since: Wed, 09 Jul 2008 13:20:19 GMT
+If-None-Match: "c3b9747-16a2-2b86aac0"
+
+GET /DartRichMedia_1_03.js HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.revresda.com/html.ng/channel=hotel&Section=interstitialresults&adsize=550x340&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705862431&
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+If-Modified-Since: Thu, 10 Aug 2006 22:30:05 GMT
+If-None-Match: "264405-2fa-5e91f540"
+
+GET /html.ng/channel=hotel&Section=results&adsize=120x600&dest=SACRAMENTO&area=SACRAMENTO&state=CA&country=US&CookieName=OSC&secure=false&site=orbitz&subdomain=orbitz&tile=1216705865097& HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+
+GET /Marketing/Images/US/PM/CapitalOne/CapOne_117x41_banner_070908.jpg HTTP/1.1
+Host: www.revresda.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: NGUserID=aeb2f46-9739-1216608599-1; viewad=yes
+If-Modified-Since: Wed, 09 Jul 2008 13:20:19 GMT
+If-None-Match: "c3b9747-16a2-2b86aac0"
+

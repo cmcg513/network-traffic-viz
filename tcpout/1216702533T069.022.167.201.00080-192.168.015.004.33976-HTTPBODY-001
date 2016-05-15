@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r30/Music/34/cb/8d/mzi.tzyngbdn.enc.jpg?downloadKey2=1217307357_33e25c231d08040b359265a404b4c6dd</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Tango No. 9</string>
+    <key>playlistName</key><string>All Them Cats In Recoleta</string>
+    <key>artistId</key><string>268699460</string>
+    <key>playlistId</key><string>268801712</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

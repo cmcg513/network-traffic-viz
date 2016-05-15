@@ -1,0 +1,70 @@
+/*       Source:  Local Cache                                                                 */
+/*     Location:  rsrc:106241:/html/css/reqs.css                                              */
+/*      Machine:  10.16.140.109                                                               */
+/*    Generated:  July 21st 2008 8:53:33 PM PDT                                               */
+/*    HTTP Host:  static.ak.fbcdn.net                                                         */
+
+
+#pagebody.confirminvite #content{padding:0px;}
+#reqs_standard_status .status{margin-top:10px;}
+.confirminvite #home_container #home_main{border:0px;padding:5px 0px 0px 5px;width:449px;}
+.confirminvite #home_container #home_sidebar{}
+.confirm_boxes{background:#fff;border:0;padding:4px 10px;margin:0px 0px 5px 0px;}
+.confirmcount{color:#333;font-size:13px;font-weight:bold;margin:7px 0px 2px 0px;padding:2px 0px;text-align:left;}
+.confirm{padding:10px 0 5px 0;margin-bottom:5px;background:white;border-top:1px solid #d8dfea;}
+.status_confirm{padding:6px 20px;margin:0 -15px -1px -15px;background-color:#f7f7f7;border-color:#cccccc;border-style:solid;border-width:1px 0px;color:#333;text-align:left;display:block;width:419px;position:relative;z-index:10;line-height:1.6;}
+.status_confirm img{vertical-align:middle;margin-right:4px;margin-top:3px;margin-bottom:3px;}
+.confirm .image{width:110px;text-align:left;}
+.confirm label{color:black;font-weight:normal;}
+.confirm td{vertical-align:top;}
+.confirm td.info{width:100%;padding-left:10px;}
+.confirm .invite_details{font-size:9px;color:#999;}
+.confirm .invite_question{margin:10px 0;}
+.addToFLRequests_Link{display:none;}
+.confirm .addToFLRequests_Hidden .add_to_friend_list_widget{display:none;}
+.confirm .add_to_friend_list_widget{padding-top:0px;}
+.confirm .addToFLRequests_Hidden .addToFLRequests_Link{display:block;}
+.confirm .addToFLRequests{padding-top:10px;}
+.limited_profile_container{padding-top:10px;}
+.mutual_friends_container{padding-top:10px;}
+.limited_profile_container input{float:left;}
+.limited_profile_container label{width:auto;padding-top:2px;float:left;}
+.limited_profile_container label span{color:#000;font-weight:normal;}
+.buttons{float:none;padding:0;}
+.aux_actions{font-size:9px;padding-top:10px;}
+.confirminvite .inputsubmit,
+.confirminvite .inputbutton{margin-right:0px;padding:1px 8px;}
+a.profile_link{font-weight:bold;}
+.personal_msg{color:#000;padding-left:16px;background:url(/images/start_quote_small.gif) no-repeat top left;}
+.personal_msg span{padding-right:16px;background:url(/images/end_quote_small.gif) no-repeat bottom right;}
+.confirm .suggestion_details{font-size:9px;color:#999;margin:12px 0 0 4px;}
+.confirm .buttons{margin-left:-2px;}
+.confirminvite .new_user_action{padding:3px 0 3px 0;}
+.confirminvite .new_user_action a{font-weight:bold;padding:2px 0 4px 20px;}
+.confirminvite .new_user_action .wall{background:url('/images/icons/wall_post.gif') no-repeat left;}
+.confirminvite .new_user_action .message{background:url('/images/icons/message.gif') no-repeat left;}
+.confirminvite .new_user_action .view_profile{background:url('/images/icons/favicon.gif') no-repeat left;}
+.confirminvite .new_user_action .suggest{background:url('/images/icons/friend_suggestion.gif') no-repeat left;}
+.confirminvite #friend_suggestion_main .whatsthis{margin:0 0 3px 7px;padding:0px 3px 0px 3px;font-size:9px;}
+.mutual_friends_container .feed_item{padding-top:0px;}
+.mutual_friends_container .pictures_container{margin-bottom:0;}
+.mutual_friends_container .pictures_container .pic_container{border:none;}
+.mutual_friends_container .pictures_container .pic_container:hover{border:none;}
+.mutual_friends_container .pictures_container .see_all{border-bottom:none;text-align:left;}
+.video_confirm_all{border-top:1px solid #d8dfea;padding:15px 20px;text-align:left;}
+.video_confirm_all .confirm_prompt{padding:0px 0px 10px 0px;}
+.video_confirm_all .confirm_buttons .inputbutton{margin:0px;}
+.confirm_boxes .video_tag_thumb{float:left;padding:0px 0px 10px 0px;width:175px;}
+.confirm_boxes .video_tag_info{float:left;width:240px;}
+.confirm_boxes .playing .video_tag_thumb,
+.confirm_boxes .playing .video_tag_info{float:none;width:auto;}
+.confirm_boxes .video_tag_info .video_tag_request .video_title_link{font-weight:bold;}
+.confirm_boxes .video_tag_info .video_tag_people{padding:10px 5px;}
+.confirm_boxes .video_tag_info .video_tag_people .inputcheckbox{margin-right:5px;}
+.reqs_dialog #req_dialog_checkboxes{padding-left:10px;padding-top:10px;padding-bottom:5px;}
+.reqs_dialog #req_dialog_checkboxes label{font-weight:normal;color:black;}
+.reqs_dialog #req_dialog_checkboxes input{margin-right:5px;}
+.reqs_dialog #before_clearing{color:#444;}
+.phonebook_req td{vertical-align:middle;}
+.phone_privacy_lock .priv_inline a div{background:transparent url(/images/privacy/lock_sprite.gif) no-repeat 0px 0px;height:10px;margin:0;width:10px;padding:0;}
+.phone_privacy_lock .priv_inline a:hover{background-position:0px -15px;cursor:pointer;}

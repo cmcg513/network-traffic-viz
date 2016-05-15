@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Server: DynDNS-CheckIP/1.0
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 105
+
+<html><head><title>Current IP Check</title></head><body>Current IP Address: 70.134.92.241</body></html>

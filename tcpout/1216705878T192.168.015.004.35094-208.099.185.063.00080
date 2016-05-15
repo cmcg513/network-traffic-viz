@@ -1,0 +1,10 @@
+GET /rss/security-investigator.xml HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Tue, 22 Jul 2008 05:05:01 GMT
+If-None-Match: "3f8a82-4758-45295c421d940"
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: rss.ittoolbox.com
+

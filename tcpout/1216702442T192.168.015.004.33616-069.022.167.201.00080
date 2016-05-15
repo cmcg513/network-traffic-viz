@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=D3B8AFF58818EEB4A1E7E04D0D4787F0&CDDBMuiID=1030692&an=Katia%20%26%20Marielle%20Lab%C3%A8que&pn=Messiaen%20-%20Visions%20De%20L'Amen%20-%20K.%20%26%20M.%20Labeque%20-%20Constant HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 8D468D1E-F32DC7CF4710DA633392F5BD8C47927F
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

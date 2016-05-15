@@ -1,0 +1,4 @@
+GET / HTTP/1.0
+Host: checkip.dyndns.org:8245
+User-Agent: Python-urllib/1.17
+

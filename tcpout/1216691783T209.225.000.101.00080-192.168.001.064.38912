@@ -1,0 +1,13 @@
+HTTP/1.0 200 OK
+Content-Type: application/x-javascript
+Cache-Control: private, max-age=0
+Pragma: no-cache
+P3P: CP="NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV"
+Set-Cookie: 6596095=_48853e5e,8405229008,743164^549652^952^0,1_; domain=.advertising.com; path=/click
+Set-Cookie: C2=e5ThIp4NHcb0FkokCTASbX4Q; domain=.advertising.com; path=/; expires=Sunday, 21-Jul-2013 01:56:46 GMT
+Set-Cookie: BASE=iVThQyuom/CVNpjEtY87PJD+U9NkTooIy3TFCIsDH2vvy0438O2l3Hvzihosjod3igtz5VnogmN5AoRSZdR5qHEuWY1jJtkF6APGBUcVeTlLk2zIpHlSok9S+K6/bnzx+Zkz0L/6VfiOnvQmTs2bTqF01PQ8SyvQSxPwwus+3Bnpc8CgG0uqygUZkCJ6bwWUtf2MIObnNztRQE6Y4zpibrz+Ptqe4i6LUMrWh1KvBc0zwv4NF/JUoOrrA5r0RSF!; domain=.advertising.com; path=/; expires=Sunday, 21-Jul-2013 01:56:46 GMT
+Set-Cookie: ROLL=rwqpaDSHyDiBwwe7+GjzfLpMqqv+S2Yj1MZty17WIVM2UIr49rQGUBW4c9ROIpdTTi/55UP6fSrBiN2G81zk8sG5XiRcmRhju2Ss+NbsUgQOu5Q/TpU15aEoESVHbC7sO0ZrGYX+9nEo9DUetOKX/LIPgYy/bREvNWDGygK!; domain=.advertising.com; path=/; expires=Sunday, 21-Jul-2013 01:56:46 GMT
+Set-Cookie: F1=B4lPFikAAAAA8b1CAEAAgEABAAAABAAAAEAAgEA; domain=.advertising.com; path=/; expires=Sunday, 21-Jul-2013 01:56:46 GMT
+Content-Length: 433
+
+tagtext="<a href=http://servedby.advertising.com/click/site=0000743164/mnum=0000549652/genr=1/tkdt=B0P0R1T0/u=1/xsxdata=1:93242651/hr=2/hl=0/c=0/scres=5/swh=1512x928/tile=1/f=2/r=1/aolexp=0/fv=9/cstr=6596095=_48853e5e,8405229008,743164^549652^952^0,1_/bnum=6596095 target=_blank><img src=http://cdn2.adsdk.com/CDN/80279/FindAJob_120x90_3-6.gif border=0 width=120 height=90 alt='Click to learn more...'><\/a>";document.write(tagtext);

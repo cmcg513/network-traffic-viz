@@ -1,0 +1,50 @@
+HTTP/1.1 200 OK
+Content-Length: 757
+Content-Type: text/html
+Content-Location: http://www.lanehenderson.net/index.htm
+Last-Modified: Thu, 17 Jul 2008 14:07:00 GMT
+Accept-Ranges: bytes
+ETag: "40e8686116e8c81:3ab"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+MicrosoftOfficeWebServer: 5.0_Pub
+Date: Tue, 22 Jul 2008 04:47:32 GMT
+Connection: close
+
+
+
+
+
+<html>
+	<head>
+		<title>Welcome to Lane Henderson's Web Site</title>
+		
+	</HEAD>
+	<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" style="text-align: center">
+        <br />
+        <br />
+        <br />
+        <span style="font-size: 32pt"><strong>DARKKNIGHT.COM is up for auction.<br />
+            <br />
+            <br />
+            Please go to:<br />
+            <br />
+        </strong><a href="http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&item=230272385689"
+            target="_blank">http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=230272385689</a><br />
+            <br />
+            to make a bid.<br />
+        </span>
+		
+		
+		
+	</body>
+</HTML>
+
+		
+				
+		
+		
+		
+		
+		
+		

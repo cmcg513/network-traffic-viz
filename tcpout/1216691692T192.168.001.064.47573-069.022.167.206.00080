@@ -1,0 +1,12 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=93205ECBB4652246F0B9CF36723A97DB&CDDBMuiID=26336&an=Wolfgang%20Amadeus%20Mozart&pn=Exsultate%20Jubilate HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 82E6A136-82A38316E114FC0FCC5C5AD4097CB827
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

@@ -1,0 +1,10 @@
+GET /services/feeds/photos_public.gne?id=89101607@N00&lang=en-us&format=rss_200 HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Mon, 14 Jul 2008 16:05:32 GMT
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: BX=3tfsq6p46jcuo&b=3&s=df; cookie_l10n=en-us%3Bus
+Connection: keep-alive
+Host: api.flickr.com
+

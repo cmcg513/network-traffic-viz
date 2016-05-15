@@ -1,0 +1,167 @@
+GET /scripts/ufo.js HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /scripts/swfobject.js HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /scripts/standard_ui.js HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /inc/css/styles.css HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /styles/base.css HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /styles/headerNav.css HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /styles/printStyle.css HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/css,*/*;q=0.1
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /favicon.ico HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /inc/threecolumnlayout/element-beta.js HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /inc/threecolumnlayout/interface.js HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /inc/threecolumnlayout/customFunctions.js HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1
+
+GET /styles/images/imgBgMain.jpg HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/styles/base.css
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z
+
+GET /__utm.gif?utmwv=6.1&utmn=1789644574&utmsr=1680x1050&utmsc=32-bit&utmul=en-us&utmje=1&utmjv=1.5&utmfl=9.0%20r115&utmcn=1&utmdt=Sacramento%20Attractions%2C%20Venues%2C%20Things%20to%20do%20in%20Sacramento%20CA.&utmhn=www.hellosacramento.com&utmr=http://www.google.com/search?q=sacramento+tourist&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a&utmp=/Attractions.cfm HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /ajax/validclick.php?affid=7439&maxcount=1&search=Home%2BLoan&script_name=%252FAttractions%252Ecfm&CityID=203&rndval=1216705321233 HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+

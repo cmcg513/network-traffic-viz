@@ -1,0 +1,12 @@
+GET /csct2.gif?Log=1&GUID=rghtcacp0030000024cnt;46184943 HTTP/1.1
+Host: csct2.att.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://view.atdmt.com/CNT/iview/rghtcacp0030000024cnt/direct;wi.160;hi.600/01?click=http://ad.yieldmanager.com/click,jgIAAFloBQCAZA4A560EAAIAHAAAAP8AAAACFwIACgI8.QMAGfYGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA13hUgAAAAA,http%3A%2F%2Fpn1.ard.yahoo.com%2FSIG%3D15ck66drq%2FM%3D621216.12796317.13078505.12225377%2FD%3Deb_cmptr%2FS%3D97553668%3ASKY%2FY%3DEBAY_US%2FE%3Debay%3A%2FEXP%3D1216713516%2FL%3DRD5RqNj8fU8jASHXQnAf7EL7RoZbDEiFdwwADMty%2FB%3DqeMmA9j8fc8-%2FJ%3D1216706316841012%2FA%3D5334030%2FR%3D0%2F%2A%24,http%3A%2F%2Fpn1.adserver.yahoo.com%2Fa%3Fpd_id%3Dny%252bshz2prbmdj6wvny%252bsez2pra2dj6wjkykndjsapa%252bdj6x9ny%252bseq%253d%253d%26p%3Deb_cmptr%26c%3Dsh%26rand%3D1216706316%26pn%3Debay%26pd_x%3D20%26l%3Dsky%26kw%3Dleather%2Bbackpack%2Blaptop%26f%3D97553668%26sig%3Dtcf8alcnrgksg0jurhvueq--,
+Cookie: v1st=49CB141E1B921FA3
+

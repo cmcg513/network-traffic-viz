@@ -1,0 +1,5 @@
+GET /fairgame/fairGameSegs.mediaplayer?STATION_NAME=fairgame&MEDIA_ID=633619&MEDIA_EXTENSION=mp3&MODULE=fairGameSegs&P=podcast&I=2743 HTTP/1.1
+User-Agent: iTunes/7.7 (Macintosh; N; Intel)
+Connection: close
+Host: www.publicbroadcasting.net
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns="http://www.apple.com/itms/" disableHistory="true" disableNavigation="true">
+
+      
+      <Protocol>
+        <plist version="1.0">
+          <dict>
+            
+            
+            
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/bb/34/f7/mzi.kjxdvsyi.enc.jpg?downloadKey2=1217295505_5ea6856a208475a5305a3993dcc81275</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Fiona Apple</string>
+    <key>playlistName</key><string>Extraordinary Machine</string>
+    <key>artistId</key><string>466131</string>
+    <key>playlistId</key><string>153432152</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+          </dict>
+        </plist>
+      </Protocol>
+      
+      
+    
+</Document>
+
+    
+
+

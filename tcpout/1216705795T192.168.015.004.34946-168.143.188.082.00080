@@ -1,0 +1,165 @@
+GET /IG/IGTemplates/IGTemplate4/images/btn-fw.gif HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_EXT_02_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_EXT_04_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_LOBB_02_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_01_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_03_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_05_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_07_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_09_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_11_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_13_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_ROOM_15_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_REST_03_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_REST_05_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+
+GET /IG/T/T09620/T09620_HLTH_01_A.jpg HTTP/1.1
+Host: imagegallery.leonardo.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://imagegallery.leonardo.com/IG/T/T09620/T09620_IGtemplate4.html
+

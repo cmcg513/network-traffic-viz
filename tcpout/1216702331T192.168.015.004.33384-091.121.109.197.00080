@@ -1,0 +1,47 @@
+GET /AdoptAMan/?auth_token=3c0d1e15a2281e908a92acb5f4b28732 HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.facebook.com/tos.php?api_key=9e3fc4a0e37294d562c65dff6274c429&next=&v=1.0
+
+GET /AdoptAMan/Images/Home/puce-1.gif HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://apps.facebook.com/adoptman/default.aspx
+Cookie: ASP.NET_SessionId=irzddh45qoorgbejxto2kv45
+
+GET /AdoptAMan/Images/Home/puce-3.gif HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://apps.facebook.com/adoptman/default.aspx
+Cookie: ASP.NET_SessionId=irzddh45qoorgbejxto2kv45
+
+GET /AdoptAMan/Images/Home/bandelogohome.jpg HTTP/1.1
+Host: ns200071.ovh.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://apps.facebook.com/adoptman/default.aspx
+Cookie: ASP.NET_SessionId=irzddh45qoorgbejxto2kv45
+

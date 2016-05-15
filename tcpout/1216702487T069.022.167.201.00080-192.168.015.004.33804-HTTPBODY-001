@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/y2005/m01/d28/h19/s06.pwbwtubf.enc.jpg?downloadKey2=1217307311_3a9c3c92fdf21d5ed63d2dccb8dc3580</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Orbital</string>
+    <key>playlistName</key><string>Orbital</string>
+    <key>artistId</key><string>724648</string>
+    <key>playlistId</key><string>42226820</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:44:19 GMT
+P3P: policyref="http://p3p.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE GOV"
+Cache-Control: max-age=259200
+Expires: Fri, 25 Jul 2008 04:44:19 GMT
+Last-Modified: Tue, 12 Jun 2007 09:00:29 GMT
+Accept-Ranges: bytes
+Content-Length: 89
+Connection: close
+Content-Type: application/xml
+
+<cross-domain-policy>
+  <allow-access-from domain="l.yimg.com" />
+</cross-domain-policy>

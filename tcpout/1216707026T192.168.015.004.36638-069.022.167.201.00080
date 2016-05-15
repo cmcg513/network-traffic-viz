@@ -1,0 +1,12 @@
+GET /us/r30/Features/f2/99/67/dj.xzqxutrq.53x53-50.jpg HTTP/1.1
+X-Apple-Tz: -25200
+Cookie: s_vi=[CS]v1|4374FC15000046AB-A000B5E00000091[CE]
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/storeFront
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: BCD3739D-B7FA2D7634D7E80E44A4283E1B69CDFA
+Accept-Encoding: gzip
+Connection: close
+Host: a1.phobos.apple.com
+

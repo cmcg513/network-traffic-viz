@@ -1,0 +1,354 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 04:31:10 GMT
+Server: MIT Web Server Apache/1.3.26 Mark/1.5 (Unix) mod_ssl/2.8.9 OpenSSL/0.9.7c
+Last-Modified: Mon, 21 Jul 2008 21:23:36 GMT
+ETag: "5eadf6a8-4078-4884fe58"
+Accept-Ranges: bytes
+Content-Length: 16504
+Connection: close
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>MIT News Office: Research news</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="MIT; Massachusetts Institute of Technology; News Office; Research" />
+<meta name="description" content="Description here" />
+<!-- Date is set to 1/1 of the appropriate year for the Sort by Date function in Google's search results -->
+<meta name="Date" content="2008-1-1" />
+<link href="http://web.mit.edu/newsoffice/stylesheets/main.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+
+input[type="text"] {
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-left-color: #666666;
+	border-left-width: 3px;
+	border-left-style: solid;
+	border-top-style: solid;
+	border-top-width: 3px;
+	border-top-color: #666666;
+	border-right-style: solid;
+	border-bottom-style: solid;
+ }
+
+select {
+	font-family: Arial, Helvetica, sans-serif;
+    font size:11px;
+    line-height:13px;
+	border-bottom: 1px;
+	border-style: solid;
+	border-color: #666666;
+}
+
+
+
+.topicboxinfo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 13px;
+	white-space: normal;
+	width: 154px;
+}
+
+#rightcol select {
+width: 154px;
+whitespace: normal;
+}
+
+
+-->
+</style>
+<script language="JavaScript" type="text/JavaScript">
+
+ function LinkUp() 
+ {
+
+ var number = document.topicbox.topics.selectedIndex;
+ document.topicbox.action = document.topicbox.topics.options[number].value;
+ document.topicbox.topics.options[number].value = "";
+ document.topicbox.submit();
+
+ return false;
+ }
+ </script>
+</head>
+<body id="category">
+<div class="skipnavigation">
+<a href="#startcontent">Skip to content</a>
+</div>
+<div id="topbar">
+<a href="http://web.mit.edu/">massachusetts institute of technology</a>
+</div>
+<div id="header">
+<h1>
+<a href="http://web.mit.edu/newsoffice/index.html">MIT news</a>
+</h1>
+<form id="search" method="get" action="http://search.mit.edu/search">
+<input type="text" name="q" size="15" maxlength="255" value="" />
+<input type="submit" name="btnG" value="Go" />
+<input type="hidden" name="site" value="mit" />
+<input type="hidden" name="client" value="mit" />
+<input type="hidden" name="proxystylesheet" value="http://web.mit.edu/newsoffice/google-newsoffice-v4.xsl" />
+<input type="hidden" name="output" value="xml_no_dtd" />
+<input type="hidden" name="getfields" value="*" />
+<input type="hidden" name="as_dt" value="i" />
+<input type="hidden" name="as_sitesearch" value="web.mit.edu/newsoffice" />
+<br />
+<a href="http://web.mit.edu/newsoffice/search.html">advanced search</a>
+</form>
+</div>
+<div id="middle">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" id="research_section">
+<tr>
+<td id="leftnav">
+<div class="nav">
+<h2>
+<a href="http://web.mit.edu/newsoffice/">news</a>
+</h2>
+<a href="http://web.mit.edu/newsoffice/recent.html">recent</a>
+<a href="http://web.mit.edu/newsoffice/research.html">research</a>
+<a href="http://web.mit.edu/newsoffice/campus.html">campus</a>
+<a href="http://web.mit.edu/newsoffice/topic/index.html">by topic</a>
+<a href="http://events.mit.edu">events</a>
+<a href="http://web.mit.edu/newsoffice/archive.html">archives</a>
+<a href="http://web.mit.edu/newsoffice/in-the-news.html">in the news</a>
+<h2>subscribe</h2>
+<a href="http://web.mit.edu/newsoffice/subscribe-podcasts.html">podcasts</a>
+<a href="http://web.mit.edu/newsoffice/subscribe-enews.html">e-news</a>
+<a href="http://web.mit.edu/newsoffice/techtalk-info.html">tech talk</a>
+<a href="http://web.mit.edu/newsoffice/subscribe-release.html">news releases</a>
+<a href="http://web.mit.edu/newsoffice/subscribe-rss.html">rss feeds</a>
+<h2>services</h2>
+<a href="http://web.mit.edu/newsoffice/images/index.html">request images</a>
+<a href="http://web.mit.edu/newsoffice/submit-news.html">submit news</a>
+<a href="http://web.mit.edu/newsoffice/promote-news.html">promote news</a>
+<a href="http://web.mit.edu/newsoffice/media-inquiries.html">media inquiries</a>
+<h2>about us</h2>
+<a href="http://web.mit.edu/newsoffice/about.html">news office info</a>
+<a href="http://web.mit.edu/newsoffice/about-mit.html">MIT background</a>
+<a href="http://web.mit.edu/newsoffice/contact.html">contact</a>
+<div id="logo">
+<a href="http://web.mit.edu/">
+<img src="http://web.mit.edu/newsoffice/mitlogo.gif" alt="MIT home" width="73" height="38" border="0" />
+</a>
+</div>
+</div>
+</td>
+<td id="content">
+<a name="startcontent" id="startcontent"> </a>
+<h1 id="category">research news</h1>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/super-conduct-0718.html">Physicists shed light on superconductivity riddle</a>
+</h2>
+<p>MIT physicists believe they have identified a mysterious state of matter that has been linked to the phenomenon of high-temperature superconductivity. This state may not a precursor to superconductivity, as has been theorized, but a competing state. <span class="date">July 18</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/inl-mit-0717.html">Colorado School of Mines first to use nuclear energy research partnership</a>
+</h2>
+<p>Under a research partnership between the Advanced Test Reactor National Scientific User Facility at Idaho National Laboratory and MIT, a Colorado School of Mines nuclear materials irradiation experiment will be the first test conducted in the MIT Reactor.  <span class="date">July 17</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/touch-0717.html">MIT-led team creates touch-based illusion</a>
+</h2>
+<p>A team of scientists from MIT, Harvard and McGill has designed a new illusion involving the sense of touch, which is helping to glean new insights into perception and how different senses--such as touch and sight--work together. <span class="date">July 17</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/rationing-0717.html">Cutting costs one image at a time</a>
+</h2>
+<p>In an effort to assess health-care organizations' cost-cutting techniques, MIT urban economist Frank Levy will study the effects of different initiatives to restrict non-necessary medical-imaging procedures on the costs and quality of care. <span class="date">July 17</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/i-shoe-0716.html">Balance problems? Step into the iShoe</a>
+</h2>
+<p>Your grandmother might have little in common with an astronaut, but both could benefit from a new device an MIT graduate student is designing to test balancing ability. <span class="date">July 16</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/missing-link-0715.html">Brain scientists spot nature/nurture gene link</a>
+</h2>
+<p>Neuroscientists at MIT's Picower Institute for Learning and Memory found that a previously unsuspected set of genes links nature and nurture during a crucial period of brain development. The results could lead to treatments for autism and other disorders. <span class="date">July 15</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/powerhouse-0711.html">Team unveils 'parts list' of cell powerhouse</a>
+</h2>
+<p>An international team of researchers, led by a member of the Broad Institute of MIT and Harvard, has created the most  comprehensive "parts list" to date for mitochondria, a compendium that includes nearly 1,100 proteins. <span class="date">July 11</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/climate-path-0711.html">Don't bank on long-term climate policy success</a>
+</h2>
+<p>Long-term climate change policy in the United States and abroad is likely to change very slowly, warns an MIT professor who says the lack of future flexibility argues for stronger short-term goals to reduce carbon emissions. <span class="date">July 11</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/nanochips-0708.html">MIT reports finer lines for microchips</a>
+</h2>
+<p>MIT researchers have achieved a significant advance in nanoscale lithographic technology, used in the manufacture of computer chips and electronic devices, to make finer patterns of lines over larger areas than have been possible with other methods.  <span class="date">July 8</span>
+</p>
+<h2>
+<a href="http://web.mit.edu/newsoffice/2008/voyager-0707.html">MIT instrument studies edge of sun's bubble</a>
+</h2>
+<p>The Voyager 1 and 2 spacecraft have now traveled beyond the edge of the sun's outflow of particles and radiation. Some of the data that reveals this boundary region comes from a set of magnetic field sensors developed and built at MIT back in the 1970s. <span class="date">July 7</span>
+</p>
+<p class="more">
+<a href="http://web.mit.edu/newsoffice/research-archive.html">more research news &gt;&gt;&gt; </a>
+</p>
+</td>
+<td id="rightcol">
+<a href="http://web.mit.edu/newsoffice/2008/mutation-0721.html">
+<img src="research28302.jpg" width="154" height="154" alt="image of mutated cells" />
+</a>
+<p class="date">
+<a href="http://web.mit.edu/newsoffice/2008/mutation-0721.html">MIT researchers offer glimpse of rare mutant cells</a>  7/21/2008<br />
+</p>
+<a href="http://web.mit.edu/newsoffice/2008/solarcells-0710.html">
+<img src="research28281.jpg" width="154" height="154" alt="solar concentrators" />
+</a>
+<p class="date">
+<a href="http://web.mit.edu/newsoffice/2008/solarcells-0710.html">MIT opens new 'window' on solar energy</a>  7/10/2008<br />
+</p>
+<a href="http://web.mit.edu/newsoffice/2008/drink-memory-0708.html">
+<img src="research28278.jpg" width="154" height="154" alt="beverage" />
+</a>
+<p class="date">
+<a href="http://web.mit.edu/newsoffice/2008/drink-memory-0708.html">Study points to dietary cocktail for Alzheimer's</a>  7/8/2008<br />
+</p>
+<div class="line">&nbsp;</div>
+<h3>related</h3>
+<p>
+<a href="http://web.mit.edu/research/index.html">MIT research labs, centers and programs </a>
+</p>
+<div class="line">&nbsp;</div>
+<h3>browse</h3>
+<h4>Find stories by topic: </h4>
+<form action="index.html" method="get" name="topicbox" id="topicbox" onsubmit="return LinkUp();" ondblclick="return LinkUp();">
+<p>
+<select name="topics" size="15">
+<option value="topic/administration.html">Administration</option>
+<option value="topic/aeronautics.html">Aeronautical / astronautical
+		          engineering</option>
+<option value="topic/alumni.html">Alumni/ae</option>
+<option value="topic/architecture.html">Architecture</option>
+<option value="topic/arts.html">Arts</option>
+<option value="topic/awards.html">Awards &amp; honors</option>
+<option value="topic/bio-bioeng-biotech.html">Biology, bioengineering &amp; biotech</option>
+<option value="topic/business.html">Business &amp; management</option>
+<option value="topic/cambridge.html">Cambridge, Boston &amp; regional
+                  relations</option>
+<option value="topic/campus-buildings.html">Campus buildings &amp; architecture</option>
+<option value="topic/campus-services.html">Campus services</option>
+<option value="cancer-research.html">Cancer research</option>
+<option value="topic/chemistry.html">Chemistry &amp; chemical
+                  engineering</option>
+<option value="topic/civil-engineering.html">Civil engineering</option>
+<option value="topic/commencement.html">Commencement</option>
+<option value="topic/computers.html">Computer science &amp; technology</option>
+<option value="topic/contests.html">Contests &amp; academic
+                  competitions</option>
+<option value="topic/earth-atmosphere.html">Earth and atmospheric sciences</option>
+<option value="topic/economics.html">Economics</option>
+<option value="topic/education.html">Education &amp; teaching</option>
+<option value="topic/electrical-engineering.html">Electrical
+                  engineering &amp; electronics</option>
+<option value="topic/energy.html">Energy</option>
+<option value="topic/entrepreneurship.html">Entrepreneurship</option>
+<option value="topic/environment.html">Environment</option>
+<option value="topic/faculty.html">Faculty</option>
+<option value="topic/genetics.html">Genetics</option>
+<option value="topic/health.html">Health sciences &amp; technology</option>
+<option value="topic/history.html">History</option>
+<option value="topic/history-mit.html">History of MIT</option>
+<option value="topic/humanities.html">Humanities</option>
+<option value="topic/iap.html">Independent Activities Period</option>
+<option value="topic/industry.html">Industry relations</option>
+<option value="topic/innovation.html">Innovation &amp; inventions</option>
+<option value="topic/international-relations.html">International
+                  relations &amp; collaborations</option>
+<option value="topic/linguistics.html">Linguistics</option>
+<option value="topic/literature-languages.html">Literature,
+                  languages &amp; writing</option>
+<option value="topic/materials-science.html">Materials science</option>
+<option value="topic/mathematics.html">Mathematics</option>
+<option value="topic/mechanical-engineering.html">Mechanical engineering</option>
+<option value="topic/media-lab.html">Media Lab / media arts &amp; sciences</option>
+<option value="topic/mit-presidency.html">MIT presidency</option>
+<option value="topic/music.html">Music technology</option>
+<option value="topic/nanotech.html">Nanoscience &amp; nanotechnology</option>
+<option value="topic/national-relations.html">National relations &amp; service</option>
+<option value="topic/neuroscience.html">Neuroscience</option>
+<option value="topic/nobels.html">Nobel Prizes</option>
+<option value="topic/nuclear-engineering">Nuclear engineering</option>
+<option value="topic/obituaries.html">Obituaries</option>
+<option value="topic/oceans.html">Oceanography &amp; ocean
+                  engineering</option>
+<option value="topic/physics.html">Physics</option>
+<option value="topic/political-science.html">Political science</option>
+<option value="topic/robotics.html">Robotics &amp; artificial
+                  intelligence</option>
+<option value="topic/security-studies.html">Security studies &amp; military</option>
+<option value="topic/space.html">Space, astronomy &amp; planetary
+                  science</option>
+<option value="topic/special-events.html">Special events &amp; guest
+                  speakers</option>
+<option value="topic/sports.html">Sports &amp; fitness</option>
+<option value="topic/staff.html">Staff</option>
+<option value="topic/students.html">Students</option>
+<option value="topic/technology-society.html">Technology &amp; society</option>
+<option value="topic/urban-studies.html">Urban studies &amp; planning</option>
+<option value="topic/volunteering.html">Volunteering, outreach, public service</option>
+<option value="topic/voting.html">Voting technology</option>
+</select>
+<input type="submit" value="Go" />
+</p>
+<p>
+<strong>Please note:</strong> if you do not have Javascipt enabled on
+		      your browser, you will be redirected to the main topics page when
+		      you click Go. </p>
+</form>
+</td>
+</tr>
+</table>
+</div>
+<div id="footer">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="123">
+<a href="http://web.mit.edu/">MIT home</a>
+</td>
+<td width="110">
+<a href="http://web.mit.edu/newsoffice/index.html">news office</a>
+<br />
+<a href="http://web.mit.edu/newsoffice/directions.html">room 11-400</a>
+</td>
+<td width="180">77 massachusetts avenue <br />
+  cambridge, ma 02139-4307 </td>
+<td width="143">617-253-2700<br />
+<a href="mailto:newsoffice@mit.edu">newsoffice@mit.edu</a>
+</td>
+<td width="154">
+<div id="feed">
+<a href="http://web.mit.edu/newsoffice/subscribe-rss.html">
+<img src="http://web.mit.edu/newsoffice/rss-feed-icon.png" alt="rss feed icon" width="14" height="14" /> rss feeds </a>
+<br />
+<a href="http://web.mit.edu/newsoffice/subscribe-podcasts.html">
+<img src="http://web.mit.edu/newsoffice/podcast-feed-icon.png" alt="podcast icon" width="14" height="14" /> podcast </a>
+</div>
+</td>
+</tr>
+</table>
+<img src="http://counter.mit.edu/tally" alt="counter" height="1" width="1" />
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4690006-1");
+pageTracker._setDomainName("web.mit.edu");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+</body>
+</html>

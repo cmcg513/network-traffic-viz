@@ -1,0 +1,8 @@
+HTTP/1.1 302 Object moved
+Cache-Control: no-store
+Content-Length: 0
+Expires: 0
+Location: http://spe.atdmt.com/images/pixel.gif
+Connection: close
+Date: Tue, 22 Jul 2008 06:03:51 GMT
+

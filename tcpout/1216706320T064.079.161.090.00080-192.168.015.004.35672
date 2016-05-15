@@ -1,0 +1,69 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:59:02 GMT
+Server: Apache/2.0.52 (Red Hat)
+P3P: CP="NON DSP COR ADM DEV PSA PSD IVA OUR BUS STA"
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: smx=488577263499C75F6749BA4B9; Domain=.specificclick.net; Expires=Fri, 20-Jul-2018 05:59:02 GMT; Path=/
+Set-Cookie: DMEXP=4; Domain=adopt.specificclick.net; Expires=Tue, 29-Jul-2008 05:59:02 GMT; Path=/
+Set-Cookie: CTCI=0018101qk1000Q10Bfh106Df101HH101DT10000100WY00000000; Domain=adopt.specificclick.net; Expires=Fri, 05-Sep-2008 05:59:02 GMT; Path=/
+Set-Cookie: HS=|||00FV57b9T0000Wp63W8; Domain=adopt.specificclick.net; Expires=Tue, 29-Jul-2008 05:59:02 GMT; Path=/
+Set-Cookie: DGI=-1|; Domain=adopt.specificclick.net; Expires=Sat, 26-Jul-2008 05:59:02 GMT; Path=/
+Set-Cookie: UI=3499C75F6749BA4B9|06055.f.9.fh.xz.171@@who@@nlmgvivb@@-1_9@@9@@f|; Domain=adopt.specificclick.net; Expires=Fri, 20-Jul-2018 05:59:02 GMT; Path=/
+Content-Length: 892
+Keep-Alive: timeout=300, max=962
+Connection: Keep-Alive
+Content-Type: text/html;charset=ISO-8859-1
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+_25451_aclick='';
+_25451_pclick='';
+_25451_sdc_dem='06055.f.9.fh.xz.171@@who@@nlmgvivb@@-1_9@@9@@f';
+_25451_sdc_nomove=false;
+_25451_sdc_noresize=false;
+_25451_sdc_acamp_id=47853;
+_25451_sdc_pcamp_id=5201;
+_25451_sdc_location_id=4957;
+_25451_sdc_creative_id=25451;
+_25451_sdc_loaded=true;
+var _SDC_25451_content=
+	"<HTML> \n"+
+	"<BODY bgcolor=\"#ffffff\" topmargin=0 marginheight=0 marginwidth=0 leftmargin=0> \n"+
+	"<A HREF=\"http://adopt.specificclick.net/lnk.sm?aplcd=47853;5201;4957;25451;06055.f.9.fh.xz.171@@who@@nlmgvivb@@-1_9@@9@@f;1216706342950;href=http://clk.atdmt.com/NFX/go/spcfanfx0060001460nfx/direct/01/\" target=\"_blank\">\n"+
+	"<IMG SRC=\"http://cdn2.specificmedia.com/contents/25419/1007_001_B_300250_S.gif\" BORDER=0 WIDTH=300 HEIGHT=250 ALT=\"Alt Text\"></A> \n"+
+	"</BODY> \n"+
+	"</HTML>\n"+
+	"";
+document.writeln(_SDC_25451_content);
+
+
+

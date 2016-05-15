@@ -1,0 +1,61 @@
+/*       Source:  Local Cache                                                                 */
+/*     Location:  rsrc:99444:/html/css/mobilepro.css                                          */
+/*      Machine:  10.16.139.110                                                               */
+/*    Generated:  July 21st 2008 8:53:40 PM PDT                                               */
+/*    HTTP Host:  static.ak.fbcdn.net                                                         */
+
+
+.mobile_dash_bar{margin-top:0px;padding-top:0px;}
+.mobile_dash{background:#f7f7f7;padding:0px 0px 18px 0px;}
+.mobile_dash_images,
+.mobile_dash_images td{vertical-align:bottom;}
+.mobile_dash_infos,
+.mobile_dash_infos td{vertical-align:top;}
+.mobile_dash_image{padding:18px 0px 0px 17px;width:140px;}
+.mobile_dash_image img{border:solid #ccc 1px;padding:3px;}
+.mobile_dash_byline{line-height:14px;padding:4px 0px 6px 20px;}
+.mobile_dash_byline strong{display:block;overflow:hidden;width:120px;}
+.mobile_dash_byline .mobile_dash_comment{display:block;font-size:9px;padding-top:4px;}
+.mobile_dash_bottom{background:#fff;border-top:solid #d8dfea 1px;padding:15px 15px 20px;}
+.mobile_dash_bottom h2{color:#333;font-size:11px;font-weight:bold;padding:4px 0px 1px 0px;}
+.mobile_url_container{padding:12px 0px 12px;}
+.mobile_dash_bottom p{margin:0px;padding:8px 0px 0px;}
+.mobile_dash_bottom_left{float:left;padding:12px 30px 15px 7px;width:265px;}
+.mobile_dash_bottom_left h3{font-size:11px;font-weight:normal;padding:8px 0px;}
+.mobile_dash_bottom_left .notifications_off{border-top:solid #ccc 1px;color:#666;font-weight:bold;margin-top:16px;padding:16px 0px;}
+.mobile_dash_bottom_left .subscription{color:#444;}
+.mobile_dash_bottom_left .mobile_texts h2{background-image:url(/images/icons/mobile_app.gif);background-repeat:no-repeat;background-position:-5px 2px;padding-left:17px;}
+.mobile_dash_bottom_left .mobile_texts_address{background:#f2f5ff;border:solid #d8dfea 1px;font-size:14px;font-weight:bold;padding:5px;}
+.mobile_dash_bottom_left .mobile_subscriptions{padding-top:16px;}
+.mobile_dash_bottom_right{border-left:solid #ccc 1px;float:left;padding:12px 0px 15px 35px;width:250px;}
+.mobile_dash_bottom_right .mobile_uploads h2{background-image:url(/images/icons/mobile_photo.gif);background-repeat:no-repeat;padding-left:22px;}
+.mobile_dash_bottom_right .mobile_uploads_address{background:#f2f5ff;border:solid #d8dfea 1px;font-size:14px;font-weight:bold;padding:5px;}
+.mobile_dash_bottom_right .mobile_web{padding-top:16px;}
+.mobile_dash_bottom .mobile_add_app{color:#777;font-weight:bold;padding-top:16px;}
+.mobile_dash_bottom .confirm_phone{display:block;padding-top:0px;}
+.back_to_mobile{display:block;padding:10px 8px 0px 0px;}
+.mobile_settings_inlay{background:#f7f7f7;border-top:solid #d8dfea 1px;padding:10px 0px 0px;}
+.mobile_settings{margin:0px auto;padding:0px 140px 20px;}
+.mobile_settings h2{border-bottom:solid #d8dfea 1px;color:#000;font-size:11px;font-weight:bold;margin-top:24px;padding:4px 0px;}
+.mobile_settings h3{color:#000;font-size:12px;font-weight:bold;margin:0px;padding:18px 0px 8px;}
+.mobile_settings label{color:#000;font-weight:normal;padding:0px;margin:0px;}
+.mobile_account .tabs{padding-top:20px;}
+.mobile_account_inlay{background:#f7f7f7;padding-top:10px;}
+.mobile_account_main{padding:0px 110px 20px;}
+.mobile_account_main h2{border-bottom:solid #d8dfea 1px;font-size:12px;font-weight:bold;margin:16px 0px 18px;padding:3px 0px;}
+.mobile_account_main h4{margin:30px 0px 15px 0px;}
+.mobile_account_main .phones{list-style:none;margin:0px;padding:8px 0px;}
+.mobile_account_main .phones li{list-style:none;margin:0px;padding:3px 0px;}
+.mobile_account_main .phones li span{color:#933;font-weight:bold;}
+.mobile_account_main .phones li small{color:#777;}
+.mobile_add_phone{margin-bottom:4px;}
+.mobile_add_phone td{vertical-align:top;}
+.mobile_add_phone th{text-align:left;}
+.mobile_add_phone th{color:#777;font-size:9px;font-weight:normal;padding:0px 0px 3px 2px;}
+.mobile_add_phone td{padding-right:6px;}
+.mobile_add_phone_link{display:block;}
+.mobile_error{background:#ffebe8;border:solid 1px #dd3c10;margin:0px 0px 5px;padding:5px;}
+.mobile_conf{background:#fff9d7;border:solid 1px #e2c822;margin:0px 0px 5px;padding:5px;}
+#activate .actually_important{padding:8px 20px 8px 10px;background:url('/images/actually_important.gif') no-repeat bottom left;height:55px;}
+#activate .actually_important .read_this{font-size:13px;font-weight:bold;color:#d85d01;}
+#activate .actually_important .important_text{font-size:13px;font-weight:bold;color:#391800 }

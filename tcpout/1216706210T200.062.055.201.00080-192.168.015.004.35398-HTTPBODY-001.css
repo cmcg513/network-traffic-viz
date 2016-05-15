@@ -1,0 +1,344 @@
+.searchbox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+.sidebarheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	color: #000000;
+}
+.smalltext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #333333;
+}
+.navigationsizes {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #333333;
+}
+
+.navigationsizes:link {
+	color: #333333;
+	text-decoration: none;
+}
+.navigationsizes:visited {
+	color: #333333;
+	text-decoration: none;
+}
+.navigationsizes:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+.navigationsizes:active {
+	color: #000000;
+	text-decoration: underline;
+}
+.accessoriesheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.accessoriesheader:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.accessoriesheader:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+.accessoriesheader:hover {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.accessoriesheader:active {
+	color: #FFFFFF;
+	text-decoration: underline;
+}
+.buyitnowheader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+	line-height: 20px;
+}
+.buyitnowtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #666666;
+	line-height: 16px;
+}
+.buyitnowtext:link {
+	color: #666666;
+	text-decoration: none;
+}
+.buyitnowtext:visited {
+	color: #666666;
+	text-decoration: none;
+}
+.buyitnowtext:hover {
+	color: #333333;
+	text-decoration: underline;
+}
+.buyitnowtext:active {
+	color: #333333;
+	text-decoration: underline;
+}
+.buyitnowaccessoriestext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	line-height: 16px;
+}
+.buyitnowaccessoriestext:link {
+	color: #333333;
+	text-decoration: none;
+}
+.buyitnowaccessoriestext:visited {
+	color: #333333;
+	text-decoration: none;
+}
+.buyitnowaccessoriestext:hover {
+	color: #000000;
+	text-decoration: underline;
+}
+.buyitnowaccessoriestext:active {
+	color: #000000;
+	text-decoration: underline;
+}
+.redtext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CC0000;
+	line-height: 16px;
+}
+
+.smalllinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	color: #333333;
+}
+.smalllinks:link {
+	text-decoration: none;
+	color: #333333;
+}
+.smalllinks:visited {
+	color: #333333;
+	text-decoration: none;
+}
+.smalllinks:hover {
+	text-decoration: underline;
+	color: #000000;
+}
+.smalllinks:active {
+	text-decoration: underline;
+	color: #000000;
+}
+.text {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #333333;
+}
+.greentext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	color: #668B2E;
+	}
+	
+.greensmall {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	color: #668B2E;
+}
+.auctiontitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #FFFFFF;
+}
+.auctionproddesctitle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #000000;
+	font-weight:bold;
+}
+.auctionproddesc {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	line-height:18px;
+}
+.auctionproddesc:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	line-height:18px;
+	text-decoration:underline;
+}
+.auctionproddesc:visited {
+	color: #333333;
+	text-decoration:underline;
+}
+.auctionproddesc:hover {
+	color: #333333;
+	text-decoration:underline;
+}
+.auctionproddesc:active {
+	color: #333333;
+	text-decoration:underline;
+}
+.auctionproddescred {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FF0000;
+	line-height:18px;
+}
+.grayheader {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+}
+.mainheader {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	line-height: 20px;
+}
+.retail {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0000;
+}
+.storefootwear {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #333333;
+	line-height: 18px;
+}
+.treelinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	color: #666666;
+}
+a.treelinks:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	color: #666666;
+	text-decoration:underline;
+}
+a.treelinks:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	color: #666666;
+	text-decoration:underline;
+}
+a.treelinks:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	color: #666666;
+	text-decoration:underline;
+}
+a.treelinks:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 12px;
+	color: #666666;
+	text-decoration:underline;
+}
+.bluesmalllinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #023A77;
+}
+a.bluesmalllinks:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #023A77;
+	text-decoration:none;
+}
+a.bluesmalllinks:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #023A77;
+	text-decoration:none;
+}
+a.bluesmalllinks:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #023A77;
+	text-decoration:underline;
+}
+a.bluesmalllinks:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 16px;
+	color: #023A77;
+	text-decoration:underline;
+}
+.mensbrandswhite {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	color: #FFFFFF;
+}
+a.mensbrandswhite:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+a.mensbrandswhite:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+a.mensbrandswhite:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	color: #FFFFFF;
+	text-decoration:underline;
+}
+a.mensbrandswhite:active {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 18px;
+	color: #FFFFFF;
+	text-decoration:underline;
+}
+
+
+.homefootertext {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+}
+.homefooterlinks {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: underline;
+}
+a.homefooterlinks:link, a.homefooterlinks:visited, a.homefooterlinks:active, a.homefooterlinks:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+	text-decoration: underline;
+}

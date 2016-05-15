@@ -1,0 +1,10 @@
+GET /879366/flashwrite_1_2.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ad.doubleclick.net/adi/N3282.Amazon/B2990915.2;sz=728x90;p=%9Aol%7Ep%C6%92;click=http://ad.doubleclick.net/click%3Bh=v8/3705/3/0/%2a/l%3B205493828%3B0-0%3B1%3B18385791%3B3454-728/90%3B27235005/27252884/1%3Bu%3D0e3eb3fa36944affadb2a9b0c32b2138%3B%7Esscs%3D%3f;ord=6625137?
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 06 Mar 2006 22:04:39 GMT
+Connection: keep-alive
+Host: m1.2mdn.net
+

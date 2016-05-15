@@ -1,0 +1,11 @@
+GET /services/xml/rss/nyt/HomePage.xml HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Mon, 21 Jul 2008 04:52:38 GMT
+If-None-Match: "72c6-48841616"
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: up=76ABXU3V20kA1BOb; TID=00g3iga136nocc; TData=; RMID=0299c0bc3d7247ba66793ab6; adxcl=tinv-homepageinterstitial=47bbb3cf:1199850569; zFD=791176A3079011760310700402; zFN=791176A3079011760310700402; WT_FPC=id=71.126.240.179-721296256.29862739:lv=1188664640048:ss=1188664640048; s_pers=%20s_vsn_nytimesglobal_1%3D8530427552075%7C1497094433636%3B%20s_vnum1%3D1188657438932%257C2%7C1504276638932%3B
+Connection: keep-alive
+Host: www.nytimes.com
+

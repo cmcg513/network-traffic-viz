@@ -1,0 +1,20 @@
+GET /tracker?w=1&i=soGqg2cn8UQMRncq-JmigAEOa2ZNIWHWz1VNv186SUtUrNb9G39bdw==&tp=20&p=15 HTTP/1.1
+Referer: http://www.youtube.com/watch?v=WaIR9dAZRR0
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: VISITOR_INFO1_LIVE=KQqq0E2AzIw; LOCALE_PREFERENCE=86d1d09eefe6b79b4068000ce05518a4dAUAAABlbl9VUw==; __utma=27069237.528624284.1197425507.1197425507.1197437254.2; PREF=cr=US&ul=en; use_hitbox=72c46ff6cbcdb7c5585c36411b6b334edAEAAAAw; watched_video_id_list=128f1bf70ca11795d28daf05cc09748eWwcAAABzCwAAAFdhSVI5ZEFaUlIwcwsAAABrWXlwRVc5NEd5VXMLAAAAU1VObUx1TmRpTDhzCwAAAFd2by1nX0p2VVJJcwsAAABYWExPVTE3a1RsY3MLAAAAamRRd3QtWUxGc0lzCwAAAEJoVlQ0MkxyVHdV; GEO=04435af6c63fce25774a0f63a024cf09cxYAAABVUyxjYSxtb250ZXJleSwsLCwsODI4
+Connection: keep-alive
+Host: www.youtube.com
+
+GET /tracker?w=1&i=soGqg2cn8UQMRncq-JmigAEOa2ZNIWHWz1VNv186SUtUrNb9G39bdw==&tp=30&p=23 HTTP/1.1
+Referer: http://www.youtube.com/watch?v=WaIR9dAZRR0
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: VISITOR_INFO1_LIVE=KQqq0E2AzIw; LOCALE_PREFERENCE=86d1d09eefe6b79b4068000ce05518a4dAUAAABlbl9VUw==; __utma=27069237.528624284.1197425507.1197425507.1197437254.2; PREF=cr=US&ul=en; use_hitbox=72c46ff6cbcdb7c5585c36411b6b334edAEAAAAw; watched_video_id_list=128f1bf70ca11795d28daf05cc09748eWwcAAABzCwAAAFdhSVI5ZEFaUlIwcwsAAABrWXlwRVc5NEd5VXMLAAAAU1VObUx1TmRpTDhzCwAAAFd2by1nX0p2VVJJcwsAAABYWExPVTE3a1RsY3MLAAAAamRRd3QtWUxGc0lzCwAAAEJoVlQ0MkxyVHdV; GEO=04435af6c63fce25774a0f63a024cf09cxYAAABVUyxjYSxtb250ZXJleSwsLCwsODI4
+Connection: keep-alive
+Host: www.youtube.com
+

@@ -1,0 +1,54 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 06:03:39 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.25
+Set-Cookie: BFC=; domain=.about.com; expires=Tue, 22-Jul-08 06:03:39 GMT
+Cache-Control: max-age=0
+Expires: Tue, 22 Jul 2008 06:03:39 GMT
+Location: http://email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+267
+<html>
+<head><title>http://email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm</title></head>
+<frameset rows="55,*">
+<frame name="Top Frame" noresize src="" scrolling="no" marginheight="0" marginwidth="0">
+<frame name="Main" noresize src="http://email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm" scrolling="auto">
+<noframes>
+Sorry, your browser does not support frames.
+<a href="http://email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm">Take this link to main frame.</a>
+</noframes>
+</frameset>
+</html>
+
+0
+
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 06:03:49 GMT
+Server: Apache/1.3.37 (Unix) mod_perl/1.25
+Set-Cookie: BFC=; domain=.about.com; expires=Tue, 22-Jul-08 06:03:49 GMT
+Cache-Control: max-age=0
+Expires: Tue, 22 Jul 2008 06:03:49 GMT
+Location: http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+22e
+<html>
+<head><title>http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm</title></head>
+<frameset rows="55,*">
+<frame name="Top Frame" noresize src="" scrolling="no" marginheight="0" marginwidth="0">
+<frame name="Main" noresize src="http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm" scrolling="auto">
+<noframes>
+Sorry, your browser does not support frames.
+<a href="http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm">Take this link to main frame.</a>
+</noframes>
+</frameset>
+</html>
+
+0
+

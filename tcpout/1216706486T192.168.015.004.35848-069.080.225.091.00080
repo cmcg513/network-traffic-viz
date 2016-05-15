@@ -1,0 +1,27 @@
+GET / HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.google.com/search?hl=en&q=send+anonymous+mail
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.sendanonymousemail.net
+Connection: Keep-Alive
+
+GET /images/logo.gif HTTP/1.1
+Accept: */*
+Referer: http://www.sendanonymousemail.net/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.sendanonymousemail.net
+Connection: Keep-Alive
+
+GET /CaptchaSecurityImages.php?width=100&height=40&character=5 HTTP/1.1
+Accept: */*
+Referer: http://www.sendanonymousemail.net/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.sendanonymousemail.net
+Connection: Keep-Alive
+

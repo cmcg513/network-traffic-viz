@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=FEBFE287609FCC402EB6AB65B57A19E5&CDDBMuiID=1944546&an=Pierre%20Boulez&pn=Gotterdammerung-BAYREUTHER-Hightlights HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: C24FC9C8-86C9B6AFD3136DCABB84F419173A69B2
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

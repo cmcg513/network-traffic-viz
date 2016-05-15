@@ -1,0 +1,1955 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:52 GMT
+Server: Apache/2.0.55 (Debian)
+X-Powered-By: PHP/5.2.6-0.dotdeb.1
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=UTF-8
+
+2b6a
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+	<head>
+	  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="author" content="dimento.com" />
+		<meta name="publisher" content="dimento.com" />
+		<meta name="copyright" content="Copyright 2004-2008 dimento.com" />
+		<meta name="robots" content="index, follow" />
+		<meta name="language" content="de-DE" />
+		<meta name="keywords" content="social bookmarks, favoriten, links, lesezeichen, sammeln, finden, sichern" />
+<meta name="description" content="Benutzernamen und Passwort-Abfrage - Social Bookmarking und Web 2.0 Suchmaschine" />		<link rel="stylesheet" media="screen" type="text/css" href="http://linkarena.com/css/screen.css" />
+		<link rel="stylesheet" media="screen" type="text/css" href="http://linkarena.com/css/safari.css" />
+		<!--[if IE 7]>
+			<link rel="stylesheet" media="screen" type="text/css" href="http://linkarena.com/css/ie7.css" />
+		<![endif]-->
+		<!--[if IE 6]>
+			<link rel="stylesheet" media="screen" type="text/css" href="http://linkarena.com/css/ie6.css" />
+		<![endif]-->
+				<title>Login | Social Bookmarking | LinkARENA</title>		
+		<script type="text/javascript" language="javascript" src="http://www.google.com/jsapi"></script>
+		<script type="text/javascript" language="javascript">
+		  google.load("jquery", "1");
+		</script>
+	</head>
+	<body id="linkarena-com">
+	
+	  <div id="wrapper">
+	    
+	    <div id="head">
+	      	      <p class="claim">Die andere Suchmaschine</p>
+	      	      
+	      <ul id="meta">	        <li><a rel="nofollow" href="http://linkarena.com/register">Registrieren</a></li>
+	        <li><a rel="nofollow" href="http://linkarena.com/login">Login</a></li>
+	        	        	      </ul>
+	      
+	      <p id="logo"><a href="http://linkarena.com" title="Social Bookmarking und Web 2.0 Suchmaschine">LinkARENA</a></p>
+
+	      <ul id="navigation">
+	          	            <li><a href="http://linkarena.com">Start</a></li>
+	          	          <li><a href="http://linkarena.com/bookmarks">Bookmarks</a></li>
+	          <li><a href="http://linkarena.com/community">Community</a></li>
+	          <li><a href="http://linkarena.com/tags">Tags</a></li>
+	      </ul>
+	      
+	      <div id="mast">
+
+	        	      
+  	      <div id="search-engine">
+  	        <form id="header-search-form" method="get" action="http://linkarena.com/search/results/">
+  	      	<p>
+  	          <label class="structural" for="main-search">Suchen nach:</label>
+  	          <input type="text" name="q" id="main-search" value="" />
+  	          <input type="hidden" name="p" value="1" disabled="disabled" />
+  	        </p>
+			<input type="submit" id="main-submit" value="Suchen" />
+			<p class="counter"><strong>880840</strong> Bookmarks, <strong>32227</strong> Mitglieder</p>
+			
+			
+			<div class="search-types">
+			<input type="checkbox" name="search-type" id="search-type-tags" value="tags" /> <label for="search-type-tags">nach Tags suchen</label>
+			</div>
+
+			</form>
+			    <a rel="nofollow" class="switch-header-style" href="http://linkarena.com/index/sethead/small">Kopf-Stil wechseln</a>
+  	      </div>
+	      </div>
+
+	      
+	    </div>
+	    
+	    <!--<p class="breadcrum"><a href="#">LinkARENA</a> <span>Â»</span> <a class="active" href="#">Dashboard</a></p>-->
+	    
+			  
+	    <div id="content">
+	    <div class="col c6 left">
+	<h1>Anmelden</h1>
+	
+		<form class="col c6" enctype="application/x-www-form-urlencoded" action="/login" method="post">
+
+
+<p class="input">
+	<label for="username">Benutzername <span class="req">*</span></label>	<span class="box"><input type="text" name="username" id="username" value="" /></span>
+		</p>
+
+
+<p class="input">
+	<label for="password">Passwort <span class="req">*</span></label>	<span class="box"><input type="password" name="password" id="password" value="" /></span>
+		</p>
+
+<p class="check">
+	<span class="box">
+		<input type="checkbox" name="stayloggedin" id="stayloggedin" value="1" />		<label for="stayloggedin">Eingeloggt bleiben?</label>
+	</span>
+		</p>
+<p class="submit_action">
+<input type="submit" name="submit" id="submit" value="Login" class="submit_button" />
+<span class="hint">oder <a href="/">Abbrechen</a></span></p></form>			<p><a href="/password">Passwort vergessen</a></p>
+</div>
+
+<div class="col c5 left blue_top try-to-add">
+	<div class="unit">
+		    
+	    <h3>Bookmark speichern</h3>    
+	   
+	    <div class="unit-content">
+	
+        <div class="flright">
+        
+                    
+          <img src="http://www.m-software.de/screenshot/Screenshot.png?url=http%3A%2F%2Fnitroba.org%2Fresearch.html&delay=1&commingsoonimg=http%3A%2F%2Flinkarena.com%2Fimages%2Fscreenshot-fallback.gif" alt="Bildschirmaufnahme von Nitroba University - Research" />
+
+                  </div>
+	    
+		 	 <h3 class="green">Nitroba University - Research</h3>
+		 	 <p></p>
+		 	<br class="clear" />
+		 	
+		 	
+	    </div>
+  		</div>
+</div>
+
+<div class="col c3 last blue_top ">
+  <div class="unit">
+    <h3 class="ad-label">Anzeigen</h3>
+    
+    <div class="unit-content">
+				<h3><a target="_blank" rel="0" class="setAdHit green" href="http://sf.uk.miva.com/rd/Clk.jsp?s=qg&amp;k=nitroba&amp;lnk2=rhhE%3F..vvv%275ikAsgD%27qe.qDly.yekxpr.yDixpe.yhq.prkxge%605iext%27ErE%3Eqy%3DBsjkqe%29Esq%3DM124668%7C2%2792&amp;p=1904&amp;sid=104311&amp;ex=1216706753480&amp;snid=102">Karten zu Discount-Preisen dru...</a></h3>
+			<p>z. B. 1000 Postkarten, DIN A6, auf 300 g/qm holzfrei, wei&#223; Bilderdruckkarton, 4/4-farbig + Disp.lack matt , zu 63,0...<br />
+			<a target="_blank" class="setAdHit" rel="0" href="http://sf.uk.miva.com/rd/Clk.jsp?s=qg&amp;k=nitroba&amp;lnk2=rhhE%3F..vvv%275ikAsgD%27qe.qDly.yekxpr.yDixpe.yhq.prkxge%605iext%27ErE%3Eqy%3DBsjkqe%29Esq%3DM124668%7C2%2792&amp;p=1904&amp;sid=104311&amp;ex=1216706753480&amp;snid=102">diedruckerei.de</a></p>
+					<h3><a target="_blank" rel="0" class="setAdHit green" href="http://affiliate.DE.espotting.com/search/redirector.asp?url=http%3a%2f%2fwww.DSL-Flatrate-Angebote.de&amp;bidid=542208915&amp;searchguid=%E3%C8%4D%88%D1%D9%D3%AA%9E%C8%80%E2%99%F2%8A%BA%88%EE%A3%9F%BF%A3%8E%A5%A0%F0%8F%BF%AC%E6%FC%9F%B6%82%93%E6&amp;domain=DE&amp;affiliateid=1641&amp;position=1&amp;query=linkinternet002&amp;ContentID=47168&amp;ReferralURL=linkarena.com&amp;UserCountryOriginID=55&amp;searchdate=22+Jul+2008+07%3a01%3a47%3a01&amp;edh=k34nTMjWBRb5rq7tv5poCxOlPB8%3d&amp;ed=dj0xJm10PTk%3d">Kostenloser und unabh&#228;ngi...</a></h3>
+			<p>Unabh&#228;ngige DSL Tarifberatung zu verschiedenen Anbietern. Wir vergleichen f&#252;r Sie Angebote von 1&1, Arcor, T-H...<br />
+			<a target="_blank" class="setAdHit" rel="0" href="http://affiliate.DE.espotting.com/search/redirector.asp?url=http%3a%2f%2fwww.DSL-Flatrate-Angebote.de&amp;bidid=542208915&amp;searchguid=%E3%C8%4D%88%D1%D9%D3%AA%9E%C8%80%E2%99%F2%8A%BA%88%EE%A3%9F%BF%A3%8E%A5%A0%F0%8F%BF%AC%E6%FC%9F%B6%82%93%E6&amp;domain=DE&amp;affiliateid=1641&amp;position=1&amp;query=linkinternet002&amp;ContentID=47168&amp;ReferralURL=linkarena.com&amp;UserCountryOriginID=55&amp;searchdate=22+Jul+2008+07%3a01%3a47%3a01&amp;edh=k34nTMjWBRb5rq7tv5poCxOlPB8%3d&amp;ed=dj0xJm10PTk%3d">http://www.DSL-Flatrate-An...</a></p>
+		    </div>
+    
+  </div>
+</div>	    </div>
+	    
+	    <div id="footer">
+	      
+	      <div>
+	        
+	        <p class="right">&copy; 2004 - 2008 <a href="http://dimento.com">dimento.com</a></p>
+	        
+          <ul class="nav"> <li> <a class="main" href="http://linkarena.com/">LinkARENA</a> <ul> <li><a rel="nofollow" href="http://linkarena.com/login">Login</a> &middot; </li> <li><a rel="nofollow" href="http://linkarena.com/register">Registrieren</a> &middot; </li> <li><a href="http://linkarena.com/recent">Bookmarks</a> &middot; </li> <li><a href="http://linkarena.com/tags">Tags</a></li> </ul> </li> <li> <a class="main" href="http://linkarena.com/community">Community</a> <ul> <li><a href="http://linkarena.com/community/groups">Gruppen</a> &middot; </li> <li><a href="http://linkarena.com/community/members">Mitglieder</a> &middot; </li> <li><a href="http://linkarena.com/community/charts">Charts</a> &middot;</li> <li><a href="http://linkarena.com/search/recent">Beliebte Suchen</a> </li> </ul> </li> <li> <a class="main" href="http://linkarena.com/support">Hilfe</a> <ul> <li><a href="http://linkarena.com/support">FAQ</a> &middot; </li> <li><a rel="nofollow" href="http://linkarena.com/support/request">Kontaktanfrage</a> &middot; </li> <li><a rel="nofollow" href="http://linkarena.com/support/feedback">Feedback</a></li> </ul> </li> <li> <a class="main" href="http://linkarena.com/tools">Tools</a> <ul> <li><a href="http://linkarena.com/tools">LinkADD</a> &middot; </li> <li><a href="http://linkarena.com/tools/firefox">Firefox Erweiterungen</a> &middot; </li> <li><a href="http://linkarena.com/tools/website">FÃ¼r Ihre Website</a></li> </ul> </li> <li> <a class="main" href="http://linkarena.com/about">Informationen</a> <ul> <li><a href="http://linkarena.com/about">Ãœber LinkARENA</a> &middot; </li> <li><a href="http://linkarena.com/about/press">Presse</a> &middot; </li> <li><a href="http://linkarena.com/about/advertise">Werbung/Media</a> &middot; </li> <li><a href="http://blog.linkarena.com">Offizielles Blog</a></li> <li><a href="http://linkarena.com/spread">Blogmark Nutzer</a></li> </ul> </li> <li> <a class="main" href="http://linkarena.com/about/imprint">Rechtliches</a> <ul> <li><a href="http://linkarena.com/about/imprint">Impressum</a> &middot; </li> <li><a rel="nofollow" href="http://linkarena.com/about/agb">AGB</a></li> </ul> </li> <li> <a class="main">Links</a> <ul> <li><a href="http://www.semager.de">Semager - Semantisch suchen</a> &middot; </li>  <li><a rel="nofollow" href="http://www.social-bookmark-script.de">Social Bookmark Script</a></li>  </li> </ul> </li> </ul> 
+  
+
+	      </div>		
+	    </div>
+	    
+	  </div>
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/settings.js"></script>
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/user.js"></script>
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/passwordStrengthMeter.js"></script>
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/bookmarks.js"></script>
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/tag.js"></script>	
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/ui.core.js"></script>
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/ui.tabs.js"></script>
+	<script src="http://linkarena.com/javascript/jquery-ui-personalized-1.5b4.min.js" type="text/javascript"></script>	
+	<script type="text/javascript" src="http://linkarena.com/javascript/linkarena.js"></script>	
+	<script type="text/javascript" language="javascript" src="http://linkarena.com/javascript/search.js"></script>	
+	</body>
+</html>
+0
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:53 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Fri, 11 Jul 2008 07:59:59 GMT
+ETag: "16e8228-37e-ed9b7dc0"
+Accept-Ranges: bytes
+Content-Length: 894
+Keep-Alive: timeout=15, max=99
+Connection: Keep-Alive
+Content-Type: image/x-icon
+
+        h     (                                R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€R²€R²€R²€R²€R²€R²€R²€R²€Xµ„ÙîãÿÿÿR²€R²€ÿÿÿR²€R²€R²€R²€R²€R²€R²€R²€R²€Xµ„ÙîãÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€R²€R²€R²€R²€R²€R²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€R²€R²€R²€R²€R²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€R²€R²€R²€R²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€R²€R²€R²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€R²€R²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€R²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€R²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿR²€Xµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿXµ„ÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿÙîãÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿR²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€R²€  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿ  ÿÿHTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:53 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Thu, 17 Jul 2008 10:40:13 GMT
+ETag: "16e82e1-17a4-ddb1bd40"
+Accept-Ranges: bytes
+Content-Length: 6052
+Keep-Alive: timeout=15, max=98
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+$(document).ready(function(){
+	$.each($('.required'), function (key, element) {
+		$(element).keydown(function (event) {
+			timeoutFunction('validateForm', element.name, 500);
+		});
+	});
+	$('input.strength').parent('span').after('<span class="measure"><span class="l0 weaken">Passwortsicherheit</span></span>');
+	$('input.strength').parent('span').parent('p').addClass('pwd-o-meter');
+	
+	$('input#password').keydown(function(){
+		$('input.strength').parent('span').next().children().remove();
+		$('input.strength').parent('span').next().html(passwordStrength($('#password').val(), $('#username').val()))
+	})
+	
+	/*$('.bookmark').click(function() {
+		$(this).find(':checkbox').attr('checked', !$(this).find(':checkbox').attr('checked'));
+	});*/
+	
+
+	bookmark_edit = '0px';
+	bookmark_details = '0px';
+	bookmark_right = '0px';		
+		
+	$('.toggle-drawer').click(function() {
+		if ($('.bookmark .edit').css('width') == '0px') {
+			$('.bookmark .details').css('cursor', 'move');
+			$('.bookmark .details').draggable({
+				revert: true, 
+				delay: 100, 
+				helper: function() {
+					clone = $(this).clone();
+					$(clone).removeClass('bookmark');
+					$(clone).addClass('clonedBookmark');
+					return clone;
+				}, 
+				cursorAt: [20, 15, 0, 0],
+				opacity: 0.8,
+				cursor: 'move',
+				start: function(e, ui) {
+					$(this).css('opacity', 0.5);
+				},
+				stop: function(e, ui) {
+					$(this).css('opacity', 1);
+				},
+				scroll: true,
+				zIndex: 9999
+			});
+			$(".dele").droppable({
+				accept: ".details",
+				tolerance: 'pointer',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					
+					$.post(
+						'/bookmarks/edit',
+						'check['+ $(draggable).parent('div').attr('id').split('_')[1]+']=1&dele=Trash',
+						function (data) {
+							if (data) {
+								$(draggable).parent('div').slideUp("middle");
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						}
+					);
+				}
+			});
+			
+			$(".publ").droppable({
+				accept: ".details",
+				tolerance: 'pointer',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					
+					$.post(
+						'/bookmarks/edit',
+						'check['+ $(draggable).parent('div').attr('id').split('_')[1]+']=1&publ=Publ',
+						function (data) {
+							if (data) {
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						}
+					);
+				}
+			});
+			
+			$(".priv").droppable({
+				accept: ".details",
+				tolerance: 'pointer',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					
+					$.post(
+						'/bookmarks/edit',
+						'check['+ $(draggable).parent('div').attr('id').split('_')[1]+']=1&priv=Priv',
+						function (data) {
+							if (data) {
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						}
+					);
+				}
+			});
+			
+			$('.top li a.title').droppable({
+				accept: '.details',
+				accept: '.details',
+				tolerance: 'pointer',
+				hoverClass: 'droparea',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					folder = $(this);
+					folderName = $(folder).attr('id').replace(/folder-/, '');
+					$.post(
+						'/bookmarks/edit',
+						'check['+folderName+']='+$(draggable).parent('div').attr('id').split('_')[1]+'&folder=Folder',
+						function (data) {
+							if (data) {
+								if (document.location.pathname != '/bookmarks') {
+									$(draggable).parent('div').slideUp("middle");
+								}
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						});
+				}
+			});
+			
+			editBookmarkBar();
+			return false;
+		} else {
+			
+			editBookmarkBar();
+			return false;
+		}
+	});
+	
+	$('#check_all').click(function(){
+		if (!$('#check_all').attr('checked')) {
+			$.each($('.edit :checkbox'), function (key, element) {
+				if ($(element).attr('checked')) {
+					$(element).attr('checked', false);
+				}
+			});
+		} else {
+			$.each($('.edit :checkbox'), function (key, element) {
+				if ($(element).attr('checked') != true) {
+					$(element).attr('checked', true);
+				}
+			});
+		}
+	});
+});
+
+
+function validateForm(name) {
+	formName = "input#"+name;
+	formAction = $(formName).parents('form').attr('action');
+	if (!(data = $(formName).val())) {
+		data = '';
+	}
+	if (!(secondField = $(formName).removeClass('required').attr('class'))) {
+		secondData = '';
+	} else {
+		secondFormName = "input#"+secondField;
+		secondData = "&"+secondField+"="+$(secondFormName).val();
+	}
+	$.post(
+		formAction,
+		name+"="+data+secondData, 
+		function (json) {
+			if (json != true) {
+				$.each(json[name], function(key, value) {
+					$(formName).parent('span').next().remove();
+					$(formName).parent('span').after('<span class="validate incorrect">'+value+'</span>');
+				});
+			} else {
+				$(formName).parent('span').next().remove();
+				$(formName).parent('span').parent('p').removeClass('error');
+				$(formName).parent('span').after('<span class="validate correct">&nbsp;</span>');
+			}
+		}, 
+		"json"
+	);
+}
+
+function checkStrength() {
+	
+}
+
+var timeout = null;
+function timeoutFunction(functionName, name, time) {	
+	clearTimeout(timeout);
+	eval('timeout = setTimeout("'+functionName+'(\''+name+'\')", '+time+')');
+}HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:53 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Fri, 11 Jul 2008 07:59:59 GMT
+ETag: "16e82db-a5a-ed9b7dc0"
+Accept-Ranges: bytes
+Content-Length: 2650
+Keep-Alive: timeout=15, max=97
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+// Password strength meter
+// This jQuery plugin is written by firas kassem [2007.04.05]
+// Firas Kassem  phiras.wordpress.com || phiras at gmail {dot} com
+// for more information : http://phiras.wordpress.com/2007/04/08/password-strength-meter-a-jquery-plugin/
+
+var badPass = '<span class="l1">unsicher</span>'
+var goodPass = '<span class="l2">sicher</span>'
+var strongPass = '<span class="l3">sehr sicher</span>'
+
+function passwordStrength(password, username) {
+    score = 0 
+    if (password.length < 4 ) { 
+    	return badPass 
+    }
+    
+    //password == username
+    if (password.toLowerCase()==username.toLowerCase()) return badPass
+    
+    //password length
+    score += password.length * 4
+    score += ( checkRepetition(1,password).length - password.length ) * 1
+    score += ( checkRepetition(2,password).length - password.length ) * 1
+    score += ( checkRepetition(3,password).length - password.length ) * 1
+    score += ( checkRepetition(4,password).length - password.length ) * 1
+
+    //password has 3 numbers
+    if (password.match(/(.*[0-9].*[0-9].*[0-9])/))  score += 5 
+    
+    //password has 2 sybols
+    if (password.match(/(.*[!,@,#,$,%,^,&,*,?,_,~].*[!,@,#,$,%,^,&,*,?,_,~])/)) score += 5 
+    
+    //password has Upper and Lower chars
+    if (password.match(/([a-z].*[A-Z])|([A-Z].*[a-z])/))  score += 10 
+    
+    //password has number and chars
+    if (password.match(/([a-zA-Z])/) && password.match(/([0-9])/))  score += 15 
+    //
+    //password has number and symbol
+    if (password.match(/([!,@,#,$,%,^,&,*,?,_,~])/) && password.match(/([0-9])/))  score += 15 
+    
+    //password has char and symbol
+    if (password.match(/([!,@,#,$,%,^,&,*,?,_,~])/) && password.match(/([a-zA-Z])/))  score += 15 
+    
+    //password is just a nubers or chars
+    if (password.match(/^\w+$/) || password.match(/^\d+$/) )  score -= 10 
+    
+    //verifing 0 < score < 100
+    if ( score < 0 )  score = 0 
+    if ( score > 100 )  score = 100 
+    
+    if (score < 34 )  return badPass 
+    if (score < 68 )  return goodPass
+    return strongPass
+}
+
+
+// checkRepetition(1,'aaaaaaabcbc')   = 'abcbc'
+// checkRepetition(2,'aaaaaaabcbc')   = 'aabc'
+// checkRepetition(2,'aaaaaaabcdbcd') = 'aabcd'
+
+function checkRepetition(pLen,str) {
+    res = ""
+    for ( i=0; i<str.length ; i++ ) {
+        repeated=true
+        for (j=0;j < pLen && (j+i+pLen) < str.length;j++)
+            repeated=repeated && (str.charAt(j+i)==str.charAt(j+i+pLen))
+        if (j<pLen) repeated=false
+        if (repeated) {
+            i+=pLen-1
+            repeated=false
+        }
+        else {
+            res+=str.charAt(i)
+        }
+    }
+    return res
+}HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:54 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Thu, 17 Jul 2008 10:40:13 GMT
+ETag: "16e82d6-2233-ddb1bd40"
+Accept-Ranges: bytes
+Content-Length: 8755
+Keep-Alive: timeout=15, max=96
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+var req = null;
+
+$(document).ready(function(){
+	if(document.location.pathname == '/bookmarks/add') {
+		$.get("/bookmarks/getjavascriptaddform", function (data) {			
+			$('.submit_action').hide();
+			$('.submit_action').after(data);
+	
+				$('input#submit').parent('p').parent('form').submit(function () {
+					if ($('p').find('.second_submit').length > 0) {
+						if (!(data = $("input#url").val())) {
+							data = '';
+						}
+						$.post(
+							"/bookmarks/add", 
+							"url="+data, 
+							function (json) {
+								if (json != true) {
+									$.each(json['url'], function(key, value) {
+										$("input#url").parent('span').next().remove();
+										$("input#url").parent('span').after('<span class="validate incorrect">'+value+'</span>');
+									});
+									return false;
+								} else {
+									getBookmarkInformation(true, true);
+								} 
+							}, 
+							"json"
+						);
+					} else {
+						return true;
+					}
+					return false;
+				});
+		});
+		$.each($('.disabled'), function (key, element) {
+			$(element).parent('span').parent('p').css('display', 'none');
+		});
+	} else if (document.location.pathname == '/bookmarks/add/') {
+		getBookmarkInformation(false, false);
+	} else if (document.location.pathname.search(/bookmarks\/edit.*/) > 0) {
+		getBookmarkInformation(false, false);
+	} else if (document.location.pathname.search(/linkadd.*/) > 0) {
+		getBookmarkInformation(true, false);
+	}
+	
+	if ($('#linkadd-body #content div.notification').hasClass('positive')) {
+		setTimeout('closeLinkadd()', 1500);
+	}
+		
+	$('a.foldswitch').click(function() {
+		$(this).toggleFolder();
+		return false;
+	});
+	
+	$('a.open-all-folders').click(function() {
+		$.each($('a.foldswitch'), function() {
+			$(this).parent('li').openFolder();
+		});
+		return false;
+	});
+	
+	$('#filter_submit').css('display', 'none');
+	
+	$('#bm-filter').change(function() {
+		document.getElementById('filter_form').submit(); 
+	});
+});
+
+function closeLinkadd() {
+	self.close();
+}
+
+$.fn.toggleFolder = function() {
+	status = $(this).parent('li').attr('class');
+	if (status == 'open') {
+		$(this).parent('li').closeFolder();
+	} else {
+		$(this).parent('li').openFolder();
+	}
+}
+
+$.fn.openFolder = function() {
+	$(this).addClass('open');
+}
+
+$.fn.closeFolder = function() {
+	$(this).removeClass('open');
+}
+
+String.prototype.trim = function() {
+	return this.replace(/^\s+|\s+$/g,"");
+}
+
+function removeElement() {
+	$('#urlNotFound').fadeOut('middle');
+}
+
+
+Array.prototype.deleteByKey = function(key) {
+    for (var x = 0; x < this.length; ++x) {
+        if (x >= key) {
+            this[x] = this[x + 1];
+        }
+    } this.pop();
+};
+
+function getBookmarkInformation(overwrite, gather) {
+	$.get("/bookmarks/gatherinformation", function (data) {
+		if (overwrite && gather) {
+			$('.first').parent('span').parent('p').after(data);
+		
+			$("input#url").parent('span').next().remove();
+			document.location.href = '#save';
+			$('.second_submit').parent('p').remove();
+			$('.gatherinformation').hide();
+			$('.gatherinformation').slideDown();
+		}
+				
+		req = $.ajax({
+			type: "POST",
+			url: "/bookmarks/gatherinformation", 
+			data: "url="+$('input#url').val(), 
+			success: function (json, textStatus) {
+				checkReq = $.ajax({
+					type: "POST",
+					url: "/bookmarks/checkurl",
+					data: "url="+$('input#url').val(),
+					success: function (text, textStatus) {
+						if (text != true && overwrite) {
+							element = $('input#url').parent('span').parent('p').before(text);
+							setTimeout("removeElement()", 5000);
+						}
+					},
+					timeout: 5000,
+					dataType: "html"
+				});
+				$('.gatherinformation').slideUp('fast');
+				$('.gatherinformation').remove();
+				
+				if (overwrite) {
+					$.each($('.disabled'), function (key, element) {
+						$(element).parent('span').parent('p').slideDown('slow');
+					});
+					
+					$.each(json, function(key, value) {
+						formName = "#"+key;
+						$(formName).val(value);
+					});
+					$('.submit_action').show();
+				}
+				$('input#tags').tagSuggest({'tags' : json['keywords'], 'separator' : ', ', 'sort' : false});
+				$('input#groups').tagSuggest({'tags' : json['group'], 'separator' : ', ', 'sort' : false});
+				
+				$('input#tags').parent('span').after(json['tagSuggestion']);
+				$('input#groups').parent('span').after(json['groupSuggestion']);
+				req = null;
+			}, 
+			error: function (request, textStatus, error) {
+				$('.gatherinformation').slideUp('fast');
+				$('.gatherinformation').remove();
+				
+				$.each($('.disabled'), function (key, element) {
+					$(element).parent('span').parent('p').slideDown('slow');
+				});
+				$('.submit_action').show();
+			},
+			timeout: 5000,
+			dataType: "json"
+		});	
+		return false;
+	});
+			
+	$.getJSON(
+		'/folders/getaddfolder',
+		function (data) {
+			$('#folders').parent('span').append(data['msg']);
+			$('#folders').parent('span').parent('p').after(data['folder']);
+			$('#display-folder').css('display', 'none');
+			
+			$('#add-folder').click(function() {
+				$('#display-folder').css('display', 'block');
+				$('#folders').parent('span').parent('p').css('display', 'none');
+				return false;
+			});
+			
+			$('#close-folder').click(function() {
+				$('#display-folder').css('display', 'none');
+				$('#folder-name').attr('value', '');
+				$('#folders').parent('span').parent('p').css('display', 'block');
+				return false;
+			});
+		}
+	);
+}
+
+
+function addTag(element) {
+	tags = $('input#tags').val().split(',');
+	tag = $.trim(element.innerHTML);
+	trimedTags = [];
+	tagString = '';
+	
+	$.each(tags, function (key, value) {
+		trimedTags.push(jQuery.trim(value));		
+	});
+		
+	index = jQuery.inArray(tag, trimedTags);
+	if (index != -1 && trimedTags.length > 1) {
+		$(element).removeClass('linkactive');
+		trimedTags.deleteByKey(index);
+	} else {
+		$(element).addClass('linkactive');
+		trimedTags.push(tag);
+	}
+	
+	trimedTags = $.unique(trimedTags);
+	
+	$.each(trimedTags, function (key, value) {
+		if (value != '') {
+			tagString += value + ', ';
+		}
+	});
+	
+	$('input#tags').val(tagString);    
+	$('input#tags').focus();    
+}
+
+function addElement(element, name) {
+	inputElement = 'input#' + name;
+	tags = $(inputElement).val().split(',');
+	tag = $.trim(element.innerHTML);
+	trimedTags = [];
+	tagString = '';
+	
+	$.each(tags, function (key, value) {
+		trimedTags.push(jQuery.trim(value));		
+	});
+		
+	index = jQuery.inArray(tag, trimedTags);
+	if (index != -1 && trimedTags.length > 1) {
+		$(element).removeClass('linkactive');
+		trimedTags.deleteByKey(index);
+	} else {
+		$(element).addClass('linkactive');
+		trimedTags.push(tag);
+	}
+	
+	trimedTags = $.unique(trimedTags);
+	
+	$.each(trimedTags, function (key, value) {
+		if (value != '') {
+			tagString += value + ', ';
+		}
+	});
+	
+	$(inputElement).val(tagString);    
+	$(inputElement).focus();
+}
+
+function checkIfCheckExists(element) {
+	tags = $('input#tags').val().split(',');
+	tag = $.trim(element.innerHTML);
+	trimedTags = [];
+	tagString = '';
+	
+	$.each(tags, function (key, value) {
+		trimedTags.push(jQuery.trim(value));		
+	});
+		
+	index = jQuery.inArray(tag, trimedTags);
+	if (index != -1 && trimedTags.length > 1) {
+		$(element).addClass('linkactive');
+	} else {
+		$(element).removeClass('linkactive');
+	}
+}
+
+
+function toggleNotice() {
+	if ($('#bm-manager-notification').css('height') != '0px') {
+		overflowVal = 'hidden';
+		paddingVal = '0px';
+		heightVal = '0px';
+		topVal = '38px';
+	} else {
+		overflowVal = 'auto';
+		paddingVal = '5px';
+		heightVal = '18px';
+		topVal = '10px';
+	}
+	$('#bm-manager-notification').css('overflow', overflowVal);
+	$('#bm-manager-notification').animate({
+		    paddingTop: paddingVal,   
+		    paddingBottom: paddingVal, 
+		    height: heightVal,
+		    top: topVal
+	}, 'middle');
+}
+
+function editBookmarkBar() {
+	speed = 300;
+	if ($('.bookmark .edit').css('width') == '0px') {
+		bookmark_edit = '66px';
+		bookmark_details = '50px';
+		bookmark_right = '10px';
+		$('#manager').removeClass('editmodeoff');
+		if (!checkBrowserName('MSIE')) {
+			$('#manager').addClass('editmode-on');
+			$('#edit-drawer').animate({width: '375px'});
+			$('.edit-actions').animate({width: '264px'});
+			$('.edit-actions').css('left', '0');
+		}
+	} else {
+		bookmark_edit = '0px';
+		bookmark_details = '0px';
+		bookmark_right = '0';		
+		$('#manager').addClass('editmodeoff');
+		
+		if (!checkBrowserName('MSIE')) {
+			$('#manager').removeClass('editmode-on');
+			$('.edit-actions').animate({width: '0'});
+			$('#edit-drawer').animate({width: '105px'});
+			$('.bookmark .details').draggable('destroy');
+		}
+	}
+
+	
+	if (checkBrowserName('MSIE') == false) {
+		$('.bookmark .edit').animate({
+			width: bookmark_edit
+		}, speed);
+		$('.bookmark .details').animate({
+			marginRight: bookmark_details
+		}, speed);
+		$('.bookmark .right').animate({
+			marginRight: bookmark_right
+		}, speed);
+	}
+	
+	$.get('/bookmarks/edit');
+}HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:54 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Thu, 17 Jul 2008 10:39:51 GMT
+ETag: "16e82a5-321-dc620bc0"
+Accept-Ranges: bytes
+Content-Length: 801
+Keep-Alive: timeout=15, max=95
+Connection: Keep-Alive
+Content-Type: image/gif
+
+GIF89a€ U ³  ôôô™™™±±±ÜÜÜÊÊÊ«««ŸŸŸ½½½îîî¥¥¥ĞĞĞ···ÃÃÃâââèèèÖÖÖ!ù     ,    € U  ÿÈI«½8ëÍ»ÿ`(dihª®lë¾p,Ïtmßx®ï|ïÿÀ pH,È¤rÉl:ŸĞ¨tJ­Z¯Ø¬vËíz¿à°øDH"´ á”;„@RPp ¢çöÄ‘
+‚q	  
+	i„{hl io˜“ƒ ¦‘i‹F¯}yŒ…e¢w	 Â¹	º
+lvi‹h{Ï‹  H“˜{ oºäqáµæ¨ìÍÌ‹•	÷ÛI Ê²r®úµjõi¡´F¯@›”à€ }XtêSmrÿš8Øà ˆıîU8@aÄ‘ReË˜ã„‰sQBâZN@ÔBOC6´` (Í„$S‚D‚ Ö«8‹j•yOi# Ä„U-°G€¢×±i4èé"k ³µÄÉÑ,D«ˆF2 æbƒK²)•(®?·¨Ò$852@¶1#KL¹²åË˜3kŞÌ¹³g)o@„~"@˜†Ò*Pg@½Mu×'`[`R¶¨Ò= ÇÚÀ¤Jˆ
+³ğW&GRıJï)ÚÓAw'Mµ{´ hPk(Ó+X× fÎ PMÀÀ"¬ë…µO¤İnÙd£í‰ºôäNÎ3ñ€„”ªE@ØÉW[€Bò ,À@!e98AEÈÆ\+•L"!(L 	]|HÀ@ £J+–”‰+	•Ô,1¥±ß‰Q°¢mB00É …Àˆ#@ş `G¹tAS,:©’ViD-ìÁW85ÆG€c•u–Rj	6ˆqâK+6Yˆ“‹:1ãÈpg—`³ÔÅ—Õ´rãŠ„~¦è¢Œ6êè£F*é¤”Vjé¥˜fªé¦œvêé§ †*ê¨¤–ÚE ;HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:55 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Fri, 11 Jul 2008 07:59:59 GMT
+ETag: "16e82e0-47bf-ed9b7dc0"
+Accept-Ranges: bytes
+Content-Length: 18367
+Keep-Alive: timeout=15, max=94
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+/*
+ * jQuery UI Tabs
+ *
+ * Copyright (c) 2007, 2008 Klaus Hartl (stilbuero.de)
+ * Dual licensed under the MIT (MIT-LICENSE.txt)
+ * and GPL (GPL-LICENSE.txt) licenses.
+ *
+ * http://docs.jquery.com/UI/Tabs
+ *
+ * Depends:
+ *	ui.core.js
+ *
+ * Revision: $Id: ui.tabs.js 5547 2008-05-10 08:33:38Z klaus.hartl $
+ */
+;(function($) {
+	
+	$.widget("ui.tabs", {
+		init: function() {
+			this.options.event += '.tabs'; // namespace event
+			
+			// create tabs
+			this.tabify(true);
+		},
+		setData: function(key, value) {
+			if ((/^selected/).test(key))
+				this.select(value);
+			else {
+				this.options[key] = value;
+				this.tabify();
+			}
+		},
+		length: function() {
+			return this.$tabs.length;
+		},
+		tabId: function(a) {
+			return a.title && a.title.replace(/\s/g, '_').replace(/[^A-Za-z0-9\-_:\.]/g, '')
+				|| this.options.idPrefix + $.data(a);
+		},
+		ui: function(tab, panel) {
+			return {
+				instance: this,
+				options: this.options,
+				tab: tab,
+				panel: panel
+			};
+		},
+		tabify: function(init) {
+
+			this.$lis = $('li:has(a[href])', this.element);
+			this.$tabs = this.$lis.map(function() { return $('a', this)[0]; });
+			this.$panels = $([]);
+
+			var self = this, o = this.options;
+
+			this.$tabs.each(function(i, a) {
+				// inline tab
+				if (a.hash && a.hash.replace('#', '')) // Safari 2 reports '#' for an empty hash
+					self.$panels = self.$panels.add(a.hash);
+				// remote tab
+				else if ($(a).attr('href') != '#') { // prevent loading the page itself if href is just "#"
+					$.data(a, 'href.tabs', a.href); // required for restore on destroy
+					$.data(a, 'load.tabs', a.href); // mutable
+					var id = self.tabId(a);
+					a.href = '#' + id;
+					var $panel = $('#' + id);
+					if (!$panel.length) {
+						$panel = $(o.panelTemplate).attr('id', id).addClass(o.panelClass)
+							.insertAfter( self.$panels[i - 1] || self.element );
+						$panel.data('destroy.tabs', true);
+					}
+					self.$panels = self.$panels.add( $panel );
+				}
+				// invalid tab href
+				else
+					o.disabled.push(i + 1);
+			});
+
+			if (init) {
+
+				// attach necessary classes for styling if not present
+				this.element.hasClass(o.navClass) || this.element.addClass(o.navClass);
+				this.$panels.each(function() {
+					var $this = $(this);
+					$this.hasClass(o.panelClass) || $this.addClass(o.panelClass);
+				});
+
+				// Selected tab
+				// use "selected" option or try to retrieve:
+				// 1. from fragment identifier in url
+				// 2. from cookie
+				// 3. from selected class attribute on <li>
+				if (o.selected === undefined) {
+					if (location.hash) {
+						this.$tabs.each(function(i, a) {
+							if (a.hash == location.hash) {
+								o.selected = i;
+								// prevent page scroll to fragment
+								if ($.browser.msie || $.browser.opera) { // && !o.remote
+									var $toShow = $(location.hash), toShowId = $toShow.attr('id');
+									$toShow.attr('id', '');
+									setTimeout(function() {
+										$toShow.attr('id', toShowId); // restore id
+									}, 500);
+								}
+								scrollTo(0, 0);
+								return false; // break
+							}
+						});
+					}
+					else if (o.cookie) {
+						var index = parseInt($.cookie('ui-tabs' + $.data(self.element)),10);
+						if (index && self.$tabs[index])
+							o.selected = index;
+					}
+					else if (self.$lis.filter('.' + o.selectedClass).length)
+						o.selected = self.$lis.index( self.$lis.filter('.' + o.selectedClass)[0] );
+				}
+				o.selected = o.selected === null || o.selected !== undefined ? o.selected : 0; // first tab selected by default
+
+				// Take disabling tabs via class attribute from HTML
+				// into account and update option properly.
+				// A selected tab cannot become disabled.
+				o.disabled = $.unique(o.disabled.concat(
+					$.map(this.$lis.filter('.' + o.disabledClass),
+						function(n, i) { return self.$lis.index(n); } )
+				)).sort();
+				if ($.inArray(o.selected, o.disabled) != -1)
+					o.disabled.splice($.inArray(o.selected, o.disabled), 1);
+				
+				// highlight selected tab
+				this.$panels.addClass(o.hideClass);
+				this.$lis.removeClass(o.selectedClass);
+				if (o.selected !== null) {
+					this.$panels.eq(o.selected).show().removeClass(o.hideClass); // use show and remove class to show in any case no matter how it has been hidden before
+					this.$lis.eq(o.selected).addClass(o.selectedClass);
+					
+					// seems to be expected behavior that the show callback is fired
+					var onShow = function() {
+						$(self.element).triggerHandler('tabsshow',
+							[self.ui(self.$tabs[o.selected], self.$panels[o.selected])], o.show);
+					}; 
+
+					// load if remote tab
+					if ($.data(this.$tabs[o.selected], 'load.tabs'))
+						this.load(o.selected, onShow);
+					// just trigger show event
+					else
+						onShow();
+					
+				}
+				
+				// clean up to avoid memory leaks in certain versions of IE 6
+				$(window).bind('unload', function() {
+					self.$tabs.unbind('.tabs');
+					self.$lis = self.$tabs = self.$panels = null;
+				});
+
+			}
+
+			// disable tabs
+			for (var i = 0, li; li = this.$lis[i]; i++)
+				$(li)[$.inArray(i, o.disabled) != -1 && !$(li).hasClass(o.selectedClass) ? 'addClass' : 'removeClass'](o.disabledClass);
+
+			// reset cache if switching from cached to not cached
+			if (o.cache === false)
+				this.$tabs.removeData('cache.tabs');
+			
+			// set up animations
+			var hideFx, showFx, baseFx = { 'min-width': 0, duration: 1 }, baseDuration = 'normal';
+			if (o.fx && o.fx.constructor == Array)
+				hideFx = o.fx[0] || baseFx, showFx = o.fx[1] || baseFx;
+			else
+				hideFx = showFx = o.fx || baseFx;
+
+			// reset some styles to maintain print style sheets etc.
+			var resetCSS = { display: '', overflow: '', height: '' };
+			if (!$.browser.msie) // not in IE to prevent ClearType font issue
+				resetCSS.opacity = '';
+
+			// Hide a tab, animation prevents browser scrolling to fragment,
+			// $show is optional.
+			function hideTab(clicked, $hide, $show) {
+				$hide.animate(hideFx, hideFx.duration || baseDuration, function() { //
+					$hide.addClass(o.hideClass).css(resetCSS); // maintain flexible height and accessibility in print etc.
+					if ($.browser.msie && hideFx.opacity)
+						$hide[0].style.filter = '';
+					if ($show)
+						showTab(clicked, $show, $hide);
+				});
+			}
+
+			// Show a tab, animation prevents browser scrolling to fragment,
+			// $hide is optional.
+			function showTab(clicked, $show, $hide) {
+				if (showFx === baseFx)
+					$show.css('display', 'block'); // prevent occasionally occuring flicker in Firefox cause by gap between showing and hiding the tab panels
+				$show.animate(showFx, showFx.duration || baseDuration, function() {
+					$show.removeClass(o.hideClass).css(resetCSS); // maintain flexible height and accessibility in print etc.
+					if ($.browser.msie && showFx.opacity)
+						$show[0].style.filter = '';
+
+					// callback
+					$(self.element).triggerHandler('tabsshow',
+						[self.ui(clicked, $show[0])], o.show);
+
+				});
+			}
+
+			// switch a tab
+			function switchTab(clicked, $li, $hide, $show) {
+				/*if (o.bookmarkable && trueClick) { // add to history only if true click occured, not a triggered click
+					$.ajaxHistory.update(clicked.hash);
+				}*/
+				$li.addClass(o.selectedClass)
+					.siblings().removeClass(o.selectedClass);
+				hideTab(clicked, $hide, $show);
+			}
+
+			// attach tab event handler, unbind to avoid duplicates from former tabifying...
+			this.$tabs.unbind('.tabs').bind(o.event, function() {
+
+				//var trueClick = e.clientX; // add to history only if true click occured, not a triggered click
+				var $li = $(this).parents('li:eq(0)'),
+					$hide = self.$panels.filter(':visible'),
+					$show = $(this.hash);
+
+				// If tab is already selected and not unselectable or tab disabled or 
+				// or is already loading or click callback returns false stop here.
+				// Check if click handler returns false last so that it is not executed
+				// for a disabled or loading tab!
+				if (($li.hasClass(o.selectedClass) && !o.unselect)
+					|| $li.hasClass(o.disabledClass) 
+					|| $(this).hasClass(o.loadingClass)
+					|| $(self.element).triggerHandler('tabsselect', [self.ui(this, $show[0])], o.select) === false
+					) {
+					this.blur();
+					return false;
+				}
+
+				self.options.selected = self.$tabs.index(this);
+
+				// if tab may be closed
+				if (o.unselect) {
+					if ($li.hasClass(o.selectedClass)) {
+						self.options.selected = null;
+						$li.removeClass(o.selectedClass);
+						self.$panels.stop();
+						hideTab(this, $hide);
+						this.blur();
+						return false;
+					} else if (!$hide.length) {
+						self.$panels.stop();
+						var a = this;
+						self.load(self.$tabs.index(this), function() {
+							$li.addClass(o.selectedClass).addClass(o.unselectClass);
+							showTab(a, $show);
+						});
+						this.blur();
+						return false;
+					}
+				}
+
+				if (o.cookie)
+					$.cookie('ui-tabs' + $.data(self.element), self.options.selected, o.cookie);
+
+				// stop possibly running animations
+				self.$panels.stop();
+
+				// show new tab
+				if ($show.length) {
+
+					// prevent scrollbar scrolling to 0 and than back in IE7, happens only if bookmarking/history is enabled
+					/*if ($.browser.msie && o.bookmarkable) {
+						var showId = this.hash.replace('#', '');
+						$show.attr('id', '');
+						setTimeout(function() {
+							$show.attr('id', showId); // restore id
+						}, 0);
+					}*/
+
+					var a = this;
+					self.load(self.$tabs.index(this), $hide.length ? 
+						function() {
+							switchTab(a, $li, $hide, $show);
+						} :
+						function() {
+							$li.addClass(o.selectedClass);
+							showTab(a, $show);
+						}
+					);
+
+					// Set scrollbar to saved position - need to use timeout with 0 to prevent browser scroll to target of hash
+					/*var scrollX = window.pageXOffset || document.documentElement && document.documentElement.scrollLeft || document.body.scrollLeft || 0;
+					var scrollY = window.pageYOffset || document.documentElement && document.documentElement.scrollTop || document.body.scrollTop || 0;
+					setTimeout(function() {
+						scrollTo(scrollX, scrollY);
+					}, 0);*/
+
+				} else
+					throw 'jQuery UI Tabs: Mismatching fragment identifier.';
+
+				// Prevent IE from keeping other link focussed when using the back button
+				// and remove dotted border from clicked link. This is controlled in modern
+				// browsers via CSS, also blur removes focus from address bar in Firefox
+				// which can become a usability and annoying problem with tabsRotate.
+				if ($.browser.msie)
+					this.blur();
+
+				//return o.bookmarkable && !!trueClick; // convert trueClick == undefined to Boolean required in IE
+				return false;
+
+			});
+
+			// disable click if event is configured to something else
+			if (!(/^click/).test(o.event))
+				this.$tabs.bind('click.tabs', function() { return false; });
+
+		},
+		add: function(url, label, index) {
+			if (index == undefined) 
+				index = this.$tabs.length; // append by default
+
+			var o = this.options;
+			var $li = $(o.tabTemplate.replace(/#\{href\}/, url).replace(/#\{label\}/, label));
+			$li.data('destroy.tabs', true);
+
+			var id = url.indexOf('#') == 0 ? url.replace('#', '') : this.tabId( $('a:first-child', $li)[0] );
+
+			// try to find an existing element before creating a new one
+			var $panel = $('#' + id);
+			if (!$panel.length) {
+				$panel = $(o.panelTemplate).attr('id', id)
+					.addClass(o.panelClass).addClass(o.hideClass);
+				$panel.data('destroy.tabs', true);
+			}
+			if (index >= this.$lis.length) {
+				$li.appendTo(this.element);
+				$panel.appendTo(this.element[0].parentNode);
+			} else {
+				$li.insertBefore(this.$lis[index]);
+				$panel.insertBefore(this.$panels[index]);
+			}
+			
+			o.disabled = $.map(o.disabled,
+				function(n, i) { return n >= index ? ++n : n });
+				
+			this.tabify();
+
+			if (this.$tabs.length == 1) {
+				$li.addClass(o.selectedClass);
+				$panel.removeClass(o.hideClass);
+				var href = $.data(this.$tabs[0], 'load.tabs');
+				if (href)
+					this.load(index, href);
+			}
+
+			// callback
+			this.element.triggerHandler('tabsadd',
+				[this.ui(this.$tabs[index], this.$panels[index])], o.add
+			);
+		},
+		remove: function(index) {
+			var o = this.options, $li = this.$lis.eq(index).remove(),
+				$panel = this.$panels.eq(index).remove();
+
+			// If selected tab was removed focus tab to the right or
+			// in case the last tab was removed the tab to the left.
+			if ($li.hasClass(o.selectedClass) && this.$tabs.length > 1)
+				this.select(index + (index + 1 < this.$tabs.length ? 1 : -1));
+
+			o.disabled = $.map($.grep(o.disabled, function(n, i) { return n != index; }),
+				function(n, i) { return n >= index ? --n : n });
+
+			this.tabify();
+
+			// callback
+			this.element.triggerHandler('tabsremove',
+				[this.ui($li.find('a')[0], $panel[0])], o.remove
+			);
+		},
+		enable: function(index) {
+			var o = this.options;
+			if ($.inArray(index, o.disabled) == -1)
+				return;
+				
+			var $li = this.$lis.eq(index).removeClass(o.disabledClass);
+			if ($.browser.safari) { // fix disappearing tab (that used opacity indicating disabling) after enabling in Safari 2...
+				$li.css('display', 'inline-block');
+				setTimeout(function() {
+					$li.css('display', 'block');
+				}, 0);
+			}
+
+			o.disabled = $.grep(o.disabled, function(n, i) { return n != index; });
+
+			// callback
+			this.element.triggerHandler('tabsenable',
+				[this.ui(this.$tabs[index], this.$panels[index])], o.enable
+			);
+
+		},
+		disable: function(index) {
+			var self = this, o = this.options;
+			if (index != o.selected) { // cannot disable already selected tab
+				this.$lis.eq(index).addClass(o.disabledClass);
+
+				o.disabled.push(index);
+				o.disabled.sort();
+
+				// callback
+				this.element.triggerHandler('tabsdisable',
+					[this.ui(this.$tabs[index], this.$panels[index])], o.disable
+				);
+			}
+		},
+		select: function(index) {
+			if (typeof index == 'string')
+				index = this.$tabs.index( this.$tabs.filter('[href$=' + index + ']')[0] );
+			this.$tabs.eq(index).trigger(this.options.event);
+		},
+		load: function(index, callback) { // callback is for internal usage only
+			
+			var self = this, o = this.options, $a = this.$tabs.eq(index), a = $a[0],
+					bypassCache = callback == undefined || callback === false, url = $a.data('load.tabs');
+
+			callback = callback || function() {};
+			
+			// no remote or from cache - just finish with callback
+			if (!url || !bypassCache && $.data(a, 'cache.tabs')) {
+				callback();
+				return;
+			}
+
+			// load remote from here on
+			
+			var inner = function(parent) {
+				var $parent = $(parent), $inner = $parent.find('*:last');
+				return $inner.length && $inner ||Â $parent;
+			};
+			var cleanup = function() {
+				self.$tabs.filter('.' + o.loadingClass).removeClass(o.loadingClass)
+							.each(function() {
+								if (o.spinner)
+									inner(this).parent().html(inner(this).data('label.tabs'));
+							});
+				self.xhr = null;
+			};
+			
+			if (o.spinner) {
+				var label = inner(a).html();
+				inner(a).wrapInner('<em></em>')
+					.find('em').data('label.tabs', label).html(o.spinner);
+			}
+
+			var ajaxOptions = $.extend({}, o.ajaxOptions, {
+				url: url,
+				success: function(r, s) {
+					$(a.hash).html(r);
+					cleanup();
+					
+					if (o.cache)
+						$.data(a, 'cache.tabs', true); // if loaded once do not load them again
+
+					// callbacks
+					$(self.element).triggerHandler('tabsload',
+						[self.ui(self.$tabs[index], self.$panels[index])], o.load
+					);
+					o.ajaxOptions.success && o.ajaxOptions.success(r, s);
+					
+					// This callback is required because the switch has to take
+					// place after loading has completed. Call last in order to 
+					// fire load before show callback...
+					callback();
+				}
+			});
+			if (this.xhr) {
+				// terminate pending requests from other tabs and restore tab label
+				this.xhr.abort();
+				cleanup();
+			}
+			$a.addClass(o.loadingClass);
+			setTimeout(function() { // timeout is again required in IE, "wait" for id being restored
+				self.xhr = $.ajax(ajaxOptions);
+			}, 0);
+
+		},
+		url: function(index, url) {
+			this.$tabs.eq(index).removeData('cache.tabs').data('load.tabs', url);
+		},
+		destroy: function() {
+			var o = this.options;
+			this.element.unbind('.tabs')
+				.removeClass(o.navClass).removeData('tabs');
+			this.$tabs.each(function() {
+				var href = $.data(this, 'href.tabs');
+				if (href)
+					this.href = href;
+				var $this = $(this).unbind('.tabs');
+				$.each(['href', 'load', 'cache'], function(i, prefix) {
+					$this.removeData(prefix + '.tabs');
+				});
+			});
+			this.$lis.add(this.$panels).each(function() {
+				if ($.data(this, 'destroy.tabs'))
+					$(this).remove();
+				else
+					$(this).removeClass([o.selectedClass, o.unselectClass,
+						o.disabledClass, o.panelClass, o.hideClass].join(' '));
+			});
+		}
+	});
+	
+	$.ui.tabs.defaults = {
+		// basic setup
+		unselect: false,
+		event: 'click',
+		disabled: [],
+		cookie: null, // e.g. { expires: 7, path: '/', domain: 'jquery.com', secure: true }
+		// TODO history: false,
+
+		// Ajax
+		spinner: 'Loading&#8230;',
+		cache: false,
+		idPrefix: 'ui-tabs-',
+		ajaxOptions: {},
+
+		// animations
+		fx: null, // e.g. { height: 'toggle', opacity: 'toggle', duration: 200 }
+
+		// templates
+		tabTemplate: '<li><a href="#{href}"><span>#{label}</span></a></li>',
+		panelTemplate: '<div></div>',
+
+		// CSS classes
+		navClass: 'ui-tabs-nav',
+		selectedClass: 'ui-tabs-selected',
+		unselectClass: 'ui-tabs-unselect',
+		disabledClass: 'ui-tabs-disabled',
+		panelClass: 'ui-tabs-panel',
+		hideClass: 'ui-tabs-hide',
+		loadingClass: 'ui-tabs-loading'
+	};
+	
+	$.ui.tabs.getter = "length";
+
+/*
+ * Tabs Extensions
+ */
+
+	/*
+	 * Rotate
+	 */
+	$.extend($.ui.tabs.prototype, {
+		rotation: null,
+		rotate: function(ms, continuing) {
+			
+			continuing = continuing || false;
+			
+			var self = this, t = this.options.selected;
+			
+			function start() {
+				self.rotation = setInterval(function() {
+					t = ++t < self.$tabs.length ? t : 0;
+					self.select(t);
+				}, ms); 
+			}
+			
+			function stop(e) {
+				if (!e || e.clientX) { // only in case of a true click
+					clearInterval(self.rotation);
+				}
+			}
+			
+			// start interval
+			if (ms) {
+				start();
+				if (!continuing)
+					this.$tabs.bind(this.options.event, stop);
+				else
+					this.$tabs.bind(this.options.event, function() {
+						stop();
+						t = self.options.selected;
+						start();
+					});
+			}
+			// stop interval
+			else {
+				stop();
+				this.$tabs.unbind(this.options.event, stop);
+			}
+		}
+	});
+
+})(jQuery);
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:56 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Fri, 11 Jul 2008 07:59:59 GMT
+ETag: "16e82d9-a032-ed9b7dc0"
+Accept-Ranges: bytes
+Content-Length: 41010
+Keep-Alive: timeout=15, max=93
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+;(function($){$.ui=$.ui||{};$.extend($.ui,{plugin:{add:function(module,option,set){var proto=$.ui[module].prototype;for(var i in set){proto.plugins[i]=proto.plugins[i]||[];proto.plugins[i].push([option,set[i]]);}},call:function(instance,name,args){var set=instance.plugins[name];if(!set){return;}
+for(var i=0;i<set.length;i++){if(instance.options[set[i][0]]){set[i][1].apply(instance.element,args);}}}},cssCache:{},css:function(name){if($.ui.cssCache[name]){return $.ui.cssCache[name];}
+var tmp=$('<div class="ui-resizable-gen">').addClass(name).css({position:'absolute',top:'-5000px',left:'-5000px',display:'block'}).appendTo('body');$.ui.cssCache[name]=!!((!(/auto|default/).test(tmp.css('cursor'))||(/^[1-9]/).test(tmp.css('height'))||(/^[1-9]/).test(tmp.css('width'))||!(/none/).test(tmp.css('backgroundImage'))||!(/transparent|rgba\(0, 0, 0, 0\)/).test(tmp.css('backgroundColor'))));try{$('body').get(0).removeChild(tmp.get(0));}catch(e){}
+return $.ui.cssCache[name];},disableSelection:function(e){e.unselectable="on";e.onselectstart=function(){return false;};if(e.style){e.style.MozUserSelect="none";}},enableSelection:function(e){e.unselectable="off";e.onselectstart=function(){return true;};if(e.style){e.style.MozUserSelect="";}},hasScroll:function(e,a){var scroll=/top/.test(a||"top")?'scrollTop':'scrollLeft',has=false;if(e[scroll]>0)return true;e[scroll]=1;has=e[scroll]>0?true:false;e[scroll]=0;return has;}});var _remove=$.fn.remove;$.fn.remove=function(){$("*",this).add(this).trigger("remove");return _remove.apply(this,arguments);};function getter(namespace,plugin,method){var methods=$[namespace][plugin].getter||[];methods=(typeof methods=="string"?methods.split(/,?\s+/):methods);return($.inArray(method,methods)!=-1);};var widgetPrototype={init:function(){},destroy:function(){},getData:function(e,key){return this.options[key];},setData:function(e,key,value){this.options[key]=value;},enable:function(){this.setData(null,'disabled',false);},disable:function(){this.setData(null,'disabled',true);}};$.widget=function(name,prototype){var namespace=name.split(".")[0];name=name.split(".")[1];$.fn[name]=function(options,data){var isMethodCall=(typeof options=='string'),args=arguments;if(isMethodCall&&getter(namespace,name,options)){var instance=$.data(this[0],name);return(instance?instance[options](data):undefined);}
+return this.each(function(){var instance=$.data(this,name);if(!instance){$.data(this,name,new $[namespace][name](this,options));}else if(isMethodCall){instance[options].apply(instance,$.makeArray(args).slice(1));}});};$[namespace][name]=function(element,options){var self=this;this.options=$.extend({},$[namespace][name].defaults,options);this.element=$(element).bind('setData.'+name,function(e,key,value){return self.setData(e,key,value);}).bind('getData.'+name,function(e,key){return self.getData(e,key);}).bind('remove',function(){return self.destroy();});this.init();};$[namespace][name].prototype=$.extend({},widgetPrototype,prototype);};$.widget("ui.mouse",{init:function(){var self=this;this.element.bind('mousedown.mouse',function(){return self.click.apply(self,arguments);}).bind('mouseup.mouse',function(){(self.timer&&clearInterval(self.timer));}).bind('click.mouse',function(){if(self.initialized){self.initialized=false;return false;}});if($.browser.msie){this.unselectable=this.element.attr('unselectable');this.element.attr('unselectable','on');}},destroy:function(){this.element.unbind('.mouse').removeData("mouse");($.browser.msie&&this.element.attr('unselectable',this.unselectable));},trigger:function(){return this.click.apply(this,arguments);},click:function(e){if(e.which!=1||$.inArray(e.target.nodeName.toLowerCase(),this.options.dragPrevention||[])!=-1||(this.options.condition&&!this.options.condition.apply(this.options.executor||this,[e,this.element]))){return true;}
+var self=this;this.initialized=false;var initialize=function(){self._MP={left:e.pageX,top:e.pageY};$(document).bind('mouseup.mouse',function(){return self.stop.apply(self,arguments);});$(document).bind('mousemove.mouse',function(){return self.drag.apply(self,arguments);});if(!self.initalized&&Math.abs(self._MP.left-e.pageX)>=self.options.distance||Math.abs(self._MP.top-e.pageY)>=self.options.distance){(self.options.start&&self.options.start.call(self.options.executor||self,e,self.element));(self.options.drag&&self.options.drag.call(self.options.executor||self,e,this.element));self.initialized=true;}};if(this.options.delay){if(this.timer){clearInterval(this.timer);}
+this.timer=setTimeout(initialize,this.options.delay);}else{initialize();}
+return false;},stop:function(e){if(!this.initialized){return $(document).unbind('mouseup.mouse').unbind('mousemove.mouse');}
+(this.options.stop&&this.options.stop.call(this.options.executor||this,e,this.element));$(document).unbind('mouseup.mouse').unbind('mousemove.mouse');return false;},drag:function(e){var o=this.options;if($.browser.msie&&!e.button){return this.stop.call(this,e);}
+if(!this.initialized&&(Math.abs(this._MP.left-e.pageX)>=o.distance||Math.abs(this._MP.top-e.pageY)>=o.distance)){(o.start&&o.start.call(o.executor||this,e,this.element));this.initialized=true;}else{if(!this.initialized){return false;}}
+(o.drag&&o.drag.call(this.options.executor||this,e,this.element));return false;}});})(jQuery);;(function($){$.widget("ui.draggable",{init:function(){var o=this.options;this.element.mouse({executor:this,delay:o.delay,distance:o.distance,dragPrevention:o.cancel,start:this.start,stop:this.stop,drag:this.drag,condition:function(e){var handle=!this.options.handle||!$(this.options.handle,this.element).length?true:false;if(!handle)$(this.options.handle,this.element).each(function(){if(this==e.target)handle=true;});return!(e.target.className.indexOf("ui-resizable-handle")!=-1||this.options.disabled)&&handle;}});if(o.helper=='original'&&!(/(relative|absolute|fixed)/).test(this.element.css('position')))
+this.element.css('position','relative');},start:function(e){var o=this.options;if($.ui.ddmanager)$.ui.ddmanager.current=this;this.helper=$.isFunction(o.helper)?$(o.helper.apply(this.element[0],[e])):(o.helper=='clone'?this.element.clone():this.element);if(!this.helper.parents('body').length)this.helper.appendTo((o.appendTo=='parent'?this.element[0].parentNode:o.appendTo));if(!this.helper.css("position")||this.helper.css("position")=="static")this.helper.css("position","absolute");this.margins={left:(parseInt(this.element.css("marginLeft"),10)||0),top:(parseInt(this.element.css("marginTop"),10)||0)};this.cssPosition=this.helper.css("position");this.offset=this.element.offset();this.offset={top:this.offset.top-this.margins.top,left:this.offset.left-this.margins.left};this.offset.click={left:e.pageX-this.offset.left,top:e.pageY-this.offset.top};this.offsetParent=this.helper.offsetParent();var po=this.offsetParent.offset();this.offset.parent={top:po.top+(parseInt(this.offsetParent.css("borderTopWidth"),10)||0),left:po.left+(parseInt(this.offsetParent.css("borderLeftWidth"),10)||0)};var p=this.element.position();this.offset.relative=this.cssPosition=="relative"?{top:p.top-(parseInt(this.helper.css("top"),10)||0)+this.offsetParent[0].scrollTop,left:p.left-(parseInt(this.helper.css("left"),10)||0)+this.offsetParent[0].scrollLeft}:{top:0,left:0};this.originalPosition=this.generatePosition(e);this.helperProportions={width:this.helper.outerWidth(),height:this.helper.outerHeight()};if(o.cursorAt){if(o.cursorAt.left!=undefined)this.offset.click.left=o.cursorAt.left;if(o.cursorAt.right!=undefined)this.offset.click.left=this.helperProportions.width-o.cursorAt.right;if(o.cursorAt.top!=undefined)this.offset.click.top=o.cursorAt.top;if(o.cursorAt.bottom!=undefined)this.offset.click.top=this.helperProportions.height-o.cursorAt.bottom;}
+if(o.containment){if(o.containment=='parent')o.containment=this.helper[0].parentNode;if(o.containment=='document')this.containment=[0,0,$(document).width(),($(document).height()||document.body.parentNode.scrollHeight)];if(!(/^(document|window|parent)$/).test(o.containment)){var ce=$(o.containment)[0];var co=$(o.containment).offset();this.containment=[co.left+(parseInt($(ce).css("borderLeftWidth"),10)||0)-this.offset.relative.left-this.offset.parent.left,co.top+(parseInt($(ce).css("borderTopWidth"),10)||0)-this.offset.relative.top-this.offset.parent.top,co.left+Math.max(ce.scrollWidth,ce.offsetWidth)-(parseInt($(ce).css("borderLeftWidth"),10)||0)-this.offset.relative.left-this.offset.parent.left-this.helperProportions.width-this.margins.left-(parseInt(this.element.css("marginRight"),10)||0),co.top+Math.max(ce.scrollHeight,ce.offsetHeight)-(parseInt($(ce).css("borderTopWidth"),10)||0)-this.offset.relative.top-this.offset.parent.top-this.helperProportions.height-this.margins.top-(parseInt(this.element.css("marginBottom"),10)||0)];}}
+this.propagate("start",e);this.helperProportions={width:this.helper.outerWidth(),height:this.helper.outerHeight()};if($.ui.ddmanager&&!o.dropBehaviour)$.ui.ddmanager.prepareOffsets(this,e);return false;},convertPositionTo:function(d,pos){if(!pos)pos=this.position;var mod=d=="absolute"?1:-1;return{top:(pos.top
++this.offset.relative.top*mod
++this.offset.parent.top*mod
+-(this.cssPosition=="fixed"?0:this.offsetParent[0].scrollTop)*mod
++this.margins.top*mod),left:(pos.left
++this.offset.relative.left*mod
++this.offset.parent.left*mod
+-(this.cssPosition=="fixed"?0:this.offsetParent[0].scrollLeft)*mod
++this.margins.left*mod)};},generatePosition:function(e){var o=this.options;var position={top:(e.pageY
+-this.offset.click.top
+-this.offset.relative.top
+-this.offset.parent.top
++(this.cssPosition=="fixed"?0:this.offsetParent[0].scrollTop)),left:(e.pageX
+-this.offset.click.left
+-this.offset.relative.left
+-this.offset.parent.left
++(this.cssPosition=="fixed"?0:this.offsetParent[0].scrollLeft))};if(!this.originalPosition)return position;if(this.containment){if(position.left<this.containment[0])position.left=this.containment[0];if(position.top<this.containment[1])position.top=this.containment[1];if(position.left>this.containment[2])position.left=this.containment[2];if(position.top>this.containment[3])position.top=this.containment[3];}
+if(o.grid){var top=this.originalPosition.top+Math.round((position.top-this.originalPosition.top)/o.grid[1])*o.grid[1];position.top=this.containment?(!(top<this.containment[1]||top>this.containment[3])?top:(!(top<this.containment[1])?top-o.grid[1]:top+o.grid[1])):top;var left=this.originalPosition.left+Math.round((position.left-this.originalPosition.left)/o.grid[0])*o.grid[0];position.left=this.containment?(!(left<this.containment[0]||left>this.containment[2])?left:(!(left<this.containment[0])?left-o.grid[0]:left+o.grid[0])):left;}
+return position;},drag:function(e){this.position=this.generatePosition(e);this.positionAbs=this.convertPositionTo("absolute");this.position=this.propagate("drag",e)||this.position;if(!this.options.axis||this.options.axis=="x")this.helper[0].style.left=this.position.left+'px';if(!this.options.axis||this.options.axis=="y")this.helper[0].style.top=this.position.top+'px';if($.ui.ddmanager)$.ui.ddmanager.drag(this,e);return false;},stop:function(e){if($.ui.ddmanager&&!this.options.dropBehaviour)
+$.ui.ddmanager.drop(this,e);if(this.options.revert){var self=this;$(this.helper).animate(this.originalPosition,parseInt(this.options.revert,10)||500,function(){self.propagate("stop",e);self.clear();});}else{this.propagate("stop",e);this.clear();}
+return false;},clear:function(){if(this.options.helper!='original'&&!this.cancelHelperRemoval)this.helper.remove();if($.ui.ddmanager)$.ui.ddmanager.current=null;this.helper=null;this.cancelHelperRemoval=false;},plugins:{},ui:function(e){return{helper:this.helper,position:this.position,absolutePosition:this.positionAbs,options:this.options};},propagate:function(n,e){$.ui.plugin.call(this,n,[e,this.ui()]);return this.element.triggerHandler(n=="drag"?n:"drag"+n,[e,this.ui()],this.options[n]);},destroy:function(){if(!this.element.data('draggable'))return;this.element.removeData("draggable").unbind(".draggable").mouse("destroy");},enable:function(){this.options.disabled=false;},disable:function(){this.options.disabled=true;}});$.ui.draggable.defaults={helper:"original",appendTo:"parent",cancel:['input','textarea','button','select','option'],distance:1,delay:0};$.ui.plugin.add("draggable","cursor",{start:function(e,ui){var t=$('body');if(t.css("cursor"))ui.options._cursor=t.css("cursor");t.css("cursor",ui.options.cursor);},stop:function(e,ui){if(ui.options._cursor)$('body').css("cursor",ui.options._cursor);}});$.ui.plugin.add("draggable","zIndex",{start:function(e,ui){var t=$(ui.helper);if(t.css("zIndex"))ui.options._zIndex=t.css("zIndex");t.css('zIndex',ui.options.zIndex);},stop:function(e,ui){if(ui.options._zIndex)$(ui.helper).css('zIndex',ui.options._zIndex);}});$.ui.plugin.add("draggable","opacity",{start:function(e,ui){var t=$(ui.helper);if(t.css("opacity"))ui.options._opacity=t.css("opacity");t.css('opacity',ui.options.opacity);},stop:function(e,ui){if(ui.options._opacity)$(ui.helper).css('opacity',ui.options._opacity);}});$.ui.plugin.add("draggable","iframeFix",{start:function(e,ui){$(ui.options.iframeFix===true?"iframe":ui.options.iframeFix).each(function(){$('<div class="ui-draggable-iframeFix" style="background: #fff;"></div>').css({width:this.offsetWidth+"px",height:this.offsetHeight+"px",position:"absolute",opacity:"0.001",zIndex:1000}).css($(this).offset()).appendTo("body");});},stop:function(e,ui){$("div.DragDropIframeFix").each(function(){this.parentNode.removeChild(this);});}});$.ui.plugin.add("draggable","scroll",{start:function(e,ui){var o=ui.options;var i=$(this).data("draggable");o.scrollSensitivity=o.scrollSensitivity||20;o.scrollSpeed=o.scrollSpeed||20;i.overflowY=function(el){do{if(/auto|scroll/.test(el.css('overflow'))||(/auto|scroll/).test(el.css('overflow-y')))return el;el=el.parent();}while(el[0].parentNode);return $(document);}(this);i.overflowX=function(el){do{if(/auto|scroll/.test(el.css('overflow'))||(/auto|scroll/).test(el.css('overflow-x')))return el;el=el.parent();}while(el[0].parentNode);return $(document);}(this);if(i.overflowY[0]!=document&&i.overflowY[0].tagName!='HTML')i.overflowYOffset=i.overflowY.offset();if(i.overflowX[0]!=document&&i.overflowX[0].tagName!='HTML')i.overflowXOffset=i.overflowX.offset();},drag:function(e,ui){var o=ui.options;var i=$(this).data("draggable");if(i.overflowY[0]!=document&&i.overflowY[0].tagName!='HTML'){if((i.overflowYOffset.top+i.overflowY[0].offsetHeight)-e.pageY<o.scrollSensitivity)
+i.overflowY[0].scrollTop=i.overflowY[0].scrollTop+o.scrollSpeed;if(e.pageY-i.overflowYOffset.top<o.scrollSensitivity)
+i.overflowY[0].scrollTop=i.overflowY[0].scrollTop-o.scrollSpeed;}else{if(e.pageY-$(document).scrollTop()<o.scrollSensitivity)
+$(document).scrollTop($(document).scrollTop()-o.scrollSpeed);if($(window).height()-(e.pageY-$(document).scrollTop())<o.scrollSensitivity)
+$(document).scrollTop($(document).scrollTop()+o.scrollSpeed);}
+if(i.overflowX[0]!=document&&i.overflowX[0].tagName!='HTML'){if((i.overflowXOffset.left+i.overflowX[0].offsetWidth)-e.pageX<o.scrollSensitivity)
+i.overflowX[0].scrollLeft=i.overflowX[0].scrollLeft+o.scrollSpeed;if(e.pageX-i.overflowXOffset.left<o.scrollSensitivity)
+i.overflowX[0].scrollLeft=i.overflowX[0].scrollLeft-o.scrollSpeed;}else{if(e.pageX-$(document).scrollLeft()<o.scrollSensitivity)
+$(document).scrollLeft($(document).scrollLeft()-o.scrollSpeed);if($(window).width()-(e.pageX-$(document).scrollLeft())<o.scrollSensitivity)
+$(document).scrollLeft($(document).scrollLeft()+o.scrollSpeed);}}});$.ui.plugin.add("draggable","snap",{start:function(e,ui){var inst=$(this).data("draggable");inst.snapElements=[];$(ui.options.snap===true?'.ui-draggable':ui.options.snap).each(function(){var $t=$(this);var $o=$t.offset();if(this!=inst.element[0])inst.snapElements.push({item:this,width:$t.outerWidth(),height:$t.outerHeight(),top:$o.top,left:$o.left});});},drag:function(e,ui){var inst=$(this).data("draggable");var d=ui.options.snapTolerance||20;var x1=ui.absolutePosition.left,x2=x1+inst.helperProportions.width,y1=ui.absolutePosition.top,y2=y1+inst.helperProportions.height;for(var i=inst.snapElements.length-1;i>=0;i--){var l=inst.snapElements[i].left,r=l+inst.snapElements[i].width,t=inst.snapElements[i].top,b=t+inst.snapElements[i].height;if(!((l-d<x1&&x1<r+d&&t-d<y1&&y1<b+d)||(l-d<x1&&x1<r+d&&t-d<y2&&y2<b+d)||(l-d<x2&&x2<r+d&&t-d<y1&&y1<b+d)||(l-d<x2&&x2<r+d&&t-d<y2&&y2<b+d)))continue;if(ui.options.snapMode!='inner'){var ts=Math.abs(t-y2)<=20;var bs=Math.abs(b-y1)<=20;var ls=Math.abs(l-x2)<=20;var rs=Math.abs(r-x1)<=20;if(ts)ui.position.top=inst.convertPositionTo("relative",{top:t-inst.helperProportions.height,left:0}).top;if(bs)ui.position.top=inst.convertPositionTo("relative",{top:b,left:0}).top;if(ls)ui.position.left=inst.convertPositionTo("relative",{top:0,left:l-inst.helperProportions.width}).left;if(rs)ui.position.left=inst.convertPositionTo("relative",{top:0,left:r}).left;}
+if(ui.options.snapMode!='outer'){var ts=Math.abs(t-y1)<=20;var bs=Math.abs(b-y2)<=20;var ls=Math.abs(l-x1)<=20;var rs=Math.abs(r-x2)<=20;if(ts)ui.position.top=inst.convertPositionTo("relative",{top:t,left:0}).top;if(bs)ui.position.top=inst.convertPositionTo("relative",{top:b-inst.helperProportions.height,left:0}).top;if(ls)ui.position.left=inst.convertPositionTo("relative",{top:0,left:l}).left;if(rs)ui.position.left=inst.convertPositionTo("relative",{top:0,left:r-inst.helperProportions.width}).left;}};}});$.ui.plugin.add("draggable","connectToSortable",{start:function(e,ui){var inst=$(this).data("draggable");inst.sortable=$.data($(ui.options.connectToSortable)[0],'sortable');inst.sortableOffset=inst.sortable.element.offset();inst.sortableOuterWidth=inst.sortable.element.outerWidth();inst.sortableOuterHeight=inst.sortable.element.outerHeight();if(inst.sortable.options.revert)inst.sortable.shouldRevert=true;},stop:function(e,ui){var instDraggable=$(this).data("draggable");var inst=instDraggable.sortable;if(inst.isOver){inst.isOver=0;instDraggable.cancelHelperRemoval=true;inst.cancelHelperRemoval=false;if(inst.shouldRevert)inst.options.revert=true;inst.stop(e);inst.options.helper="original";}},drag:function(e,ui){var instDraggable=$(this).data("draggable");var inst=instDraggable.sortable;instDraggable.position.absolute=ui.absolutePosition;if(inst.intersectsWith.call(instDraggable,{left:instDraggable.sortableOffset.left,top:instDraggable.sortableOffset.top,width:instDraggable.sortableOuterWidth,height:instDraggable.sortableOuterHeight})){if(!inst.isOver){inst.isOver=1;var height=inst.options.placeholderElement?$(inst.options.placeholderElement,$(inst.options.items,inst.element)).innerHeight():$(inst.options.items,inst.element).innerHeight();var width=inst.options.placeholderElement?$(inst.options.placeholderElement,$(inst.options.items,inst.element)).innerWidth():$(inst.options.items,inst.element).innerWidth();inst.currentItem=$(this).clone().appendTo(inst.element);inst.options.helper=function(){return ui.helper[0];};inst.start(e);inst.clickOffset.top=instDraggable.offset.click.top;inst.clickOffset.left=instDraggable.offset.click.left;inst.offset.left-=ui.absolutePosition.left-inst.position.absolute.left;inst.offset.top-=ui.absolutePosition.top-inst.position.absolute.top;inst.helperProportions={width:width,height:height};ui.helper.animate({height:height,width:width},500);instDraggable.propagate("toSortable",e);}
+if(inst.currentItem)inst.drag(e);}else{if(inst.isOver){inst.isOver=0;inst.cancelHelperRemoval=true;inst.options.revert=false;inst.stop(e);inst.options.helper="original";inst.currentItem.remove();inst.placeholder.remove();ui.helper.animate({height:this.innerHeight(),width:this.innerWidth()},500);instDraggable.propagate("fromSortable",e);}};}});$.ui.plugin.add("draggable","stack",{start:function(e,ui){var group=$.makeArray($(ui.options.stack.group)).sort(function(a,b){return(parseInt($(a).css("zIndex"))||ui.options.stack.min)-(parseInt($(b).css("zIndex"))||ui.options.stack.min);});$(group).each(function(i){this.style.zIndex=ui.options.stack.min+i;});this[0].style.zIndex=ui.options.stack.min+group.length;}});})(jQuery);;(function($){$.widget("ui.droppable",{init:function(){this.element.addClass("ui-droppable");this.isover=0;this.isout=1;var o=this.options,accept=o.accept;o=$.extend(o,{accept:o.accept&&o.accept.constructor==Function?o.accept:function(d){return $(d).is(accept);}});this.proportions={width:this.element.outerWidth(),height:this.element.outerHeight()};$.ui.ddmanager.droppables.push(this);},plugins:{},ui:function(c){return{instance:this,draggable:(c.currentItem||c.element),helper:c.helper,position:c.position,absolutePosition:c.positionAbs,options:this.options,element:this.element};},destroy:function(){var drop=$.ui.ddmanager.droppables;for(var i=0;i<drop.length;i++)
+if(drop[i]==this)
+drop.splice(i,1);this.element.removeClass("ui-droppable ui-droppable-disabled").removeData("droppable").unbind(".droppable");},enable:function(){this.element.removeClass("ui-droppable-disabled");this.options.disabled=false;},disable:function(){this.element.addClass("ui-droppable-disabled");this.options.disabled=true;},over:function(e){var draggable=$.ui.ddmanager.current;if(!draggable||(draggable.currentItem||draggable.element)[0]==this.element[0])return;if(this.options.accept.call(this.element,(draggable.currentItem||draggable.element))){$.ui.plugin.call(this,'over',[e,this.ui(draggable)]);this.element.triggerHandler("dropover",[e,this.ui(draggable)],this.options.over);}},out:function(e){var draggable=$.ui.ddmanager.current;if(!draggable||(draggable.currentItem||draggable.element)[0]==this.element[0])return;if(this.options.accept.call(this.element,(draggable.currentItem||draggable.element))){$.ui.plugin.call(this,'out',[e,this.ui(draggable)]);this.element.triggerHandler("dropout",[e,this.ui(draggable)],this.options.out);}},drop:function(e,custom){var draggable=custom||$.ui.ddmanager.current;if(!draggable||(draggable.currentItem||draggable.element)[0]==this.element[0])return false;var childrenIntersection=false;this.element.find(".ui-droppable").each(function(){var inst=$.data(this,'droppable');if(inst.options.greedy&&$.ui.intersect(draggable,$.extend(inst,{offset:inst.element.offset()}),inst.options.tolerance)){childrenIntersection=true;return false;}});if(childrenIntersection)return false;if(this.options.accept.call(this.element,(draggable.currentItem||draggable.element))){$.ui.plugin.call(this,'drop',[e,this.ui(draggable)]);this.element.triggerHandler("drop",[e,this.ui(draggable)],this.options.drop);return true;}
+return false;},activate:function(e){var draggable=$.ui.ddmanager.current;$.ui.plugin.call(this,'activate',[e,this.ui(draggable)]);if(draggable)this.element.triggerHandler("dropactivate",[e,this.ui(draggable)],this.options.activate);},deactivate:function(e){var draggable=$.ui.ddmanager.current;$.ui.plugin.call(this,'deactivate',[e,this.ui(draggable)]);if(draggable)this.element.triggerHandler("dropdeactivate",[e,this.ui(draggable)],this.options.deactivate);}});$.extend($.ui.droppable,{defaults:{disabled:false,tolerance:'intersect'}});$.ui.intersect=function(draggable,droppable,toleranceMode){if(!droppable.offset)return false;var x1=(draggable.positionAbs||draggable.position.absolute).left,x2=x1+draggable.helperProportions.width,y1=(draggable.positionAbs||draggable.position.absolute).top,y2=y1+draggable.helperProportions.height;var l=droppable.offset.left,r=l+droppable.proportions.width,t=droppable.offset.top,b=t+droppable.proportions.height;switch(toleranceMode){case'fit':if(!((y2-(draggable.helperProportions.height/2)>t&&y1<t)||(y1<b&&y2>b)||(x2>l&&x1<l)||(x1<r&&x2>r)))return false;if(y2-(draggable.helperProportions.height/2)>t&&y1<t)return 1;if(y1<b&&y2>b)return 2;if(x2>l&&x1<l)return 1;if(x1<r&&x2>r)return 2;break;case'intersect':return(l<x1+(draggable.helperProportions.width/2)&&x2-(draggable.helperProportions.width/2)<r&&t<y1+(draggable.helperProportions.height/2)&&y2-(draggable.helperProportions.height/2)<b);break;case'pointer':return(l<((draggable.positionAbs||draggable.position.absolute).left+(draggable.clickOffset||draggable.offset.click).left)&&((draggable.positionAbs||draggable.position.absolute).left+(draggable.clickOffset||draggable.offset.click).left)<r&&t<((draggable.positionAbs||draggable.position.absolute).top+(draggable.clickOffset||draggable.offset.click).top)&&((draggable.positionAbs||draggable.position.absolute).top+(draggable.clickOffset||draggable.offset.click).top)<b);break;case'touch':return((y1>=t&&y1<=b)||(y2>=t&&y2<=b)||(y1<t&&y2>b))&&((x1>=l&&x1<=r)||(x2>=l&&x2<=r)||(x1<l&&x2>r));break;default:return false;break;}};$.ui.ddmanager={current:null,droppables:[],prepareOffsets:function(t,e){var m=$.ui.ddmanager.droppables;var type=e?e.type:null;for(var i=0;i<m.length;i++){if(m[i].options.disabled||(t&&!m[i].options.accept.call(m[i].element,(t.currentItem||t.element))))continue;m[i].visible=m[i].element.is(":visible");if(!m[i].visible)continue;m[i].offset=m[i].element.offset();m[i].proportions={width:m[i].element.outerWidth(),height:m[i].element.outerHeight()};if(type=="dragstart"||type=="sortactivate")m[i].activate.call(m[i],e);}},drop:function(draggable,e){var dropped=false;$.each($.ui.ddmanager.droppables,function(){if(!this.options)return;if(!this.options.disabled&&this.visible&&$.ui.intersect(draggable,this,this.options.tolerance))
+dropped=this.drop.call(this,e);if(!this.options.disabled&&this.visible&&this.options.accept.call(this.element,(draggable.currentItem||draggable.element))){this.isout=1;this.isover=0;this.deactivate.call(this,e);}});return dropped;},drag:function(draggable,e){if(draggable.options.refreshPositions)$.ui.ddmanager.prepareOffsets(draggable,e);$.each($.ui.ddmanager.droppables,function(){if(this.disabled||this.greedyChild||!this.visible)return;var intersects=$.ui.intersect(draggable,this,this.options.tolerance);var c=!intersects&&this.isover==1?'isout':(intersects&&this.isover==0?'isover':null);if(!c)return;var parentInstance;if(this.options.greedy){var parent=this.element.parents('.ui-droppable:eq(0)');if(parent.length){parentInstance=$.data(parent[0],'droppable');parentInstance.greedyChild=(c=='isover'?1:0);}}
+if(parentInstance&&c=='isover'){parentInstance['isover']=0;parentInstance['isout']=1;parentInstance.out.call(parentInstance,e);}
+this[c]=1;this[c=='isout'?'isover':'isout']=0;this[c=="isover"?"over":"out"].call(this,e);if(parentInstance&&c=='isout'){parentInstance['isout']=0;parentInstance['isover']=1;parentInstance.over.call(parentInstance,e);}});}};$.ui.plugin.add("droppable","activeClass",{activate:function(e,ui){$(this).addClass(ui.options.activeClass);},deactivate:function(e,ui){$(this).removeClass(ui.options.activeClass);},drop:function(e,ui){$(this).removeClass(ui.options.activeClass);}});$.ui.plugin.add("droppable","hoverClass",{over:function(e,ui){$(this).addClass(ui.options.hoverClass);},out:function(e,ui){$(this).removeClass(ui.options.hoverClass);},drop:function(e,ui){$(this).removeClass(ui.options.hoverClass);}});})(jQuery);;(function($){$.effects=$.effects||{};$.extend($.effects,{save:function(el,set){for(var i=0;i<set.length;i++){if(set[i]!==null)$.data(el[0],"ec.storage."+set[i],el.css(set[i]));}},restore:function(el,set){for(var i=0;i<set.length;i++){if(set[i]!==null)el.css(set[i],$.data(el[0],"ec.storage."+set[i]));}},setMode:function(el,mode){if(mode=='toggle')mode=el.is(':hidden')?'show':'hide';return mode;},getBaseline:function(origin,original){var y,x;switch(origin[0]){case'top':y=0;break;case'middle':y=0.5;break;case'bottom':y=1;break;default:y=origin[0]/original.height;};switch(origin[1]){case'left':x=0;break;case'center':x=0.5;break;case'right':x=1;break;default:x=origin[1]/original.width;};return{x:x,y:y};},createWrapper:function(el){if(el.parent().attr('id')=='fxWrapper')
+return el;var props={width:el.outerWidth({margin:true}),height:el.outerHeight({margin:true}),'float':el.css('float')};el.wrap('<div id="fxWrapper"></div>');var wrapper=el.parent();if(el.css('position')=='static'){wrapper.css({position:'relative'});el.css({position:'relative'});}else{var top=parseInt(el.css('top'),10);if(top.constructor!=Number)top='auto';var left=parseInt(el.css('left'),10);if(left.constructor!=Number)left='auto';wrapper.css({position:el.css('position'),top:top,left:left,zIndex:el.css('z-index')}).show();el.css({position:'relative',top:0,left:0});}
+wrapper.css(props);return wrapper;},removeWrapper:function(el){if(el.parent().attr('id')=='fxWrapper')
+return el.parent().replaceWith(el);return el;},setTransition:function(el,list,factor,val){val=val||{};$.each(list,function(i,x){unit=el.cssUnit(x);if(unit[0]>0)val[x]=unit[0]*factor+unit[1];});return val;},animateClass:function(value,duration,easing,callback){var cb=(typeof easing=="function"?easing:(callback?callback:null));var ea=(typeof easing=="object"?easing:null);this.each(function(){var offset={};var that=$(this);var oldStyleAttr=that.attr("style")||'';if(typeof oldStyleAttr=='object')oldStyleAttr=oldStyleAttr["cssText"];if(value.toggle){that.hasClass(value.toggle)?value.remove=value.toggle:value.add=value.toggle;}
+var oldStyle=$.extend({},(document.defaultView?document.defaultView.getComputedStyle(this,null):this.currentStyle));if(value.add)that.addClass(value.add);if(value.remove)that.removeClass(value.remove);var newStyle=$.extend({},(document.defaultView?document.defaultView.getComputedStyle(this,null):this.currentStyle));if(value.add)that.removeClass(value.add);if(value.remove)that.addClass(value.remove);for(var n in newStyle){if(typeof newStyle[n]!="function"&&newStyle[n]&&n.indexOf("Moz")==-1&&n.indexOf("length")==-1&&newStyle[n]!=oldStyle[n]&&(n.match(/color/i)||(!n.match(/color/i)&&!isNaN(parseInt(newStyle[n],10))))&&(oldStyle.position!="static"||(oldStyle.position=="static"&&!n.match(/left|top|bottom|right/))))offset[n]=newStyle[n];}
+that.animate(offset,duration,ea,function(){if(typeof $(this).attr("style")=='object'){$(this).attr("style")["cssText"]="";$(this).attr("style")["cssText"]=oldStyleAttr;}else $(this).attr("style",oldStyleAttr);if(value.add)$(this).addClass(value.add);if(value.remove)$(this).removeClass(value.remove);if(cb)cb.apply(this,arguments);});});}});$.fn.extend({_show:$.fn.show,_hide:$.fn.hide,__toggle:$.fn.toggle,_addClass:$.fn.addClass,_removeClass:$.fn.removeClass,_toggleClass:$.fn.toggleClass,effect:function(fx,o,speed,callback){return $.effects[fx]?$.effects[fx].call(this,{method:fx,options:o||{},duration:speed,callback:callback}):null;},show:function(){if(!arguments[0]||(arguments[0].constructor==Number||/(slow|normal|fast)/.test(arguments[0])))
+return this._show.apply(this,arguments);else{var o=arguments[1]||{};o['mode']='show';return this.effect.apply(this,[arguments[0],o,arguments[2]||o.duration,arguments[3]||o.callback]);}},hide:function(){if(!arguments[0]||(arguments[0].constructor==Number||/(slow|normal|fast)/.test(arguments[0])))
+return this._hide.apply(this,arguments);else{var o=arguments[1]||{};o['mode']='hide';return this.effect.apply(this,[arguments[0],o,arguments[2]||o.duration,arguments[3]||o.callback]);}},toggle:function(){if(!arguments[0]||(arguments[0].constructor==Number||/(slow|normal|fast)/.test(arguments[0]))||(arguments[0].constructor==Function))
+return this.__toggle.apply(this,arguments);else{var o=arguments[1]||{};o['mode']='toggle';return this.effect.apply(this,[arguments[0],o,arguments[2]||o.duration,arguments[3]||o.callback]);}},addClass:function(classNames,speed,easing,callback){return speed?$.effects.animateClass.apply(this,[{add:classNames},speed,easing,callback]):this._addClass(classNames);},removeClass:function(classNames,speed,easing,callback){return speed?$.effects.animateClass.apply(this,[{remove:classNames},speed,easing,callback]):this._removeClass(classNames);},toggleClass:function(classNames,speed,easing,callback){return speed?$.effects.animateClass.apply(this,[{toggle:classNames},speed,easing,callback]):this._toggleClass(classNames);},morph:function(remove,add,speed,easing,callback){return $.effects.animateClass.apply(this,[{add:add,remove:remove},speed,easing,callback]);},switchClass:function(){this.morph.apply(this,arguments);},cssUnit:function(key){var style=this.css(key),val=[];$.each(['em','px','%','pt'],function(i,unit){if(style.indexOf(unit)>0)
+val=[parseFloat(style),unit];});return val;}});jQuery.each(['backgroundColor','borderBottomColor','borderLeftColor','borderRightColor','borderTopColor','color','outlineColor'],function(i,attr){jQuery.fx.step[attr]=function(fx){if(fx.state==0){fx.start=getColor(fx.elem,attr);fx.end=getRGB(fx.end);}
+fx.elem.style[attr]="rgb("+[Math.max(Math.min(parseInt((fx.pos*(fx.end[0]-fx.start[0]))+fx.start[0]),255),0),Math.max(Math.min(parseInt((fx.pos*(fx.end[1]-fx.start[1]))+fx.start[1]),255),0),Math.max(Math.min(parseInt((fx.pos*(fx.end[2]-fx.start[2]))+fx.start[2]),255),0)].join(",")+")";}});function getRGB(color){var result;if(color&&color.constructor==Array&&color.length==3)
+return color;if(result=/rgb\(\s*([0-9]{1,3})\s*,\s*([0-9]{1,3})\s*,\s*([0-9]{1,3})\s*\)/.exec(color))
+return[parseInt(result[1]),parseInt(result[2]),parseInt(result[3])];if(result=/rgb\(\s*([0-9]+(?:\.[0-9]+)?)\%\s*,\s*([0-9]+(?:\.[0-9]+)?)\%\s*,\s*([0-9]+(?:\.[0-9]+)?)\%\s*\)/.exec(color))
+return[parseFloat(result[1])*2.55,parseFloat(result[2])*2.55,parseFloat(result[3])*2.55];if(result=/#([a-fA-F0-9]{2})([a-fA-F0-9]{2})([a-fA-F0-9]{2})/.exec(color))
+return[parseInt(result[1],16),parseInt(result[2],16),parseInt(result[3],16)];if(result=/#([a-fA-F0-9])([a-fA-F0-9])([a-fA-F0-9])/.exec(color))
+return[parseInt(result[1]+result[1],16),parseInt(result[2]+result[2],16),parseInt(result[3]+result[3],16)];if(result=/rgba\(0, 0, 0, 0\)/.exec(color))
+return colors['transparent']
+return colors[jQuery.trim(color).toLowerCase()];}
+function getColor(elem,attr){var color;do{color=jQuery.curCSS(elem,attr);if(color!=''&&color!='transparent'||jQuery.nodeName(elem,"body"))
+break;attr="backgroundColor";}while(elem=elem.parentNode);return getRGB(color);};var colors={aqua:[0,255,255],azure:[240,255,255],beige:[245,245,220],black:[0,0,0],blue:[0,0,255],brown:[165,42,42],cyan:[0,255,255],darkblue:[0,0,139],darkcyan:[0,139,139],darkgrey:[169,169,169],darkgreen:[0,100,0],darkkhaki:[189,183,107],darkmagenta:[139,0,139],darkolivegreen:[85,107,47],darkorange:[255,140,0],darkorchid:[153,50,204],darkred:[139,0,0],darksalmon:[233,150,122],darkviolet:[148,0,211],fuchsia:[255,0,255],gold:[255,215,0],green:[0,128,0],indigo:[75,0,130],khaki:[240,230,140],lightblue:[173,216,230],lightcyan:[224,255,255],lightgreen:[144,238,144],lightgrey:[211,211,211],lightpink:[255,182,193],lightyellow:[255,255,224],lime:[0,255,0],magenta:[255,0,255],maroon:[128,0,0],navy:[0,0,128],olive:[128,128,0],orange:[255,165,0],pink:[255,192,203],purple:[128,0,128],violet:[128,0,128],red:[255,0,0],silver:[192,192,192],white:[255,255,255],yellow:[255,255,0],transparent:[255,255,255]};jQuery.easing['jswing']=jQuery.easing['swing'];jQuery.extend(jQuery.easing,{def:'easeOutQuad',swing:function(x,t,b,c,d){return jQuery.easing[jQuery.easing.def](x,t,b,c,d);},easeInQuad:function(x,t,b,c,d){return c*(t/=d)*t+b;},easeOutQuad:function(x,t,b,c,d){return-c*(t/=d)*(t-2)+b;},easeInOutQuad:function(x,t,b,c,d){if((t/=d/2)<1)return c/2*t*t+b;return-c/2*((--t)*(t-2)-1)+b;},easeInCubic:function(x,t,b,c,d){return c*(t/=d)*t*t+b;},easeOutCubic:function(x,t,b,c,d){return c*((t=t/d-1)*t*t+1)+b;},easeInOutCubic:function(x,t,b,c,d){if((t/=d/2)<1)return c/2*t*t*t+b;return c/2*((t-=2)*t*t+2)+b;},easeInQuart:function(x,t,b,c,d){return c*(t/=d)*t*t*t+b;},easeOutQuart:function(x,t,b,c,d){return-c*((t=t/d-1)*t*t*t-1)+b;},easeInOutQuart:function(x,t,b,c,d){if((t/=d/2)<1)return c/2*t*t*t*t+b;return-c/2*((t-=2)*t*t*t-2)+b;},easeInQuint:function(x,t,b,c,d){return c*(t/=d)*t*t*t*t+b;},easeOutQuint:function(x,t,b,c,d){return c*((t=t/d-1)*t*t*t*t+1)+b;},easeInOutQuint:function(x,t,b,c,d){if((t/=d/2)<1)return c/2*t*t*t*t*t+b;return c/2*((t-=2)*t*t*t*t+2)+b;},easeInSine:function(x,t,b,c,d){return-c*Math.cos(t/d*(Math.PI/2))+c+b;},easeOutSine:function(x,t,b,c,d){return c*Math.sin(t/d*(Math.PI/2))+b;},easeInOutSine:function(x,t,b,c,d){return-c/2*(Math.cos(Math.PI*t/d)-1)+b;},easeInExpo:function(x,t,b,c,d){return(t==0)?b:c*Math.pow(2,10*(t/d-1))+b;},easeOutExpo:function(x,t,b,c,d){return(t==d)?b+c:c*(-Math.pow(2,-10*t/d)+1)+b;},easeInOutExpo:function(x,t,b,c,d){if(t==0)return b;if(t==d)return b+c;if((t/=d/2)<1)return c/2*Math.pow(2,10*(t-1))+b;return c/2*(-Math.pow(2,-10*--t)+2)+b;},easeInCirc:function(x,t,b,c,d){return-c*(Math.sqrt(1-(t/=d)*t)-1)+b;},easeOutCirc:function(x,t,b,c,d){return c*Math.sqrt(1-(t=t/d-1)*t)+b;},easeInOutCirc:function(x,t,b,c,d){if((t/=d/2)<1)return-c/2*(Math.sqrt(1-t*t)-1)+b;return c/2*(Math.sqrt(1-(t-=2)*t)+1)+b;},easeInElastic:function(x,t,b,c,d){var s=1.70158;var p=0;var a=c;if(t==0)return b;if((t/=d)==1)return b+c;if(!p)p=d*.3;if(a<Math.abs(c)){a=c;var s=p/4;}
+else var s=p/(2*Math.PI)*Math.asin(c/a);return-(a*Math.pow(2,10*(t-=1))*Math.sin((t*d-s)*(2*Math.PI)/p))+b;},easeOutElastic:function(x,t,b,c,d){var s=1.70158;var p=0;var a=c;if(t==0)return b;if((t/=d)==1)return b+c;if(!p)p=d*.3;if(a<Math.abs(c)){a=c;var s=p/4;}
+else var s=p/(2*Math.PI)*Math.asin(c/a);return a*Math.pow(2,-10*t)*Math.sin((t*d-s)*(2*Math.PI)/p)+c+b;},easeInOutElastic:function(x,t,b,c,d){var s=1.70158;var p=0;var a=c;if(t==0)return b;if((t/=d/2)==2)return b+c;if(!p)p=d*(.3*1.5);if(a<Math.abs(c)){a=c;var s=p/4;}
+else var s=p/(2*Math.PI)*Math.asin(c/a);if(t<1)return-.5*(a*Math.pow(2,10*(t-=1))*Math.sin((t*d-s)*(2*Math.PI)/p))+b;return a*Math.pow(2,-10*(t-=1))*Math.sin((t*d-s)*(2*Math.PI)/p)*.5+c+b;},easeInBack:function(x,t,b,c,d,s){if(s==undefined)s=1.70158;return c*(t/=d)*t*((s+1)*t-s)+b;},easeOutBack:function(x,t,b,c,d,s){if(s==undefined)s=1.70158;return c*((t=t/d-1)*t*((s+1)*t+s)+1)+b;},easeInOutBack:function(x,t,b,c,d,s){if(s==undefined)s=1.70158;if((t/=d/2)<1)return c/2*(t*t*(((s*=(1.525))+1)*t-s))+b;return c/2*((t-=2)*t*(((s*=(1.525))+1)*t+s)+2)+b;},easeInBounce:function(x,t,b,c,d){return c-jQuery.easing.easeOutBounce(x,d-t,0,c,d)+b;},easeOutBounce:function(x,t,b,c,d){if((t/=d)<(1/2.75)){return c*(7.5625*t*t)+b;}else if(t<(2/2.75)){return c*(7.5625*(t-=(1.5/2.75))*t+.75)+b;}else if(t<(2.5/2.75)){return c*(7.5625*(t-=(2.25/2.75))*t+.9375)+b;}else{return c*(7.5625*(t-=(2.625/2.75))*t+.984375)+b;}},easeInOutBounce:function(x,t,b,c,d){if(t<d/2)return jQuery.easing.easeInBounce(x,t*2,0,c,d)*.5+b;return jQuery.easing.easeOutBounce(x,t*2-d,0,c,d)*.5+c*.5+b;}});})(jQuery);;(function($){$.effects.blind=function(o){return this.queue(function(){var el=$(this),props=['position','top','left'];var mode=$.effects.setMode(el,o.options.mode||'hide');var direction=o.options.direction||'vertical';$.effects.save(el,props);el.show();var wrapper=$.effects.createWrapper(el).css({overflow:'hidden'});var ref=(direction=='vertical')?'height':'width';var distance=(direction=='vertical')?wrapper.height():wrapper.width();if(mode=='show')wrapper.css(ref,0);var animation={};animation[ref]=mode=='show'?distance:0;wrapper.animate(animation,o.duration,o.options.easing,function(){if(mode=='hide')el.hide();$.effects.restore(el,props);$.effects.removeWrapper(el);if(o.callback)o.callback.apply(this,arguments);el.dequeue();});});};})(jQuery);;(function($){$.effects.highlight=function(o){return this.queue(function(){var el=$(this),props=['backgroundImage','backgroundColor','opacity'];var mode=$.effects.setMode(el,o.options.mode||'show');var color=o.options.color||"#ffff99";$.effects.save(el,props);el.show();el.css({backgroundImage:'none',backgroundColor:color});var animation={backgroundColor:$.data(this,"ec.storage.backgroundColor")};if(mode=="hide")animation['opacity']=0;el.animate(animation,{queue:false,duration:o.duration,easing:o.options.easing,complete:function(){if(mode=="hide")el.hide();$.effects.restore(el,props);if(mode=="show"&&jQuery.browser.msie)this.style.removeAttribute('filter');if(o.callback)o.callback.apply(this,arguments);el.dequeue();}});});};})(jQuery);;(function($){$.effects.slide=function(o){return this.queue(function(){var el=$(this),props=['position','top','left'];var mode=$.effects.setMode(el,o.options.mode||'show');var direction=o.options.direction||'left';$.effects.save(el,props);el.show();$.effects.createWrapper(el).css({overflow:'hidden'});var ref=(direction=='up'||direction=='down')?'top':'left';var motion=(direction=='up'||direction=='left')?'pos':'neg';var distance=o.options.distance||(ref=='top'?el.outerHeight({margin:true}):el.outerWidth({margin:true}));if(mode=='show')el.css(ref,motion=='pos'?-distance:distance);var animation={};animation[ref]=(mode=='show'?(motion=='pos'?'+=':'-='):(motion=='pos'?'-=':'+='))+distance;el.animate(animation,{queue:false,duration:o.duration,easing:o.options.easing,complete:function(){if(mode=='hide')el.hide();$.effects.restore(el,props);$.effects.removeWrapper(el);if(o.callback)o.callback.apply(this,arguments);el.dequeue();}});});};})(jQuery);HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:57 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Thu, 17 Jul 2008 10:40:13 GMT
+ETag: "16e82da-1aad-ddb1bd40"
+Accept-Ranges: bytes
+Content-Length: 6829
+Keep-Alive: timeout=15, max=92
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+$(document).ready(function(){
+	$('.switch-header-style').click(function() {
+		if ($('#head').hasClass('head-is-small')) {
+			$.get('/index/sethead/normal', function(data){
+				$('#head').removeClass('head-is-small');
+			});
+		} else {
+			$.get('/index/sethead/small', function(data){
+				$('#head').addClass('head-is-small');
+			});
+		}
+		return false;
+	});
+	
+	$('.message_subject').click(function() {
+		element = $(this);
+		$(this).next('p').toggle();
+		
+		id = $(this).attr('rel');
+		
+		if ($(this).hasClass('message-unread')) {
+			$.get('/community/messages/markasread/' + id, function(data){
+				element.removeClass('message-unread');
+			});
+		}
+		
+		return false;
+	});
+	
+	$('.message-delete').click(function() {
+		element = $(this);
+		
+		id = element.attr('rel');
+		sure = confirm('Diese Nachricht lÃ¶schen?');	
+		if(sure) {
+			$.get('/community/messages/deletemsg/' + id, function(data){
+				$('#message-frame-' + id).remove();
+			});
+		}
+		
+		return false;
+	});
+	
+	$('.message-delete-outbox').click(function() {
+		element = $(this);
+		
+		id = element.attr('rel');
+		sure = confirm('Diese Nachricht lÃ¶schen?');	
+		if(sure) {
+			$.get('/community/messages/deleteoutboxmsg/' + id, function(data){
+				$('#message-frame-' + id).remove();
+			});
+		}
+		
+		return false;
+	});
+	
+	$('.setAdHit').click(function() {
+		element = $(this);
+		
+		id = element.attr('rel');
+		$.get('/index/setadhit/' + id, function(data){
+			//
+		});
+		
+		return;
+	});
+	
+	$('.addBookmarksToQuick').click(function() {
+		element = $(this);
+		
+		id = element.attr('rel');
+		src = element.attr('src');
+		$.get('/index/setquickbookmark/' + id, function(data){
+			element.attr('src', '/images/quick-' + data + '.gif');
+		});
+		
+		return false;
+	});
+	
+	$('#addLASearchEngine').click(function() {
+		InstallSearchPlugin('firefox');		
+		return false;
+	});
+	
+	$('.addRecip').click(function() {
+		addReceipient(this);		
+		return false;
+	});
+	
+	if(document.location.pathname.search(/community\/messages\/new.*/) > 0) {
+		$.getJSON('/community/messages/getfriends',function (json) {
+			$('input#recipients').tagSuggest({'tags' : json['username'], 'separator' : ', ', 'sort' : false});
+			$('input#recipients').parent('span').after(json['displayFriends']);
+		});
+	}
+	
+	$('.showGroupPassword').click(function() {
+		reqUrl = $(this).attr('href');
+		already = $('#showPw').html();
+		if(already.length > 3) {
+			$('#showPw').empty();	
+		} else {
+			$.get(reqUrl,function (data) {
+				if(data) {	
+					$('#showPw').empty();	
+					$('#showPw').append(data);
+				}				
+			});
+		}
+		return false;
+	});
+	
+	$('.leaveGroupNow').click(function() {
+		reqUrl = $(this).attr('href');
+		reqText = $(this).attr('rel');
+		confirmer = confirm(reqText);
+		if(confirmer) {
+			document.location.href=reqUrl;	
+		}
+		return false;
+	});
+	
+	if(document.location.pathname.search(/community\/groups\/create/) > 0) {		
+		$('input#name').keydown(function() {
+			namespace = $('input#name').val();
+			namespace = namespace + ' ';
+			if(namespace.length > 2) {
+				$.get('/community/groups/getsimilargroupsbyname/' + namespace,function (data) {
+					$('#listSimilarGroups').empty();
+					if(data) {
+						$('#listSimilarGroups').append(data);
+					}				
+				});
+			}
+		});
+	}
+	
+	if(document.location.pathname.search(/tags\/edit.*/) > 0) {		
+		$('input#newname').keyup(function() {
+			if ($(this).val() != '') {
+				$('#delete-tag').attr('disabled', 'disabled');
+				$('#delete-tag').addClass('button-disable');
+			} else {
+				$('#delete-tag').removeAttr('disabled');
+				$('#delete-tag').removeClass('button-disable');
+			}
+		});
+	}
+	
+	
+	if(document.location.pathname.search(/community\/groups\/create/) > 0 || document.location.pathname.search(/community\/groups\/edit/) > 0) {		
+		$.getJSON('/community/messages/getfriends',function (json) {
+			$('input#recipients').tagSuggest({'tags' : json['username'], 'separator' : ', ', 'sort' : false});
+			$('input#recipients').parent('span').after(json['displayFriends']);
+		});
+
+		$.getJSON('/community/groups/getuserstag',function (json) {
+			$('input#tags').tagSuggest({'tags' : json['tags'], 'separator' : ', ', 'sort' : false});
+			$('input#tags').parent('span').after(json['displayTags']);
+		});
+
+	}
+	
+	$('.searchPageButton').click(function() {
+		element = $(this);
+		
+		page = element.attr('rel');
+		$query = $("#searchQuerySafe").html();
+		
+		$(".searchPageButton").removeClass('selected');
+		
+		$.ajax({
+			type: "get",
+			url: "/search/buildresults",
+			data: "p=" + page + "&q=" + $query,   
+			beforeSend: function() {
+				$(".loadingNewPageIndicator").show();
+				$("#ShowWhichPageIsLoading").empty();
+				$("#ShowWhichPageIsLoading").append(page);
+			},
+			success: function(data) {
+				$("#linkarena-results").empty();
+				$("#linkarena-results").append(data);
+				$(element).addClass('selected');
+				$("#ShowWhichPageIsLoading").empty();
+				$(".loadingNewPageIndicator").hide();
+				document.location.href='#head';
+			}
+		});
+		
+		return false;
+	});
+	
+	if(document.location.pathname.search(/search\/results.*/) > 0) {
+		$(".moreSemagerLink").hide();
+		$(".loadingNewPageIndicator").hide();
+	}
+	
+	$('.linkarena-results').click(function() {
+		$(".pagination").show();	
+	});
+	
+	$('.own-results').click(function() {
+		$(".pagination").hide();	
+	});
+	$('.yahoo-results').click(function() {
+		$(".pagination").hide();	
+	});
+	$('.google-results').click(function() {
+		$(".pagination").hide();	
+	});
+});
+
+function checkBrowserName(name){  
+   var agent = navigator.userAgent.toLowerCase();  
+   if (agent.indexOf(name.toLowerCase())>-1) {  
+     return true;  
+   }  
+   return false;  
+} 
+
+function addReceipient(element) {
+	tags = $('input#recipients').val().split(',');
+	tag = $.trim(element.innerHTML);
+	trimedTags = [];
+	tagString = '';
+	
+	$.each(tags, function (key, value) {
+		trimedTags.push(jQuery.trim(value));		
+	});
+		
+	index = jQuery.inArray(tag, trimedTags);
+	if (index != -1 && trimedTags.length > 1) {
+		$(element).removeClass('linkactive');
+		trimedTags.deleteByKey(index);
+	} else {
+		$(element).addClass('linkactive');
+		trimedTags.push(tag);
+	}
+	
+	trimedTags = $.unique(trimedTags);
+	
+	$.each(trimedTags, function (key, value) {
+		if (value != '') {
+			tagString += value + ', ';
+		}
+	});
+	
+	$('input#recipients').val(tagString);    
+	$('input#recipients').focus();    
+}
+
+function InstallSearchPlugin(browser) {
+	if(!browser || browser == 'firefox') {
+		if ((typeof window.sidebar == "object") && (typeof window.sidebar.addSearchEngine == "function")) {
+			window.sidebar.addSearchEngine(
+				"http://linkarena.com/plugins/firefox/linkarena.src",
+				"http://linkarena.com/plugins/firefox/linkarena.png",
+				"LinkARENA Suche",
+				"LinkARENA"
+			);
+		}
+	} else if(browser == 'iexplorer') {
+		alert('Die SuMa fÃ¼r den IE ist noch nicht fertig!');
+	} else {
+		alert('Es wurde kein Browser ausgewÃ¤hlt!');
+		return false;
+	}
+}HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:05:57 GMT
+Server: Apache/2.0.55 (Debian)
+Last-Modified: Fri, 11 Jul 2008 07:59:59 GMT
+ETag: "16e82dc-a0a-ed9b7dc0"
+Accept-Ranges: bytes
+Content-Length: 2570
+Keep-Alive: timeout=15, max=91
+Connection: Keep-Alive
+Content-Type: application/x-javascript
+
+$(document).ready(function(){
+	$('.searchPageButton').click(function() {
+		element = $(this);
+		
+		page = element.attr('rel');
+		query = $("#searchQuerySafe").html();
+		
+		$(".searchPageButton").removeClass('selected');
+		
+		$.ajax({
+			type: "get",
+			url: "/search/buildresults",
+			data: "p=" + page + "&q=" + query,   
+			beforeSend: function() {
+				$(".loadingNewPageIndicator").show();
+				$("#ShowWhichPageIsLoading").empty();
+				$("#ShowWhichPageIsLoading").append(page);
+			},
+			success: function(data) {
+				$("#linkarena-results").empty();
+				$("#linkarena-results").append(data);
+				$(element).addClass('selected');
+				$("#ShowWhichPageIsLoading").empty();
+				$(".loadingNewPageIndicator").hide();
+				document.location.href='#head';
+			}
+		});
+		
+		return false;
+	});
+	
+	if(document.location.pathname.search(/search\/results.*/) > 0) {
+		$(".moreSemagerLink").hide();
+		$(".loadingNewPageIndicator").hide();
+	}
+	
+	$('.linkarena-results').click(function() {
+		$(".pagination").show();	
+	});
+	
+	$('.own-results').click(function() {
+		$(".pagination").hide();	
+	});
+	$('.yahoo-results').click(function() {
+		$(".pagination").hide();	
+	});
+	$('.google-results').click(function() {
+		$(".pagination").hide();	
+	});
+	
+	$('.expandPageButtons').click(function() {
+		$(".hideSearchPageButton").toggle();
+		$(".expandPageButtons").toggle();
+		$(".showAllPageLinks").toggle();
+	});
+});
+
+function loadSemager() {	
+	query = $("#searchQuerySafe").html();	
+	$.get('/search/semager?q=' + query, function(e) {
+		$("#semagerSuggestions").empty();
+		$("#semagerSuggestions").append(e);
+	});
+}
+
+function loadOwnBookmarks() {
+	query = $("#searchQuerySafe").html();		
+	$.getJSON('/search/ownbookmarks?q=' + query, function(e) {
+		$("#own-results").empty();
+		$("#own-results").append(e['html']);
+		
+		if(e['count'] > 0) {
+			$("#countOwnResults").empty();
+			$("#countOwnResults").append(e['count']);
+		}
+	},'json');
+}
+
+function loadYahooResults() {	
+	query = $("#searchQuerySafe").html();	
+	$.getJSON('/search/yahoo?q=' + query, function(e) {
+		$("#yahoo-results").empty();
+		$("#yahoo-results").append(e['html']);
+		
+		if(e['count'] > 0) {
+			$("#countYahooResults").empty();
+			$("#countYahooResults").append(e['count']);
+		}
+	},'json');
+}
+
+function loadGoogleResults() {	
+	query = $("#searchQuerySafe").html();	
+	$.getJSON('/search/google?q=' + query, function(e) {
+		$("#google-results").empty();
+		$("#google-results").append(e['html']);
+		
+		if(e['count'] > 0) {
+			$("#countGoogleResults").empty();
+			$("#countGoogleResults").append(e['count']);
+		}
+	},'json');
+}

@@ -1,0 +1,96 @@
+GET /h/d/hi/1/en/pop_calendar?test=grb&openerForm=searchForm&monthYear=92008&date=11&checkOut=true&secure=false HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=CT
+
+GET /h/d/hi/1/en/pop_calendar_panels?test=grb&openerForm=calendarPopForm&monthYear=92008&date=11&checkOut=true&secure=false HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=CT
+
+GET /hotelmedia/repository/hotelimages/SACCP/WELCM_EXTR_01_B.jpg HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=CT
+
+GET /hotelmedia/repository/hotelimages/MHRRC/WELCM_LSCP_01_B.jpg HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=CT
+
+GET /hotelmedia/repository/hotelimages/SCKCA/WELCM_ENTR_01_B.jpg HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=CT
+
+GET /hotelmedia/repository/hotelimages/SACWE/WELCM_EXTR_01_B.jpg HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=CT
+
+GET /hotelmedia/repository/hotelimages/EGVCA/WELCM_EXTR_01_B.jpg HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=CT
+
+GET /h/d/hi/1/en/mapswitch?url=/h/d/hi/1/en/availsearch&bcFrom=null%20&gdFlag=null%20onClick= HTTP/1.1
+Host: www.ichotelsgroup.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.ichotelsgroup.com/h/d/hi/1/en/availsearch?errorURL=/h/d/hi/1/en/advancedsearch&availCheckCaching=n&_requestid=115028
+Cookie: JSESSIONID=VOWCHT3HN303CCTGWAJSJBQKM0YBIIY4; usePCRFaceplate=90112887_OLDPC; beFree_cookie=99502222; __utmv=1.anonymous_hi_1_en; __utma=1.1574351283.1216705363.1216705363.1216705363.1; __utmb=1; __utmc=1; __utmz=1.1216705363.1.1.utmccn=(referral)|utmcsr=sacramentohi.com|utmcct=/reservations.aspx|utmcmd=referral; 01AI=2-2-9867C601D0893633CE909148BB8B3F448F63B93C860082563929806AE7B08B0A-B21E350C9A573407ECDCF8D797A6BF473D676DA463C88206069F8918E1719480; 01IS=U; 01AIS=1; cmRS=&t1=1216705598385&t2=1216705602352&t3=1216705605412&t4=1216705598213&lti=1216705605412&ln=&hr=/h/d/hi/1/en/mapswitch%3Furl%3D/h/d/hi/1/en/availsearch%26bcFrom%3Dnull%2520%26gdFlag%3Dnull%2520onClick%3D&fti=&fn=%3A0%3BmodifySearchResultsForm%3A1%3BsearchForm%3A2%3BsearchFormRadius%3A3%3BcalendarPopForm%3A4%3B&ac=&fd=&uer=&fu=&pi=availsearch&ho=cls.ichotelsgroup.com/cm%3F&ci=90081223%3B90086566
+

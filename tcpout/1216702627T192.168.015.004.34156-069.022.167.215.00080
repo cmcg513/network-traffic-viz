@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=1E2DB80C09146B3CCE1E45328F36C4D0&CDDBMuiID=1140984&an=Agnes%20Baltsa%2C%20Anna%20Tomowa-Sintow%2C%20Etc.%2C%20Herbert%20Von%20Karajan%3B%20Berlin%20Philharmonic%20Orchestra%2C%20German%20State%20Opera%20Chorus&pn=Mozart%3A%20Die%20Zauberfl%C3%B6te%20%5BDisc%203%5D HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 757C2255-B9E862D5E613C1D5DDFCF59E4C2E0C6A
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

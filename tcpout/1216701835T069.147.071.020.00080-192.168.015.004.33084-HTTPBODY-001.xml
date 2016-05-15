@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nav searchurl="http://search.yahooligans.yahoo.com/search/ligans?p=" type="parents">
+    <menu text="PARENTS HOME" url="/parents" anim="1">
+    </menu>
+    <menu text="ONLINE SAFETY" url="/parents/online-safety" anim="2">
+    </menu>
+    <menu text="ENTERTAINMENT GUIDE" url="/parents/kids-media-guide" anim="3">
+    </menu>
+    <menu text="FAQ" url="/parents/faq" anim="4">
+    </menu>
+</nav>

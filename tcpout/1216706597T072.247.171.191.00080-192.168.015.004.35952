@@ -1,0 +1,14 @@
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://fpdownload2.macromedia.com/get/shockwave/cabs/flash/swflash.cab
+Date: Tue, 22 Jul 2008 06:03:41 GMT
+Connection: keep-alive
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://fpdownload2.macromedia.com/get/shockwave/cabs/flash/swflash.cab
+Date: Tue, 22 Jul 2008 06:03:51 GMT
+Connection: keep-alive
+

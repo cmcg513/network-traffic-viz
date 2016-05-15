@@ -1,0 +1,284 @@
+﻿
+
+
+#rateRow {
+	width: 542px;
+	display: block;
+	height: auto;
+}
+#chinaPayText {
+	width: 542px;
+	display: block;
+	height: auto;
+}
+#averageNightRate {
+	display: block;
+}
+
+#currency {
+	width: 542px;
+	text-align: right;
+}
+.divider {
+	width: 542px;
+	height: 10px;
+	background-color: #122341;
+	margin: 0px;
+	padding: 0px;
+}
+#rateName {
+	position: relative;
+	top: 0px;
+	display: block;
+	height: 20px;
+	width: 542px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+html>body #rateName {
+	display:table;
+}
+
+#rateRow table tr td {
+	vertical-align: top;
+	padding-bottom: 7px;
+}
+#rateRow table{
+	width: 542px;
+}
+#rateRow table tr td#submitButton {
+	width: 63px;
+	height: 24px;
+}
+#rateRow table tr td#smokingType {
+	width: 20px;
+	height: 20px;
+}
+  .qq_title_cell
+  {
+    background-color: #FFFFCC;
+	margin: 5px;
+  }
+
+  .qq_title_text_bold
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 13px;
+    color: #000000;
+    font-weight: bold;
+    display: block;
+
+  }
+
+  .qq_title_text
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 12px;
+    color: #000000;
+  }
+
+  .qq_title_link
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 11px;
+    color: #002577;
+  }
+
+  .qq_text_link
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 13px;
+    color: #002577;
+  }
+
+  .qq_text_link_bold
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 11px;
+    color: #002577;
+    font-weight: bold;
+  }
+  .qq_text_link_bold_note
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 6px;
+    color: #002577;
+    font-weight: bold;
+    vertical-align: super;
+  }
+
+  .qq_text
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 13px;
+    color: #000000;
+  }
+
+  .qq_text_bold
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 13px;
+    color: #000000;
+    font-weight: bold;
+  }
+
+  .qq_red_text_bold
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 13px;
+    color: #FF0000;
+    font-weight: normal;
+  }
+  .qq_title_cell_vat
+  {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 11px;
+    background-color: #FFFFCC;
+  }
+
+/* Packages Project */
+#hdPopupDiv {
+	display: none;
+	visibility: hidden;
+	position: absolute;
+	z-index: 100;
+	width: 576px;
+}
+#hdPopupHeader, .hdPopupHeader  {
+ 	width: 576px;
+ 	height: 25px;
+ 	padding: 0px;
+ 	background: url(http://images3.ichotelsgroup.com/cq/etc/media_library/hi/1/en/hdl/bkrds.Par.0026.Image.gif) no-repeat top;
+}
+#hdPopupTitle {
+	width: 576px;
+	font-family: verdana, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+	position: relative;
+	top: 4px;
+	left: 12px;
+}
+.hdPopupTitle{
+	font-family: verdana, sans-serif;
+	font-weight: bold;
+	font-size: 11px;
+}
+#hdPopupActions {
+	position: relative;
+	top: -10px;
+	right: 4px;
+	float: right;
+}
+#hdPopupCloseBtn {
+	position: relative;
+	left: 40%;
+	top: 30px;
+	float: left;
+}
+.hdPopupActions {
+ 	float: right;
+}
+#hdPopupBorder {
+	position: relative;
+	top: 0px;
+	width: 574px;
+	z-index: 100;
+}
+#hdPopupContent {
+ 	overflow: auto;
+	position: relative;
+	top: 12px;
+	left: 12px;
+	font-size: 11px;
+	display: block;
+}
+#hdPopupContent h2{
+	font-size: 11px;
+}
+#hdPopupContent p {
+	position: relative;
+	top: 0px;
+	left: 0px;
+	font-size: 11px;
+	width: auto;
+}
+#hdPopupContentContainer {
+	word-wrap: break-word; /* 2008-01-18: Currently proprietary to IE 5.5+ only but will be included in CSS3-Text spec */
+}
+#hdPopupDivShim {
+	display: none;
+	visibility: hidden;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width:0px;
+	height:0px;
+	border: 0px;
+}
+.hdPrintAction {
+	display: none;
+	visibility: hidden;
+}
+a.tglLink {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;		
+	font-weight: bold;		
+	margin: 20px 0px 8px 0px;
+	text-decoration: none;
+	text-transform: uppercase;
+	visibility: hidden;
+}
+a.tglLink img {
+	border: none;
+	vertical-align: -0.4em;
+}
+#availablerates {
+	color: #000000;
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+	font-size: 13px;
+	font-weight: bold;	
+	padding-top: 28px;
+	padding-bottom: 10px;
+}
+#availablerates #viewRates {
+	color: #002577;
+	font-size: 11px;
+	margin-left: 1em;
+	text-decoration: underline;
+}
+
+
+
+
+/* Packages Project - Dynamic Styles */
+#hdPopupDiv {
+	background-color: #edf5ef;
+}
+#hdPopupHeader, .hdPopupHeader  {
+	border-left: 1px solid #A1D1AD;
+	border-right: 1px solid #A1D1AD;
+}
+#hdPopupTitle, .hdPopupTitle {
+ 	color: #08562D;
+}
+#hdPopupDivShim {
+	background-color: white;
+}
+#hdPopupBorder {
+	border-left: 1px solid #A1D1AD;
+	border-right: 1px solid #A1D1AD;
+	border-bottom: 1px solid #A1D1AD;
+	background-color: #FFFFFF;
+}
+#hdPopupContent, #hdPopupContent a:link, #hdPopupContent a:active, #hdPopupContent a:visited {
+ 	color: #000000;
+}
+#hdPopupContent h2{
+	color: #08562D;
+	background-color: #FFFFFF;
+}
+

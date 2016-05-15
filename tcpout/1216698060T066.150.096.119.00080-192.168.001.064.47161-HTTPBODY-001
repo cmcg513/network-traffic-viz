@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/rss1full.xsl" type="text/xsl" media="screen"?><?xml-stylesheet href="http://feeds.feedburner.com/~d/styles/itemcontent.css" type="text/css" media="screen"?><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:cc="http://web.resource.org/cc/" xmlns="http://purl.org/rss/1.0/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://datamining.typepad.com/data_mining/">
+<title>Data Mining: Text Mining, Visualization and Social Media</title>
+<link>http://datamining.typepad.com/data_mining/</link>
+<description />
+<dc:language>en-GB</dc:language>
+<dc:creator />
+<dc:date>2008-07-21T17:03:40-04:00</dc:date>
+<admin:generatorAgent rdf:resource="http://www.typepad.com/" />
+
+
+<items>
+<rdf:Seq><rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/lillian-lee-aaai-talk-on-subjectivity.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/the-surprise-of-success.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/and-now-for-something-completely-different.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/summer-movie-madness.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/batman.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/visualizing-radiohead.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/batman-anticipation-growing.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/timberpost-farecast-for-stocks.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/weblog-activation-simulation.html" />
+<rdf:li rdf:resource="http://datamining.typepad.com/data_mining/2008/07/what-a-gas.html" />
+</rdf:Seq>
+</items>
+
+<geo:lat>40.468968</geo:lat><geo:long>-79.918639</geo:long><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" href="http://feeds.feedburner.com/DataMining" type="application/rss+xml" /><feedburner:emailServiceId>136291</feedburner:emailServiceId><feedburner:feedburnerHostname>http://www.feedburner.com</feedburner:feedburnerHostname><feedburner:browserFriendly>This is an XML content feed. It is intended to be viewed in a newsreader or syndicated to another site, subject to copyright and fair use.</feedburner:browserFriendly></channel>
+
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/lillian-lee-aaai-talk-on-subjectivity.html">
+<title>Lillian Lee AAAI Talk on Subjectivity</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/341906911/lillian-lee-aaai-talk-on-subjectivity.html</link>
+<description>Briefly, Lillian Lee’s invited talk at AAAI 2008 on subjectivity is available online. I’ve not yet had time to look through it, but am hoping it looks beyond the simple lexical approaches that have been the mainstay of this field...</description>
+<content:encoded><![CDATA[<p>Briefly, <a href="http://www.cs.cornell.edu/home/llee/talks/llee-aaai08.pdf">Lillian Lee’s invited talk at AAAI 2008 on subjectivity</a> is available online. I’ve not yet had time to look through it, but am hoping it looks beyond the simple lexical approaches that have been the mainstay of this field for way too long at real models of opinion and subjectivity.</p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=nrwxwJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=nrwxwJ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=WvYaIJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=WvYaIJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/341906911" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>sentiment mining</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-21T17:03:40-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/lillian-lee-aaai-talk-on-subjectivity.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/the-surprise-of-success.html">
+<title>The Surprise of Success</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/341603021/the-surprise-of-success.html</link>
+<description>I was intrigued by this comment captured by Wired writer David Germain: "We knew it would be big, but we never expected to dominate the marketplace like we did," said Dan Fellman, head of distribution for Warner Bros., which released...</description>
+<content:encoded><![CDATA[<p>I was intrigued by this comment <a href="http://news.wired.com/dynamic/stories/B/BOX_OFFICE?SITE=WIRE&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT&amp;CTIME=2008-07-20-12-15-15">captured</a> by Wired writer David Germain:</p>  <blockquote>   <p>&quot;We knew it would be big, but we never expected to dominate the marketplace like we did,&quot; said Dan Fellman, head of distribution for Warner Bros., which released &quot;The Dark Knight.&quot; The movie should shoot past the $200 million mark by the end of the week, he said.</p> </blockquote>  <p>The simple <a href="http://datamining.typepad.com/data_mining/2008/07/summer-movie-madness.html">tea leaves of BlogPulse</a> would have helped…</p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=k5ootJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=k5ootJ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=yWumsJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=yWumsJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/341603021" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>Film</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-21T10:25:06-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/the-surprise-of-success.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/and-now-for-something-completely-different.html">
+<title>And Now For Something Completely Different</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/341555161/and-now-for-something-completely-different.html</link>
+<description>The print version of Wired magazine points to GraphJam – the equivalent of LOLCats for data miners?</description>
+<content:encoded><![CDATA[<p>The print version of Wired magazine points to <a href="http://graphjam.com">GraphJam</a> – the equivalent of LOLCats for data miners?</p>  <p><a href="http://graphjam.com/2008/07/20/song-chart-memes-the-jungle-contents/#more-2719"><img alt="song chart memes" src="http://graphjam.files.wordpress.com/2008/07/funny-graphs-the-jungle.gif" /></a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=YyxFdJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=YyxFdJ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=gpNTGJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=gpNTGJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/341555161" height="1" width="1"/>]]></content:encoded>
+
+
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-21T09:32:25-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/and-now-for-something-completely-different.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/summer-movie-madness.html">
+<title>Summer Movie Madness</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/339910879/summer-movie-madness.html</link>
+<description>Here’s a chart of a selection of recent movie releases. Queries for each movie are basically the name of the movie (plus variations). For example, (batman OR “dark knight”). If you want to check in on things as they progress,...</description>
+<content:encoded><![CDATA[<p>Here’s a chart of a selection of recent movie releases.</p>  <p><a href="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553ab260c8833-pi"><img title="summermovies" height="300" alt="summermovies" src="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553ab26148833-pi" width="500" /></a> </p>  <p>Queries for each movie are basically the name of the movie (plus variations). For example, (batman OR “dark knight”).</p>  <p>If you want to check in on things as they progress, the link is <a href="http://blogpulse.com/trend?query1=%28batman+OR+%22dark+knight%22%29&amp;label1=Batman&amp;query2=hancock&amp;label2=Hancock&amp;query3=hellboy&amp;label3=Hellboy&amp;query4=%22wall-e%22&amp;label4=Wall-E&amp;query5=%28%22indiana+jones%22+OR+indy%29&amp;label5=Indy&amp;query6=%22iron+man%22&amp;label6=Iron+Man&amp;query7=hulk&amp;label7=Hulk&amp;query8=%22get smart%22&amp;label8=Get+Smart+&amp;query9=narnia&amp;label9=Narnia&amp;query10=%22sex+and+the+city%22&amp;label10=SATC&amp;query11=%28%22mamma mia%22+OR+%22mama mia%22%29&amp;label11=Mamma+Mia&amp;query12=%22kung fu panda%22&amp;label12=Kung-fu+Panda&amp;days=90&amp;x=27&amp;y=3">here</a>. No surprise that Batman broke opening night records. <a href="http://www.boxofficemojo.com">BoxOfficeMojo</a> says (via email):</p>  <blockquote>   <p>'The Dark Knight' raked in $18.489 million in its midnight opening, according to distributor Warner Bros. That sets a new midnight opening record, beating 'Star Wars: Episode III - Revenge of the Sith's benchmark of $16.5 million. 'Sith's full opening day ended up at $50 million. </p>    <p>This marks 'The Dark Knight's second record after posting the highest theater count ever: 4,366.</p> </blockquote>  <p></p>  <p></p>  <p></p>  <p></p>  <p></p>  <p>We were disappointed to find that Mamma Mia was sold out last night! It was released on ~3,000 screens. <a href="http://flixpulse.com/movie.php?id=26">FlixPulse</a> is giving Batman a 98% score currently, though Mamma Mia hasn’t even registered there.</p>  <p></p>  <p></p>  <p>Batman is currently sitting at 1.75% of blog attention. For comparison, <a href="http://datamining.typepad.com/data_mining/2007/06/third_pirates_m.html">the second Pirates of the Caribbean movie came in at 1.25</a>, <a href="http://datamining.typepad.com/data_mining/2007/12/the-golden-comp.html">the Golden Compass also hit 0.7%</a>, <a href="http://datamining.typepad.com/data_mining/2006/01/lion_v_ape.html">the first Narnia movie peaked at 1.25%</a>. Have a look at other <a href="http://datamining.typepad.com/data_mining/film/">related posts</a>. Note that there may be some variation in how these graphs were created. Watch out for cases where a modifier like ‘+movie’ or ‘+(movie OR film)’ has been inserted to restrict matches. For comparison, here is a repeat of the above graph with the modifier ‘+movie’.</p>  <p><a href="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553ab26168833-pi"><img title="summermovies-movie" height="300" alt="summermovies-movie" src="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553ab26198833-pi" width="500" /></a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=3vvuLJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=3vvuLJ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=VcpiPJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=VcpiPJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/339910879" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>Film</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-19T10:47:08-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/summer-movie-madness.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/batman.html">
+<title>Batman</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/338663651/batman.html</link>
+<description>It’s not news : judging by the anticipation – the new Batman movie is going to be a monster hit! Watch for it on FlixPulse!</description>
+<content:encoded><![CDATA[<p>It’s not news : judging by the anticipation – the new Batman movie is going to be a monster hit!</p>  <p><a href="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553a7db1a8833-pi"><img title="batman2" height="300" alt="batman2" src="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553a7db1c8833-pi" width="500" /></a> </p>  <p>Watch for it on <a href="http://flixpulse.com/">FlixPulse</a>!</p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=MroszJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=MroszJ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=PtJwnJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=PtJwnJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/338663651" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>Film</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-18T00:08:03-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/batman.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/visualizing-radiohead.html">
+<title>Visualizing Radiohead</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/337040725/visualizing-radiohead.html</link>
+<description>Radiohead’s new single has a video created using only range data (in a mixture of scales). There is a good write up of this by Andrew Trice at InsideRIA, including a link to an interactive version of the data. Here’s...</description>
+<content:encoded><![CDATA[<p>Radiohead’s new single has a video created using only range data (in a mixture of scales).</p>  <p>   <div class="wlWriterSmartContent" id="scid:5737277B-5D6D-4f48-ABFC-DD9C333F4C5D:0f82abbc-a681-4a2f-8a67-c5f315ec409d" style="padding-right: 0px; display: inline; padding-left: 0px; float: none; padding-bottom: 0px; margin: 0px; padding-top: 0px"><div id="ebed1120-ed48-4e12-92cf-a9ece5de1e1a" style="margin: 0px; padding: 0px; display: inline;"><div><a href="http://www.youtube.com/watch?v=8nTFjVm9sTQ&amp;rel=0" target="_new"><img src="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553a234a58833-pi" galleryimg="no" onload="var downlevelDiv = document.getElementById('ebed1120-ed48-4e12-92cf-a9ece5de1e1a'); downlevelDiv.innerHTML = &quot;&lt;div&gt;&lt;object width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;param name=\&quot;movie\&quot; value=\&quot;http://www.youtube.com/v/8nTFjVm9sTQ&amp;rel=0\&quot;&gt;&lt;\/param&gt;&lt;param name=\&quot;wmode\&quot; value=\&quot;transparent\&quot;&gt;&lt;\/param&gt;&lt;embed src=\&quot;http://www.youtube.com/v/8nTFjVm9sTQ&amp;rel=0\&quot; type=\&quot;application/x-shockwave-flash\&quot; wmode=\&quot;transparent\&quot; width=\&quot;425\&quot; height=\&quot;355\&quot;&gt;&lt;\/embed&gt;&lt;\/object&gt;&lt;\/div&gt;&quot;;" alt=""></a></div></div></div> </p>  <p>There is a good <a href="http://www.insideria.com/2008/07/impressive-data-visualization.html?sdid=DKANW">write up</a> of this by Andrew Trice at InsideRIA, including a link to <a href="http://code.google.com/creative/radiohead/viewer.html">an interactive version of the data</a>. Here’s a <a href="http://datamining.typepad.com/data_mining/2007/08/infomusic.html">related post</a> from a while back which features videos with a data/info graphics them, including the excellent Remind Me by Royskopp.</p>  <p>[Radiohead story via TechMeme]</p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=RUvBrJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=RUvBrJ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=w0C8qJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=w0C8qJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/337040725" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>dataviz</dc:subject>
+<dc:subject>Music</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-16T08:31:46-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/visualizing-radiohead.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/batman-anticipation-growing.html">
+<title>Batman Anticipation Growing</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/335095389/batman-anticipation-growing.html</link>
+<description>Here are’s a graph showing attention around Hellboy 2, Wall-E and Batman. Batman: The Dark Night will be released on July 18th, but you can already see growing attention. For calibration, Wall-E did $23MM on the biggest night of its...</description>
+<content:encoded><![CDATA[<p>Here are’s a graph showing attention around Hellboy 2, Wall-E and Batman. </p>  <p><a href="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553b7b02b8834-pi"><img title="batman" height="300" alt="batman" src="http://datamining.typepad.com/.a/6a00d8341c994053ef00e5539c66cf8833-pi" width="500" /></a> </p>  <p>Batman: The Dark Night will be released on July 18th, but you can already see growing attention. For calibration, <a href="http://www.boxofficemojo.com/movies/?id=wall-e.htm">Wall-E</a> did $23MM on the biggest night of its opening weekend (Saturday 28th June) and <a href="http://www.boxofficemojo.com/movies/?id=hellboy2.htm">Hellboy 2</a> did $13MM (Friday 11th July).</p>  <p>The first peak for Batman is around the untimely death of Heath Ledger, I’m not sure what the second is.</p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=dikP0J"><img src="http://feeds.feedburner.com/~f/DataMining?i=dikP0J" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=CzmVlJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=CzmVlJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/335095389" height="1" width="1"/>]]></content:encoded>
+
+
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-14T09:11:43-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/batman-anticipation-growing.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/timberpost-farecast-for-stocks.html">
+<title>Timberpost: Farecast for Stocks</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/330883523/timberpost-farecast-for-stocks.html</link>
+<description>Farecast (recently acquired by MIcrosoft) does just what you want when making an airplane ticket purchase: it predicts if the price is going to go up, down or stay level and advises when you should buy (now, wait). Timberpost is...</description>
+<content:encoded><![CDATA[<p><a href="http://www.farecast.com">Farecast</a> (recently acquired by MIcrosoft) does just what you want when making an airplane ticket purchase: it predicts if the price is going to go up, down or stay level and advises when you should buy (now, wait). <a href="http://www.timberpost.com/">Timberpost</a> is a small company founded by Peter Ross and Tim Taylor (Peter was a professor at Edinburgh University when I was there studying AI and Tim completed his PhD in the same department). Timberpost’s product – TRAITS – takes a crack at a real chestnut of an AI problem: predicting the stock market. The difference with this solution appears to be that it actually does a good job of it.</p>  <p>The graph below shows the performance of a hedge fund run (in simulation) by TRAITS compared against the FTSE EuroFund 300 Index.</p>  <p><a href="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553ac80998834-pi"><img title="image" height="351" alt="image" src="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553ac809d8834-pi" width="550" /></a> </p>  <p>A recent <a href="http://www.timberpost.com/assets/files/results_reports/LiveRunUpdate08Jul2008.pdf">overview</a> published by Timberpost says:</p>  <blockquote>   <p>This portfolio is currently showing an annualised return of +23%, which would rank it 6th out of 200 peer funds according to the latest performance data on real European Long/Short Equity hedge funds published by EuroHedge magazine.</p> </blockquote>  <p></p>  <p></p>  <p></p>  <p></p>  <p></p>  <p></p>  <p></p>  <p></p>  <p>Timberpost describes their technology as follows:</p>  <blockquote>   <p>Many machine learning techniques have been applied in finance, including neural nets, genetic algorithms, reinforcement methods and rule induction. We are developing a new approach that is inspired by ideas about how the human immune system functions. Like the immune system, our software can not only discover effective responses to new conditions (in our case, potential trading opportunities), it also adapts to remember past successes in order to be able to re-activate them quickly when conditions change. </p>    <p>In biological systems, recognition happens by molecular binding. In our software, recognition is based on elaborate mathematical expressions that describe features of the behaviour of stocks. The system is designed to be efficient; it can look at many thousands of elaborate expressions per second. </p></blockquote><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=fZdM4J"><img src="http://feeds.feedburner.com/~f/DataMining?i=fZdM4J" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=xoZOXJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=xoZOXJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/330883523" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>AI</dc:subject>
+<dc:subject>datamining</dc:subject>
+<dc:subject>machinelearning</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-09T11:41:18-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/timberpost-farecast-for-stocks.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/weblog-activation-simulation.html">
+<title>Weblog Activation Simulation</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/330741920/weblog-activation-simulation.html</link>
+<description>This post is partly to show the animation that I presented at PDF2008 and partly to test Vimeo (thanks to Jeff Jarvis and Jake for the recommendation). This graph animation illustrates the reach over time of a blog post. When...</description>
+<content:encoded><![CDATA[<p>This post is partly to show the animation that I presented at <a href="http://www.personaldemocracy.com/">PDF2008</a> and partly to test <a href="http://www.vimeo.com">Vimeo</a> (thanks to Jeff Jarvis and Jake for the recommendation).</p>  <p>This graph animation illustrates the reach over time of a blog post. When a blog is activated (when a node is selected by the pointer) other blogs that link to it have some chance of referring to the injected post. The animation is intended to give an impression of how information might spread in the blogosphere. </p>  <p>Firstly, I activate a few peripheral blogs – these don’t have many connections and so we don’t see much spread. Then a small community in the south west corner is activated – information spreads within the community but doesn’t break out. Finally I look at a few blogs in the central core. Here we see information spreading through the core.</p>  <p>Note that the graphical data is real – this is a visualization of the core of the blogosphere circa 2007; the spread of information is only a (simulated) illustration. Note also that there are many other (better) ways to model diffusion – I’ll publish more animations as and when I start looking into this area!</p>  <p><object width="600" height="562">	<param name="allowfullscreen" value="true" />	<param name="allowscriptaccess" value="always" />	<param name="movie" value="http://www.vimeo.com/moogaloop.swf?clip_id=1308467&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" />	<embed src="http://www.vimeo.com/moogaloop.swf?clip_id=1308467&amp;server=www.vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="600" height="562"></embed></object>    <br /><a href="http://www.vimeo.com/1308467?pg=embed&amp;sec=1308467">Weblog Activation Simulation</a> from <a href="http://www.vimeo.com/user592369?pg=embed&amp;sec=1308467">matthew hurst</a> on <a href="http://vimeo.com?pg=embed&amp;sec=1308467">Vimeo</a>. </p>  <p>The weblogs that I use in this example are:</p>  <ul>   <li><a href="http://www.livingcatholicism.com/">Living Catholisism</a> </li>    <li><a href="http://revgalblogpals.blogspot.com/">RevGalBlogPals</a> </li>    <li>Who Tends The Fires (defunct) </li>    <li><a href="http://badladies.blogspot.com/">Her Bad Mother</a> </li>    <li><a href="http://gatewaypundit.blogspot.com/">Gateway Pundit</a> </li>    <li><a href="http://www.engadget.com">Engadget</a> </li>    <li><a href="http://www.buzzmachine.com">BuzzMachine</a> </li> </ul><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=974lUJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=974lUJ" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=4kORxJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=4kORxJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/330741920" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>blogosphere</dc:subject>
+<dc:subject>dataviz</dc:subject>
+<dc:subject>graphs</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-09T08:29:10-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/weblog-activation-simulation.html</feedburner:origLink></item>
+<item rdf:about="http://datamining.typepad.com/data_mining/2008/07/what-a-gas.html">
+<title>What a Gas</title>
+<link>http://feeds.feedburner.com/~r/DataMining/~3/328093787/what-a-gas.html</link>
+<description>GasBuddy has a nice map of the states showing the variation in gas (petrol) prices [via CoolInfographics].</description>
+<content:encoded><![CDATA[<p>GasBuddy has <a href="http://www.gasbuddy.com/gb_gastemperaturemap.aspx?z=0&amp;amp;amp;amp;amp;amp;amp;lat=37.000000&amp;amp;amp;amp;amp;amp;amp;long=-96.000000&amp;amp;amp;amp;amp;amp;amp;ft=A&amp;amp;amp;amp;amp;amp;amp;tl=48">a nice map</a> of the states showing the variation in gas (petrol) prices [via <a href="http://coolinfographics.blogspot.com/2008/07/map-of-local-gas-prices.html">CoolInfographics</a>].</p>  <p>&#160;</p>  <p><a href="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553a5f2e18834-pi"><img title="gasbuddy" height="364" alt="gasbuddy" src="http://datamining.typepad.com/.a/6a00d8341c994053ef00e553a5f2ec8834-pi" width="550" /></a></p><div class="feedflare">
+<a href="http://feeds.feedburner.com/~f/DataMining?a=fouf5J"><img src="http://feeds.feedburner.com/~f/DataMining?i=fouf5J" border="0"></img></a> <a href="http://feeds.feedburner.com/~f/DataMining?a=1PfDsJ"><img src="http://feeds.feedburner.com/~f/DataMining?i=1PfDsJ" border="0"></img></a>
+</div><img src="http://feeds.feedburner.com/~r/DataMining/~4/328093787" height="1" width="1"/>]]></content:encoded>
+
+
+<dc:subject>dataviz</dc:subject>
+
+<dc:creator>Matthew Hurst</dc:creator>
+<dc:date>2008-07-06T10:16:25-04:00</dc:date>
+<feedburner:origLink>http://datamining.typepad.com/data_mining/2008/07/what-a-gas.html</feedburner:origLink></item>
+
+
+</rdf:RDF><!-- ph=1 --><!-- nhm:dynamic-ssi -->

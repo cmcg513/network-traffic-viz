@@ -1,0 +1,9 @@
+document.write('<div class="rss_box">');
+document.write('<ul class="rss_items">');
+document.write('<li class="rss_item"><a class="rss_item" href="http://web.mit.edu/newsoffice/2008/spine-0721.html"  target="_self">Spinal cord stem cells could be basis of new treatment</a>');
+document.write('</li>');
+document.write('<li class="rss_item"><a class="rss_item" href="http://web.mit.edu/newsoffice/2008/mutation-0721.html"  target="_self">MIT researchers offer glimpse of rare mutant cells</a>');
+document.write('</li>');
+document.write('<li class="rss_item"><a class="rss_item" href="http://web.mit.edu/newsoffice/2008/scratch-0721.html"  target="_self">Created from Scratch</a>');
+document.write('</li>');
+document.write('</ul></div>');

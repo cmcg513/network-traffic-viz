@@ -1,0 +1,39 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:03:51 GMT
+Server: Apache-AdvancedExtranetServer/2.0.50
+X-Powered-By: PHP/4.3.8
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+P3P: CP="ALL DSP COR PSAa PSDa OUR IND COM NAV INT LOC OTC", policyref="http://ch.questionmarket.com/w3c/audit2007/p3p_DynamicLogic.xml"
+Content-Length: 0
+Keep-Alive: timeout=120, max=569
+Connection: Keep-Alive
+Content-Type: text/html
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:03:52 GMT
+Server: Apache-AdvancedExtranetServer/2.0.50
+X-Powered-By: PHP/4.3.8
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+P3P: CP="ALL DSP COR PSAa PSDa OUR IND COM NAV INT LOC OTC", policyref="http://ch.questionmarket.com/w3c/audit2007/p3p_DynamicLogic.xml"
+Content-Length: 0
+Keep-Alive: timeout=120, max=915
+Connection: Keep-Alive
+Content-Type: text/html
+
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:04:08 GMT
+Server: Apache-AdvancedExtranetServer/2.0.50
+X-Powered-By: PHP/4.3.8
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Pragma: no-cache
+P3P: CP="ALL DSP COR PSAa PSDa OUR IND COM NAV INT LOC OTC", policyref="http://ch.questionmarket.com/w3c/audit2007/p3p_DynamicLogic.xml"
+Content-Length: 0
+Keep-Alive: timeout=120, max=879
+Connection: Keep-Alive
+Content-Type: text/html
+

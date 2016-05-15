@@ -1,0 +1,27 @@
+GET /pi/6/03/66/60366403_125.jpg HTTP/1.1
+Accept: */*
+Referer: http://z.about.com/6g/ip/504/1.htm?d=&s=email&g=g
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ai.pricegrabber.com
+Connection: Keep-Alive
+
+GET /pi/4/98/50/49850245_125.jpg HTTP/1.1
+Accept: */*
+Referer: http://z.about.com/6g/ip/504/1.htm?d=&s=email&g=g
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ai.pricegrabber.com
+Connection: Keep-Alive
+
+GET /pi/6/10/77/61077162_125.jpg HTTP/1.1
+Accept: */*
+Referer: http://z.about.com/6g/ip/504/1.htm?d=&s=email&g=g
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ai.pricegrabber.com
+Connection: Keep-Alive
+

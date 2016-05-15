@@ -1,0 +1,11 @@
+GET /safebrowsing/update?client=navclient-auto-ffox&appver=2.0.0.16&version=goog-white-domain:1:481,goog-white-url:1:371,goog-black-url:1:23266,goog-black-enchash:1:55583 HTTP/1.1
+Host: sb.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: NID=8=PIHrm3_gKF3dFvrqD-o2IKj9qhB7at-vf-cHMDJsqV-Xk9jjDmnCcFgTaLXSA12hWxqIodI0DF5ODyrbV7gK1XLNz0vC3YGls9vpVe1U08b6o-gLp4Of5qxBiK--Exvf; __utmz=173272373.1206412915.1.1.utmccn=(referral)|utmcsr=video.google.com|utmcct=/videouploadsuccess|utmcmd=referral; PREF=ID=f374cfeeaf2ab8f5:TM=1178453904:LM=1202668046:GM=1:S=QZK9Q3YP8BqaQv6A; rememberme=false; __utma=173272373.1611040392.1206412915.1206412915.1206412915.1; TZ=420; GMAIL_RTT=132
+

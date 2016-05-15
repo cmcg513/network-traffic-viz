@@ -1,0 +1,9 @@
+GET /live HTTP/1.1
+Accept: */*
+Cache-Control: no-cache
+User-Agent: iTunes/7.7 (Macintosh; N; PPC)
+X-Audiocast-Udpport: 58536
+Icy-Metadata: 1
+Connection: close
+Host: pianosolo.streamguys.net:8020
+

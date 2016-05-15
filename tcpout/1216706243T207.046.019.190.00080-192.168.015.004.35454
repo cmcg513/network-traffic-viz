@@ -1,0 +1,11 @@
+HTTP/1.0 200 OK
+Connection: Close
+Pragma: no-cache
+cache-control: no-cache
+Content-Type: text/html; charset=iso-8859-1
+
+<HTML><HEAD><META HTTP-EQUIV="Refresh" CONTENT="0.1">
+<META HTTP-EQUIV="Pragma" CONTENT="no cache">
+<META HTTP-EQUIV="Expires" CONTENT="-1">
+</HEAD></HTML>
+

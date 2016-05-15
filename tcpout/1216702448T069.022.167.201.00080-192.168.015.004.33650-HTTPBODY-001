@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/y2004/m09/d08/h11/s05.pxnnnpfn.enc.jpg?downloadKey2=1217307272_f84e54a98d94ded1c255da7dd43d206a</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Dido</string>
+    <key>playlistName</key><string>Sand In My Shoes</string>
+    <key>artistId</key><string>20646</string>
+    <key>playlistId</key><string>22558020</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

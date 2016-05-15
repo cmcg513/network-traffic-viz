@@ -1,0 +1,21 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:10:14 GMT
+Server: Apache/2.0.61 (Unix) mod_ssl/2.0.61 OpenSSL/0.9.8b mod_bwlimited/1.4 mod_auth_passthrough/2.1 FrontPage/5.0.2.2635 PHP/5.2.5
+Last-Modified: Wed, 18 Jun 2008 06:45:06 GMT
+ETag: "b30048-146-33742080"
+Accept-Ranges: bytes
+Content-Length: 326
+Keep-Alive: timeout=15, max=100
+Connection: Keep-Alive
+Content-Type: application/xml
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Growl</key>
+	<string>1.1.4</string>
+	<key>GrowlDownloadURL</key>
+	<string>http://growl.info/files/Growl-1.1.4.dmg</string>
+</dict>
+</plist>

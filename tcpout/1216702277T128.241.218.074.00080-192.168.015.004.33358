@@ -1,0 +1,15 @@
+HTTP/1.1 304 Not Modified
+Date: Tue, 22 Jul 2008 04:51:41 GMT
+Connection: keep-alive
+
+HTTP/1.1 304 Not Modified
+Content-Type: image/gif
+Last-Modified: Sat, 15 Sep 2007 00:52:17 GMT
+ETag: "4f858-273-46eb2cc1"
+Date: Tue, 22 Jul 2008 04:52:01 GMT
+Connection: keep-alive
+
+HTTP/1.1 304 Not Modified
+Date: Tue, 22 Jul 2008 04:52:55 GMT
+Connection: keep-alive
+

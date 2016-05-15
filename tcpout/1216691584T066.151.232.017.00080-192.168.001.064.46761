@@ -1,0 +1,15 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 01:53:28 GMT
+Server: Apache
+Location: http://www.publicbroadcasting.net/fairgame/fairGameSegs.mediaplayer?STATION_NAME=fairgame&MEDIA_ID=633619&MEDIA_EXTENSION=mp3&MODULE=fairGameSegs&P=podcast&I=2743
+Content-Length: 366
+Connection: close
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://www.publicbroadcasting.net/fairgame/fairGameSegs.mediaplayer?STATION_NAME=fairgame&amp;MEDIA_ID=633619&amp;MEDIA_EXTENSION=mp3&amp;MODULE=fairGameSegs&amp;P=podcast&amp;I=2743">here</a>.</p>
+</body></html>

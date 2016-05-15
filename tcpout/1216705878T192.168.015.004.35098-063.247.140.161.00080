@@ -1,0 +1,11 @@
+GET /index.xml HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Fri, 18 Jul 2008 20:22:24 GMT
+If-None-Match: "1b9cd17-3bce-1d95e000"
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __utmz=150935599.1212281432.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=150935599.1336067469.1212281432.1212281432.1214375117.2
+Connection: keep-alive
+Host: haftofthespear.com
+

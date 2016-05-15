@@ -1,0 +1,11 @@
+GET /events/seminars/links.rss HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Fri, 23 May 2008 23:00:07 GMT
+If-None-Match: "c98a3f-175b-44dedca82cbc0"
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __utma=72576529.922809815.1209626792.1209626792.1209626792.1; __utmz=72576529.1209626792.1.1.utmccn=(referral)|utmcsr=cs.ucsc.edu|utmcct=/|utmcmd=referral; AWSUSER_ID=awsuser_id1209626791582r1547
+Connection: keep-alive
+Host: www.soe.ucsc.edu
+

@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=16224D79E18CBBA12C6D6C14FE27D4DF&CDDBMuiID=65139&an=Marcia%3A%20Maestoso&pn=BassoonBassoon%20Concerto%20-%20Notturno%20-%20Serenata%20notturna%20%26%20Trumpet%20Concerto HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 37D056DF-8975145CEAA846A73F393732C3118CEA
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

@@ -1,0 +1,12 @@
+GET /setgmail?zx=7huko28au7w8 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://mail.google.com/mail/?ui=2&view=js&name=js&ver=80lCHVuPxfI&am=T_E4pcLnE08YZQ
+Cookie: NID=8=PIHrm3_gKF3dFvrqD-o2IKj9qhB7at-vf-cHMDJsqV-Xk9jjDmnCcFgTaLXSA12hWxqIodI0DF5ODyrbV7gK1XLNz0vC3YGls9vpVe1U08b6o-gLp4Of5qxBiK--Exvf; __utmz=173272373.1206412915.1.1.utmccn=(referral)|utmcsr=video.google.com|utmcct=/videouploadsuccess|utmcmd=referral; PREF=ID=f374cfeeaf2ab8f5:TM=1178453904:LM=1202668046:GM=1:S=QZK9Q3YP8BqaQv6A; rememberme=false; __utma=173272373.1611040392.1206412915.1206412915.1206412915.1; TZ=420; GMAIL_RTT=132; SID=DQAAAG0AAADQx-Us57eIMjR7ZsWx6OmvP2Vhi-YRJLAwtvj97zzUBX4MaWB4ZgwNm9PTWaAy4K4nuiFNcpY8trH-x2DMOd_FmfcPl1cODjjj8I88pAuxhAcV3gZ4Tn8oRyUmW4TQPhF6US3ddkucygF8gQf7T80n
+

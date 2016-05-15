@@ -1,0 +1,13 @@
+GET /WebObjects/MZPersonalizer.woa/wa/genres?boxStrokeColor=445e82&numberOfGenreTabs=3&omni-lname=US_Main+Main-Swoosh_1&selectedAdamId=186000347&frameFullViewName=FullView1&maxIndex=32&startIndex=0&showCount=8&showSwooshTabs=true&showRightLabel=true&tabsBackground=%2Fimages%2Fswoosh%2Fswoosh_tab_background_dbddeo.png&leftButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_l.png&frameViewName=Frame1&topTextColor=ffffff&frameHeight=250&topBackColor=293c5c&swooshDimpleColor=e5e5e5&boxTextColor=000000&leftLabel=NEW+RELEASES&rightButton=%2Fimages%2Fswoosh%2Fswoosh_arrow_384f6f_r.png&boxBackColor=ffffff&swooshSetAdamId=188575528&cfStyleSet=basic13Bold&viewName=View1&rightLabel=See+All&tabsBorderColor=a3a7ad&isTwoByFour=true HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+Cookie: s_vi=[CS]v1|4374FC15000046AB-A000B5E00000091[CE]; Pod=6; X-Dsid=10969092; a=AAAAAgAAAB4AIksuTEYxU1d0WEE4LUExeG8zUWZ0QWY4enIza2dHbUtxUUEAF/Pl; dwmapc=true; iTMS5=oeZzok9UERtukIoguOVoOumxNaRkvlMgvt7cOXLviQc=
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/storeFront
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 421FDE48-EB4B1227C30D8B6E0F51C4D0EC32F7D7
+Accept-Encoding: gzip
+Connection: close
+Host: phobos.apple.com
+

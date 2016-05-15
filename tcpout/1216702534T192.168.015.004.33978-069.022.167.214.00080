@@ -1,0 +1,11 @@
+GET /us/r30/Music/34/cb/8d/mzi.tzyngbdn.enc.jpg?downloadKey2=1217307357_33e25c231d08040b359265a404b4c6dd HTTP/1.1
+X-Apple-Tz: -25200
+Cookie: s_vi=[CS]v1|40070FEB-8191CED8[CE]
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 0C46CDE7-B77B8CC346FFF7E01A8E63F4CD9D4547
+Accept-Encoding: gzip
+Connection: close
+Host: a1.phobos.apple.com
+

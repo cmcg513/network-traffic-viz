@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+p3p: policyref="http://www.specificmedia.com/w3c/p3p.xml",  CP="NON DSP COR ADM DEV PSA PSD IVA OUT BUS STA"
+Set-Cookie: dmc=959-ij3uk3.26lDH10puDWAj0; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 04:30:19 GMT; Path=/
+Set-Cookie: dmk=959-ij3uk3; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 04:30:19 GMT; Path=/
+Set-Cookie: smc=959-ij3uk3.26lDH10puDWAj0; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 04:30:19 GMT; Path=/
+Set-Cookie: smk=959-ij3uk3; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 04:30:19 GMT; Path=/
+Set-Cookie: dmp=; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 04:30:19 GMT; Path=/
+Set-Cookie: smk=959-ij3uk3; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 04:30:19 GMT; Path=/
+Set-Cookie: apfe=0^26lD; Domain=.specificclick.net; Expires=Wed, 22-Jul-2009 04:30:19 GMT; Path=/
+Content-Type: text/html
+Date: Tue, 22 Jul 2008 04:30:18 GMT
+Connection: close
+
+<script type='text/javascript'>
+var chunkCount=0;var cxt_str = "";
+document.write("<IFRAME WIDTH=300 HEIGHT=250 SRC='http://adopt.specificclick.net/adopt.sm?l=2042399727&sz=300x250&rnd=68476&r=h&cxt="+cxt_str+"&kw=&smuid=959-ij3uk3' marginwidth=0 marginheight=0 hspace=0 vspace=0 topmargin=0 leftmargin=0 frameborder=0 scrolling=no bordercolor='#000000'><A HREF='[default_href]'> <IMG SRC='[default_img_src]' width=250 height=300 border=0 ALT='Click Here!'> </A> </IFRAME>");</script>

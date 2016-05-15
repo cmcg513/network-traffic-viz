@@ -1,0 +1,20 @@
+GET / HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: ubid-main=103-1302586-7514047; x-main=uiUngrTPA5eJ@UyKjyctbvG6GA48V1pp; at-main=2|x81uXqvnEVswEy//vlNA9u0uQ3RjlHSMHZ0qrV89E+mVpJsvLPyqosYgj8I0ELnWZwwTz+HojiM1AFLRGiGHBJvJFXxnDIG2Zf8stfZZZyHdMD/nOuHRF/dv63tvPB3eRRizWCzG5VMoPF6wTuq75uEkqGgqMttRlR0Qdq+sb2dDc2eAkCs1Ww==; session-id-time=1216882800l; session-id=002-7818855-9196047
+Connection: keep-alive
+Host: www.amazon.com
+
+GET /favicon.ico HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Mon, 14 Jul 2008 13:00:05 GMT
+Cookie: ubid-main=103-1302586-7514047; x-main=uiUngrTPA5eJ@UyKjyctbvG6GA48V1pp; at-main=2|x81uXqvnEVswEy//vlNA9u0uQ3RjlHSMHZ0qrV89E+mVpJsvLPyqosYgj8I0ELnWZwwTz+HojiM1AFLRGiGHBJvJFXxnDIG2Zf8stfZZZyHdMD/nOuHRF/dv63tvPB3eRRizWCzG5VMoPF6wTuq75uEkqGgqMttRlR0Qdq+sb2dDc2eAkCs1Ww==; session-token=mt4IhZzCMHseDSpNv8XvMH1jHOYMEx+y24Ynefx5NraPDwiZein7t1Qkh4qpO3EH1DHXXXLs+oBBuMoTTp6Yb/xLyX2XSZeb2D7yDZb8WOnpZqAW/1DCPSXDzaHgKfU7QdW+i02Mw8BNsBLxJCxPUmy7b+cjxV50aeLZDKfvmZpn6hvw3B+mNv+bEgyS7iT8osCZVDgqh2jMhEkoJQMjxnwhEGObd2KH; session-id-time=1224399600l; session-id=002-7818855-9196047
+Connection: keep-alive
+Host: www.amazon.com
+

@@ -1,0 +1,25 @@
+/*       Source:  Local Cache                                                                 */
+/*     Location:  rsrc:25103:/html/css/socialmap.css                                          */
+/*      Machine:  10.16.139.107                                                               */
+/*    Generated:  July 21st 2008 8:53:38 PM PDT                                               */
+/*    HTTP Host:  static.ak.fbcdn.net                                                         */
+
+
+.info ul{list-style:none;margin:0;padding:0;}
+.info ul.unconfirmed{color:gray;}
+#linkeditor{position:absolute;width:540px;padding:10px 0px;background:#c6d0e1;background:rgba(198,208,225,0.68);}
+#linkeditor.embedded{position:relative;margin:0px auto;}
+#linkeditor .border{margin:0px 10px;padding:10px 0px;background:white;border:solid 1px #3B5998;}
+#linkeditor h4{margin-left:12px;margin-bottom:0px;width:488px;padding:0px 0px 2px;border-bottom:solid 1px #D8DFEA;}
+#linkeditor.embedded h4{padding:5px 0px 2px;margin:0px 0px 0px 12px;font-size:13px;}
+#linkeditor .column{margin:0px;padding:5px 0px 5px 10px;width:240px;float:left;}
+#linkeditor .buttons{clear:both;padding:5px 10px 0px;text-align:right;}
+#linkeditor .buttons input{margin:0px 0px 0px 5px;}
+#linkeditor .options{width:200px;margin:2px 0px 5px 15px;padding:5px 10px;background:#f7f7f7;border:solid 1px #D8DFEA;border-bottom:solid 1px #3B5998;}
+#linkeditor .options .index{border-top:solid 1px #ccc;margin-top:5px;padding-top:5px;}
+#linkeditor .options .first{display:block;border:none;margin:0px;padding:0px;}
+#linkeditor small{margin-left:3px;color:gray;}
+#linkeditor label{font-weight:normal;color:black;}
+#linkeditor label:hover{cursor:default;}
+#linkeditor textarea{display:block;margin:0;text-align:left;width:190px;}
+#linkeditor .inputtext{width:190px;}

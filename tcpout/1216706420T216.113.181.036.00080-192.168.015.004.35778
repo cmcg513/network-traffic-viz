@@ -1,0 +1,41 @@
+HTTP/1.1 200 OK
+Age: 45107
+Accept-Ranges: bytes
+Date: Mon, 21 Jul 2008 17:39:47 GMT
+Content-Length: 1580
+Content-Type: text/xml
+Expires: Thu, 04 Sep 2008 17:39:47 GMT
+Cache-Control: max-age=3888000
+Server: Apache/1.3.27 (Unix)
+Last-Modified: Fri, 25 Apr 2008 10:09:48 GMT
+ETag: "174fc-62c-4811adec"
+Via: 1.1 qsxcache59 (NetCache NetApp/5.6.2R1)
+
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+	<allow-access-from domain="*.ebay.com" secure="false"/>
+	<allow-access-from domain="*.ebay.au" secure="false"/>
+	<allow-access-from domain="*.ebay.at" secure="false"/>
+	<allow-access-from domain="*.ebay.be" secure="false"/>
+	<allow-access-from domain="*.ebay.ca" secure="false"/>
+	<allow-access-from domain="*.ebay.com.cn" secure="false"/>
+	<allow-access-from domain="*.ebay.fr" secure="false"/>
+	<allow-access-from domain="*.ebay.de" secure="false"/>
+	<allow-access-from domain="*.ebay.com.hk" secure="false"/>
+	<allow-access-from domain="*.ebay.in" secure="false"/>
+	<allow-access-from domain="*.ebay.ie" secure="false"/>
+	<allow-access-from domain="*.ebay.it" secure="false"/>
+	<allow-access-from domain="*.ebay.com.my" secure="false"/>
+	<allow-access-from domain="*.ebay.nl" secure="false"/>
+	<allow-access-from domain="*.ebay.nz" secure="false"/>
+	<allow-access-from domain="*.ebay.ph" secure="false"/>
+	<allow-access-from domain="*.ebay.pl" secure="false"/>
+	<allow-access-from domain="*.ebay.sg" secure="false"/>
+	<allow-access-from domain="*.ebay.es" secure="false"/>
+	<allow-access-from domain="*.ebay.ch" secure="false"/>
+	<allow-access-from domain="*.ebay.co.uk" secure="false"/>
+	<allow-access-from domain="*.ebaystatic.com" secure="false"/>
+	<allow-access-from domain="*.verve8media.com" secure="false"/>
+	<allow-access-from domain="*.westernfreight.com" secure="false"/>
+</cross-domain-policy>

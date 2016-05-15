@@ -1,0 +1,18 @@
+GET /pagead/ads?client=ca-pub-6219811747049371&dt=1216702073560&hints=entertainment%20videos%20celebrities%20games%20TV%20television%20tv%20shows%20video&alt_color=FFFFFF&format=300x250_as&output=html&correlator=1216702073559&channel=8386916783%2B8386916781%2B0618682141&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWaIR9dAZRR0&color_bg=FFFFFF&color_text=444444&color_link=0033CC&color_url=0033CC&color_border=FFFFFF&ad_type=text_image&frm=1&cust_age=-1&cust_gender=-1&ga_vid=3247002386729839000.1216702074&ga_sid=1216702074&ga_hid=508976710&flash=9.0.124&u_h=1050&u_w=1680&u_ah=1028&u_aw=1629&u_cd=24&u_tz=-420&u_his=6&u_java=true&u_nplug=11&u_nmime=148 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://n4061ad.doubleclick.net/adi/com.ytpwatch.entertainment/main_1123;sz=300x250;kl=N;!c=1123;kvid=WaIR9dAZRR0;kpu=wmdeez;ko=c;kpid=1123;kga=-1;kr=F;u=WaIR9dAZRR0|1123;kgg=-1;tile=1;dcopt=ist;ord=1482674386352300.8?
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: pagead2.googlesyndication.com
+
+GET /pagead/imgad?id=CMnF7bmpycavowEQrAIY7wEyCNoKwYa0Cay1 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-6219811747049371&dt=1216702073560&hints=entertainment%20videos%20celebrities%20games%20TV%20television%20tv%20shows%20video&alt_color=FFFFFF&format=300x250_as&output=html&correlator=1216702073559&channel=8386916783%2B8386916781%2B0618682141&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DWaIR9dAZRR0&color_bg=FFFFFF&color_text=444444&color_link=0033CC&color_url=0033CC&color_border=FFFFFF&ad_type=text_image&frm=1&cust_age=-1&cust_gender=-1&ga_vid=3247002386729839000.1216702074&ga_sid=1216702074&ga_hid=508976710&flash=9.0.124&u_h=1050&u_w=1680&u_ah=1028&u_aw=1629&u_cd=24&u_tz=-420&u_his=6&u_java=true&u_nplug=11&u_nmime=148
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: pagead2.googlesyndication.com
+

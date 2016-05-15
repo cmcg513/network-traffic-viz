@@ -1,0 +1,6 @@
+HTTP/1.1 302 Moved Temporarily
+Location: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/initiateSession?ix=2
+Connection: close
+Cache-Control: no-cache
+Pragma: no-cache
+

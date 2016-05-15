@@ -1,0 +1,14 @@
+POST /v6/UpdateRegulationService/UpdateRegulation.asmx HTTP/1.1
+Accept: text/xml
+Content-Type: text/xml
+Accept-Encoding: xpress
+SOAPAction: "http://www.microsoft.com/SoftwareDistribution/Server/UpdateRegulationWebService/GetUpdateDownloadInformation"
+User-Agent: Windows-Update-Agent
+Host: www.update.microsoft.com
+Content-Length: 1501
+Connection: Keep-Alive
+
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/"><soap:Body><GetUpdateDownloadInformation xmlns="http://www.microsoft.com/SoftwareDistribution/Server/UpdateRegulationWebService"><cookie><Expiration>2008-07-25T22:58:25Z</Expiration><EncryptedData>hXVCY+telQhW9s2QN+DJA94ORlLARZ+wn7tAxvIsWIePXsH8pnpwUNAa8Z7XD7AAMWcRyVQI19H3
+gx6izgkq9TSRLmuJnDXx1qS1DB/kgWxNlpy8EuHu7jartaOExOug1lHU3bcubLBSdl6B2P8PRXsW
+qaPaiQN1/Zsyt9aHxgg/hlOr/+d35gnaXRRgvmNCAKRC6dHrv1OfMuKjdRI+jF570FO0Xuo5VeZb
+5FB6NxbyxkFRNPppg8vN0zfqmZwi</EncryptedData></cookie><updateIds xmlns:q1="http://www.microsoft.com/SoftwareDistribution/Server/UpdateRegulationWebService" soapenc:arrayType="q1:UpdateIdentifier[7]"><UpdateIdentifier><Id>EFACC904-0897-46C5-AAD9-E40D769BEAAF</Id></UpdateIdentifier><UpdateIdentifier><Id>62D0071B-11C4-43C9-A3E9-A27E32E12D07</Id></UpdateIdentifier><UpdateIdentifier><Id>E3E55B65-F747-405D-A436-6A06BF5D993C</Id></UpdateIdentifier><UpdateIdentifier><Id>7F435586-D50F-439A-BDCA-2F16A4924CBE</Id></UpdateIdentifier><UpdateIdentifier><Id>D3B2128B-4FDE-4925-A86E-B59C353F5C58</Id></UpdateIdentifier><UpdateIdentifier><Id>E728D0B5-F64D-48D3-A427-E8AA3A13DDDD</Id></UpdateIdentifier><UpdateIdentifier><Id>744CACC6-BE9B-4FBE-9C6B-49286EF87D53</Id></UpdateIdentifier></updateIds></GetUpdateDownloadInformation></soap:Body></soap:Envelope>

@@ -1,0 +1,24 @@
+GET /adopt.sm?l=653196995&sz=728x90&rnd=20358&r=j&cxt=&kw=&smuid=059-DyPp64 HTTP/1.1
+Host: adopt.specificclick.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: smc=059-DyPp64.26mRUSo6UIOZeI.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0R7-K-X7tTdyTB.0QT7IGlEm8Lm8G.0PLPyNn_rgyH7F.02UjqJwLi2Y8Lv.00M0fKxcketRmH; dmp=; dmc=059-DyPp64.26mRUSo6UIOZeI.26Qj2ScPgbjnYH.25_KqrHtWHxK0o.20dr2ScPgbjnYH.1rSDXvbaJw8yb5.1rNpXvbaJw8yb5.1pIE9traLUA1Fr.1pIB9traLUA1Fr.1pI69traLUA1Fr.1g_b2ScPgbjnYH.1a82zi0lPewgwh.1Va0CkY1CZY5BK.1Va-CkY1CZY5BK.1UG5ckTMEvrwOV.1Q0pWetT5F6pOU.1Q0jLjeeka6pb9.1Q-_k-KYxAbED_.1Q-o2LuodUFVkv.1Q-oD1oKwxREsz.1PNBqJwLi2Y8Lv.1PNBqJwLi2Y8Lv.1NAO25OJ8F7t83.1HEuf9knauznqB.1HEuf9knauznqB.1HEudDf62MYRhB.1GvIcIVlSuBVbR.1DpB----------.1DLKZAfxAU_G2I.1D4xdDf62MYRhB.188wuhgjKE0Cpn.0zzOuTjkGjaVoT.0ubS2ScPgbjnYH.0rAlTQGx57rRY9.0pz-hvFTKImeQj.0oclZ9OON8Wli4.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0R7-K-X7tTdyTB.0QT7IGlEm8Lm8G.0PLPyNn_rgyH7F.02UjqJwLi2Y8Lv.00M0fKxcketRmH; dmk=059-DyPp64.1UG5b1aGhAYM2MzPGh11z1P71GAm1.0pz-bhMa_--MhPL44r.0oclbYAz6PzlGAMYPa16sl7-AanPzA61z; smx=48842efe1BA1EE001FC9BA496; apfe=0^26mR; smk=059-DyPp64; CTCI=0018103Vb100iI10HIY10CTQ1019l1016s10000100WG00000000; UI=1BA1EE001FC9BA496|06055.f.9.fh.xz.171@@who@@nlmgvivb@@-1_9@@f@@f|; LO=00Nu5EH9x0M00C3000H0Wf0lwX1; DMEXP=4; DGI=-1|
+
+GET /adopt.sm?l=653196995&sz=728x90&rnd=20760&r=j&cxt=&kw=&smuid=059-DyPp64 HTTP/1.1
+Host: adopt.specificclick.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: smc=059-DyPp64.26mScWPDd6U91o.26mRUSo6UIOZeI.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0R7-K-X7tTdyTB.0QT7IGlEm8Lm8G.0PLPyNn_rgyH7F.02UjqJwLi2Y8Lv.00M0fKxcketRmH; dmp=; dmc=059-DyPp64.26mScWPDd6U91o.26mRUSo6UIOZeI.26Qj2ScPgbjnYH.25_KqrHtWHxK0o.20dr2ScPgbjnYH.1rSDXvbaJw8yb5.1rNpXvbaJw8yb5.1pIE9traLUA1Fr.1pIB9traLUA1Fr.1pI69traLUA1Fr.1g_b2ScPgbjnYH.1a82zi0lPewgwh.1Va0CkY1CZY5BK.1Va-CkY1CZY5BK.1UG5ckTMEvrwOV.1Q0pWetT5F6pOU.1Q0jLjeeka6pb9.1Q-_k-KYxAbED_.1Q-o2LuodUFVkv.1Q-oD1oKwxREsz.1PNBqJwLi2Y8Lv.1PNBqJwLi2Y8Lv.1NAO25OJ8F7t83.1HEuf9knauznqB.1HEuf9knauznqB.1HEudDf62MYRhB.1GvIcIVlSuBVbR.1DpB----------.1DLKZAfxAU_G2I.1D4xdDf62MYRhB.188wuhgjKE0Cpn.0zzOuTjkGjaVoT.0ubS2ScPgbjnYH.0rAlTQGx57rRY9.0pz-hvFTKImeQj.0oclZ9OON8Wli4.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0R7-K-X7tTdyTB.0QT7IGlEm8Lm8G.0PLPyNn_rgyH7F.02UjqJwLi2Y8Lv.00M0fKxcketRmH; dmk=059-DyPp64.1UG5b1aGhAYM2MzPGh11z1P71GAm1.0pz-bhMa_--MhPL44r.0oclbYAz6PzlGAMYPa16sl7-AanPzA61z; smx=488574bf1BA1EE001FC9BA496; apfe=1^26mS; smk=059-DyPp64; CTCI=0018103Vb100iI10HIY10CTQ1019l1016s10000100WG00000000; UI=1BA1EE001FC9BA496|06055.f.9.fh.xz.171@@who@@nlmgvivb@@-1_9@@f@@f|; LO=00V25wa9D1M0Oh1000X000G30ref0reOyl0; DMEXP=4; DGI=-1|
+

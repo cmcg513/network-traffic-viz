@@ -1,0 +1,27 @@
+GET /ga.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://web.mit.edu/newsoffice/2008/i-shoe-0716.html
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.google-analytics.com
+
+GET /__utm.gif?utmwv=4.3&utmn=1601111643&utmhn=web.mit.edu&utmcs=UTF-8&utmsr=1280x800&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=9.0%20r124&utmdt=Balance%20problems%3F%20Step%20into%20the%20iShoe%20-%20MIT%20News%20Office&utmhid=396447634&utmr=0&utmp=/newsoffice/2008/i-shoe-0716.html&utmac=UA-4690006-1&utmcc=__utma%3D228848666.1814383169.1210958229.1213416562.1216701067.23%3B%2B__utmz%3D228848666.1210958229.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://web.mit.edu/newsoffice/2008/i-shoe-0716.html
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.google-analytics.com
+
+GET /__utm.gif?utmwv=4.3&utmn=476802808&utmhn=web.mit.edu&utmcs=UTF-8&utmsr=1280x800&utmsc=24-bit&utmul=en-us&utmje=1&utmfl=9.0%20r124&utmdt=MIT%20News%20Office%3A%20Research%20news&utmhid=1913303797&utmr=0&utmp=/newsoffice/research.html&utmac=UA-4690006-1&utmcc=__utma%3D228848666.1814383169.1210958229.1213416562.1216701067.23%3B%2B__utmz%3D228848666.1210958229.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none)%3B HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://web.mit.edu/newsoffice/research.html
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.google-analytics.com
+

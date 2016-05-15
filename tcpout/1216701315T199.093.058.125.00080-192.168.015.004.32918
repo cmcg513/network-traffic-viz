@@ -1,0 +1,2211 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:39 GMT
+Content-Length: 37837
+Content-Type: text/css
+Expires: Tue, 22 Jul 2008 04:54:05 GMT
+Last-Modified: Wed, 07 May 2008 19:01:22 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+/* left and right columns */
+
+#cnnLeftCol
+{width:621px;}
+
+#cnnRightCol
+{width:354px;margin-left:9px;}
+
+.cnnRightColContainer
+{padding:9px; }
+
+#cnnLeftCol  p:first-child
+{margin-top:0;}
+
+
+/*  T1 and T2 columns */
+#cnnT1Col,
+#cnnT2Col
+{float:left;}
+
+#cnnT1Col /* image width = 265 + 18 pad L & R */
+{width:301px;}
+
+#cnnT2Col
+{width:320px;}
+
+.cnnBelowT1
+{margin:18px 0 18px 18px;}
+
+
+/* split */
+.cnnSplitText, .cnnSplitText2 
+{padding:18px 18px 12px 18px; border-top:1px solid #dfdfdf; font-weight:bold; font-size:16px;}
+
+.cnnSplitText2 
+{border-top:none;}
+
+.cnnSplitText A:link, .cnnSplitText2 A:link 
+{text-decoration:none; font-size:16px; font-weight:bold;}
+
+
+/* header over-rides */
+#cnnHeader .cnnHeaderContent .cnnHeadColRight
+{position:absolute;left:28%;top:9px;}
+#cnnHeader .cnnHeaderContent .cnnHeaderBot .cnnHeadColRight
+{position:absolute;top:6px;z-index:1;}
+
+
+/* common header / footer */
+.cnnSubHead
+{font-size:16px;font-weight:bold;padding:0 0 4px 0;line-height:19px;margin-top:-3px;}
+.cnnAll
+{font-size:10px;padding:3px 0; line-height:13px;border-bottom:1px solid #dfdfdf;border-top:1px solid #dfdfdf;}
+#cnnT2Col .cnnAll
+{margin-bottom:9px;}
+
+/* T1 areas
+=========================================================================================== */
+.cnnT1
+{background:#F6F6F6;padding:18px 18px 14px 18px;}
+	#cnn_LS2 .cnnT1
+	{padding-top:9px;}
+.cnnT1 .cnnT1Img
+{position:relative;width:265px;overflow:hidden;}
+	#cnn_LS .cnnT1 .cnnT1Img,
+	#cnn_LS2 .cnnT1 .cnnT1Img
+	{float:left;margin:0 18px 4px 0;width:283px;}
+	#cnn_LS3 .cnnT1 .cnnT1Img
+	{position:relative;width:585px;overflow:hidden;}
+
+.cnnT1 .cnnT1Img img 
+{width:265px;height:239px;}
+	#cnn_LS .cnnT1Img img,
+	#cnn_LS2 .cnnT1Img img
+	{height:239px;width:283px;}
+	#cnn_LS3 .cnnT1Img img
+	{height:253px;width:585px;}
+
+.cnnT1 h4
+{padding:0;margin:0;}
+.cnnT1 h4 span
+{display:block;padding:0;color:#ca0002;font-size:10px;font-weight:normal;line-height:13px;}
+	#cnn_LS .cnnT1 h4 span
+	{padding-bottom:9px;}
+
+.cnnT1 h1
+{font-family:Helvetica, arial, sans-serif;margin:0;padding:4px 0px 2px 0;line-height:24px;font-weight:bold;font-size:22px;}
+	#cnn_LS .cnnT1 h1
+	{font-size:24px;padding-top:0;}
+	#cnn_LS2 .cnnT1 h1,
+	#cnn_LS3 .cnnT1 h1
+	{font-size:30px;padding:4px 0 8px 0;line-height:32px;}
+
+.cnnT1 .cnnT1Txt
+{padding-top:9px;}
+	#cnn_LS .cnnT1Txt,
+	#cnn_LS2 .cnnT1Txt
+	{padding-top:0;}
+
+.cnnT1 .cnnT1Blurb
+{line-height:17px;padding:2px 0 12px 0;}
+	#cnn_LS2 .cnnT1Blurb
+	{padding-top:0;}
+	
+/* bullets in the blurb */
+.cnnT1 .cnnT1Txt .cnnT1Blurb ul
+{margin:0;list-style:none;}
+.cnnT1 .cnnT1Txt .cnnT1Blurb ul li
+{margin:0;padding:0 0 3px 9px;font-size:12px;line-height:14px;background:url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/black_bull.gif) 0 6px no-repeat;}
+
+
+/* T1 img caption */
+.cnnT1 .cnnT1Img .cnnT1cap
+{position:absolute;bottom:0;left:0;width:100%;margin-bottom:-1px;background:#000;filter:alpha(opacity=85);opacity:.85;}
+.cnnT1 .cnnT1capTxt
+{padding:7px 6px;color:#aaa;font-size:10px;line-height:13px;}
+.cnnT1 .cnnT1capTxt b
+{color:#fff;font-weight:normal;}
+
+
+/* T1 bullets */
+.cnnT1 ul
+{margin: 0 0 -2px 0;padding: 0;list-style: none;}
+.cnnT1 ul li
+{padding-left: 10px; background: url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif) no-repeat left center;font-weight:normal; margin:0 0 3px 0;line-height:13px;}
+.cnnT1 ul li a
+{font-weight:bold;}
+	#cnn_LS .cnnT1 ul,
+	#cnn_LS2 .cnnT1 ul
+	{margin-left:302px;}
+
+/* T1 image Breaking News strip */
+#cnnYlwBlkBannerTeaser
+{width:265px; height:23px; background:#FFF500; }
+#cnnYlwBlkBannerTeaserText
+{padding:4px 0 4px 5px; font-size:14px; font-weight:bold; color:#000000;}
+#cnnRedBlkBannerTeaser
+{width:265px; height:23px; background:#ca0002; }
+#cnnRedBlkBannerTeaserText
+{padding:4px 0 4px 5px; font-size:14px; font-weight:bold; color:#ffffff;}
+	#cnn_LS #cnnRedBlkBannerTeaser,
+	#cnn_LS #cnnYlwBlkBannerTeaser,
+	#cnn_LS2 #cnnYlwBlkBannerTeaser,
+	#cnn_LS2 #cnnRedBlkBannerTeaser
+	{width:283px;}
+	#cnn_LS3 #cnnYlwBlkBannerTeaser,
+	#cnn_LS3 #cnnRedBlkBannerTeaser
+	{width:585px;}
+
+
+
+#cnn_VT1 .cnnT1Img,
+#cnn_VT1 .cnnT1Img img
+{width:265px;height:303px;}
+
+#cnnT1lc,
+#cnnT1rc
+{float:left;width:283px;}
+
+#cnnT1rc
+{margin-left:18px;}
+
+#cnnT1lc .cnnPopNews,
+#cnnT1rc .cnnPopNews,
+#cnnT1rc .cnnPopNews .cnnPopNewsImg,
+#cnnT1lc .cnnPopNews .cnnPopNewsImg
+{margin-bottom:0;}
+
+/* end T1 areas
+=========================================================================================== */
+
+/* landscape over-rides for superboxes */
+#cnn_LS #cnnT1Col,
+#cnn_LS2 #cnnT1Col,
+#cnn_LS3 #cnnT1Col
+{padding-top:9px;}
+#cnn_LS #cnnT1Col .cnnPad9Top .cnnSuperBox .cnnWireBox,
+#cnn_LS2 #cnnT1Col .cnnPad9Top .cnnSuperBox .cnnWireBox,
+#cnn_LS3 #cnnT1Col .cnnPad9Top .cnnSuperBox .cnnWireBox
+{margin-left:18px;}
+
+
+/* T2 bullets 
+=========================================================================================== */
+.cnnT2s ul
+{margin:-2px 0;padding: 0;list-style: none; clear:both;}
+.cnnT2s ul li
+{padding:0 0 3px 8px; background: url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif) no-repeat left 5px;font-weight:normal;font-size:12px;line-height:15px;margin:0;color:#dadada;}
+.cnnT2s ul li b
+{color:#949494;}
+.cnnT2s ul li a
+{font-weight:bold;}
+.cnnT2s ul li .t2time
+{font-size:10px;color:#ca0002;font-weight:normal;line-height:12px;}
+.cnnT2s ul li .t2time span
+{padding-left:4px;}
+.cnnT2s ul li img
+{vertical-align:text-bottom;}
+.cnnT2s ul li img.cnnVidIcon
+{margin:0 2px 2px 4px;}
+.cnnT2s ul li img.cnnVideoIcon
+{margin:0 2px 2px 4px;}
+.cnnT2s ul li img.cnnPicIcon
+{margin:0 2px 1px 4px;}
+.cnnT2s ul li b img.cnnT2VidIcon
+{margin:0 5px 2px 0;}
+
+
+/* end T2 bullets 
+=========================================================================================== */
+
+/* most popular overlay 
+=========================================================================================== */
+/* opacity layer */
+#cnnOpacity
+{display:none;position:absolute;top:0;left:0;min-width:1002px;width:100%;height:1300px;/*height:2600px;*/z-index:1000;background:#000;opacity:.70;filter: alpha(opacity=70);}
+
+* html #cnnOpacity 
+{width: expression(document.documentElement.clientWidth < 1002? "1002px": "100%" );}
+
+#cnnMoPo
+{color:#000;display:none;position:absolute;top:25%;left:34%;width:337px;text-align:left;z-index:1001;}
+
+.cnnMoPoBtn
+{float:right;display:inline;}
+
+.cnnMoPoBtn img
+{margin-bottom:4px;}
+
+.cnnMoPoContent
+{margin:0 9px;background:#fff;border:1px solid #cbcbcb;}
+
+.cnnMoPoClose
+{float:right;}
+
+.cnnMoPoHeader .cnnHeaderLnk
+{font-size:16px;font-weight:bold;padding-bottom:3px;}
+
+.cnnMoPoHeader p
+{color:#949494;font-size:10px;line-height:11px;padding:0;margin:0;}
+
+.cnnMoPoHeader
+{margin-bottom:10px;}
+
+.cnnMoPoNum
+{float:left;padding:8px 0;width:40px;border-right:1px solid #dfdfdf;color:#949494;font-size:22px;font-weight:bold;line-height:22px;text-align:center;}
+
+.cnnMoPoImg
+{float:left;padding:2px 9px;}
+
+.cnnMoPoLnk
+{float:left;width:170px;padding:2px 0;font-weight:bold;}
+
+#cnnMoPo .cnnMore
+{font-size:10px;line-height:11px;padding-top:3px;}
+
+.cnnMoPoFoot
+{overflow:hidden;}
+
+* html .cnnMoPoFoot
+{width:300px;}
+
+.cnnMoPoAd
+{float:right;display:inline;width:126px;height:31px;overflow:hidden;}
+
+/* wire box over-rides */
+#cnnMoPo .cnnWireBox .cnnBoxFooter
+{background:url(http://i.cdn.turner.com/cnn/.element/img/2.0/sect/main/mostpopwire.br.gif) 100% 0 no-repeat;}
+
+#cnnMoPo .cnnWireBox .cnnBoxHeader
+{background:url(http://i.cdn.turner.com/cnn/.element/img/2.0/sect/main/mostpopwire.tr.gif) 100% 0 repeat-x;}
+
+#cnnMoPo .cnnWireBox
+{margin-bottom:5px;}
+
+
+/* main page video box
+=========================================================================================== */
+
+/* video box topper */
+.cnnMpVidTopper
+{position:relative;height:37px;}
+.cnnMpVidTopper .cnnMoreVideo
+{position:absolute;top:8px;right:9px;font-size:10px;}
+.cnnMpVidTopper .cnnVideoBoxHeader
+{position:absolute;top:5px;left:12px;font-size:22px;font-weight:bold;line-height:24px;}
+.cnnMpVidTopper .cnnVideoBoxHeader img
+{margin:0 9px 3px 0;vertical-align:text-bottom;}
+
+/* video box bottom */
+.cnnPopVideoFV
+{margin-top:9px;}
+.cnnMpVideoBot
+{margin-top:9px;background:url(http://i.cdn.turner.com/cnn/.element/img/2.0/content/video_box/pipeline_bg.gif) no-repeat;width:336px;height:44px;position:relative;}
+.cnnMpVideoBot .cnnVbMarketingLogo
+{position:absolute;top:7px;right:7px;}
+.cnnMpVideoBot p
+{position:absolute;top:7px;left:9px;padding:0;margin:0;font-size:12px;font-weight:bold;color:#949494;width:206px;}
+
+/* video box content area */
+.cnnMpVideoContent
+{position:relative;width:334px;height:113px;overflow:hidden;background:#f2f2f2;border-top: solid 1px #dfdfdf;border-bottom: solid 1px #dfdfdf;}
+
+.cnnMpVideoContent .cnnMpVideo,
+.cnnMpVideoContent .cnnMpVideoLive
+{float:left;width:108px;height:101px;position:relative;background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/video_box/video_bg_gray.gif') no-repeat;margin-bottom:10px;}
+
+.cnnMpVideoContent .cnnMpVideoLive
+{background: url('http://i.cdn.turner.com/cnn/.element/img/2.0/content/video_box/video_bg_red.gif') no-repeat;}
+
+.cnnMpVideoContent .cnnMpVideo img.cnnVidKeyFrame,
+.cnnMpVideoContent .cnnMpVideoLive img.cnnVidKeyFrame
+{position:absolute;top:6px;left:7px;}
+
+.cnnMpVideoContent .cnnMpVideo img.cnnVbVidIcon,
+.cnnMpVideoContent .cnnMpVideoLive img.cnnVbVidIcon
+{position:absolute;bottom:7px;right:14px;}
+
+.cnnMpVideo img.cnnVidKeyFrame
+{width:87px; height:49px;}
+
+.cnnMpVideoContent .cnnMpVideo p,
+.cnnMpVideoContent .cnnMpVideoLive p
+{position:absolute;top:61px;left:6px;padding:0;margin:0;font-size:10px;padding-right:12px;line-height:11px;color:#949494;font-weight:normal;}
+
+.cnnMpVideoContent .cnnMpVideo p a,
+.cnnMpVideoContent .cnnMpVideoLive p a
+{font-weight:bold;}
+
+
+#cnnMpVidCtnt0,
+#cnnMpVidCtnt1,
+#cnnMpVidCtnt2
+{position:absolute;top:6px;}
+#cnnMpVidCtnt0
+{left:9px;}
+#cnnMpVidCtnt1
+{left:345px;}
+#cnnMpVidCtnt2
+{left:681px;}
+
+
+/* video box buttons */
+#cnnMpVideoBox .cnnMpVidBtns
+{padding:7px 0 2px 0;float:right;margin-right:9px;}
+* html #cnnMpVideoBox .cnnMpVidBtns
+{margin-right:5px;}
+
+#cnnMpVideoBox img#cnnMpVidBtnL
+{margin-right:12px; cursor:default;}
+#cnnMpVideoBox img#cnnMpVidBtnR
+{margin-left:9px;}
+#cnnMpVideoBox img.cnnMpVidBtnStatus
+{margin:0 3px 6px 0;}
+
+
+/* live video box rules */
+
+/* topper over-rides */
+.cnnLiveVideoBox .cnnVideoBoxHeader
+{left:11px;}
+
+.cnnLiveVideoBox .cnnMpVidTopper
+{position:relative;height:36px;}
+
+.cnnMpVidTease
+{padding-left:9px;color:#949494;padding-top:6px;padding-bottom:3px;line-height:15px;}
+
+.cnnMpVidTease a
+{font-weight:bold;}
+
+.cnnLiveVideoBox .cnnMpVidTease
+{font-size:10px;padding-left:12px;padding-top:5px;}
+
+.cnnLiveVideoBox .cnnMpVidTease a
+{font-weight:normal;}
+
+.cnnLiveVideoBox .cnnMpLiveVideoContent
+{position:relative;height:115px;overflow:hidden;background:#f2f2f2;border-top: solid 1px #dfdfdf;border-bottom: solid 1px #dfdfdf;}
+
+.cnnLiveVideoBox .cnnMpLiveVideoContent .cnnMpLiveVidLnk
+{position:absolute;top:11px;left:12px;font-weight:bold;font-size:16px;}
+
+.cnnLiveVideoBox .cnnMpLiveVideoContent .cnnMpLiveVidImg
+{position:absolute;top:33px;left:12px;}
+
+.cnnLiveVideoBox .cnnMpLiveVideoContent p
+{position:absolute;top:32px;left:143px;width:181px;padding:0;margin:0;font-size:10px;line-height:12px;}
+
+/* end main page video box
+======================================================================= */
+
+
+/* begin live video */
+#cnnLiveVideo
+{background-image:url(http://i.cdn.turner.com/cnn/.element/img/2.0/video/cnnlive/live_video.gif); background-repeat:no-repeat; height:44px; width:336px; margin:9px 0 0 0;}
+
+#cnnLiveVideo .cnnLiveVideoLn1
+{font-size:14px; font-weight:bold; color:#000000; margin:0px;}
+
+#cnnLiveVideo .cnnLiveVideoLn2
+{font-size:11px; font-weight:bold; color:#949494; margin:0px;}
+
+#cnnLiveVideo .cnnLiveVideoLn3
+{font-size:14px; font-weight:bold; color:#3d75ac;}
+
+#cnnLiveVideo .cnnLiveVideoLn4
+{font-size:10px; font-weight:normal; color:#3d75ac;}
+
+#cnnLiveVideoHeader
+{width:82px;}
+
+#cnnLiveVideoHeader, 
+#cnnLiveVideoLink
+{float:left; margin-top:8px; padding-left:9px; }
+
+/* end live video 
+=========================================================================================== */
+
+
+/* super box [feature] (wire box surrounding title, headline, image, blurb)
+=================================================================================== */
+
+.cnnSuperBox .cnnPadSuperBox
+{padding:0 9px 0 12px;}
+
+.cnnSuperBox .cnnSuperTopper
+{position:relative;height:38px; margin-bottom:3px;}
+* html .cnnSuperBox .cnnSuperTopper
+{margin-top:-1px;}
+*:first-child+html .cnnSuperBox .cnnSuperTopper
+{margin-top:-1px;}
+
+.cnnSuperBox .cnnSuperTopper .cnnSuper88x31
+{position:absolute;top:1px;right:-2px;}
+.cnnSuperBox .cnnSuperTopper .cnnSuperAdTxt
+{position:absolute;top:14px;right:90px;}
+.cnnSuperBox .cnnSuperTopper .cnnSuperBoxTitle
+{font-size:16px;font-weight:bold;line-height:20px;padding:6px 0 0 0;}
+.cnnSuperBox .cnnSuperCtnt
+{position:relative;}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperImg
+{position:absolute;top:0;left:0;margin:2px 0 0 0;}
+* html .cnnSuperBox .cnnSuperCtnt .cnnSuperImg
+{margin-left:-99px;}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt
+{margin:-4px 0 0 99px;}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt .cnnSuperHead
+{color:#949494; font-size:11px; font-weight:bold;text-transform:uppercase;}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt .cnnSuperLink
+{font-size:14px; font-weight:bold; padding-bottom:2px;}
+.cnnSuperBox .cnnSuperCtnt .cnnSuperTxt p
+{padding:0;margin:0;font-size:10px;line-height:12px;}
+
+.cnnSuperBox .cnnWireBox .cnnBoxContent
+{min-height:116px;}
+
+* html .cnnSuperBox .cnnWireBox .cnnBoxContent
+{height:116px;}
+
+/* end super box
+=================================================================================== */
+
+
+/* special coverage box 
+=================================================================================== */
+.cnnScBox .cnnScBoxHead
+{font-weight:bold;font-size:11px; line-height:13px;color:#949494;padding-top:6px;}
+.cnnScBox .cnnScBoxTitle
+{font-size:18px;line-height:21px;font-weight:bold;padding:0;}
+.cnnScBox .cnnScBoxBlurb
+{font-size:10px;line-height:12px;color:#222;padding-bottom:7px;margin-top:-1px;} 
+
+* html .cnnScBox .cnnScBoxHead
+{padding-top:7px;}
+*:first-child+html .cnnScBox .cnnScBoxHead
+{padding-top:7px;} 
+
+* html .cnnScBox .cnnScBoxTitle
+{margin-top:-1px;padding-bottom:1px;}
+*:first-child+html .cnnScBox .cnnScBoxTitle
+{margin-top:-1px;padding-bottom:1px;} 
+
+* html .cnnScBox .cnnScBoxBlurb
+{padding-bottom:6px;}
+*:first-child+html .cnnScBox .cnnScBoxBlurb
+{padding-bottom:6px;}
+
+/* end special coverage box 
+=================================================================================== */
+
+
+/* popular news area 
+=================================================================================== */
+.cnnPopNews
+{margin-bottom:10px;}
+.cnnPopNews .cnnPopNewsHeadline
+{font-weight:bold;padding-top:2px;}
+.cnnPopNewsImg img
+{display:block}
+.cnnPopNews .cnnPopNewsImg
+{float:left;display:block;margin:2px 9px 9px 0;}
+* html .cnnPopNews .cnnPopNewsImg
+{margin:2px 5px 5px 0;}
+.cnnPopNewsHeadline
+{min-height:31px;}
+* html .cnnPopNewsHeadline 
+{height:31px;}
+.cnnPopNewsHeadline img
+{vertical-align:text-bottom;}
+.cnnPopNewsHeadline img.cnnVidIcon
+{margin:0 4px 2px 4px;}
+.cnnPopNewsHeadline img.cnnPicIcon
+{margin:0 4px 1px 4px;}
+#cnnMpPopNews 
+{padding-bottom:2px;}
+
+#cnnMpPopNews .cnnSubHead
+{padding:0 0 6px 0;}
+
+
+/* end popular news area 
+=================================================================================== */
+
+
+/* more stories area [previously 'other news']
+=================================================================================== */
+#cnnOtherNews
+{position:relative;height:220px;display:none;}
+#cnnOtherNews .cnnSubHead
+{margin-bottom:-8px;}
+
+#cnnOtherNews .cnnONSectHead
+{color:#949494;font-size:11px;font-weight:bold;padding-top:4px;}
+#cnnOtherNews .cnnONSectHead a
+{color:#949494;}
+#cnnOtherNews .cnnONSectHead a:hover
+{color:#ca0002;}
+#cnnOtherNews ul
+{margin: 0;padding: 0;list-style: none; clear:both;}
+#cnnOtherNews ul li
+{position:relative;font-size:11px;line-height:13px;padding-left: 8px; font-weight:normal; margin:0 0 2px 0;}/*background: url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif) no-repeat left 5px;*/
+#cnnOtherNews ul li a
+{font-weight:bold;}
+
+/* other news changer */
+.cnnOtherNewsChngr
+{position:absolute;left:0;top:170px;width:100%;text-align:center;margin-top:20px;border-bottom:1px solid #dfdfdf;border-top:1px solid #dfdfdf;}
+#cnnONBtns
+{background:#fff;display:block;padding:3px 0;}
+IMG.cnnONStatus
+{margin:0 2px 6px 2px;}
+IMG.cnnONBtn
+{margin:0 10px;}
+#cnnOtherNews img.cnnOnBul
+{position:absolute;top:5px;left:0;}
+* html #cnnOtherNews img.cnnOnBul
+{left:-7px;}
+#cnnOnSects0,
+#cnnOnSects1,
+#cnnOnSects2,
+#cnnOnSects3,
+#cnnOnSects4
+{background:#fff;position:absolute;left:0;top:24px;}
+
+/* end more stories area
+=================================================================================== */
+
+
+/* 234 advert space 
+=================================================================================== */
+.cnn234Container
+{text-align:center;margin-bottom:-5px;}
+.cnn234ad .cnnAdTxt
+{padding:15px 0 4px 0;}
+
+.cnnBelT1ad
+{padding-top:8px;text-align:left;}
+.cnnBelT1AdTop
+{text-align:center;padding-bottom:6px;}
+
+/* end 234 advert space 
+=================================================================================== */
+
+
+/* podcast & local table rules
+=================================================================================== */
+TABLE.cnnPL
+{width:100%;}
+TABLE.cnnPL TR
+{vertical-align:top;}
+TABLE.cnnPL TD.cnnPodLocalContent
+{background:#fff;}
+TABLE.cnnPL TD.cnnPLCnrsCell
+{width:306px;height:4px;}
+TD.cnnPLDivCell
+{width:9px;}
+
+/* end podcast & local table rules
+=================================================================================== */
+
+
+/* main page services box (podcast & blogs)
+=================================================================================== */
+.cnnSvcsTopper
+{padding:0;margin-left:3px;}
+.cnnSvcsTopper .cnnSvcsDrpdn
+{float:right;margin-top:1px;}
+.cnnSvcsTopper IMG.cnnMpSvcsHeader
+{margin-top:1px;}
+
+.cnnHeight154
+{height:154px;}
+ 
+.cnnSvcsCtnt
+{padding:0 0 6px 0;border-bottom:1px solid #dfdfdf;margin:0 3px;}
+.cnnSvcsCtnt p
+{padding:0;margin:0;font-size:10px;line-height:12px;}
+.cnnSvcsCtnt i
+{font-weight:bold;color:#dadada;}
+.cnnSvcsCtnt .cnnSvcsTz
+{float:left;margin:2px 9px 6px 0;}
+.cnnSvcsCtnt h4
+{margin:0;padding:0;font-size:14px;font-weight:bold;}
+
+.cnnSvcsBull
+{padding-top:4px;margin:0 3px;}
+.cnnSvcsBull ul
+{margin: 0;padding: 0;list-style: none; clear:both;}
+.cnnSvcsBull ul li
+{font-size:10px;padding-left: 8px; background: url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif) no-repeat left 6px;font-weight:normal; margin:1px 0;}
+.cnnSvcsBull ul li a
+{font-weight:bold;}
+
+.cnnOtherSvcs div
+{float:left;}
+
+.cnnOtherSvcs .cnnOSRightCol,
+.cnnOtherSvcs .cnnOSLeftCol
+{float:left;}
+
+.cnnOtherSvcs .cnnOSLeftCol
+{width:131px;}
+
+.cnnOtherSvcs .cnnOSRightCol
+{width:139px;}
+
+.cnnOtherSvcs div img
+{margin-bottom:9px;}
+
+.cnnSvcs88x31ad
+{float:right;height:31px;overflow:hidden;margin:-4px -7px 0 0;}
+
+* html .cnnSvcs88x31ad
+{display:inline;}
+
+.cnnSvcsSpnsrTxt
+{float:right;margin:8px 6px 0 0;}
+
+/* main page services box (podcast & blogs)
+=================================================================================== */
+
+/* main page partners area
+=================================================================================== */
+.cnnPartHeader
+{padding:4px 18px 8px 18px;line-height:24px;;font-size:22px;font-weight:bold;border-bottom:1px solid #dfdfdf;}
+
+.cnnPartRSSLnk
+{float:right;display:inline;padding:11px 18px 0 0;}
+
+#cnnMpPartnerPeople,
+#cnnMpPartnerEW
+{display:none;}
+
+.cnnPartLeftCol,
+.cnnPartRightCol
+{float:left;}
+
+.cnnPartLeftCol
+{width:288px;}
+
+.cnnPartRightCol
+{width:297px;}
+
+.cnnPartnerTop .cnnPartnerSubscribe
+{float:right;margin-top:1px;}
+
+.cnnMpPartners ul
+{margin:0 0 -2px 0;padding: 0;list-style: none; clear:both;}
+
+.cnnMpPartners ul li
+{font-size:10px;line-height:12px;padding-left: 8px; background: url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif) no-repeat left 5px;font-weight:normal; margin:1px 0 0 0;}
+
+.cnnMpPartners ul li a
+{font-weight:bold;}
+
+.cnnMpPartners IMG.cnnPartLogo
+{margin:1px 0 8px 0;}
+
+.cnnPadMpPartners
+{padding:18px 18px 14px 18px;}
+
+/* end main page partners area
+=================================================================================== */
+
+
+/* new cnn tv box 
+=================================================================================== */
+#cnnMPctv .cnnMPctvTopper
+{position:relative;height:37px;}
+
+#cnnMPctv .cnnMPctvTopper img.cnnMPctvLogo
+{margin:0 9px 3px 0;vertical-align:text-bottom;}
+
+#cnnMPctv .cnnMPctvTopper .cnnMPctvHeader
+{position:absolute;top:5px;left:12px;font-size:22px;font-weight:bold;line-height:24px;}
+
+#cnnMPctv .cnnMPctvTopper .cnnMPctvDropdown
+{position:absolute;top:6px;right:7px;}
+
+#cnnMPctv .cnnMPctvContent
+{padding:12px;background:#f2f2f2;border-top: solid 1px #dfdfdf;border-bottom: solid 1px #dfdfdf;}
+
+#cnnMPctv .cnnMPctvImg
+{float:left;margin-right:9px;}
+
+#cnnMPctv .cnnMPctvLink
+{font-size:14px;font-weight:bold;}
+
+#cnnMPctv p
+{margin:0;padding:2px 0 0 0;font-size:10px;line-height:12px;}
+
+#cnnMPctv .cnnMPctvFooter
+{padding:9px 12px 4px 12px;}
+
+* html #cnnMPctv .cnnMPctvFooter
+{padding:10px 12px 3px 12px;}
+
+*:first-child+html #cnnMPctv .cnnMPctvFooter
+{padding:10px 12px 3px 12px;}
+
+#cnnMPctv .cnnMPctvFootText
+{font-size:12px;line-height:14px;padding-bottom:10px;border-bottom:1px solid #dfdfdf;}
+
+* html #cnnMPctv .cnnMPctvFootText
+{padding-bottom:9px;}
+
+*:first-child+html #cnnMPctv .cnnMPctvFootText
+{padding-bottom:9px;}
+
+#cnnMPctv .cnnMPctvFootText a
+{font-weight:bold;} 
+
+#cnnMPctv .cnnMPctvFootLnks
+{font-size:10px;line-height:12px;padding-top:7px;} 
+
+* html #cnnMPctv .cnnMPctvFootLnks
+{padding-top:8px;}
+
+*:first-child+html #cnnMPctv .cnnMPctvFootLnks
+{padding-top:8px;} 
+
+#cnnMPctv .cnnMPctvFootLnks a
+{margin-right:12px;   margin-right:0px;} 
+
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFL1
+{width:98px;float:left;text-align:left;}
+
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFL2
+{width:95px;float:left;text-align:center;}
+
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFL3
+{width:92px;float:left;text-align:right;} 
+
+#cnnMPctv .cnnMPctvFootLnks .cnnMPctvFLSep
+{width:10px;float:left;text-align:center;color:#dfdfdf;}
+
+#cnnMPctv .cnnDDBoxContent .cnnDDContent .cnnDDSeparator span
+{color:#bbb;}
+
+ 
+/* end new cnn tv box 
+=================================================================================== */
+
+
+/* main page on cnn tv box
+=================================================================================== */
+.cnnRRTVBox .cnnOnTVboxlinks
+{padding:6px 9px 0 9px;font-size:10px;margin-bottom:-3px;}
+
+.cnnRRTVBox .cnnOnTVboxlinks a
+{margin-right: 12px;}
+
+.cnnRRTVBox .cnnOnTVsub
+{border-bottom: solid 1px #dfdfdf;padding:6px 0 6px 9px;}
+
+.cnnRRTVBox .cnnOnTVsub a
+{font-weight: bold;}
+
+.cnnRRTVBox .cnnOnTVmain
+{padding:5px 9px;background:#f2f2f2;}
+
+.cnnRRTVBox .cnnRRTvImg
+{float:left;margin:0 9px 0px 0px;}
+
+.cnnRRTVBox .cnnOnTVmaintitle
+{font-weight:bold;font-size:14px;padding-bottom:4px;}
+
+.cnnRRTVBox p
+{margin:0;padding:0;font-size: 10px;line-height:13px;}
+
+/* main page on cnn tv box
+=================================================================================== */
+
+
+
+/* main page market box
+==================================================================== */
+.cnnMB input,
+.cnnMB form
+{margin:0;padding:0;}
+
+.cnnMB .cnnMBTop
+{border-bottom:1px solid #dfdfdf; padding:0px; margin:0px; position:relative;}
+
+.cnnMB .cnnMBHead
+{font-weight:bold;font-size:22px;padding:5px 12px 8px 12px;line-height:24px;}
+
+.cnnMBSponsor
+{float:right; display:inline; margin:0px 4px 0px 0px; padding:2px 0 0 0;}
+
+
+.cnnMB .cnnMB88x31
+{position:absolute;top:1px;right:5px;}
+* html .cnnMB .cnnMB88x31
+{right:14px;}
+
+.cnnMB .cnnMBSponTxt
+{position:absolute;top:16px;right:98px;}
+* html .cnnMB .cnnMBSponTxt
+{right:107px;}
+
+.cnnMB .cnnMBRowG,
+.cnnMB .cnnMBRowR,
+.cnnMB .cnnMBRowU
+{border-top:1px solid #dfdfdf;position:relative;height:24px;}
+
+.cnnMB .cnnMBRowG
+{color:#090;background: #F2F2F2 url(http://i.cdn.turner.com/cnn/.element/img/2.0/content/markets_box/up_arrow.gif) 58% 7px no-repeat;}
+
+.cnnMB .cnnMBRowR
+{color:#ca0002;background: #F2F2F2 url(http://i.cdn.turner.com/cnn/.element/img/2.0/content/markets_box/down_arrow.gif) 58% 7px no-repeat;}
+
+.cnnMB .cnnMBRowU
+{height:24px;color:#999;background: #F2F2F2;}
+
+.cnnMB .cnnMBName a
+{font-size:16px;font-weight:bold;margin-right:4px;}
+
+.cnnMB .cnnMBName
+{position:absolute;left:12px;top:6px;font-size:10px;color:#000;}
+
+.cnnMB .cnnMBTimestamp
+{padding:5px 12px 6px 12px;font-size:11px;color:#949494;}
+
+.cnnMB .cnnMBData
+{position:absolute;right:74px;top:6px;font-size:16px;font-weight:bold;}
+
+.cnnMB .cnnMBDataSm
+{position:absolute; top:6px; right:12px; font-size:10px;}
+
+.cnnMBGetQuote
+{padding:12px 12px 8px 12px;border-top:1px solid #dfdfdf;}
+
+input.cnnTxtMBGetQuote
+{width:114px;margin:0 9px 0 0;padding:2px 0 0 2px;vertical-align:top;border:1px solid #dfdfdf;height:16px;font-size:12px;font-weight:bold;color:#949494;}
+
+input.cnnTxtMBGetQuoteType
+{width:114px;margin:0 9px 0 0;padding:2px 0 0 2px;vertical-align:top;border:1px solid #dfdfdf;height:16px;font-size:12px;font-weight:bold;color:#000;}
+
+/* end main page market box
+==================================================================== */
+
+/* tools box 
+==================================================================== */
+.cnnMPToolsBox .cnnHeaderLnk
+{font-weight:bold;font-size:22px;padding:5px 12px 8px 12px;line-height:24px;border-bottom:1px solid #dfdfdf;margin-bottom:8px;}
+
+.cnnMPToolsBull
+{margin:0 12px;padding:2px 0 6px 0;}
+
+.cnnMPToolsBox ul
+{margin:0;padding:0;list-style:none;clear:both;}
+
+.cnnMPToolsBox ul li
+{font-size:11px;padding-left: 8px; background: url(http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif) no-repeat 1px 5px;font-weight:normal; margin:1px 0;}
+
+.cnnMPToolsBox ul li a
+{font-weight:bold;}
+
+
+/* quick vote box over-rides
+=================================================================================== */
+
+#cnnQVhomepage .cnnQVHead
+{font-size:22px;padding:5px 0px 12px 12px;line-height:24px;}
+
+#cnnQVhomepage .cnnQVad
+{float:right;display:inline;padding:3px 5px 4px 0;}
+
+#cnnQVhomepage .cnnQVBody
+{padding: 8px 12px 9px 12px;border-top:1px solid #dfdfdf;}
+
+#cnnQVhomepage .cnnQVQuest
+{font-size:16px;line-height:20px;padding-bottom:3px;}
+
+#cnnQVhomepage .cnnQVAns
+{font-size:12px;}
+
+#cnnQVhomepage .cnnQVResult .cnnQVTop
+{padding-bottom:4px;}
+
+#cnnQVhomepage .cnnQVResult .cnnQVHead
+{font-size:22px;padding:5px 12px 12px;}
+
+#cnnQVhomepage .cnnQVResult .cnnQVad
+{float:right;display:inline;}
+
+#cnnQVhomepage .cnnQVResult .cnnQVQuest
+{font-size:16px;line-height:20px;padding:8px 12px 12px 12px;}
+
+#cnnQVhomepage .cnnQVResult .cnnQVcell
+{font-size:12px;}
+
+#cnnQVhomepage .cnnQVResult .cnnQVpercent
+{width:10px;padding:1px 0px;}
+
+/* end quick vote box
+=================================================================================== */
+
+
+/* local weather area
+=================================================================================== */
+
+#cnnWeatherLocation .cnnWeatherMoreCities
+{float:right;font-weight:bold;} 
+
+#cnnWeatherContainer
+{width:306px; }
+#cnnWeatherContainer h1
+{font-size:22px; font-weight:bold; margin:0px; padding:3px 0px 8px 18px; line-height:24px; border-bottom: 1px solid #dfdfdf; border-top: 1px solid #fff;}
+
+#cnnGetLocalBox,
+#cnnCustomWeatherBox
+{width:270px; background:#f2f2f2; margin: 0 18px 9px 18px;}
+#cnnCustomNewsBox
+{width:270px; background:#f2f2f2; margin: 0px 18px 14px 18px;}
+
+#cnnGetLocalBox form,
+#cnnCustomNewsBox form,
+#cnnCustomWeatherBox form,
+#cnnWeatherDetailsToday b, 
+#cnnWeatherDetailsTomorrow b
+{padding:0px; margin:0px;}
+
+.cnnGetLocalBoxInput
+{width:201px; font-size:12px; font-weight:bold; line-height:15px; color:#949494; padding:4px 0 4px 5px; background-color:#ffffff; border: 1px solid #999999; border-right-color: #cccccc; border-bottom-color: #cccccc;
+vertical-align: top; margin:0 6px 0 3px;}
+
+.cnnGetLocalBoxInput2
+{width:201px; font-size:12px; font-weight:bold; color:#000000; padding:3px 0px 5px 5px; 
+background-color:#ffffff; border: 1px solid #999999; border-right-color: #cccccc; border-bottom-color: #cccccc;
+vertical-align: top; margin-left:3px; margin-right:6px;} 
+
+.cnnGetLocalBoxImage
+{width:29px; height:23px; margin:0; vertical-align:top;}
+
+#cnnGetLocalBoxText,
+#cnnFindWeatherBoxText
+{font-size:12px; font-weight:bold; line-height:15px; color:#000000; margin:0px 12px 5px 3px;}
+#cnnGetLocalBox b,
+#cnnFindWeatherBox b
+{font-size:10px; font-weight:bold; line-height:12px; color:#727272; display:block; padding:1px 12px 1px 4px;}   
+#cnnCustomNewsBox b,
+#cnnCustomWeatherBox b
+{font-size:10px; font-weight:bold; line-height:12px; color: #727272; display:block; padding:3px 12px 1px 4px;} 
+
+#cnnWeatherDetails
+{width:270px; background-color:#ffffff; margin: 0px 18px 9px 18px; }
+
+#cnnWeatherDetails p
+{font-size:16px; font-weight:bold; line-height:19px; border-width: 0px 1px 1px 1px; border-color: #dfdfdf; border-style:solid;color:#999999; padding:6px 12px 8px 12px; margin:0px;}
+
+
+#cnnWeatherDetails a.cnnWeatherHeader
+{text-decoration:none; color:#000000;font-size:16px;line-height:19px;}
+#cnnWeatherDetails a.cnnWeatherraquo
+{text-decoration:none; color:#3d75ac; font-size:16px; font-weight:bold; }
+#cnnWeatherDetails a.cnnWeatherHeader:hover,
+#cnnWeatherDetails a.cnnWeatherraquo:hover
+{color:#ca0002;}
+
+#cnnWeatherDetails a.cnnDate
+{font-size:12px; font-weight:bold;  padding:0px; margin: 0px 12px 0px 12px; line-height:12px;}
+
+#cnnWeatherDetails img
+{text-align:center; margin:0 0 5px 0;}
+#cnnWeatherDetails .cnnTemperature
+{font-size:12px; font-weight:bold; line-height:20px; color:#999999; padding:4px 0 0 0; margin: 0px 12px 0px 12px;}
+#cnnWeatherDetailsToday
+{float:left; width:134px; text-align:center; padding:9px 0 7px 0; margin:0; border-right:1px solid #dfdfdf; border-left:1px solid #dfdfdf;}
+#cnnWeatherDetailsTomorrow
+{float:right; width:132px; text-align:center; padding:9px 0 7px 0;  border-right: 1px solid #dfdfdf;}
+
+#cnnWeatherLocation
+{clear:both; padding: 3px 11px 1px 11px; font-size:10px; color:#949494; line-height:12px;}
+#cnnWeatherLocationMore
+{clear:both; padding: 3px 11px 1px 11px; font-size:10px; color:#949494; line-height:12px;}
+
+#cnnWeatherLocationMore b
+{color:#3d75ac; }
+
+#cnnWeatherDetails img, 
+#cnnWeatherLocationMore img,
+#cnnFindWeatherBox img
+{border:none;}
+#cnnWeatherLocationMore
+{border-width:1px 1px 0px 1px; border-color:#dfdfdf; border-style:solid; }
+#cnnWeatherLocation
+{border-width:0px 1px 0px 1px; border-color:#dfdfdf; border-style:solid; }
+
+#cnnWeatherLocationMore span,
+#cnnWeatherLocation span
+{float:left;}
+
+#cnnWeatherLocationMore .cnnWeatherMoreCities
+{float:right; }
+
+#cnnLocalNews
+{width:270px; background-color: #ffffff; margin:0px 18px 0px 18px; clear:both;}
+#cnnLocalNews p
+{font-size:16px; font-weight:bold; border-width:0px 1px 0px 1px; border-color: #dfdfdf; border-style: solid; color: #000000;
+padding: 8px 7px 7px 11px; margin:0px;}
+
+#cnnLocalNewsListBorder
+{border-width: 0px 1px 1px 1px; border-color:#dfdfdf; border-style:solid;}
+
+#cnnLocalNewsList, 
+#cnnWeatherErrorList
+{margin-left:2px; list-style:none; margin-bottom:0px; padding:0px}
+
+#cnnLocalNews ul
+{margin:0 12px 10px 0; padding-left:12px; }
+
+#cnnLocalNewsList li
+{font-size:10px; font-weight:bold; color:#dadada;padding-left:0;margin-bottom:6px;line-height:12px;}
+
+#cnnWeatherErrorList li
+{font-size:10px; font-weight:bold; color:#dadada;
+background-image: url("http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif");
+background-repeat: no-repeat; background-position: 1px 6px; padding-left:10px;}
+
+#cnnLocalNews a.cnnLocalSource
+{text-decoration:none; color:#949494;}
+#cnnLocalNews a.cnnLocalSource:hover
+{color: #ca0002;}
+
+
+#cnnFindWeatherList
+{margin-left:2px; list-style:none; margin-bottom:0px; padding:0px;
+overflow:auto; padding:8px 10px 12px 0;
+height:55px; max-height:80px; }
+
+* html #cnnFindWeatherList 
+{height:80px; max-height:80px;}
+
+
+#cnnFindWeatherList li
+{font-size:10px; font-weight:bold; padding-left:10px; line-height:14px;
+background-image: url("http://i.cdn.turner.com/cnn/.element/img/2.0/global/red_bull.gif");
+background-repeat: no-repeat; background-position: 1px 6px; color:#727272;}
+
+div.cnnLocalSource a span
+{color:#949494;}
+div.cnnLocalSource a:visited span
+{color:#949494;}
+div.cnnLocalSource a:hover span
+{color:#ca0002;}
+
+.cnnRRBoxContent2
+{background:#f2f2f2; padding:5px 9px 0 9px;}
+
+#cnnFindWeatherSkip
+{margin:7px 0px 0px 3px; padding:0px;}
+#cnnGetLocalBox a.skip,
+#cnnCustomNewsBox a.skip,
+#cnnCustomWeatherBox a.skip
+{font-size:10px; text-decoration:none; color:#3d75ac; }
+#cnnGetLocalBox a.skip:visited,
+#cnnCustomNewsBox a.skip:visited,
+#cnnCustomWeatherBox a.skip:visited
+{color:#97b8d9;}
+#cnnGetLocalBox a.skip:hover,
+#cnnCustomNewsBox a.skip:hover,
+#cnnCustomWeatherBox a.skip:hover
+{color:#ca0002;}
+
+#cnnWeatherSponsor 
+{float:right; display:inline; margin:1px 4px 0px 0px; padding:0px;}
+#cnnWeatherSponsor img 
+{vertical-align: middle;}
+
+/* end local weather area
+=================================================================================== */
+
+/* bullet bins / partners area
+=================================================================================== */
+.cnnMoreNewsStories
+{float:right; padding:8px 18px 0 0;}
+.cnnMar14Left
+{margin:0 0 0 14px}
+
+.cnnPadMpMoreNews
+{padding:10px 18px 2px 18px;}
+
+.cnnPadMpPartners
+{padding:11px 18px 0px 18px;}
+
+.cnnMoreNewsBin
+{padding-bottom:10px;}
+.cnnMoreNewsBin .cnnHeaderLnk
+{font-size:16px;font-weight:bold;line-height:19px;padding:2px 0;}
+.cnnMoreNewsBin .cnnMoreNewsCategory
+{padding:2px 0;}
+.cnnMoreNewsBin .cnnMoreNewsCategory a
+{font-size:16px; font-weight:bold; color:#000;line-height:19px;}
+.cnnMoreNewsBin .cnnMoreNewsCategory span
+{font-size:16px; font-weight:bold; color:#000;line-height:19px;}
+.cnnMoreNewsBin .cnnMoreNewsCategory a span
+{color:#004276;}
+.cnnMoreNewsBin .cnnMoreNewsCategory a:hover span
+{color:#ca0002;}
+
+.cnnMoreNewsBin ul
+{margin: 0;padding: 0;list-style: none; clear:both;}
+.cnnMoreNewsBin ul li
+{position:relative;font-size:12px;padding-left: 8px; color:#949494;font-weight:bold; line-height:15px;margin:0;}
+.cnnMoreNewsBin ul li a
+{font-weight:bold;}
+.cnnMoreNewsBin ul li img.cnnOnBul
+{position:absolute;top:6px;left:1px;}
+* html .cnnMoreNewsBin ul li img.cnnOnBul
+{left:-6px;}
+
+.cnnMpPartnersPadBot
+{padding-bottom:13px;}
+
+/* end bullet bins / partners area
+=================================================================================== */
+
+/* services & i-report over-rides 7942
+============================================ */
+.cnnSvcsMore
+{padding:5px 0 0 4px;font-size:10px;line-height:12px;}
+.cnnSvcsCtnt p a
+{font-weight:bold;}
+
+.cnnIreportContentMod h5
+{padding:0;margin:0;font-size:10px;line-height:13px;}
+
+.cnnIreportContentMod h5 a
+{font-weight:bold;}
+
+.cnnIreportContentMod p
+{padding:0 0 10px 0;margin:0;color:#949494;font-size:10px;line-height:13px;}
+
+/* election 2008 center column area 
+=================================================================================== */
+.cnnPadT2s
+{padding:13px 18px 18px 18px;}
+.cnnPad18R
+{padding:0 18px 0 0;}
+
+.cnnElexPromo
+{padding:0px 0 0 18px;}
+.cnnElexPromo .cnnElexPTop
+{font-weight:bold;font-size:11px;color:#949494;line-height:13px;padding:18px 0px 2px 0px;}
+.cnnElexPromo .cnnElexPTop a span { color: #949494; }
+.cnnElexPromo .cnnElexPTop a:hover span { color: #ca0002; }
+.cnnElexPImage { float:right;display:inline; }
+
+
+.cnnElexPromo .cnnElexPHead
+{font-size:18px;line-height:20px;font-weight:bold;padding-bottom:2px;}
+.cnnElexPromo p
+{margin:0;padding:0 0 5px 0;font-size:11px;line-height:13px;}
+
+.cnnElexResults
+{background:transparent url(http://i.cdn.turner.com/cnn/.element/img/2.0/sect/election/primaries/results/hp/balloon_small.gif) top right no-repeat;}
+
+.cnnElexResults .cnnElexPHead
+{font-size:22px;line-height:24px;font-weight:bold;padding:13px 18px 9px 0;margin-left:18px;border-bottom:1px solid #e6e6e6;}
+
+
+.cnnElexResults .cnnElexPrimary
+{color:#949494;font-weight:bold;font-size:16px;line-height:18px;padding:3px 18px 3px 0;margin-left:18px;}
+.cnnElexResults .cnnElexPrimary span
+{padding:0 0 0 6px;font-size:11px;line-height:13px;font-weight:normal;color:#000;}
+.cnnElexE6bot
+{border-bottom:1px solid #e6e6e6;}
+.cnnElexRBox
+{margin-left:18px;border-top:1px solid #e6e6e6;}
+
+.cnnElexResL, /* "democratic/republican" */
+.cnnElexResC, /* "vote %" */
+.cnnElexResCr, /* "states won" */
+.cnnElexResCl,
+.cnnElexResR
+{position:absolute;top:2px;}
+
+.cnnElexResL
+{left:12px;}
+
+.cnnElexResC
+{right:116px;}
+
+.cnnElexResR
+{right:12px;}
+
+.cnnElexResCr
+{right:37px;}
+
+.cnnElexResCl
+{right:66px;}
+
+.cnnElexRBotRow
+{border-bottom:1px solid #e6e6e6;position:relative;height:18px;font-size:10px;line-height:14px;color:#000;}
+.cnnElexRHeadRow
+{border-bottom:1px solid #e6e6e6;position:relative;height:18px;font-size:10px;line-height:12px;color:#949494;}
+.cnnElexRRow
+{border-bottom:1px solid #e6e6e6;position:relative;background:#f6f6f6;height:24px;font-size:12px;font-weight:bold;line-height:14px;color:#000;}
+.cnnElexRRow img
+{margin :0 0 0 4px;}
+.cnnElexRRow .cnnElexResR,
+.cnnElexRRow .cnnElexResCr,
+.cnnElexRRow .cnnElexResCl
+{font-size:10px;font-weight:normal;}
+.cnnElexRRow .cnnElexResCr
+{font-size:11px;line-height:13px;}
+.cnnElexRBotRow .cnnElexResR
+{color:#ca0002;}
+.cnnElexRRow .cnnElexResL,
+.cnnElexRRow .cnnElexResC,
+.cnnElexRRow .cnnElexResR,
+.cnnElexRRow .cnnElexResCr,
+.cnnElexRRow .cnnElexResCl
+{top:5px;}
+
+.cnnElexRBotRow .cnnElexResL a
+{position:absolute;top:0;left:-12px;width:200px;}
+
+.cnnElexRFoot
+{position:relative;height:20px;}
+.cnnElexRFoot img
+{position:absolute;top:0;right:0;}
+.cnnElexRFoot p
+{position:absolute;top:5px;left:0;margin:0;padding:0;color:#949494;font-size:10px;line-height:12px;}
+
+
+.cnnAll
+{color:#949494;}
+
+
+
+HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:40 GMT
+Content-Length: 1089
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:25:12 GMT
+Last-Modified: Tue, 01 Jan 2008 19:22:59 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a6  æ  ¹¹¹¨¨¨×××UUUaaaYYYÍÍÍZZZsssÑÑÑ®®®VVVgggÌÌÌÙÙÙÊÊÊÔÔÔ]]]XXXËËËØØØ………OOO^^^ÏÏÏÒÒÒTTTÓÓÓºººœœœ[[[«««PPP}}}ÕÕÕ´´´¯¯¯½½½dddqqquuu£££yyyÖÖÖÁÁÁÇÇÇSSSµµµ\\\|||NNN±±±```fff‘‘‘WWW___€€€hhhnnn¶¶¶¿¿¿ššš–––ccc¸¸¸wwwĞĞĞ©©©{{{bbbÆÆÆeee­­­‹‹‹jjj¬¬¬ÈÈÈÎÎÎ¾¾¾oooÂÂÂmmm~~~ŠŠŠÅÅÅ‡‡‡ÄÄÄiiiŸŸŸ™™™ƒƒƒtttJJJ···¦¦¦zzz   ˜˜˜›››ÉÉÉ³³³†††rrr———“““”””ÃÃÃkkk¥¥¥¼¼¼ÀÀÀ‚‚‚§§§¡¡¡¢¢¢ÚÚÚ            !ù     ,    6   ÿ€{{zyz‚{…‚†Šƒz†yŠ‰‹‡ˆŒƒ–‡‘š‹š‘•Ÿš‚•™¢¦›«Œ ‘… ˆ³¨ƒy¸·Š„©®³µ™¥º™¨Åœ›¾¯’±¯˜¬²‡˜¬Ö×ØÙÚØ¬"kÛãß&–A-Ş‡^Fuäö‚ :–b\8áPƒc Xb‘ A H)(HÀğ `xp„Â¡ öèA`‚%.ÄÉ HÊ
+YyË(Ğ¹2$ fBDÙÃ‚IğøÜR$ƒ’'#DÁÃ§bîùÑEC	0n4aªÁ›="°€˜qdÉ•ÿæxP…e>§ â ƒ€„Y0¾Œ9ÁG*i¾¤Ğ…K¬`öÔ8!Ã ŒÄĞ¢‚H„ L¸i0ê! (°À‰–
+Y÷tˆpã‡  OàØóa@84 Ù€Á 5ğ"Ë$úyªWP‘)T aE
+%öl‘@‚İ
+<ÜÙÓ`ETŒØó‚	PB ï¤Qg	 ˆ¬]°@xN„%[† *pÀ +°GLÑM(ğA&„†Wu{ †€O"áká!aƒ*R2t È,ÃmàÃp"D1İÅJ HF(°´‡ -D BL	„ A1€îá@0¤`’ -ACT0À^0%
+LgÃ˜à  °A<y, }H@ƒÌ`E;' á‘  Xp‚>Ğ§œpA.¨!Ç	Œ0…y© À!ü@ 1œyˆ# ¸&@DvÀÓ€©d   @ğ  ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:40 GMT
+Content-Length: 96
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:11 GMT
+Last-Modified: Sat, 30 Jun 2007 09:28:49 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a  ³  ÓÓÓÎÎÎÛÛÛÕÕÕÒÒÒßßßííí÷÷÷ÌÌÌ                     !ù     ,       ĞŒ A¸`n–Ô ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 68
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:35:41 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:24 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a  ¢  ÿÿÿÚÚÚãããöööôôôëëë      !ù     ,       	HPÍ	F ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 68
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:08 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:25 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a  ¢  ÿÿÿÚÚÚãããöööôôôëëë      !ù     ,       	!@@0f ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 70
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:04:48 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:51 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a  ¢  ÛÛÛåååÜÜÜãããàààÚÚÚëëë   !ù     ,       ¶&l…°-`$ ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 547
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:15:13 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:51 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89aB  Õ  òÀÀÎëëëÍÑ "ùààápqüğğÔ02Ş`aõĞĞè‘ë ¡ï°±ÛPQåÂÂĞ)+ÌÊã±±ËÌÖVWØabä¹ºĞ,.æÊÊÒ79ÍË
+ÔHIá ¡çÍÍÏ'(İŠ‹Ûz{çÏĞÔEGÕMOß““×@Aå€ÿÿÿÊ                                                             !ù     ,    B   ÿ@àa	­È¤rÉl:Ÿ«Ì$ˆ(Ğ¬vûŒ|	wLŞFH¥²zÍ¼TØp6$N/¶ˆAıˆbß¡**
+z ƒƒ GƒGˆ*}*	+)*}(*)POŸ+‡)«™+ƒ)§
+©* •*›¨O¢N	(·(Ê+
+„Š‘Ó|)›(¿NÁM›‰}‡ˆ **— –	ŠIâæ¡Zê¸ÉË®*ªVDJñ´PĞÆÍ[pK¦0€?eÓ (m<ÏrZá	°,¯ì•C”@Å‚#ëÍƒÖM#KŞË’Í ²@	V	E‘‚Q¢­˜$Šíš£…}Nî™º“ªÕ%Ş\İzÂ®\-L–jF”JáD•	8¬õcâ  ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 138
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:11 GMT
+Last-Modified: Tue, 13 Nov 2007 16:12:52 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a 
+ ³  ğñòìîïùúúö÷÷óôôÌ  ÿÿÿııı¯¯¯ÿÿÿ                  !ù  	 ,     
+  70%Dk•MÃ;×åy …hŠš•à¾.bXÓ0xaË×D¹ÂG‘  È$Òd8ŸÎhÂšJ" ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 456
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:25:12 GMT
+Last-Modified: Sat, 30 Jun 2007 09:28:30 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89ae e Ä  ÿÿÿæææçççöööğğğèèèñññ÷÷÷òòòîîîıııéééïïïõõõúúúøøøùùùêêêûûû                                       !ù     ,    e e  ÿà€DAihª®lë¾ğ¹¢p x®ï|ïÿÀ p¨{‹qÉl:™BàI­Z›¥«vËd»à0ñ+.›uä³:œ^»µí·üŸÛÇÓ»~Yßûw}‚‚~„…z‡ˆvŠ‹rn‘j“”f–—b™š`œ\Ÿ py£Œ¥¦¨©’«¬•®¯˜±²›´µ·¸¡º»¤¾g¢ÀBÂÃ@ÅÆ>ÈÉ<ËÌh½ÏLÎÒ^ÑÕCÔÒÚÏÜÌŞÉàÆâÃäÀæ¾è»ê¸ìµî²ğ¯ò¬ô©ö¦ø£ú üşš ^H‰`$ƒ.Rˆˆa!‡ƒ®añOEC'ş¸¸‡c¢Œ{x¼3òTÈ*%çE¤Tu’ÊÊ7/[µ¤r&˜kpÂ²‰¥¦MÁ|Î:‹ç4¡-‰–	 ÀÑ!
+  á)` %†×¯`ÃÆ A ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 199
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:09 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:24 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89aè ³  ÿÿÿßßßüüüáááñññéééğğğâââıııêêêúúú               !ù     ,    è  tÈI«½8ëÍ»ÿ`(dihª®lë¾p,Ïtmßx®ï<†½ pH,È¤rÉl:ŸĞèŒPZ¯Ø¬vËíz¿à°ø$0´zÍn»ßğ¸|N¯Ûïø¼~Ïïûÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“m	  ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 277
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:08 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:06 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a'  Ä  å€è‘ùààüğğÔ02õĞĞòÀÀŞ`aápqë ¡ÌÑ "ÛPQñ»»ğ¶·ÊÓ,.ÌĞóÅÅóÇÇŞabßdeŞbdÍßeg×@AÿÿÿÊ          !ù     ,    '   ’à¶9ghª®§Òˆ›ÅÎ4›mT­ï\ÎÿÀÙ"¸l0œABSØ(9° 3	›ƒf£F-‚K 4Q°ÓÀÙš ƒá@
+prtv   DXj^`YuwghD&LNœ”†Q3?C˜¨A¬@°?´:0$¹+."! ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 564
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:07 GMT
+Last-Modified: Mon, 03 Dec 2007 16:58:04 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a>  Õ  ÿÿÿ Bvˆ§¿Dt›»ÍÚf­ÌÙäîòöOİæí™³È"[ˆDxªÀÑr–³wš¶É×â3h‘U¤ùûüHwØâê`‰ª«Â	I{®ÃÓ!Zˆo”²ÒŞçÏÛå0føúû*aûüıFyl’°òõøM~K|$]‰Õàè'_‹ïóö                                                               !ù     ,    >   ÿ@€PqD¤rÉl:ŸĞ #â¨¯LtËí61—ë„’´@B×´zÍn¯CK’2nšŒ{Ïï«3 H~ˆ‰mR(wj‡–—
+B— œ—iB’¨i‚)‡W
+¢ “¼	B
+»ÅÁ¡ ³CŒ "i
+Áäª–åCÔ   ¶Ô²B	Ä éªW*”H²F5	Î­ °wı„!p—DŞC†şÔ$ñîŠ€î(6dÀ¿+î„ÔJp@B”jR
+pÀVLœĞAÍƒQ T-!0-ÉI˜ÕŒ;€¥½i‡Œ1âœ¢«X…¼ÚPˆgÖ¯}F2à  j°h× 
+°AÈ˜2Ò¦3§Î,^òêufM{wñPåJ ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 576
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:04:44 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:04 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89aE  Õ  òÀÀå€Ñ "ÍõĞĞÔ02ÎùààÛPQÏË	Ş`aüğğë ¡ÏápqËÎÊï°±ÜUVóÇÇğ¶·Ì
+Ó,.óÅÅñ»»ÌĞè‘ÌŞabË×@Bñ¸¹ßegÍÍÌ
+ßdeŞbdßcd×@AÿÿÿÊ                                                          !ù     ,    E   ÿÀÕÊÂaÈ¤rÉl:•puzZ¯ØìhUÉz¿`V7L.›Ïè´zÍn›`¸S~ÀÂê€`¦SG+*,+,+,y+*S+ ‚—z‹_ * ~**•‰,•¡ŠŒ+*+* ˆ¿+XÅ¦¢˜F¾„+pË•,Ú~Ÿ {	&,		LÄz¡ rÔF|ãæœQù©è`(„ÜPÀä¨?¡JıšÆŠE¶	$=ãC€@­[½ú8:(LE@V¤€ @ˆš,0d/ ]H
+MIõ$=5
+—iÅ3!"@\P÷Ğ@‰'t²Àé˜•EW'H$0ğ0ÁÃ‰nÜ\p€ê»xiİ$K"!®]#<ÜµëÃŞ¸2üM›aÅ‡ÁlPL!‚øL!A  ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 559
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:35:41 GMT
+Last-Modified: Mon, 05 Nov 2007 14:11:02 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a  æ  ÿÿÿâááşÿÿ·  ÚØÙ¯  É  üüü¼  íÖÖëèèùùóóÑÔÖÔÕÄ  è³²òÒÒÕÕÔß>?÷÷÷àãçŞš—âââÒSR»  ÔYZòúûÎÓÎõõöÁ  ôôôë© ÎXZõóõŞjhìûûÑĞĞÍ‡é²µà†ˆÏqsÙFFÃ‘„Ã~‚öêäÁèŒÑÀÄÿûüùìêôäãâÕ×ä´®ØÂ¿ÄV\Ñ.2ØÙÚç—šĞÛ{Ë  üşÿéèéøÿÿöôôöôõÅ  Äúøòİ—À
+ÿşÿÛfeÛåàÎ(+ÔäÛÒÕÖÏHLÓ%&âãäÑÖÏÏÛPOáßáåßßøßÛ¿  ÿõôÒÜÜöÛÖúúúìåæÆ  õìíÖ]]úÿÿÅ ßçåûùüéñòÇ¿şÿıõëêÃ  ½  ÌÓÒûöøè„ˆŞ‚…şşşÈ;7îÙÙúÿûĞÍÓ÷øø                                    !ù     ,       Œ€ ‚ &2	1ƒƒ];CJ4mƒW \l HFq”Ed.‚U7-D =%oR‚f?"i/T9^Y _(g@Lc,NVP)0b[3k$pB:<'>OZnh`M#A‚sQK6e58Šjr*+XŠ Q0%I˜Š ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 194
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:09 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:33 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89aè ³  õúÿİæñÿÿÿíóú÷ùüãëôòøıôúÿåìôâêóïóøŞçñ            ,    è  wÈI«½8ëÍ»ÿ`(dihª®lë¾p,Ïtmßx®ï<6$½ pH,È¤rÉl:ŸĞ¨Ì H¯Ø¬vËíz¿à°xl:
+
+A`Ín»ßğ¸|N¯Ûïø¼~Ïïûÿ€‚ƒ„…†‡ˆ‰Š‹Œ‘’“”•n ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 550
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:07 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:51 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89aB  Õ  òÀÀĞ Ñ "ÍùààÔ02Ş`aápqüğğõĞĞë ¡è‘ï°±ÛPQÌÍàijİ]^Ó-/öÒÒËËùááÖ<>øÛÛøŞŞå„…ÛTUôÉÉÚKLé–—Ì	ëŸ Ïî®¯Ó*,ÚNO×@Aå€ÿÿÿÊ                                                                      !ù     ,    B   ÿÀÓi¡È¤rÉl:Ÿ¨$#<y*Ğ¬vûtˆN
+wLŞ:,²zÍ„<Øp¶$N/¶…AıXbß¡B	z U' GBG‡}'(&'}%'&PO(†&©—(
+B&¥	§ˆ“'™›¦O N%µ%Ç(	'´(ˆ('Ò|&™%¼N¾M™B }†U''• ”œ‰IâçŸZëĞ†Ç%­ z‹¶fGüÓÆÍ[pK¤0@”1Ò=K$QÙ	˜	Ğ…‚“§^YZİ3WÅÀ‰GØ-¢‡Ğe˜4•tÈ"“ClŠ¡0ªh	É]uàäQl×ìƒrU|W³ö|£µë	¼z @ŒØ«0œĞpÖjU ÑÖÏ†	B‚  ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 416
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:05:09 GMT
+Last-Modified: Thu, 19 Jul 2007 18:22:48 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89aè ã ßßßáááâââæææéééêêêğğğñññúúúüüüıııÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿ!ù
+  ,    è  şÈI«½8ëÍ»ÿ`(dihª®lë¾p,Ïtmßx®ï¼%‰…pH,È¤rÉl:ŸĞ¨tJ­Z¯Ø¬vËíz¿à°xL.›Ïè´zD† ‚M¯Ûïø¼~Ïïûÿ€‚ƒ„mS…Š‹Œ‘’“”•–SnR
+—Ÿ ¡¢£¤¥¦§™R©§¬­®¯°±²³´ƒ«P·µº»¼½¾¿ÀÁ‹¹NÄÂÇÈÉÊËÌÍ³ÆLĞÎÓÔÕÖ×ØÙ]ÒJÜÚßàáâãä°ŞHçåêëìíîïiéFòğõö÷øùìôDüúÿ 
+(ËŸƒ*\È°á„JœH±¢ELT"^ÜÈ±£ÇN?ŠI²ä¿&Sª\É²Ê–0cÊœùê%Í›8sêddpÓÎŸ@ƒ
+]cÑĞ£H“*Uõ&‚P£JJµªÕ«X³jİÊµ«×¯`cü ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:41 GMT
+Content-Length: 94
+Content-Type: image/gif
+Expires: Tue, 22 Jul 2008 05:25:10 GMT
+Last-Modified: Sat, 30 Jun 2007 09:29:23 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+GIF89a  ³  ÿÿÿáááüüüúúúêêêğğğıııâââéééñññ                  !ù     ,       0 P¢#9 ;HTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:43 GMT
+Content-Length: 31554
+Content-Type: application/x-shockwave-flash
+Expires: Tue, 22 Jul 2008 05:05:11 GMT
+Last-Modified: Tue, 01 Apr 2008 17:51:23 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+CWSTÚ  xœì½	XTÇò(^³1Ã Ã€‹‚î
+¨¬‚ˆ,Ãª‚¬#‹È  h’qˆKÜpK4€ l.˜hL\nQÔh1îQcÔ¸5&&77¾î>çÌ‹ÆûŞÿ}ï~¿ï/‡sº««»«««ª««Û<02˜`É† @ÿüÙ¯Ğ?}=ô:Ãx‘=Yè+))"%mfJ†¢À-M9Ë--7×­P••SàQ (LWúªTÊ\x%º/ÄeË³}!)#G™š’ÂS³i*@Å€ƒ.ÅfÍE‘"WU øO@VA^Š*-S‘Y¹Yª¬”œ¬Ry…ÉÊ¢,…NVäå+UJUI
+TÊ<PæÊ•99áE¨Œ?r”i3é Rfdä ¿I$1‰R¥¨”U’ŠsT)ù
+LùŠtº¤9îBBƒùô‡27 ?%ƒ‚g^è4”›NÿUæFä+
+
+ ]Yœ‹ªÅOMİy$¡Wä(R
+¤Ñ8‡4›¼äÓ9Iè%M…Ê`mTCAV:Ê/Ìc`•tRa.UäRu¥+( Á¤ùVÒ0˜>¾¹éQ˜ i…ùù¨óòSf!\yéˆjÑŠ9*ÈIIUä¨f€JóxáHJb>˜¿ÚDÈIÍ”ôôˆ|e"_U¾QQ
+şš“’Q ëØ  küd…™šnfƒ%“d„’ô€ş'`û„[èÂâ'‡*aÛ	.Çù§røÉ¥J;@/Ù÷ípà'ÂtO²­{d¯`4+ğ‡u† ÁËesäëôËâ³p5z¤$Ÿ”§>Ê7Ò)Àåe,`…¿¦&ò4°ÎZÇÅÀ†a–m?Ø!Õ
+¶3˜B7¤Fr‹p
+HDq!Öéá<c+œÂ&¦zÔ§	õ)u 0%=@©}äÙ &‰f:‰˜¢ôj.°à³±¼Aıf²-5Õ[õR=¼Eõ}ß¾ú~o¨Şúÿ~ïmŞP½íÿıŞ÷CõÒÕÛ½UïôV½}¯Õ;¼¡úšêÅ,¦z¦÷T}+éê½øÁ]›ØŸîŠ	îJ7² è¾šlè‘­m¶SoÍF¥3 uâidbº.ç·G¦Í–½D.CwÑmp'4qíµæÁo@í¦‘4jwÜº?qt±ÒÅd½ƒğ®d0ëYÌCSÌ­GmCt¼¶Ş¡½  Vøë‚F0l…¶n8ÎÀ.B†ÊJ—MÓÓ]£DÀç¡â]'‰z»0-§ÔÊXŠİªIguM§ÛÙg…1ÓÎb¾¸âæ²Èáh€IËGà–wë#5XFjÈ%£[4*lRIÍ©Î“Ô0ô*^Ç„…Ó…=»’Ê&•W¯vKñ–cÚà­iƒ>İ¯°qd Ø/ÁXúm”€Icø€-¤ysÔ¼™hŞÄš7cÍ™úøm!Ó“0º)a˜+ÆCŸãåëéÙ¯Õ©†aëøÔ|ÆZ e);’n9&£®¥<ke×ºu·k_‰Pp¹#ËVc(#3˜¶“_ckmŞ¤|Å,dÒ€Ğ¬•"Û¼ŠÜU&äåd¥)tMç¤İ1![¬kÙŞğuµ‚™¯ÈBE!B™4;‰2š•T“gaË<[æ™)¹é9*PÌISä©²”¹’——SÂ˜ÛÁ&|óóSzXƒy…™ŸÑÅÈâMIÿo!Şåö°¶>äQ…)[Œp3Okl±z+ú#ƒôdÀ™MˆF+ğ2éŞ—Ã:p9j–’ÁA¶ÂÁµ@S“ƒ1cãPÓN*cçrƒq¡@ª—¥cåqyqRkbF˜ƒpäï8Ô~.+‚`C²gÇ+ºùú+Ä˜‰Ù2`ÑÃúônd
+±èàz<zAÔj©Û%3ŠÌ½£Å¶kbøZCÄèµ Fˆèµ "|­°F32Ğ#c…&"°Épá7GlŒŒ± 	BTãBëq™¡B£È¥Gñ_@ó—ƒ^ˆY”y“ŠT.ÂÀå†aPV zåXPL`21ÁëıiJ(ı-3ûĞÄÇiâ®ª ­
+HSuÀÆ¿fÍhi¨ŞLT‘‘%É$*ª ñG§ûáZõ(¶b	$$ßìML£¦Œ²Ğ2ÉØsm=B µ9—Ş£FÜ8‹ ¢KG³˜šDuf°Â˜3‹ÛmZ-ÅU¡ÑâiÊâr´õšÁ:c’¤ePKŸğu¦ôdA“‰Q
+V¨~pyh Fú÷¤£‚Dá1] òújZkHµ–çªµ\¦µ£èÖr‚¨,ÀlÁÁTø‡úÂ×ñÈb¾Î¿˜¡eYBZSl(k#ğÿåÆTd¥QkƒhµæNÔÚ Ş@´n›ØS¹ıÁÂÊóÁğu^ ZÃõ(‹tà|@½¹şçº>yÍœÕº†¼…+*C;ŞÂq Ï8„aCşƒY$Ôò†œhşBøÇ©7şISæ+Üf¥ k#ß_™«ÊWæ aÌÈO™…8h›FQ.g¹¼ƒpièµôëxKË3Ø¤˜•£@‡ø6™TŒı4gVäc]Š*à¿i(ıRï)99©¨3„3	Äµ”[3@‘£ÈÀzZ¾ÿAZ”Tæ¯œ•—£ GŒ¡0?‡2k0†¤Yi:Œz™‡P2FXAOS-)‰t$)	’rPWs< S¥ÊƒDŠ‰¹éŠ9á3y„«((L-Påÿ!êF™îa÷“®3„Åy‹ ›®GÏzNtiúT-za
++pv]ÈÒÑõh¥!¤T²Îh‡˜1ò7e#Iy’mFi3„”ãHY¢®F‚1ÑnC°AğÓ‹<)İjEL¤¶g‚®ñ–ÅûhŠ»şGõÑª®í¡í5R \Jõ2&Å¿iı)Yami.Zeá9ÅÆÓ6»¦9yIšù¸.3¢Á±½ 0'± ø-ÉÓJîM3ÉèGYğ M²&²ŒˆO³±„ûz‘?f^´h}-âğ.†˜\ƒˆÂl«±úëú-P”äÈªÛ¸Â»'Û`ŒcÕn…mL°Ó(Ñ‡	&L8±09¦´}…ÍJÛtåÏ[”î$ì¢W
+ıÏ2&e¿ ús4¤g#Áš	gh£Ô>L·Ñã}9X“I³‘8p;ºµMæÇ@Úú8Ê1Ëã¨‰¡Ğ
+H¾A/ù8{qv¢§À‰4ƒ‚ÁIAÈ®Óp'Õ9ÈYNh4µL¢Û¸2”¨aÔL£îœiuGyœ_«î°øwc”Ê+Q-oE2øMj®‹*z;õFkšøÉ¡•‘‹Äefa…”Š3»è$R&ùêºê­fûŸ«Td½ab3«ZŞ‚Ò ë2Ö›TŞÿ‘ÂÒë¡¶˜ı#Zméwİ"«³.Sy?µ$h{gèC;°˜QnT.‡p”–Ê-4PèS´Â„Á]P˜–†·7ÇB—b¢îAcb´
+Ä£ëš6•ë
+İ>Ö´Ö@O	yšËÃßbÂRäÑ×N[Í´•ÑÓÖL[Y7çµÃ­áüW"6.R>ŒzqÚu›'3
+sÓtæ$=m°®R(7å£²4ÿÛfVXOÎ]a@FÙ
+qö
+ôXƒ·Ë	ë²™u†®ÏŒ¿¢YÕ;«3¡b*Ğ{0CŒS¢zÈ)}gD	Œ6ÊÇQÄá ÏåÑ>bÜF¢’Æi¼
+?7®ß	¿ñ$S|Ø³/|ù›‡–÷5¼çÒEe¸¼Ye0kW¢$.Z~ümTSê?Rx›B–"'¢T%9Š¨L…BõÿëÿWz#ï¿Zo|Ô‹Ş èŒ¢ş÷´…KWmñÿR7¸ÒóÓœÌOWİù—•Å÷+ÑyWÃïĞLF:oBš'³RrÓ=2•Å³¹…T ZìG©ò³r3 )/GØÀ…",á=İİ‹‹‹İ²òyÊ|î8¯À]™‹…öI¤¤©²ŠUŠY€J(&¢òª,M„úTäãı9Æ¯@‚¦°xx³ÇD'˜J¡ÂØ(¿v"hVW³Òò4S_ã@¡fµT.Z‚§vŒ1…)Ó¤‰ù¨ÿ)ù&):µR³rÒ©
+sSŠ¨Ï0ô2#+—òøa¿K¯)M™£Ì{áCG„¨?qŠ¬ŒL¤*`ŠgNVîLÜ&Rìı}=<<†¢ôL	æ†[„Ú3+ìG’àVX È'LM™&Ñë%Y1–v%'£å§œ)…*ent¶™h0
+à"ÍÌWÌ; ÷a0Æ‚?¼İSÆyJK”…ùRÄ0ùYŠWia.4lŠt7DKUB'h¬w”€x0FŠ¸u+pƒS8&?Î‹R •czbšc
+´i)ùùÊb9!&yUÌP1uŠÜtßâ”P+¹¨“•x{ob´‚LÒ†¹.)%'/3Tù)¹YÔîj*æyÄúJô‡]ƒh‚3C<$Í¡7!µ¾°¬ÜxÈUÇ¢æ¡&‡!6F­Bã ÈC+Ojgå©J´e¨‰ Ê1Ô­“J E¥JIË$¤JÂ™İ×Gi™˜QNãÌEa˜-pHËQæ*HIºöÅ,<‰‘%‡(ãKÀ)ZÖÆ¬‘Tœ•NãŠ%‘•;C	Ò.N;Äóé¡è;N™ŸÎ¸îÜÜÜ &Úò
+SÉ¢Bì«¢†W­ácaıã s’wj¾Ô½"İœ+MCÕŒ á}ƒszcæ‚Bœ‰fY³°ô
+I³€æ9OUfá¬ÔÜ”¬Ú™š­ÌÊ%b‚"¸27sNˆÓ¯D¥(À&;¤?£•*4ÒI%Hä(?Ğ3©yMf"S%gJÑ8„Ï˜Ø¤%Š”|ÎB6¤éˆ9¥™hú Ôi"ò1i®²¤ó¤0»-fä(Q
+ $%&(RQb>øæå£¿%R˜‹~sÀ·q¬"Â…)‹HO<S|UH„§¢6ã¯0E1QÊüY)*Ì!HXæaÉŠÌ;%ú°„e&&¼3/'E³7C<
+ºc&‘iŒFœ„ËöpÉİÕş¢©ÄHeÔ*L£Y)3Q$: µ‰èÛh¨YéJ½i
+4†è²ğlW(±µF`i1á‹¡é4D€(R‰@ñ7é:xÚ=ÜT€š¦DTÃÌ‘•« ¤sª"#‰œ²ë­$YèŞş÷ÍOûG›1ÄA'‰^*XA<«çÂ-dÙ<Ø„İ`]¡šU—KÖ¹Z{†ç£İEÔ¸ƒQ¥"ÒÎÜÈÆá”] z”Ñ£ÑŒˆ]¥»¡dÉ À»([§”Æ‹(«…í‚Ù cF«0}²cÎ7{VC¯ÁÚ#"´ÇÒ<Ğ–º¬1y§½äiÊ˜‘}tÍHeFòœ«1#º‡²Æe*7—c?¨W#.ñîQlV÷ª¥v	‡·r¶wÇİ·‡¢ÕQïÖš1S)KÑ&L§[bvò…Ô—~˜.`H;°¥]‘Øé"Ğ£	öšæ÷ÕÄ÷í¤k-3$DvŒÂûå‚A'³&VĞ .Ì.¹©Ò•"â Áà®`n=Áô	mc#÷×€xhA†ô ¡;`¯qo×Ñ“bh˜¥>Œta8)4‚<G’M}ß¨®„MÜOc4Q¨šTÄ¤zmôxwKã4m¢"SÇ3#áƒš­	'´Å[´GÒ1øÈÄ¦‡6AìX^_JèÈ»î{øùh,÷°8¶ @®»ò	Òa’6ê7ŸË!‘=Œ§CÃ>è„'’æÿß^½zEùîy7’&4İ‡N
+W–×!Ñ3˜ÆˆÃYI„¢	t‹8B‚LHApº±:—jˆœÚ–bœ(!+ìP:”=Èqle¡*ˆY·ˆÕmL¢–ÁÌØ£O4¡œğu}É'ûnÇÀZšO&¬FJRlNŞ#È3’<å„+Â0,’y|-R Qh*õé^úŒ#n¡ CUóÕÄ¼©®¶›¡vLèÊETU±„‚8òoİRÔ L!“¦?3i¨Ä©ònèÍÓáü~TsHx¨qlV Öaë,@00“ A»‹BBJ4*$Ñ‡Ác¦]U€¨*ˆáG‚é|c Fb¿¦/HNÙl†¢’“zHÉ7vıMÀv=€5ÑşDYğA+‹¿i‘›¬’ÆL†8•Dz‚´0İyBğöšDÍ MPX×¹E»$¹Az™öóè€>6)­ Ï5‡Çb‚”(€¹fO§ŒV´$“¤LJÁq»¦fQÓ–ÁlÏ0»}ÒıHä¢3Ş^E˜K-‰‡§îJ¶'8‚éQ6Ùªär©è“]DjÛ-ƒÉu ¡E\‘29½æP^Ùxâ¡Q›A±2q‚fg’%˜I™j†Ú"ˆÑ| T9Ä<À»Aô¶¦ax×~Æ¼z­ğéß]ğÓ»ˆœ7ÌÔà0d,ı'"†«5¼ /¤Ÿ½¢§Gmæ
+3ì;2b—ƒ—›È{-Ëª3Œ'ZÖ‘` Í€PÕ#­NŸÖÌë_i¥gn}È¥K7‡pTnÓ.¬ŠJJÎèåiö€	\,a&®DË-³ñ0µ˜¡\® ë~pÄù$ê¢ (|#	…Ğ)Å}›R]M¡Ò§ÓãBİ©Z$§T±,å1í/–Sñ¦T=làÌ¡K—„)Ò%!ù˜®LT€Êó"òk—O@Ş	z=Ì»ô×{6uP·Q¹Sğ¤Ì×¥ÆT¹NçækU"õÅÇª@t—'áëÄ X@Qg¡î0/"t]Lèú>&>‘`ú:Ë†ªüèY¦Û€r–µc÷Ò~ªÄùk³*äT Â@€ğ:&Ğ€0â~V—şkÄ‘7°
+º  ’äÌğît[ÚË²°ğîˆ—ÄƒÄ£{ ^N2{ ^ÖËÒˆµ¶r_œ%º¬êóÏ¦Å›šK¨jo¢É†uıhÁIÅ²¾µ,fL>†½Ke-§x¾­©T¼¢/–±F20È/Ì%~8CÆ9çÎ¦µ¼&x_£÷ÙÄ¿Ï!¼¤Ÿê&W`HIæ›gHÉ ôm‰¿õ)ÖGß¶ø[ß’èÛóñ·°«åc X!ï–ğ‰táuI7D€eÚÂ*Ü÷x%#›¹BÒDil._l•ŒÏ€m£ÁôuÀVkÀô0:–«§¶F¦Ç€ÅÓ`<°µ06„è€UjÀ‰9¬£eĞtë±œã²‚×iÂ“hŒ# Ù@øb£œ*®	…'UZS‘M“ˆî"RsS£Mºäi*×ì9QÛ`æ2`¡…a%dc%‚àC-¯D5a3Å¡[¨½ª‰½,¨"Ö šÈVAÅë[ùxjùúøOeÃoãài„YG×~/cb•Ì_,§ø‚t0|7‘€Ì=cÂècšÕõW‚í4rÒhF¼w1"ºÒ}!Zâv+ÀcvÏhvZëLZzëc{‘+ HHÔµÅÌXÍ¦Bï¸h¬°“–™’ï_¨
+Ÿ16’…7í~cw¥g7{%ºçâås†öì¦nVø5²7Êè£;VİÁ¦ãa×_é«.ŒV¿BDö[MÄ,Ğ²×r(×‰©dÑ$årÂÂIp Uœ–wÚº`tN73Î?ÙÄ­xÈ¢Ö\şºÎ”î§
+)ÉÛ9Qˆ·3MëF’Ô¦[hıÕü>)fGxÇØ®ÖO¢7s'µ~DÊE*Œ!á±ÈºÍ˜>+éËƒğÌ©üÉ
+ÿG%Jê˜¦uhâ:"{©Ã°Á.†à»	‚òÜC9­	À'¯øÇvh½£Á§$u¯œ:¦>i[µ‘x¢ûÓøİwì?ÓúÚš)NDËnáÄ@v¯Î´Şx`¿¼›gm?Qb\‹TIîîú}-†np«$ĞĞ=ÙìsBÔB–n@êLéêØâ	¾ kobºàcDŞeC#ü†³°8<sÆĞçìô\'ş6$1øVã9 §×o¸-ÁDW=¦I~°É»:ñ>ˆë¢ä	ÙíÌLÿ?n'G·„A´fx ½†Ã7¥í_	ë²¤¤,À·TÄÒ¢„´ÏH×+……Í](îâ1î‹ØZ…Æ}‰Ó»{ï‰¤ñtBÚO,8¬õKXô
+ô h*~É„¦Me\:¼¦uVwó£•vøôXÓS¾²”ÿºUù%ã
+Cvqí\ù’iá—g—ş¤¡È’=¦[e¦c­bŞ³ bÃ#t˜\ïÙcíî{÷Š&k—cü¿GÑ‚è$ŒU›Ä@k—úÇ™.P8–ñ?ÒâøRÓ™`Ò‡-Ò#2èúÔ 35h{¯SàKİ|TÓÑÛrÁÓ)£“l®©½K«r´§=Â)WŒàö¯ºãÌÑÅFóıqÍ”Õì*‹rÿó•Å%GU8âJWõ"F8´ºøì-©á`W…e­³­©OŸ7¥0z+Èë®ÍYL€šîD –ëÖ`Ñµ]`jéÙMP'‰P? ÔŠkÎüGõ-š“ñÍqİÒ™;$z+pê-Æ§ÇÎq3NÀ© sŠ•MŸb¥U=óù¶ªŠÌÒ«’ñ-¥Î˜cáœ®$Ajş¬´¯˜q·ÑeVš©˜î	ûß³§fh\‡ÒGÂ&¾alÚ{›Óo›3ÿ¡‘µ·›ö|[ÃêÀ
+¼õ¦ïL›øzù)éY…ÀÁÁ_¾¹9
+à£E&õÉÂü0á‡UãÇl–×0	¤Â3Y˜ŸQŞ¿ì¬|,Dvcî³dÅ¢§ñ^¼M™¯µe¸xåEl	ş•Ó_ê¬oès×çPïûè 0çvÎ£ô~Zğçz¾¡Î‹s÷)[ğ­œ4ßëİ(§ò¨¦ëô‚¸`ÙÄ@äıîjı–+.?ˆYi}·b ‹Ğ@údxô0è‘HŠúÂ”ü4êMP Rä€jB®ÀˆZÍâöÿ0<ššoıZJÆs¸\ªíú„b½ß/! ,°r2ãô°ßÇ0ˆYØrÙoß®×ƒ¾©]ßRööŠ¬Wôe.T„¿×Tä† .š¸9èlş@ò¡‰Ö\é£ş½ ‰şLp1ç—w;¢Úè®Úæ§HI#÷ N`cågÁ¤—“"º‘½”ÖFãv»ó0)©h¿|eJz‰ê¯{X¾×ğÈ.qx©LÑÉŠ‚ÅU¤È/@­‚!nCÜ<ÜFı¯‹Öÿ¥ç‘ø¾……ÚÜÎf½K‹kæÖúÔAœJâ§¨½Ë.øõÉSH­šÖ:¢\coĞ«&"§éUŒeN–Ú†Œp¦Bêˆˆ¦¯#1~ÛëÄvt£ÙÑ•°£ÛØ±+?¼ñ¸¸tù	ü'v-Ø•	i–êÁ0)ééİ®ÒSÏÑÄ'R·ük}ºŞQT™5æ¦¥0‡¡şëYp/ûƒÉå2|­°Ó•¹*27)º,¤í¾Îu-ÌíX|O:¢Hğ†ã¨4_é¿şJzgÖTçöİëy4+gu²‹¢bS´QqúÌB•¯½JÅ¶Çø¯­›Öõ\4}}œÑ”úT8P©¹àF¨0h¤¦äp9‘ä×
+:V)—KÚ3L{ç‡QÏ"¹C[rq
+Ÿıâ±ğñßêWÄƒÃ4ŠOMf¤4Öt7çŒå“(£§Û•œ¤[bm4—j·^wõÊtDØÛÃ©+pph•v%Ë¥»DĞ„®ÒXÒ‡_Ñn*èó¶‚ÄL#HÜiAâ@‰û	œÿJ´K„K•Çs"ÿA€PzQQDÑ3Ÿª#áu$è—¹;6OI!a¾ÓóSÈwa‚9–@Òù3Èy]£+‰ˆ‘¥{[Uˆ”ÉËW‘ˆhê“¾¦VS_R™GçhRòÅY¹éšsô‡P§Hï)éËˆ»Š k!5NÌÅW•0­šY9)%¸^\^GC'Í@v!én"…D"´¤ËèBJÜS”	8EÓ$ÿÌ”ÜÓß©&`\ƒ) 1iZã›²rq\¶¦Še‰R×>aN“Lèjhtyï¢&H`º&“ifî2j¦ö[™‡é¯((DøfdÍ!cÈdËIr:Ì˜¡Ì/NÉO‡\OKsêˆ„JÄ×@“3XÓÏ&öÔ:IIxhş¥?´úñõFİ‹5lDS‘°À›J;+ì¡ÒVŒCâ„A€',ÌX.™jâêÑâkz¨¯3W¿ı¥ ô¹;F(ó©&ğ€º—Rv\£Óè“ºHÀâ“º]NR1m|æÛ‰à7âêSAiÚ;ÆÑÅå†SW–éœ,$±øbM3ı‹0éQhÊœ©$JªKT»™VqªÀ“Eù&È«HÿãU9ñûĞ;åKâ8ğÆ­of ³¸ï=\4İš±Dmˆ;‚Ù2
+£/½%0'»ï§õëÕ–ÁÚ¿+VÊ%¤m?Ñ[ÎoTOí;éQ­èqQhÏ&Hµ…J{\jÆhgCúø¹3‹““©=G—Ã&×á˜ uj¡«ºmŸÔĞ« »4±ĞVoÑ£z+Mõ´şS,§hî?émÏÊáÊÌIó^·5{Ğb¶1ƒz4f`˜ö¼º†ïò°5¦kj9õ@ê¬Eê¤[pÍ+2ôëÂÄÓÂ4~1Ò.»L'p‹ä¹„Q<ãÊÛÈ»ÆJËTèüú«Çİ4Ö ›î4ò#×c²)KÓHÃ:†µİD÷0Æn¤@oA‰4xµxg`2‘ gw2Û„aİÁCK&İV3uĞuj¼=C¨  êd4‘ŠlTœL“VÈÅç ºŠ0,ƒèör•£aoòGss1Ó¬Aİ‰)•kÚ©İ¢)éÈøYS5Ì¤1çûdÓJ2‘ĞG—FÍ@RÌ¯sGÒ"‚QciImÏc1Ë	Me¡oYÙhê&Iz„6bcÌX=0èM5TùÏòÈ‘‘o:ò­ë¥ëÔÖ='0)æÕ³˜÷ëëûúúÇõDÔW—í'ÑÍ3†Ft±Y»œÌèÎµ=«ì§©`¼¦¥Ny¦£cÌz«)ê£)ÕE¿8Âpf÷Û€Ù#6êŠs#ÑBô´Õn¢téq9uéà£òÓ½8‹i
+­ëºÕbĞk-şÔJ\ö$`¦ïXZç.=ìÇZ×ÅNöÂº@eíµmĞVí&×ù0Àí <(˜N­ÂƒŞl$Ñ›Á<V/ë;ÊoÙãJ’‰äÂìvˆpT8x2Ì[ÜTà¤+_›O–¡lCâf5"“F  ·B‘°óIŒ[>TN+`:Û‚dOîmLg{P1ñİ³èlg’=´{6s#­”d‡ëd¿a©«ãÂĞ,u=]Ÿ™Ç–ºÔét7útú+‘ˆƒK—ÏîõŸ×k×®8ñ©Ş‰¹šsîÔ'~û¯woıwÊ©×İ\Ò‹»¬Û@Ç²e§Ówü“‹qñş‹bÜ×<VFVL¯È|tiDÆúZ¤Œôê†^_='ØiÀM‡µÔi\z;Ãˆ´—ÁLß™MâG©]©7t„zr‚ÆéÂk‚ìş±ÉlM“9Aã˜•”Ààí.FÑ½²ÈÆsÈZ ¯Ì"È|Rş{ıW©!,6 ; X,Àñ,¼;óåé+¯LŒšÎ˜”<6'µAíê
+ƒï¿hr~3€Ù˜¤€V¡l–ºnôöÑuÁ+ÓWlC-f	ƒ9E
+UVZ
+äÃ]¸f¬ñ¬}¬ìœµÜ&îŸÜ`^9o7ï!ïoXÏQo»Şe½i|A¸à²`½ş÷ú_
+ó*np'^5ì/JñûÆŒ%âÑâ3âb±Ét“&ÛM~5±7m2ôù¬Ï43‰·¤R²_bhîgo^e~Ø¼Ãü¹¹¹…³E…³åËV‡¬bú6÷Íï÷M¿ı‚­çX/³v²Yh£o»ÊÖªjsi†ô¬ô©“]¢İA»‡vïX=ÀÑ¾Ñş[ûÉÉ[¾uàLøåÀA8¶;¾rÌtZâÔè4Úy±³ÄF·=dkæ¦î½tXô}TÉ¯m;wVˆŸßãÖ\’VƒWÖ|”ÑQU±‹`¼oï3Wâ{ï6¯ÓÓaá¹cfÒdõAş¢LÑq(y9h‰ôùo<¥lbİÏp»ı¤¾,àLñ}¿ƒ>SA (´>•wÿİ'·_¢d}ê#ìN¬ºÌÿFñõ­yZmı\\ewşåõßç½•½|xb¹İ7ìÄ?v‰Êîîõß3_‰Ê8	T¡Åï\´Ft`ÕP¶ØdªöŒ@şøqi‡Ë¯%“ÿˆ4»
+RöäDC«°}W¿kR öÖ,¾²ór¿(õ¶„ÑÑwÓòÀR!eÕ:í˜moàS¬ş|>¤{&ù¯–ªÚG,¹³aÖnÉOöJ°m”Z/{d\½³>¥¢Ä†câÅ×ÃÊcÄıª7ÇÛÄ&·BÔ)Û½O¶ÉD×Oy,oiø.ïFŒx}“tÔ%ÕÅbûÖŸ£dAº"¹ÑeØ-ÌYÿ¤ıRÔ#‡Qng.ü\Qhzèû™û›&JÏêEÊ^{JOÍºéì9-Ÿ…ìTïr²´õğA]¼#vóÈ’«áajcØ>Hö¬dM+Û.Im¼Î;Ô‰MöìÈ‹ ”¯„:QËÅÚ‡6
+'ğğ™^º …ç‡-jË$Óı¬#< ÆX%«bîL÷ˆÅ>,?Áì‰İñ;îjˆ>ŒÄ¤`¶ÜÚ®ÜßÜ˜“³bÏÄT4oÜÂ™Ép<hêGÑ…jöÚZpöo.lğüjJ£«ÀóRãšj^NkSÙzRéJªRuJ}N’Jî¥Ò•ÑzşWX'Úê?yUP#Zò¬õ¿V¼èn4ßŞr¬±b®éú£ûëûJF²7dË†ÕlU³gFCŸœÅ—ş[¤ı¼Pàß)ô¿uØç£A(Ù«{Á*æ d½Ê`Ğ•Õ•êÅ1[j§NUKâ˜±â.9OøQ6ÂË¹8jûëò³†V}–`Ù’y»¾%İ´Ì!Ä„OÖ‚QÅÌÔ&³jØtFlQ¹r[µœ´7:>àü*‡Ÿ®‡ÄŸ^øP)Çí<´DƒI]CPÔgŸßfj:+j¡şnˆ±”.]ÔÇ|9Êäù©À®L‡>3ÚëFæpŒª½.†$H¦ßš^h"Šjß„Èx<©nvöœ(¹mœI3˜­pª3•Ö_4ìá‚»-Õ±™¬[Îé™ÿy8Å1ÔƒmU„UûîƒÊ7/?nûÆµãîí<Ø1Ï²å&¸Åsèvê€“3İ˜ê¹O9Ô·‚ìÏİàn ulÛoXÔò£›=K×i®3ÿÔø·E.ı:ŞQ³|ÚÕì>Ø).{ËöUî<0VeS>×Í9Î¥+örŠ}#¶˜•uşšMCè“;[
+mşRz+º0öŞù‡	Aú[ì®îpñ›zû«¯ŸêÙü’Ø±Ë§SÉÉvÔe³r¼úßºÊw*úòhËß6(qæ_^.)WY†®v÷Ì²m÷s­3Ï&6†v\á¯\Zì•é‹å—½$ëc§E¿PœZ.®µj@TMàd‡i'Ğ¯µ3±úñ²ÖÎz"é–$ƒíq‘ûÂ½ólÖJq?ÖuBÅšš9Eın|8(ÕfİŸ8õ+ApK3èd8?¨ÑªÎ6L
+#Rš*vYæéÍ ¹ıüâW÷šœö¨¡ñ+5gãšÔ/G÷)¡m«$¹ü¤)¸ÉŞ/Òc½;ÁÚ(ı~±µ=îN{ô~\Øı*æVMûñ`ÿëÃ!±9C\‚ÈÙ;»]çÌh÷X"+»m2ê˜üò¦Öû/¬?ó«{Ó^êWÈL\’üb¶İå ãi¶¤D6@6Çù™ëLhš=aÛLYiE¹ıµõ×† ¸]É²Ø­Ø²]oJp=Èvüè£é`ùÃçkÒöÔHØÃ§›o‹šôùà*ÔZ/Â‰§ˆp¿Cc¥ƒÓÌ2.4¿·9×£½ñà‚'÷}£kJcÜ´-ùúÂ¥ÒøNL´6ËDÖ£¸ÅRÖ'&‹R"¹Òoë7X
+§«#Gæ"sy„+Òüúñ˜™%Q E?,¨›ğ÷Ó§ÂiëıUô™&I–Íe¯U³7ÄÃšÔí}¥N¯/D˜M_Y—²w`i‚[HJˆGÛ2ƒ’èäÄ;­¬©<5²£­£·œL Ñ˜pÒ[Ôoñèù}’æ¯š¸V…G/)»Fm0fñb—ãs….ÇW©Y	ko37¦%nÕïr_<9,Q>7rş7n6ÍêËr~õvV?n¹·ç£ïç{Y±,ãToÛí“ _œj³"ùiUŸ¯‡üMx¬Æ£œß’iV±ífá¼Añ£o²äFÀe-˜\ÛÊ*ªŞ<ó%1­SÇ·²¸±H2b÷;3Î7}œüLºHdküNQİÂ#+WüÍN!séoáösHêm£Vˆş¡êô§„.)îÂh0Ş;ıÌ¬é­†S’âŞ­‚™iE•±…s£õIK¾$l®õ:á³µ»[6‹¡î+àšÄÊ¤ËÃÀàp=î—³ı¡"±.¶Õ€Áµ,Ù™#9ÀËmc•VÙ¬m­‚ú]§6}”k¿›£´ôÜÙ>Â½<3;"0'vš¼R±çÃóĞpXnkKkEúÀ{jÖƒ­6]™?ßÕ„šÁ¨hêŸ‡ùéjô­Çr{÷U®ğ»òiö’=ŸNl?8‰¼†©Y®âìÚ/|«ÖåœÁÓüA•ƒ`nä¬Ø}öZÇ=5åÂ¥˜œg[óÒÎÅ´}àúÇ/À‚£â.·\†(
+Ê¿Ü%è<Ãº_í'ö‰›Ó_Ôƒxå’%¦k“×l‰€ºÀœÓ8`ÖAÔ×zpkRêûaõì€mÁ`ÙŠÆëlOàÆ¶±2—IwDÀ”[¢IÀä…»¶Êéj
+÷ÍŒÚí˜õ•À}0°ã|lèäå ©ACqÌ7QUÑ
+'.¨yËw[Å$æÌX_;I"ıÆU|ë—h¿ ƒ ¿±Ûˆx§˜Ò/œxUjVâ`µ<“ÖñLö.`?½(¹î†‚¶ÂğÈ9­ìugÀXÏ¼¶3XãÀôGqjãl=ÙöÆáàÑrq»M2|K¬„›Uƒ¿™	¼Ï„ËkÛÛKêÒ‡{_1ÀÆÓ™Íqïç»ª	Øx›•ıâÑyç``7l á£#íMKÆ
+e^æóƒÓ#ôn”ç.¸W1˜t˜F;^^$ìÓğë«‰‚SZÇ­»’ˆX×<¹Øwâ¥nSLƒ…r)Œ¿²gkûå›P-T³Ïêêü…Ùf©¡uBvóÅAÉ$DJC ­’õ¿­ö»	X,Kô}\ÍO}é×vÙÏPl¾ÀæSé£$~öK/'2û;$ƒ°vÚŒò•sŠ}NfpèÓŸ›5ñºĞª>oÜXºçü‘“ùY®h˜?`ÛfÓ³çP¨ªjş }Çm/¾Ì=ø8~Ğû¥ıkÕŒëMÜßƒıï
+0?uóxGbYÔàÿíN¤€<|Ì_±­Xæ]ısœÿ¾}Dœ>¬æ17jÉ“•óÍÂ®,,yçùäp¿¬Ê«áçfÎ4“wj7°oÃ‹;f±Z|ãmªïˆ^{Eü=°¦ H<b‹~¥/vEëPÌùEcJ'Ô}]3 ;wÈ‘ûS?'ÿDú¨‰çSâÚöbg‡Àñ€ôbBAü÷}—>Ş,qØƒã÷TV4­İ'»©f7­‘Ì£}v”!ÙïYA5yéà?²Àâ@rVEá¾P'	"C>ˆæld6ZËB"LV³kİ€½g“¬¢=SÍ±Øí3}Éw,]V;ÖÄdèÉû+²o:7~× O{şğ‚¥À-^ûáÂ¼«ENß³¢Ìóù¥š¾~ø¤¬Ãv€ ,.€¾ÉÊ²ˆ$éò<Vd°jyêTÀ²¨T³Ö]»²8zcµÉ§ 9–ß˜9ç½Ä`¶7Ìï”qb‹S_Ê^‚¥ı­F~ãÓ‚}WoHrë>]&‰zæ:{@Ì0ná€V–â_­¸K2§şàypÖÇĞ5KËb7Íœà’–Ñhq9ì§ÌE#wƒye<˜|Ó˜æ}æ°B3Árê³¨Å»¤°ÿ;HäE…²’%ÃMµ¬ÿ>¦ò/GÍÂœxÏÓ¹cŞS§O>KÛîı´:4V \/å\>yŞfyÍo‘Vgøég¼:¯,²•¨Šoyéå8yûyI•G(b÷;ùÌu¼|å¬è+¼Øñß\¨[n^ø°Şµêè¨Ì.^>ı&²M>ÿË¹ÕËş+î™šm}³Ã6N¼Œh°ğ­ø¨nò“#9ÿJV2Èv¸²Œ°4­©÷J9¸Ñ#’Ï:Ÿ/ºÄ2{ÕùtÁışyÀ}TfQÓÄ}?ÚßèyqÛf;'õPÙÑä“Ÿ'Cçú­‡ó¾G˜¤mÿ„?šAüµâ¹Ë¨ßFVÖ‚ğÚ}àÄ9†lm©švê~Ì•õŸŸøğTlJ*÷àE	ÀRİóš| l`2„åıµ¤%òïA}‘®½U¥1¢7ô÷¶yùrôÀï†ñîîB¿ÈÄpù¨†\ïÁÓSïù@ĞC.ï^À€9Ép+î¹ J97<XÇiQTÖ$gÆ¡ş;ĞQ³ïÛx^ñç•ÅO€…È{Ù¤JSe6ú–kÃÂ²—¿­ì€6ËğìE)>À€VR?Œ<ùîƒçê¦ŸKs$ÿƒøó¶†9d‚>rDvutõ-Ã ì—Şı^>à/šo³:ß[¸7Ä¶R<6Í§TEÔ25ôGÅ*Ì¼¢Y·úóg&x[&cè_m]EáDÁ<qpuš;¨:.6Š—š;bø$Å4H»Ÿv®œ»Îy%˜Š	7ÔÏ%zãÉÖ£À’ÿXƒ*×Î?i³Fğx7!ÛÖ}NÑtÿ]ª	‹§Hm*Ñ1uHñD¤ÍC¤Öƒa€UŠdøà›îvSí’Brx@ß•-•›V¶¨ÿô› 08WĞÙFDİ©ÑÀz´¥¬9StÂrNSÛÍ]üå6Ë<^°.5¶Úà-“>AÌŞ;¡ö>ï$´¢® FH3D‹ÆÁìázú˜á[OFßz”P&lˆ0‘÷¡ä'‡ËSÆKY“O¶(ÚâÚ<°Xõpú¤–÷mùÀO½ÄİUÂØ~\ê=`ô¬š—óknBÜÒ÷›µ„Dmxš8©ı‹qEã†µ0øi®Ç_ï_İ#µÍõü0m‡…{YE†Íšó]à_LO¹y‹Ÿ½v¬Ë%2t÷KÇ\~§bjİæ›ÅMDíÉ¥—-kA!•Œo`E½Å¹w&Zö/Š,ø!jÉËh5'˜½A"uœÄnİ³Á¶¥ÊÛ¤â7çÏ³Öa¿ô&UKıoS«Ç–íX,:^Uú¹úÑÇÅ‡,c:EÇEqsæØûPÌyînîü†cj–¾‹ç‹™£‰¹o{cİ'‡Ú­¸	c€ıÌ¬ıĞ³“h‰€—	vm¡ş‹‡În…6ÖÜ}†™5ëñ÷!¾u%y#T€•pOÍZßÜW0ó.°M‡‚Û[šñ~ûK5kš9@'.viÚ3`ı~Iê>¾­ÏQ.&ÎÏÉ®éÙÈV¹úµy“rôÔ?Ôœ=õÓòŠdÖövÀKú¼ì›H|Ÿ8rüE2D®; ˜=ıPùì¬d(
+ÿñxˆèÔıÒêÎ´=Ÿ†l=¦jF¿ÀÙyçÜ·¹óëôÓöC½ÿÁ	kBIL:>ª³oìp)ÈŞ,py‘•ÓJ†O38{[bcy/ò$X¬¬’ü"E+ãğ½É8{a…$ò×¾~ŸÀàúîÔ©h5ºuñÚÒ‹B›Û‘pÖfÆ’ê/¾:¶?jÄu{¬$)âÆhÄ0“’!u«,æZêßjX“R'íúyÊõ=7÷H!vO+ØÎ¹Q¹•ÅRCA,Â{'ë}æL¼òBtbüw5ë×Û’~£†oc4H6W^{'LöÃ*'$Z™e
+×·ò—k˜±¸ÄFV¶ÇÃ^XºÚº	d!ÎœûAû;ã]†öYé3ãıı­}o¿=îOs/¨ùwÌínYö[`säó¢ìåš?2¯rËßWwı3"ér¤uÌñ˜Ùq’¸İPÑt<SÔ.ÆÎ=gYÛÊ„”G	‹}-p‚ÇwXÌşfŒ¢—¨!vº¼bvÄÇHÙ+ârÎÆ(è+Ú>åÆÙã[7İü‹J™æ‰ÁbS=ØÉnªØÓ1³%Év8¨aØªaMÃnSW­kó›¹¤øê©Ø…’;À‹­‚¾ª1k¿ã4ƒÕ)kkê·øßŞş^úÛVZ¦;?X[ÍÖ/2àßùxàĞ]cyŞÛW‚K]2ÓßQñ\¿ù&LCbùn-#–o¦#9a\TÏ9òØ8¦MÒÕ¬[Ee³ÔDŞ•Fzñù˜KG£3;€ıÒÀwJôıİ|XQÛe9%Ğï›†V–Ÿígn,S,_½Ô·İ«Ÿ\^.å0br¶ğÏÉ;¥0mšqñÌŒ;»(=ğ·¡Ïj~O“}äÄWÈ¹¹öö>EC·^:ÉSQ>ùVŸ¹V¬GŞrÑ“[µ‹ó¾Oès)«éšÍ²=¿õıœ_œwÍáÀş·)ÆşôpÅ	Ÿ¹?ÄßåìYvã¯MÓ3¹)Sÿ’bìË'ş—#”s;Q½XÈœ=0eğóÚ#³W5>[³(vK®úƒa-§¶L|4ÑşT ùµ¢1Ï7ºQ2‰u-ìäù’_œÊÁZşî¯îÇç­1ê³´)‡uNÜşä³ô_½³å¿ï–İ*N[zpƒød¬Ààì†	jJJg¶ÂÜÖ£»/êõ¹xÅÒä¿×mËÓ©†…Ãöú E„äqêZ×î.-»{Å¿ÍKtA\4íhÇ©²Ô ¯ß[©ïãiğ÷5sæš|ó¨å»Ñés¿Û‹DJ®¾YZ¶ï/›%âË«/+EW;çJy¶ú]è'Rƒ&•
+ä.¢ö§%×å{~ñúÔ¹îòt÷´5nõ„]yğs½ê‡²šÓ¢µb,}no´»4wsË<±É%fÒG©ƒãUÑ>T§¾6ıŸµ»h|fåtğıûõSï¥.<>Ô'"£úìä¢¡ÀÚ$»•NfÙkW¨ynbğp99/÷¼q’«ÇmöaëS³åhùç¥%`°7š,¿[õÁgwŞ³#RÖzã^s>/9Îº*œŸ½ÙÀßºÉ~Û¦Êı üH
+æ‚FYÜ‚zàŸxnº@Í“Zc_îP'ér‡Ñn¥{:5áß±%_Ø6<¼pu ËO$‰¿ãÇ‰\©zq1åV	Ğç›ğYÃN«œPwäÌ7?!é;¸:’C¤ï=ÛFéL´„ÑON©8¥J•‚cşnpâdëmÚ5sÂJd~Êš}àÌÙ+ÛfÎ\>Ì3fÍ¤vĞëvu¥Sş'Ã[‘óóRÃ°XÜ˜şÃ‚Z?d~Õ¾d©š½F¹CÿnR9O]„ÖhÑÁøö‡å*ŞÇ£ê7¬X2VÍÁƒû`ÎPŸ¹N·ÂwråªAT¹Kºua7(óOÇ\çu‚şå¨^fŞá{Å50;t²Ü³Ÿñ/}.<<;pè­şMg×¤áÃr0Z›QshmF˜Oh‰Xvq^“‹c©é}ç¢µ£(uÏ¢d[}q«d–°ÜÒ‘pĞğFiV©š5¿ïƒ¸¶ıŞ?8ìFéĞú²É‚¨l[îß£$×ÄÓ§•5ı»Ÿ¦úä%øÆ‚p¹gdÇš«£	˜ëeˆ«ŠIa­fojã‰e›¶KZÒ²O¤p-m_“Rt	Ì…U0=5`ôƒòû?®Î£Öv?íÛy>ûK€k©Û~txrá÷ƒ¦Ò¦'»
+?ËşUTÔoINv¹ÄE
+v¿Š^Æ¹?U°82Ğ6"}Ğ^Ÿk	_Úek"Œæ/~oqdHÎğå@4rÀÁµkfÕÛõUê·ÏÂåÃÇË~½Şø/`¸œáSí±ékà7Ï{iVMÈéwªQÅğÓ5™”’_?ùèÌôWsòÌªîò,Z·îµ4{jœ¢¿wäóßòı†L^Â:)4÷ñùN÷êoÄ¶õ¼dv‹Öäy&­7&{ k`Àæ•K>yÿT6"B{ºaÖ­º_Òõ“É–ıú‹êaĞÜÄO†îPŸ9}„õ7a”¯¢ñ±ßà&×‚7[} Ñ¾.7AÉÒXnö‰l(ë–8+6k¸´Ë8Æ´CÍ&zÚÎ:æÂ&`%>Vó“„˜)—g?Y}ëÒa!¿ìËQ2ë¶÷“¡á}€E»=«£/TåNİ6#şRı®˜õ<I,U²å±u\Ëc`íP³ÏûâÌÀô/N;XÍvC‰˜^I³ŞAAò`ÊÓé¾~kmX8 ¢ŞJèæß_¹³}ôœ3ƒau¿Òg1ç¦šÌU³b:@ï†Eá´eI »l]æ#®©ç½£çÔĞ‹©vVL59ÄA|ÇÁŞù—CEW.FÃRQ¶{CÑD|Ğä¿gåMİ¦Õi@ÊU•ş½T>Ã§„VUpítCß„›0õƒ©æ‰K}^LßÃî°Ü;õRº‰ô¹b¥ÄâŞe¿yDU ±)—ú<çuêÓ¸?ŠF¦úøìßßßv`àâ{I3ó¾¸z$£hïQ¦	”	N÷„°óã@4­¦ù°ÒL*bn‰‚+Ú×4¯âqÆÕ[	ZA¼æÜ¿—/)’÷9RáÃ«¸gudgé¹‡ Üá£ÏÿŞğ#Z“»…›+8Ïÿqè^)Û¼`Ù;qA¼'È2HëÚt³§[7€õ ¥ãlÖ¶¾hL¹Ô(Z7²N4iám²ƒ+¢Z¡Áà¨ í£÷*¢Ìë,¶Õ­–Ú9.@J¼6÷<eÒìÌdğû±´yÑÂR`s¼Zm-[vÄL­?ñÔº„³ë-0ªB’(#êàÚxwºËRÜ¿†²ÔƒSjÖNv3Ö[Qyï’p<[îº2³åŒ²­a´¶ïñ«Ùrª
+>ÌV³gXêØxÑuS2¯'~ù¦ñ#“A¢f­®¨ºÜèüc^¶®K0š£f9MıhxGé¶á¾jVb °Î|‡~ı=bÄ«‹ÓÛéí«kêa5Äl‹õO –Ã©»G-ßï7BÖµğê×¦Ù»÷R³î#9œ(;–oCÍ¤öó7¬dí˜	²‰HüŸ™^ÿá90è4²\ìdÒèÇj¨3°šb`	¼©±Àkœyé°$nÏKŸ•“¨fU^y&ûÎòÏš9Í›/‡ÇWØTtşœ.SøZmÚÚü­ÂŒâßÓŸ j(Õğ¡«¬zåi5ìÊöáŠ:Ö4îØ²M¨Â/aÄ¥oeƒŞÎz09?É »Æ#6ğOTÚbmnı|ùV`}lV7¨şóşê¾†jyQœ‚*ì[â|I([Ô?ä“—ï5ÙR)ì”õİ5­o_àU¸ /^¹I¶¶=sK%[qŸfD€7|”Ià;?ğ(Z¹ÏnêIYÑ wÙ>&1A­Ì›åzÏÄ+5kÜzp¯qÙÂø5—(D5êÊZ2ÍoãN®ˆ	^ŠÇû’á½ı#Œ3Ÿh0áŞZwÏøİØIŸUğ2b›c¶l:æ’ˆÌO˜~ìÆj4tF òùG×éeZ_GVÀ»¯Ü˜&Ûi~õtS’áô¢Š%³-Á¢øû‡7‰ÄcÖVÙµXŸdøò¤lØÃ{¬¬dçŒÛm1~Öæ;?o…ËËö,m}9’™Œ‚»µßí|©“ÿ6CO‹£û¡Yı8‰ïŸ§:\°rNóñ`/¨‘ËsÅP¥ÖW¦ß?—:¬åJ™ho²™ä‡—‚ëÖ÷^$>ÒÊzoúĞ‹Ä º-Û0×Âîö¹RÖE££;"öõ¼IÑÀ83Fpâ ğÌùfâ¥Oc¦ÚT&ÿ\-«>ìëtIºòğ¶fÇÓfcZü7%€ğQ'ˆâÒnï”M†%¿X-AÆbÊ‚ÊX<íš5ÿÙD•ÈféÎßÛşˆ-SØê<†æúIc‡ìñvâÔêLŞ³!fî×—†<öãÛ	µ‹¶Lÿã‚Lı¨¶xKtµŞóSÏH\›÷ûù¡ÍüÔ{/şÕSdçjàï‰¸VŞ`ÿµ¿DU4âèç_Y^¾v=jí£™ß4ßìî3ÕíC‰«ßÿå}ç”â£}ÂÉ¢òhğ€”Ç_ğ%sœª7	-Î™.>ıõ¸O*‚¾÷ë[³ª.{\±ê÷#G6óÓ,®şWÙê¡Uy‹»V”¹ü°°Ï3·û"¨§j0\óÛÖ¾ÿŞŞ©Ùtšmß<ÏeÛã½ü;Ñ…K%MÕóŒy¹^ò¶Ÿ•œ}÷mclöGàÀ€×Km,ö•J»gNØµ|ØğÚÛ6#«'µ_<á?::şJ9˜u\ñÑcKâüVO10ï8Q2ı~Gƒÿ–‰¿—»Îg[ŠÁäµ“d?úî»ƒ;|`™M½¼RyÄ%ÒnJt#7ÔóøŞˆ‡æç…Nüì9H¹‡Úµ=¨ıĞtàµQS8›=ÿ]Å”øÛÌ˜«fèó[–:çšU?¸¿pÏ>Û–9d¾QK§Ü…í¡7å‡ÇØ¹^©éAİ¢K¥U°ı¶ã…åGcMªw,WßÊ9Ó´pX<¸,İw­xª¯FGm¶håÏ›‡ÍŸôŒœ7J~‹'ßâİ¸HìkqÜÁd>p¯Ô·«Y™B§F™k¥OJôÏ“„Š¼ÎS¼gÍœoB„è¢e4œûş;1Ï­^X°&àÑ¯‚j½ªO÷²|N5†p7y[ø­ùY)¾'®ÓŸÍU“7èez×yéŒv?P»_=,àCûˆ£ü÷W²BÖ‚?K²«õÓÚëFvq%'œš²hûÚû`–¼Ê{QÙc‡¹øËâ³ÙƒŸ„$ÜsZï™³¶ı†+œ¿úÊ ÚÓ­œø†îX×ÀÜÚÏómÖİ}˜¥qÿÆç{®]ÿvvè8/Y}0aq€alß*¯™ƒŒ/®xB5×d©¯ÿ‡ÍÃ¢‡/fqÍÂX9™7°V©"’¦¹ğâ|•¤4)ŸYQs×;ˆÀìQKå)‘|69[yíî¾}[vìŞ=gûî9Í tòáˆÇÕ‡Í>r·paş‹£JdN†#ÃrdÍù”­0­íñÁ²š¢£K£ªÈnÇn’´µ'ù'·Y0øæ\åÆˆR¬(<UÙ~ıF¢“QÌ¿õ3b­búöI0ó¸npëJ¨=™–nñ¥Êõ{–VšVüà°Ów5y^3S.}*ºàŒÆêEí‰[±+ú-ÎFÔufñ·ıÒÕ¯ª1-dqT…šı»ç Î¾XŠM<ôh•íğ³û÷ÆŠG×¯ô‚ñ.—iÓü|ÅÀÀ½•í
+Ü¦P‘ã•%+#?>ßßîüI¼¿íGê§µ>>¬ğa,®^c>R.û¾DU5ÂC\•íÈ›°á$çìWşÒ¢ÆÚºëêæQª<R+~T}¦]p âÔ }¸A¾u>°çJy^eöì#Qeh‡òNˆ>ì¬û#‡}h|½ûvã
+ùı(3m¯^%°ÈúfÌ6½ÑGˆÄ««úO;Ëşé¤‘ôç¦ÿv_¶vÀªwV÷®!×0Hòî‘œ’¶!Q'*+ãƒ¢/ÜIë—á±kÄ¼\õ£~…‡Íò¼Ç“øéµccE1/~\–^ë5Ë÷Ò÷”ù9ÚÕiRŠ­mVˆ1à<oyë£¼²l¯¯ZÙ[œf B'‰N¾,ºÎi9b;²ª(èè¾–0ùoƒ3³æ k¤c{Tjˆ®¬„N×šœmíƒ2Õà\ìöøÆœºµ`Â^É2]£X[7rJšÒ³çÌuò½ê':ŞY´k!—‡÷£.û‰èøK©G°àQ5–ÀË¢íÊaÒÜGnwÊT«…K¦×ÔLş·jÖƒ¸Êæ‹K~§R5¯´¦zz½Z0UÍ6¬o¨É*ÌQ]ñ'9v¹\ÑâÆßßeİäº a›q!MXi	ÆĞ)óæ´"¨$ıÄÆìæoán6n€!±ì˜¡¿¨Ù†g-ì­­ÇxÈl±´Ë›ã©Ó†À€]`ü8v6si~"^€A` ß¡Pï./2::J’îŠ{»Ë"…ÈFû€cÚèmèĞĞiŒ°zÄÕ¬ÈÔ–cœö& Û×b+Í>Ç ššÅÛÌŸÏ÷¿ ƒ%ƒ@ğ» bÉÈÈĞ˜•»Y–R'I=ã/€±¼şÓˆ].çªĞæ·é6h1>á§µIl,kvãn0ô9šİÂ{g#·y†ÔwaE».8­ŞÂ XÑ”¯,/ñéã=ßí—_İëjóË_9n÷Ù#Š³ã½Úı¨YÒîR÷xò¨’àÁÄçy•n¿ÿ}ê÷Yõ^{Û²È
+ãÁ5÷û¥OÙH°<ğ¶ğ½ß‚†øçGÃƒos“İÙvaÛÂoÑìü>¸à<2,ŸÍK2àû‹rà˜nX»ı/ Ùy¢ËKB¾¾¼$p°÷ÎxÁ?ÿğ˜ múÈİ)jˆËó§÷à$@Pe2­Zi8Êòe9´Bì‡UĞï;=z	å¸{®»İw¶†õªÏøŠ;Ş±–-÷´”ºÏïËiY¸%ĞÛïÀÉmqEÿFTîñtçÃs#*ìU“¾ß’ßäğ4ª ÆĞ;µ³¤`À` 8Â pg¸Â`pwğ€!0†Áp#aŒ†1à	^È4ã`<ø€/ø?@ L€ †‰“ &C„2#AQ1qS`*LƒH„éÈ¶M†H…4HÌ€È„,È†™³ ”³ÿWN*(„"(†9P¥0æÁ;ğ.œ`_c÷‘šI-¥VÒ¾Rk©ÔV*•ÚIH¥Ò1ROi³t€]íØS€ óÚ¾/–»–»º#îSÛ·¶¯kÿın8=À<ÀçtÿÁ0ûİğÏ}Ã°óc¨Ÿ„÷=ÆƒËœsß£Ö½KÓp~.›”0¿cÜÆUîzßƒú­í{ßá µ˜»á/üãÚŸÊC©ãpıàäÚ?Ç··}Gà2æh˜Ğ†0´F$ ¹^!€ÿù? ï™sq<±›	[ö†QøÏm?{‡À]Ï›èmáH’‡ŞŒÆ1¹éî —ÇßÖäv}ûq(óîÉ¼%kŞxá·-ã8ìÃº–ı¥}>¬'¾Aß¾qøí+¯¹Ú·bMû:Ç½	®··BÒsô¶@óÖnÍxİ´«š¶ŒÕ_zË jÓP#¥Õ“´â^Z0q<óV¦){WCUš­è¥l2zéÇÔ±Œ”-BeHZœ.¥9’´Ù½`ù\Ó£Y(mækÇWûæÒOô2‚N]Ó´|•>’yãøsØ×	>{”«7’ysÊ¼Ï¼º3oOGöÌ¡´½ãğ›L“;q¤n.õ6Xóvµy>)!EiÍäí1ªcğxüfª«©Ã¹,ßhŞìÑÛşq]sßöm¢†›æj(™ÑÃ{{Îş¯|oXøhN2HığJz¤A:dÌÁcÆH}óòrRüß©ªùÒ‰¹inR’=zˆ44+—"’úI5E†H£qR”2§œ<"Eà•©›+şZõ~jâÖJöJÎ2n÷7no	¯…÷3ï/HÏ^¯V¯]/’o%ˆ\¬ĞÿZÿsa®Á*ƒËÿ2èoègøµ¡‰(LtO¤4şÎ˜#vÿ(şMhRh²Üäº‰¡é:ÓNÓš>^f›YKŠ$%$Bó1ææ‹Í?2ÿÂüšù/æF¯,Ê,¬ÖZé»¼od¿º~'û™XûZG[ÿh=ÑæœMœí¶ıo÷#­”î—>“:Ùm´;a: iÀO²ìWÙë;X;¸;d8T9\rX=ç8Ø1Û±Îñ²ãd§\§NÖÎYÔ©‰x×ªy³|î¿cl¶Ûû/Ÿãe¢çf,¥ƒ'x)íÎwÚÔçİ/§,±½O©õÑsW–®TMYÿñú›hi8XpŞF”rïñO'=]OŸ»d–GE"Cbõƒëª/­ÌıqÅz¾âè1õEö[OnüŞRå´åœÉùG_­¶Óã~¢ûØöÕÿ«¼ïk2é?oè!”ĞUH±P4" ¢²¡„*UPšÔ€ˆe#Š "F¥XĞUº€‚ˆ¨¡¨4\PqÁ
+ˆŠ}‹»Şy²ë^¿ûíïşî÷y.>&“™33gfÎœòÎ9ïv¸ÄÊVÎî{uı;^ãÈ/Í” óÎíK±‘Û*uü…x×…­/I‹§é¿ÑxrW9G¼‹,R¼Ú††GEÍCñŸbBxgİÂ[FKó.s9Î
+şw% W0ÏônåÏcÏ-&n‘i>º-µO(Ø+íBGÉ$-ÁgÎ2Üü"z·8ÇçDÁ¦AŠĞ./òøıÎRyvÿö›Yhë¡fYòwé’©vIdU5aìˆÓ6yÙÄ÷á¢y®·ü4ÃwnIÌ*”w\¹L2Ù>!²X˜½‚º€;k­ã”‚²A^ÉÌ¯¥Ñj‡èNùÚòHChªçuS’ÈÓJNH©æ%_+ë|5çéæß£î–OµúA–>÷/jƒC=ü`yë§’ÏS ›ÄO1şåÕ¤Ï:ÈÜ(òîZşrµ¨ƒŠŠù>qí¾ÅdK9³>ÃĞHåÖe[Ö˜­D‚B.—éıAX´İÄ×°¨øO†ê¬‘åÀš4Clş‰ PÍ((^¢ô#¥u"~`J¥ñÙ­	È¬ÎV¤áç,‚ûLÈ æşáò}ªˆ® ƒ^=aŞwáï3¹@vğÓ"0XG…Af€ÎØ¾«~aí§Ò›7_OÊfƒT\I‘'Ó×©‡ıi›³Jr€pl=,°r/î×dAŸÌQÕÓLsjq¥ñÎŸœ®J‰ğ;DuŠs@ÕØ˜—ÑSÊiı ¢P›Xğ¤åe†?KÈˆ'ˆ³BzÑıQ4öÓ‹™du ×ONÕ’UÕ*1\ySæga7o¢.õ2`¤2àÏ5maÕâÍÖîLÁ¬€¢Çñ®ÎÕÚ#P: †*‚T—­î™4Ì™ XÕÜdÛ†HEæz×+%Æ¥¶{C†º¯¦ØÓ:ruD=¸FÎâ{GÊ²½vÊ$VşìÄ‚7ãÅ¾È00yål<×ÔİˆìÙëó™$#ÙDöMÎş_\@jd§Û
+ÇE¡­N¾wxÏj·Oï»;]l¦×ü*Ñ¾Ãwc›Z{¢TKÓ/åWm8gJR3€Ğ£„A½lbkÿú¤İØü~İ¾ºk–6ƒeû.´¼¡—¼Yuºc53+…È²¶šBõz's|–[¹”]cuÄn›e´§!}5>Á S_2Ï%ºSõ&ÍN{ª+®¬Î%Â!»±ËË©)Kv¯^HÛÓüÌ
+e?t²Ö}±‚YcQÇ;{d‚°—j­›;Üó¾/¢@ì€÷+Ê‚ª²„Q¥ÑÚ¦çnôš;¥§œsõÊ•¡ËÌ‡
+‡m­\Ìã*×ßÇ‡ÙI÷Î›º¸²x½…¤áë‹+ó
+-§¬[‹
+-ô{^[·æ¯·ˆà=<+fû
+eSœjšV¨åÈHõNaúk1&¶oqı– mzâ¬¬W6¨£ƒæbÒÜõzQÙçyFg3Ûs×xªÿ¤™_ËUŸ;@•{íÌe)¡JfÜİ@lv¦Àzš|˜ZÊË«ÀÁj‡¹²A$÷ õ:+‚†öÕ° àÈªø3:ÏOî™jXdÉ$~¼±ŸÕàÑà0D­8ìlíGÃ	­ü™™ÊÆ1W£Êc@ğf°½'›n¾÷
+²”ê2"¾Çn·	ã€áV¤]İ:66	¿­›	™x¢­§½MËÿ¶+ÙB(On‹†‹¯[ßY¹ç‚JåBüNÏ“(¹KM+.)£6Wí.¯÷f¬~Q°û÷K
+‚Aà¥È:Ş]çšbz
+ïƒbnE3zËÎ–ƒLkš¥¬ÎæÃjŸDÙ r0Å´ 'S½§Á²é9ŒŞv5¿ÄUXı\LQíJO,ã>ZÿJCc*qwQ¡¥^;O"túò©Vµ°à¾l>µ¡3„Çˆ»F=åOPu5ü¢XPêÅ‚şsjv½¨#²ìÚ¹áesjOÒàÔQ(†ùÅ M?•'® :’7µµğ³b¬¶Ìfsw–€A¬õyÅãK£9\(³añ¹J&Uehİº¹Ê!µ§æ·sÔjUı‡Ü¸PIb¦á›2û dX2be¹…ß—E«•ªñæ˜ÈO[Ì:‘¬Ş2N—¼e¨]´içnG÷¼©U¯ŞZ,b’Dx·ÀL}e½Št³3ç¬¡›h£¼ù€FJ€°™[kí'åJnóÌbô¢6—×%™Ki±ÀC=ù’Ë†K@ï
+õbn„Ö¼5­Ğı\B½lZ˜ÌµÔù[šR½ç¤ì.ñ^ :J»¾³¹}J_bÔÙ´ôİå¤` nã£J]3Tò9ğı~ÿ´şiy@(¥±­¥³\ZÔ2‰0íPğ¨P8‰v!w‡ÎŒ¡%,lm£ºÕ©fcSYj¹—Qh=ÊH ¶İÕş1Æ™›ÚÔÌr'ëMJ†.eNk€íª‰NÎªPOäÀÖçDïÎ2Ş]@(Ñ¢Uñİ±<€UÇ«Á5ÊÑ½©"×I-˜„Óz]YÏÈO\ÜKxG_>ÙWıƒ¼È{oÙ+
+{·0Lè:èb+ÅÙêEí—Ÿ¦ô‘s¬ÒK˜µÕt9½[YŞ|Ëos™';ÄD|Ï§\zôx-sErÀ)–Ñ
+·‡cåvïî¬n+Nï”@ƒ£¡v,ĞYÇ*²wLµ¤û®ºëu½+€t? ­ø‘62[KAÂ1F-ÔµOk'’<Ÿã1§M€e…Ù2*h˜œ7Êdä(Æy³0F2FÉ&{p½hÀ!AK¶7ËÅË–v…†%‰äËï	+Ê¡ŞD,D”ˆˆĞQMß¨vuÄBQTb,Ğ-[­±²v9¤÷åÄj6·u+jì)³\9‚ö% œÖ’™)Y&ÿ@Õ¯\¸-øH·¯ş`[Ñ6iÙwV®l~¸ÏZYœĞ
+¢2SxÅe++Ã"i)M:Pé K_®ˆ:Ñ.úøJiD§1p×q‹pñWàUüPÖ¯;{ìÕ(.HëXW°'õÊ ™]üN{ù`[„CúwN¼oë+}„‹£À·åŞå²WU= eæéĞ:')À.…ÆÙ–r12ğÿ±Éu#WQrš§pLœkêñ)Œu T’W°]‚.4úCCƒ£Û²ù+®lî‰˜8ÏÛ!Ş¿„¹‚ÇÆJ¸<ş~ÎüµüIÉÃ#˜ =!JTz[ô6k¦·ĞæÇæ¤Ñ¾ßPËrñÁŒKš^Ø$Âky¹n¤Ä¦ vâ}xnÍÜoñ£¯Â\}f6ä\ônİ©HJ©¹oTeÜ}s7/Ğï¾ÁØ:ó\JQ<b7ÍXğ}Uÿ±|œ—éV3»xØ<g›H&zÎÖ%X+/|ıB{•¢Düå%ãÌë[êÊøY¼£A^°DSÊÊ±ø¼Ö|ÜYpUÀšv-4­ñĞ¯«N¦€Ë{€#©H¦"eQöä²1+ìİâ¥rãÇèä-‡ÌÎ\-@Ã	¥™YDW'uXÿ#¿&'V,ÖXó$d&Ø˜påÃòH“ã5hÏï9i~g–/µ7Óà¹COšéÇ‡€ì6ã bÌSÙB.M!Öà”vVÄ°UˆäáÇyöë¢ÿp¤Š,€ğóÔıßáz5Í§ÀN,9ç`6^xì‰ˆ¯,È«ié/ô7¸G¤(Àæ1À~;ğ»Çğ;Ä\?2”ÛÁ`ìÖ\ÃgQ¤¶É<¬ĞjÛˆÛé÷%Î$•+øoX;b!Å¢†T]÷‚KNÓYÉĞ.š£?NŸX„ÌÕı¥S‰
+§ßåT%sŞŞ‰‘wÙüİiæ	ÇaM6Jƒûª×l„›Ùg€¬Î%Íó.QÙ÷AÒÒô¿ívüF<ÃÈm	 ¯eCŞjgÆYwfnÜ½Î5olqGûÉ¥öŞTæê{SjÍÔáúòvÒ9“i¯…ö[ô]S«Ü|zÛ{ë½c™á$™3,•Îv[ÖäªUµ'2üÌ¢ŸqÂÎYè„¿½™¯¥œS…Tå*áéc³G{¢¶)E;mÌ'lWy‘†­c€€®×|AFåÉŞõ4lˆòJ†iHókHPõv>Ø._Óùeõ \J†Y„©§ä«(³‹_Ó_Jgîó-ÿ°Ò@Íw™vÁQà¯.ò#³©Ü†¸Ó¯÷–J6ìK)è´ !²°F
+óÊï¨–—ºƒ„ÈHŸ%ä'„¹€˜°×ÄQÉÍ„ÒÛ”–ªúb1½®´ê³úî ‹tkÓ\¿‰÷¹Hi1"TƒöT¶ KE­½èZsAx<‹ºoÿ<şZvã<«+;5æ®Ş«vFs•{!O2
+ùAw±øO= z«øoˆŞI¼¹/Fkî!óLé‹n©+¥¦.ó28KãìÆoÙÔ1ÉRñË„¬4‹IPLfJ¼úz’·¡ÿ•€id¤ËSôŞÀFÎ_k ,—=êyP¦	dŒ)ä÷‚P²:¯¤ÖñbÌÖ·ö½JIÓR‘hG›|¸
+ÕªÇC$ì«‘²8OqÚ_æ —¿oÁ·$dÖZ(QğÏlœIáÓÇAÓG#h¡±çİ*Ú”ŞÙ|1ê„N~ã©²‰s1nÓr±Mß¿0øµtØ{·WdìİKGŒy×DTäyEÀûh‹#ã9‚.>ScÕUM+ä²üZ´6MıÈğN®¢aŞˆxöwW¹íÒ½4!Sš.fmr¿\ûœç~V!i1í~6b ‘÷ğ²Ğîz
+ÒdËâÇGV¶hJÈvO+µsrfà&òá
+wÚ£NÛábäâû.Ú©úbâ5ëF€aØæ¡9>÷~ÑtæO‹Wer’iÍ¯±†LÕCÌËå*,İvĞ³ÃH`“Syüe
+O'Ÿ	C@˜çd¿Òp˜ô;öGõƒ©Ôù ”¦OÊ_ß¢¾í*­*Õ°ù¯˜Otµ6w‹g³ßÕ&ı™ŸöôÃŠd¹Z‰#?^$_À±6±Œr¥ír£t_x¦\z®j¦*ıà£È«\ı ¬dÑ÷eaVº€ñ'æ½; ö—J}óy!Æ­rnD
+/„dË­„cÚİ‰UÁ8˜\nÔ,‰§º>;¯–¶•â¹¹ö]Á[Ñ:&Uƒq˜İ3¢DÈ`ƒn6Òq†˜Ä7;¶¬©Ç¨r/²ü˜<EÿÓ~äR623ÛÅm zĞ¾Š+q+¿çù3ï“@qíÂºD×…Õ ¿1'?u'×u»t¹¸Ù¼l×L€Ä	‹u¹¼åBf{¥“³š,Ckñ£\‡üÊîÔ1ˆÜ¯©èâRS´Ÿãú¦´Ò†uVÆO–§ƒx»wB	6ø.4“b¿E—¯k"ïÈ~²ÖâNâåİBq—ƒˆ¯¢&÷;›`ÚS²èIŞ nº,ğ¿;F~óŠÇ’ı 4Æ Úã•;Æ×·P^º$+»I3_Ô[D¶¹¿‰÷c]ø9‚«ãÀÅÄ·éÏŠ”VVÜqÿè¢x&âŒöÅ,¥«/‰Ñ.:Œ6­›’{hJFğ)¹ËÅ†š‰©†PÀğP#çVŠ«së\í„iğºûŠ]S6E¶À'6LL÷b]"ı×]+Úlçª^;´ò }Œ³J…©Òã€‰•}#^"q­?ş€Ú	NŸªäEUäGQ‡¨ŠÍø4‰D‰­v*!XCŸ“AÖè%ªPPö°‰~KÿéÁÍßùë˜ÿÑÒµc@7ÀM”ÑtòI$`£[…öË*“üqjmñÜ5KÜ¥`.Ôsµ\¹&òp?Ù0çyeYè‹49Zz]k?¬TéÏ¨Á®Ø¬ÒÙäú‘áæş$;è`sÊ½(Èb0ÓtDe@‹¡k@‹)`&Ã’yn‹IauÛÙ÷4§X˜KfÈiš¬ŞBHT¨I•(²fê|×n¡ìK‹+óÄ\[ÜK]Hò ‚,P­5óÛ4ÎhíQlˆİ
+˜˜x§ZÂ’ğ,çxÊ‹°à…E î˜œ©RÑ„“Á(©lÄÛ£È¢Ÿ·r@ÙÖmÉÆ:ìœ@ YšğÔ(„ş> ‰,¡Ê6ı”÷´“héVôÜu«°YlÓ ä« ØV‘µC«Ï¨ÍÏwvı5i$I¶T4™+q+P÷tR¼êš5B†Ê9-+Mx÷F"p“µ¼Úà¦-‚˜[Íé®ËıüyØàŞÈíKr¹ñ¾^?é¦‰ªü²Ş dòò¦ËÊ‡8<îvc#ıÒÛ]-ï¼³ËŞ[uj³ø!éê‡T·ß:n0°xMãY:[¿óï{Ùå»µåxò$Ï]±Á±òc©Ú· k‹<Êı™ª…“v‹/­IÍjr£í–P4EjRÄ—ğ²µ,lüäwÁuN%úf"~nã©¬×ûòiKûAë åªãöˆ"ŸpìzzweÍˆ²îŠ¡­n×”S£Æ=ÅÛY<ÆóÙ»€–(/=òÌPYú—Wkd‚yì+½C¨ø(RxŸ­¬}£lÒ<8%‘™ó¥Òã<u¼Òà}ş%ÊÒO¹tÄ4Mp{Ï[ÿ²m®ÇVŞ³´çòxìCOL›„MºÒ^Öhq>g[î±`eòÒU™ÜI[WaÑ¶%ÃéØ‡2Nñ6´KîºS¤¬ttâXXC 1G}	|C<O†pÓó	NóÜÊÇüu†Õkòº†IĞAUKX”MûA½±ËRÙ>üßúš à?dÈ÷ô•¹7pë`9É]5¼±õÚ^}2–9_ëZ¢Ë±¡O7 sF:­ƒlòjO€Ë*zRtPç‹fĞî3t¹üOGÆ/ÌŒ9¯™diÃáÃ|ı¬÷Âà¬‚Kûß¬[8^N^²fíÏø]29\¢@>ë 9 ØV»€Œ	Ó#Ú±w£ÔËDYaÑÎv—‘éïóãIqÿ‡yY:RG×¾_CíÉ—ˆv{§İçéºáS·/äûsØ¼ %…ä†ş‘›™ÚÏì‘Ö»ÿ‹½L*JÂµ:bÚ›~ ÈRA„Ú¿&½Ü¡ŠX„r:ˆí5ëüùg¤•ª¶pÀWŒEYZGÇI¿ÿ:5*4š«VFUdìN2RhÔH:ãw¥òZÿÄù¹®zÚ@ÍdA¯VKyª$ù¿I­Äµ ˜İT[@oxI‘iê²*Ñ¼İùÂ‹8ÄJù)µvĞ½L‚E:?P?Xş@¯–jpN(÷è¯¨8ÖiÅÆß²C'œ¦è¶A·u%0×°æpLşµÕZò@<B1£We†]—AXªäŞ==/ŠL\µ: •Ï˜ZÑmEƒïÓIrGË1'dqgIÍw?¤™\÷È=eåÑÄ¬±ÃâÇ™Å·,D¢ÂÊºvU]²u@àj¾Ä
+Y‹
+½¯‘íR®‘í$)<­‚?É/‹
+]E++¥RÑÔ¨ô91ùJÆ´sÖI¬€·Põ+;.N"?¿g¹æ} fÃu©R9Z SÄŞ‘ÓÃ“ïêKo­	Uê<kØY)o«SÕ’D¨1ìòşl6ó"r±õ›6ÖÖß¸O,ˆv‘îIXçÖá¹Ø2$Ùs›S7=F`£d/ãXÊÂ_º$Ş4‘—Lk_£İó%ì?Gv ”œXøº‘Eˆ£cÁ2']db‰fn-ûßŞ|¸¬#ßò4èœbñÕ)N\*‰ ¬±QqeQ°™fë€šupâ=îXøq¿1_ñc¼G½¿—qC‘oAp(üL¶^Â13Ïc[:c. ñºNDÓçÉ!?`h±°0ßµ›N×­İ²’ëDÉ^¸İ KZr¾6\Y¹·–œü6ë§‡Ÿ,>TJßmêºGl œ‚_"?ß¿‘Åïı <oí9S§SôÛxK-´³(­¦Õw+ºÛDe€˜Ÿ ¦K¯”=ªAñP²«Ï¸›×<ğ&Oi#Ò°£ÎMWâ •AÌ6fÂĞ**¢¾Ÿ·.Ëñl¤Z2„Üë¥*Q`áùı¾HÂ=Ò)¢a¡Ê¥ähÁe®`ÄÑ°[ßy‚zÀo™P©Ó;ıXoÓ³µ9qzw¾	¢YBLÊZyæÒ”5cL[¡şHqCß•ù&xĞI·!Íûm’è°I²“ûNnBbzk9_znU×méöÈD4{öìsåªîş#·_ØüæáËsNãÌà?±×¼ÓLN$^m“ø¼ODŠÙæúYÏvV6öÕvÅ_¾#ò×ñòôÔÙ,„îœæ¾"™’²µI¦A«DÚ?-|Í|§¢cŒ£KÑ>nç9M½Û–Ë)˜§
+[%]Lö‚è‚‡#ç­ƒÚĞÁûÃ›XÓÅGŒ¿£aŒqL”ğø„Øcÿ)½h¦mJúÜUvË3ŒÑ=ô;°µü -ÂvëÚÅLè®ÇÌÔü‰ÎéÌªqJÿÙÛC·ìÄ€\@>Y#•Q ]ìÃ›Ìïg	/<_ñ~=ƒ•m2ƒ,—Ÿlr4Ö[ÀÒÁnåÉ^5Æ«¶Tö~X{İ:ØÕT‘ì0í¬ÚycËŠÒ³ êñü´R.äY„=KÊ¥Êz;5ğĞâ(à[I¨ÔúÎ¢©,¬zˆuAáÎ~øYÓúÎ\2ÇÒu5ƒÒu£@æµ;È8Ö<rr«y´Î•äa(~èÕLüĞK=Gw ö3Äî¹2ÄFÔ§pÅYWÕy7Oqî
+FX,B„f Vs<âg^è©î†â…N•vwX@SÿêøAÔ+éAOq©üÚĞUZxĞˆß”
+ñ½#ã"ı‰]a¢ ã^"öÜ(ò+Ÿ_ƒo•Ãkcä—'Xàa•ò`ìÅ*m››8ä|†¼´Q÷ô	ñRÉu÷?HÍ/	Û{ˆ'I@|c^&×-"c% S³Pix,õ1«„ÁXD°ü©??@ê$â¥7K›2k‘aÌ/)SºêxÛÍ{NóÄxk¾‰Eè§ÓóôBú7–İÌ+¬§A™î±×r) tÈ@¾9£O™ƒNâà=ÅşsíeĞ=×>_À–qÒÎ¤À‚H·Àì¸A}SÒƒK|uîã« $¡@ğèÜOü9}Æ)=¹Êgåå5èÅI”CÓÚ‡ƒÎÀv¦¹]sÉ|6æ\Q|´<×"ôŞÅm•ºÌ«ÉãC]Y^ZG@ ‰_Ê¾£YNºùˆ¤&º_ÁÑEişJŠuƒóÛŠâ=ÍYáÅGé,pÆ@à¥‘ÌO»Å@†AÁ6èª¯^Í¦¤»ûÆÙû«•>Kq/|XHÒ¥€7¢¡ ª_Ë‡_óëgñÄÅ"Õ*ä›6æ¢µ<R]Ú<mÕ²uIÛ‚G{*—³Ç"Ä³¦ÆKÈ^)á£­¢sš/¼ƒù¶ õSHßƒk9æEÛµ«ÊªUò+ˆó‘Ô7$6ÜöÂMñcÅâÇIc<!5JÓ%%*µ^m¥ñ-›ggŸ×mQø‘Š©nTÙôé|]ñ1—)æj!ºLAZ\€Có^«
+q£2&ïlâQÁŠUvİ(‹”¿tKW«I<¢‚P&1î«z&à¥ş[¦åªËBÄ35¾Ÿ„ÓÚ¦Ÿ”¡îUºw>¦ø´‘}şÛù*@Š¼MráöÖ¼Ë·=ÎÍ½d•ßÎùf~üI„o“µÏ¶1wŞ3Âë™å·lÍØ“û_»î½e]¿ãÅü%‚>ÑOé]?Ú_ˆ_/}iåØƒKÏM6\?RUÆM2QK?,x35å·gù|aK;²¦öy(,"çNPl&!*+¬æºÃ8ZÂ–«¶Ş¯=Oş¸v‚şœdË¶4·³à ı3-ª4o©àìv»´pÑıGB>©›Ì¿,F¶2')LzæÏë&ÉeÒ¿,[0Ã¤»$zŠœƒn[©HL1Ë·›8•44·h»¥>‹÷fÄæSUİ{½h~5lI+Ú¥}Úzn£SKé²w]éöU^:@¾ù;|Vy…3¼£y/Ês^¿5z¾w‘UÖY.3llC›Cû½‹6P†ó=/{÷¥“À6Â(™1d“ "5}@x'ÉfT‹†(b!ÎGmôŸX5mâBOÉDQ›ÚáMb®I©ğßËæñ#sFo™¥±w©QÕÑ~Wu‚ƒs¤Úº€Ê³õNp*Í¡OIÕƒŠ¿íDHx<h‚…ÉĞOPµÚB#àòøbaÉ‚E:jÔ‰–xà×ÇßMõNß°¿ìÂ§##—Çëˆì‹ÃÄ·ez›­ıçO°Ç“Œ©:ö¤Ø3®8×Ø«óòÔ@:3™2$vßË4ÕKôÏ
+Dè°—’ºF§zÔäùÌ',Ğ¼nåÎéR(Ø§éš¡‘%K~‡cGß¸<gÆíÒ›ÈÏÔŠhÙ×Z}ˆIĞFL<Ùã_ÿ¶b¬hãÒ  ÛyèPøÁ"©¼Âİ*ŠGÚdè<N4JSã ıraBvWïüá¢Gã}éuÌÕcûñwT<T¢1¹ì`²#
+oÚ¤ÓµíRv¥Ÿì¶İ:HÏİ’&¬7b”kF²:£OŸS¢BÜ¼bä4Î†’‹DêÍ–OÏ–>pˆ¶^Qî5œ,{z]$È¸ĞM¨(ïnî éœYÙ~ÔÔçr‡p' Õ–Ò½¼=÷Ó ÇŠñb	²ĞÆ×òŒ¥¶T^ÖªZ<K„÷,íÑzuù­ŞA‹ƒDìÑtx`EÃ|ì±‘bgP ª3ÕäBUÍToó#±\+QLuY>ØtğÁ8Ï”.\¼5 HûÄm)İáÕò—¸„Š¿[ÿ?üvæØz~ıG%M¯öH·í$Ş±õ÷¸ûaÚÔVSÒŠˆ½7lÇú`GèhSÎ×­´âóZ‘Ai¸N’z›t¢,$$ñĞVÉ„¥>İé# 2=:¥1ºGŸğÑ	è‰6J”dÙ¥7ü´Aÿ«³‡¨š;Œæ›ÍÍ
+I„)OÙsKyÀ$;°ùßı{-×nnæ½AëÌo*šVÈÿç	øéÏ	ĞXEVÒ\ï}'aîQÊÙ¤ŸQ:÷Ú$÷;®V«SiÙóUË£_·0®_WØuïãqªşÏÛÔ°ÛK”î{0báh8™ ´†oÍ7°EÈš–ØË{¥bi«êdªĞÚ‘x¾kaÈgŞÚÀµˆä%HÈÌU°¾våCğ:·óõv‘P&âÙ×>M{Uı÷"&¦ )­õo”%òî¦ˆ‘d‹X_›‰If˜ı Õy9hF
+1eõ2Ç$Ã .!›’É=Eòëı0³RNó&F$÷äáX?è'?RhG;bhw ó¸î±@Y–ªÃ—"€¸Ç;Ê$ĞÉ¢A‘|I\V@Ş¤—1<¸ØşÁRWj \¯	‹¬îIÂ $É«Ò@'€‹){“¯t3«Jî)~´>¤tP¿cêÄˆ$CÃ½ÿ×÷üÓn®~…œ«¦P¸õîáxeáä—¿_ßßŞŒ%0ˆ~2,A½ŒCÚÍòı°5nsJ×7„“.,‘f¦~òb«1¤3O€Ü
+yçèC,DŠ$ä­%p rwÅUûŒıd™v :±À¬µ¢ä¹x5È ³ÛYÏÅ¬³†>VîÔŠ¸:éSN^Hİi·š£ëı_\q‹§y\,ê6|C¹§{cFá«%¢<¡VÌ¾t½ØÄ</ÖXùÕêcG{^¶óßŒçˆ6Hk&ı¯‹ŒOÅÁ]x}U¶)c©÷â 9‹õQcåŠÖMSÕç·ØTnıé×Cä‹ÔÖkK‘Îu˜›í?*~‚>å·²HÏ|ÁŠ‡—…lÜzv%ıŸŠŒ°–RšŒXoJ—ø'‘xştdDªÍuø:2´×›¦êıW‘Ó‘™šÓ‘x¬Ãt»øgd$h÷HZı‰ÚxÊ]:ıĞ Ø.Ó øgd^ÕPœşı92‚ï«Èˆ³³ØCF u¼Èˆ<oæ_–ófıà#Q*Üüálé×©•³©ÒYøƒ³©éøŠ€e|„«ËAy§¾Ñ!ÂóÓ—XöŸKÿL•Ï–şeğ-¸o¥¶ÏÆClMıÎtù_óÍÆä,şÏíÅÌFAìšŒØ…òFxyù³pí³)©Y?øí(¯'=ÛrŞìØÂ¾}JùY}©{“W÷4ê7ĞêëŞ˜(/ˆ—WóVøgûèÄ=û—ÿûYsşÆz¾÷ùo34:›Š[ô%5…òæòÖM¥ÚŒ¿¤²¾¤gKW}IİZô%µd¶s¨[†§ŞÌ¶òÓlJm¶ÆŸ¥#(µWC¥Õ¼ÔAÔ¯Âr<•;g<Û|£•}³yÏQŞ±¿ağOSa³så5;6³»gz®—ısÊş_™Z.ë8óù3Zá>(â{‘bÀïäØ4iğqR…óÂ˜€k ŸaúOâıÃã‚À"Šâ²)ÂR-<h#Sm™ÅÆÈ&e£ÿ† KµYüÔ(±!‰(c¡¡eCdxdŒ¥šº!ïOÄDx:Gùo‰Ød©f¨ÿ¥ ,(&b:µ°Œia°,%x)¼#ôµ>‹è ~Q<{1ôW¥Q~ÇZ|¦ÁZOH‰Ø‰tü.àİ–!Ì ÍğYæ;Ào3r›ü´³‹C‡ JÿóîŞ½ûYrƒûª®øÉ‘¹lMĞ˜áUÂ5JÌäÓ~b{€=çú»
+–úEª9g~x«=!î® ~å¹86dKSFyŸ‘Òd×¼¢ç¬íQ“ğ³q
+œâÇ‰ÁC3_y°f®ßIš/²¡¿FFxí d¾‹~2Éë¨vøâÁÇD®~Aö„¡X½Ot(.u,ä‹ş]—"ü²3cL„;3B‘¿ğãÇÿ_#Äo"Î°··Hä­×¿1°ã²3_h©^¡Z¢HŸ›½	…ˆß3ç5½x‚€PZ«/ÿ>ó®YöŒŠdA>Íí«3 ‘["şV‚—ñ²Ø ğ øm¨/ÿL`H¬@8‚áu"‚á7‡}'!ß „¨˜ipãoµ<MpDÁ‰‚LLäX.¬Œ~‹ÁwÉ|WQ~' © ‘µUâ.^ğ>ôR{†~æ Â§Aww7À:‡ŒÚˆ	gkØŸ²6´%ãØúï¨?'Øs¯“fEüKµ7IfD!ğ_VQ@r?‹Aµ$@å_-ŠØÌ¢Ìù/…€wû?º(øÄ‰ò&N#™şñh|j(ƒ„Tò9§5¨èı¯hc‘oˆI5OåÔ÷«Ì‹Gğ÷"Kœ$lùMdõ÷ÕDxaÄSÿˆ}áüäŠ”¯¶|ù[.Œ÷+QXiØç_‰ƒh#wãkÖöù·Q·¦‹FKš¤:á3ÁÁI#üÚK?7ÓAH$ƒ€oÚ) aü1>¿„>=F¾$,©6»6­<öÖjÍm-	+Üqªõ¨xœjM’0v+^š‹>«~)®ÁJè³X}–Â÷µ`‚+bBüÃñû4çä0–è?Ù”r˜¥ğ¶ZàÊpjÔ›@Í'–e»_ ‚5ôØ"‹•;ÉZğÇäÊ”#)ÂÛ\‚ñ ."Ív¯QÁåOys—Åëd:
+8“ÇÅˆKpe]äŒdY9}k#%*Ék¦ÿ¿ƒ2ø†š–NèÃHŸ²"<œâ²)˜Kq
+ŠŠ‰Gó™ €"BOë@*9ï)«xyŒ†a03[ä¿ÎÁ}ÊşmmĞŞÃ×FéËÚü7—Eö«pÌä¾Âuó5fr­ SZÛ¿í;d2¦âûNÄóhi‚‚|h@J·üÁıGúÛn”Å¿ø@îßğ$y`†0ÃƒĞÎÂµ$`ô¤{sgY/äN&Eh5KY7³¸Ê)C'F„;Xê2åÅNUL8Öƒ­¶CõUP}E`”d{îóûRu€Çã:¥ú‚Cz1hW~ÁM§¹¨WoÔ¸ª„~¥
+Úb¨k$y\F—ßR¸üæCÀø}p›b‚bc}7oøJ|+ÁfÿØ°Ä•aíè¡%À•8â,ÁÈ÷zÎ¥5ÏY+?_½zBN^°1ò×ÛM¯]¸>›™œX‹êk¡ú*`«ó¤ÏğŞB9Şı‹Ü+Îg9Ş‹kLï¯¹Èì§#X„ÌÛDÓCS_`>xWÏp\0PĞ‚ıÉI…ğu‰ò‹š^TøÆ‚ü	Î[Æ¨pÿ­ÓBhŞ¿X¿+`‹>U¿›´§’í€lĞí¸¦ğÓ»ÿ·)ø,rµ¥†„òßèO_	™iMŠ„ù4ø•ËôgÆÅ~S*şML«şaû¯åÂ·d¯)åÿ
+tVnÿk	LâÑŒïêğ«8&32[åª£ü+‚øÔÂ‰
+6„Gn@d%(ç¡*üœ€iø¿îõé–P,ô[åìÃgL m(Yí+‚òxe~$ñ[% ç]+pÙoÅŒ ´‘…HS|ş*–…¦™ˆäÙ—iERGfË¿§ Ä™V‘	¨D/CK]üÄšŞ­¨	BA±?Ã5•+ŞóøMôÓ#Z„g¡|üşõÏât”ÏÆÇ¹YCD„>â·á±úôØ ¸ÀÈ™IQÊ&ÃqË»ùîËJÙ‘˜ Møó1+ÃıccÁIµúwıÛVÑø¦qÿG2xùoU„¯ô5mÉ[¯lÄŠÜB7á€²0;oÿxÈ¢ÿhÈÓ
+ß?h_Åÿ ’ÀhHTTP/1.1 200 OK
+Cache-Control: max-age=3600
+Date: Tue, 22 Jul 2008 04:35:44 GMT
+Content-Length: 28389
+Content-Type: application/x-javascript
+Expires: Tue, 22 Jul 2008 05:05:08 GMT
+Last-Modified: Mon, 23 Jun 2008 15:05:20 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+/* SiteCatalyst code version: H.10.
+Copyright 1997-2007 Omniture, Inc. More info available at
+http://www.omniture.com */
+/************************ ADDITIONAL FEATURES ************************
+     Plugins
+*/
+/* Specify the Report Suite ID(s) to track here */
+var s_account="cnn2global"
+var s=s_gi(s_account)
+/************************** CONFIG SECTION **************************/
+/* You may add or alter any code config here. */
+/* Link Tracking Config */
+s.trackDownloadLinks=true
+s.trackExternalLinks=true
+s.trackInlineStats=true
+s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls"
+s.linkInternalFilters="javascript:,cnn"
+s.linkLeaveQueryString=false
+s.linkTrackVars="None"
+s.linkTrackEvents="None"
+/* Plugin Config */
+s.usePlugins=true
+function s_doPlugins(s) {
+	/* Add calls to plugins here */
+	s.campaign=s.getQueryParam('pks');
+	s.campaign=s.getQueryParam('cid');
+	var url1=s.linkHandler('/time/','e');
+	var url2=s.linkHandler('cnn.com/money/','e');
+	var url3=s.linkHandler('/si/','e');
+	var url4=s.linkHandler('/ew/','e');
+	var url5=s.linkHandler('/lawyers/','e');
+	var url6=s.linkHandler('/popsci/','e');
+	var url7=s.linkHandler('/southernaccents/','e');
+	var url8=s.linkHandler('/parenting/','e');
+	var url9=s.linkHandler('/cookinglight/','e');
+	var url10=s.linkHandler('/budgettravel/','e');
+	var url11=s.linkHandler('/healthmag/','e');
+	var url12=s.linkHandler('/cottageliving/','e');
+	var url13=s.linkHandler('/sunset/','e');
+	var url14=s.linkHandler('/southern/','e');
+	var url15=s.linkHandler('/coastal/','e');
+	var url16=s.linkHandler('/peoplemag/','e');
+	var url17=s.linkHandler('/travelandleisure/','e');
+	var url18=s.linkHandler('/international/','e');
+	var url19=s.linkHandler('/intl/','e');
+	var url20=s.linkHandler('/healthologyvid/','e');
+	var url21=s.linkHandler('/careerbuilder/','e');
+	var url22=s.linkHandler('/fortune/','e');
+	var url23=s.linkHandler('/ewhome/','e');
+	var url24=s.linkHandler('/ewpop/','e');
+	var url25=s.linkHandler('/healthologycom/','e');
+	var url26=s.linkHandler('/healthologynet/','e');
+	var url27=s.linkHandler('/instyle/','e');
+	var url28=s.linkHandler('/mayo/','e');
+	var url29=s.linkHandler('/medpage/','e');
+	var url30=s.linkHandler('/shc/','e');
+	var url31=s.linkHandler('/cnnsi/','e');
+	var url32=s.linkHandler('/sports/','e');
+	var url33=s.linkHandler('/sportstonight/','e');
+	var url34=s.linkHandler('/interactiveworld/','e');
+	var url35=s.linkHandler('/cnet/','e');
+	var url36=s.linkHandler('/cnnfn/','e');
+	var url37=s.linkHandler('/people/','e');
+	var url38=s.linkHandler('/newfrontier/','e');
+	var url39=s.linkHandler('edition.cnn.com','e');
+	var url40=s.linkHandler('money.cnn.com','e');
+	var url41=s.linkHandler('sportsillustrated.cnn.com','e');
+	var url42=s.linkHandler('topix.net','e');
+	var url43=s.linkHandler('us.cnn.com/money/','e');
+	var url44=s.linkHandler('edition.cnn.com/money/','e');
+	var url45=s.linkHandler('www.cnn.com/money/','e');
+	var url46=s.linkHandler('/arabic/','e');
+	var url47=s.linkHandler('arabic.cnn.com/','e');
+	
+/* Set days since last visit */
+s.prop13=s.getDaysSinceLastVisit();
+s.eVar14 = s.prop13;
+/* Set days since last visit on all pages if found */
+s.prop13=s.getAndPersistValue(s.prop13,'s_dslv',0);	
+
+/* Set visit num by month */
+s.prop12=s.getVisitNum();
+s.eVar13 = s.prop12;
+
+/* Check for special branding */
+if (typeof(cnnOmniBranding) != "undefined") {s.prop16=cnnOmniBranding;}
+
+/* Check for query strings */
+s.eVar9 = cnnQueryParam('iref');
+s.prop14 = cnnQueryParam('pc');
+s.eVar15 = s.prop14;
+s.prop15 = cnnQueryParam('eref');
+s.eVar16 = s.prop15;
+s.eVar24 = cnnQueryParam('pks');
+s.eVar24 = cnnQueryParam('cid');
+if (s.pageName == "CNN Home Page") {
+if (cnnQueryParam('refresh') == "1") {s.eVar9 = "AutoRefresh";}}
+s.prop17 = s.eVar9;
+
+/* Calculate time of day */
+if (typeof(cnnCurrMin) != "undefined") {
+var cnnOmniMint = '00';
+if (cnnCurrMin>15&&cnnCurrMin<30) {
+cnnOmniMint='15';
+} if (cnnCurrMin>30&&cnnCurrMin<45) {
+cnnOmniMint='30';
+} if (cnnCurrMin>45&&cnnCurrMin<60) {
+cnnOmniMint='45';
+}}
+if (typeof(cnnCurrHour) != "undefined") {
+if (cnnCurrHour<10) {
+var cnnOmniHour = '0' + cnnCurrHour;s.prop20=cnnOmniHour;} 
+else {cnnOmniHour = cnnCurrHour;s.prop20=cnnOmniHour;}} 
+if (typeof(cnnCurrHour) != "undefined"){var cnnOmniTime = cnnOmniHour + ":" + cnnOmniMint;}
+if (typeof(cnnOmniTime) != "undefined") {
+s.prop9=cnnOmniTime;
+} else {
+s.prop9="";}
+if (typeof(cnnCurrDay) != "undefined") {s.prop10=cnnCurrDay;} else {s.prop10="";}
+
+/* Check flash version */
+if (typeof(CNN_FlashDetect) != "undefined") {
+s.prop18 = parseInt(CNN_FlashDetect.prototype.getVersion());}
+
+}
+s.doPlugins=s_doPlugins
+/************************** PLUGINS SECTION *************************/
+/* You may insert any plugins you wish to use here.                 */
+/*
+ * Script to check duplicate sphere tracking clicks
+ */
+var cnnProdMore = 0;
+function cnnImpressionCheck() {
+if (cnnProdMore>0){} else
+{
+cnnProdMore = cnnProdMore + 1;
+var s=s_gi(s_account);s.linkTrackVars='events,products';s.linkTrackEvents='event1';s.events='event1';s.products=';Sphere:From the blogs;;;event1=1;evar23='+ cnnSectionName;void(s.tl(this,'o','Sphere Blogs Impression'));}
+}
+
+/*
+ * Script to check for products
+ */
+
+function ProductCheck(arr){
+	var returnStr = '';
+	var cnnProductEvent = '';
+	for (var i = 0; i < arr.length; i++)
+	{
+			if (typeof(cnnSectionName) == "undefined")
+			{
+				returnStr += ";"+arr[i]+";;;event1=1;"
+				cnnProductEvent = "event1";
+				if(i != arr.length-1)
+				{
+				returnStr += ',';
+				}
+			} else 
+			{
+				returnStr += ";"+arr[i]+";;;event1=1;evar23="+cnnSectionName;
+				cnnProductEvent = "event1";
+				if(i != arr.length-1)
+				{
+				returnStr += ',';
+				}
+			}
+	}
+	s.products = returnStr;
+	s.events = cnnProductEvent;
+}
+
+if (typeof(cnnProducts) != "undefined")
+{
+ProductCheck(cnnProducts);
+} else {}
+
+/*
+ * Plugin: getQueryParam 2.1 - return query string parameter(s)
+ */
+s.getQueryParam=new Function("p","d","u",""
++"var s=this,v='',i,t;d=d?d:'';u=u?u:(s.pageURL?s.pageURL:s.wd.locati"
++"on);if(u=='f')u=s.gtfs().location;while(p){i=p.indexOf(',');i=i<0?p"
++".length:i;t=s.p_gpv(p.substring(0,i),u+'');if(t)v+=v?d+t:t;p=p.subs"
++"tring(i==p.length?i:i+1)}return v");
+s.p_gpv=new Function("k","u",""
++"var s=this,v='',i=u.indexOf('?'),q;if(k&&i>-1){q=u.substring(i+1);v"
++"=s.pt(q,'&','p_gvf',k)}return v");
+s.p_gvf=new Function("t","k",""
++"if(t){var s=this,i=t.indexOf('='),p=i<0?t:t.substring(0,i),v=i<0?'T"
++"rue':t.substring(i+1);if(p.toLowerCase()==k.toLowerCase())return s."
++"epa(v)}return ''");
+
+/*
+ * Plugin: CNN QueryParam 1.0  - return query string parameter(s)
+ */
+function cnnQueryParam(param) {
+	var cnnQueryString = window.location.search.substring(1);
+	var returnValue = '';
+	var keyValPairs = cnnQueryString.split('&');
+    if(!keyValPairs) { keyValPairs = new Array();  
+    	keyValPairs[keyValPairs.length]=cnnQueryString}
+    		for(var counter=0;counter<keyValPairs.length;counter++) {
+				var keyVal = keyValPairs[counter].split('=');
+					if(keyVal[0]==param) {
+						returnValue = keyVal[1];
+						break; 
+					}
+			}
+    return returnValue;
+}
+
+
+/*
+ * Plugin: linkHandler 0.5 - identify and report custom links
+ */
+s.linkHandler=new Function("p","t",""
++"var s=this,h=s.p_gh(),i,l;t=t?t:'o';if(!h||(s.linkType&&(h||s.linkN"
++"ame)))return '';i=h.indexOf('?');h=s.linkLeaveQueryString||i<0?h:h."
++"substring(0,i);l=s.pt(p,'|','p_gn',h.toLowerCase());if(l){s.linkNam"
++"e=l=='[['?'':l;s.linkType=t;return h;}return '';");
+s.p_gn=new Function("t","h",""
++"var i=t?t.indexOf('~'):-1,n,x;if(t&&h){n=i<0?'':t.substring(0,i);x="
++"t.substring(i+1);if(h.indexOf(x.toLowerCase())>-1)return n?n:'[[';}"
++"return 0;");
+/*
+ * Utility Function: p_gh
+ */
+s.p_gh=new Function(""
++"var s=this;if(!s.eo&&!s.lnk)return '';var o=s.eo?s.eo:s.lnk,y=s.ot("
++"o),n=s.oid(o),x=o.s_oidt;if(s.eo&&o==s.eo){while(o&&!n&&y!='BODY'){"
++"o=o.parentElement?o.parentElement:o.parentNode;if(!o)return '';y=s."
++"ot(o);n=s.oid(o);x=o.s_oidt}}return o.href?o.href:'';");
+
+
+/*
+ * Plugin: getAndPersistValue 0.3 - get a value on every page
+ */
+s.getAndPersistValue=new Function("v","c","e",""
++"var s=this,a=new Date;e=e?e:0;a.setTime(a.getTime()+e*86400000);if("
++"v)s.c_w(c,v,e?a:0);return s.c_r(c);");
+
+/*
+ * Plugin: Days since last Visit 1.0.H
+ */
+s.getDaysSinceLastVisit=new Function(""
++"var s=this,e=new Date(),cval,ct=e.getTime(),c='s_lastvisit',day=24*"
++"60*60*1000;e.setTime(ct+3*365*day);cval=s.c_r(c);if(!cval){s.c_w(c,"
++"ct,e);return 'First page view or cookies not supported';}else{var d"
++"=ct-cval;if(d>30*60*1000){if(d>30*day){s.c_w(c,ct,e);return 'More t"
++"han 30 days';}if(d<30*day+1 && d>7*day){s.c_w(c,ct,e);return 'More "
++"than 7 days';}if(d<7*day+1 && d>day){s.c_w(c,ct,e);return 'Less tha"
++"n 7 days';}if(d<day+1){s.c_w(c,ct,e);return 'Less than 1 day';}}els"
++"e return '';}"
+);
+
+
+/*                                                                  
+ * Plugin: Visit Number By Month 2.0 - Return the user visit number 
+ */
+s.getVisitNum=new Function(""
++"var s=this,e=new Date(),cval,cvisit,ct=e.getTime(),c='s_vnum',c2='s"
++"_invisit';e.setTime(ct+30*24*60*60*1000);cval=s.c_r(c);if(cval){var"
++" i=cval.indexOf('&vn='),str=cval.substring(i+4,cval.length),k;}cvis"
++"it=s.c_r(c2);if(cvisit){if(str){e.setTime(ct+30*60*1000);s.c_w(c2,'"
++"true',e);return str;}else return 'unknown visit number';}else{if(st"
++"r){str++;k=cval.substring(0,i);e.setTime(k);s.c_w(c,k+'&vn='+str,e)"
++";e.setTime(ct+30*60*1000);s.c_w(c2,'true',e);return str;}else{s.c_w"
++"(c,ct+30*24*60*60*1000+'&vn=1',e);e.setTime(ct+30*60*1000);s.c_w(c2"
++",'true',e);return 1;}}"
+);
+
+/*
+ * Function - read combined cookies v 0.2
+ */
+s.c_rr=s.c_r;
+s.c_r=new Function("k",""
++"var s=this,d=new Date,v=s.c_rr(k),c=s.c_rr('s_pers'),i,m,e;if(v)ret"
++"urn v;k=s.ape(k);i=c.indexOf(' '+k+'=');c=i<0?s.c_rr('s_sess'):c;i="
++"c.indexOf(' '+k+'=');m=i<0?i:c.indexOf('|',i);e=i<0?i:c.indexOf(';'"
++",i);m=m>0?m:e;v=i<0?'':s.epa(c.substring(i+2+k.length,m<0?c.length:"
++"m));if(m>0&&m!=e)if(parseInt(c.substring(m+1,e<0?c.length:e))<d.get"
++"Time()){d.setTime(d.getTime()-60000);s.c_w(s.epa(k),'',d);v='';}ret"
++"urn v;");
+/*
+ * Function - write combined cookies v 0.2
+ */
+s.c_wr=s.c_w;
+s.c_w=new Function("k","v","e",""
++"var s=this,d=new Date,ht=0,pn='s_pers',sn='s_sess',pc=0,sc=0,pv,sv,"
++"c,i,t;d.setTime(d.getTime()-60000);if(s.c_rr(k)) s.c_wr(k,'',d);k=s"
++".ape(k);pv=s.c_rr(pn);i=pv.indexOf(' '+k+'=');if(i>-1){pv=pv.substr"
++"ing(0,i)+pv.substring(pv.indexOf(';',i)+1);pc=1;}sv=s.c_rr(sn);i=sv"
++".indexOf(' '+k+'=');if(i>-1){sv=sv.substring(0,i)+sv.substring(sv.i"
++"ndexOf(';',i)+1);sc=1;}d=new Date;if(e){if(e.getTime()>d.getTime())"
++"{pv+=' '+k+'='+s.ape(v)+'|'+e.getTime()+';';pc=1;}}else{sv+=' '+k+'"
++"='+s.ape(v)+';';sc=1;}if(sc) s.c_wr(sn,sv,0);if(pc){t=pv;while(t&&t"
++".indexOf(';')!=-1){var t1=parseInt(t.substring(t.indexOf('|')+1,t.i"
++"ndexOf(';')));t=t.substring(t.indexOf(';')+1);ht=ht<t1?t1:ht;}d.set"
++"Time(ht);s.c_wr(pn,pv,d);}return v==s.c_r(s.epa(k));");
+
+
+/* WARNING: Changing the visitor namespace will cause drastic changes
+to how your visitor data is collected.  Changes should only be made
+when instructed to do so by your account manager.*/
+s.trackingServerSecure="smetrics.cnn.com"
+s.visitorNamespace="cnn"
+s.trackingServer="metrics.cnn.com"
+s.dc=122
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_objectID;function s_c2fe(f){var x='',s=0,e,a,b,c;while(1){e=
+f.indexOf('"',s);b=f.indexOf('\\',s);c=f.indexOf("\n",s);if(e<0||(b>=
+0&&b<e))e=b;if(e<0||(c>=0&&c<e))e=c;if(e>=0){x+=(e>s?f.substring(s,e):
+'')+(e==c?'\\n':'\\'+f.substring(e,e+1));s=e+1}else return x
++f.substring(s)}return f}function s_c2fa(f){var s=f.indexOf('(')+1,e=
+f.indexOf(')'),a='',c;while(s>=0&&s<e){c=f.substring(s,s+1);if(c==',')
+a+='","';else if(("\n\r\t ").indexOf(c)<0)a+=c;s++}return a?'"'+a+'"':
+a}function s_c2f(cc){cc=''+cc;var fc='var f=new Function(',s=
+cc.indexOf(';',cc.indexOf('{')),e=cc.lastIndexOf('}'),o,a,d,q,c,f,h,x
+fc+=s_c2fa(cc)+',"var s=new Object;';c=cc.substring(s+1,e);s=
+c.indexOf('function');while(s>=0){d=1;q='';x=0;f=c.substring(s);a=
+s_c2fa(f);e=o=c.indexOf('{',s);e++;while(d>0){h=c.substring(e,e+1);if(
+q){if(h==q&&!x)q='';if(h=='\\')x=x?0:1;else x=0}else{if(h=='"'||h=="'"
+)q=h;if(h=='{')d++;if(h=='}')d--}if(d>0)e++}c=c.substring(0,s)
++'new Function('+(a?a+',':'')+'"'+s_c2fe(c.substring(o+1,e))+'")'
++c.substring(e+1);s=c.indexOf('function')}fc+=s_c2fe(c)+';return s");'
+eval(fc);return f}function s_gi(un,pg,ss){var c="function s_c(un,pg,s"
++"s){var s=this;s.wd=window;if(!s.wd.s_c_in){s.wd.s_c_il=new Array;s."
++"wd.s_c_in=0;}s._il=s.wd.s_c_il;s._in=s.wd.s_c_in;s._il[s._in]=s;s.w"
++"d.s_c_in++;s.m=function(m){return (''+m).indexOf('{')<0};s.fl=funct"
++"ion(x,l){return x?(''+x).substring(0,l):x};s.co=function(o){if(!o)r"
++"eturn o;var n=new Object,x;for(x in o)if(x.indexOf('select')<0&&x.i"
++"ndexOf('filter')<0)n[x]=o[x];return n};s.num=function(x){x=''+x;for"
++"(var p=0;p<x.length;p++)if(('0123456789').indexOf(x.substring(p,p+1"
++"))<0)return 0;return 1};s.rep=function(x,o,n){var i=x.indexOf(o);wh"
++"ile(x&&i>=0){x=x.substring(0,i)+n+x.substring(i+o.length);i=x.index"
++"Of(o,i+n.length)}return x};s.ape=function(x){var s=this,h='01234567"
++"89ABCDEF',i,c=s.charSet,n,l,e,y='';c=c?c.toUpperCase():'';if(x){x='"
++"'+x;if(c=='AUTO'&&('').charCodeAt){for(i=0;i<x.length;i++){c=x.subs"
++"tring(i,i+1);n=x.charCodeAt(i);if(n>127){l=0;e='';while(n||l<4){e=h"
++".substring(n%16,n%16+1)+e;n=parseInt(n/16);l++}y+='%u'+e}else if(c="
++"='+')y+='%2B';else y+=escape(c)}x=y}else{x=x?s.rep(escape(''+x),'+'"
++",'%2B'):x;if(x&&c&&s.em==1&&x.indexOf('%u')<0&&x.indexOf('%U')<0){i"
++"=x.indexOf('%');while(i>=0){i++;if(h.substring(8).indexOf(x.substri"
++"ng(i,i+1).toUpperCase())>=0)return x.substring(0,i)+'u00'+x.substri"
++"ng(i);i=x.indexOf('%',i)}}}}return x};s.epa=function(x){var s=this;"
++"return x?unescape(s.rep(''+x,'+',' ')):x};s.pt=function(x,d,f,a){va"
++"r s=this,t=x,z=0,y,r;while(t){y=t.indexOf(d);y=y<0?t.length:y;t=t.s"
++"ubstring(0,y);r=s.m(f)?s[f](t,a):f(t,a);if(r)return r;z+=y+d.length"
++";t=x.substring(z,x.length);t=z<x.length?t:''}return ''};s.isf=funct"
++"ion(t,a){var c=a.indexOf(':');if(c>=0)a=a.substring(0,c);if(t.subst"
++"ring(0,2)=='s_')t=t.substring(2);return (t!=''&&t==a)};s.fsf=functi"
++"on(t,a){var s=this;if(s.pt(a,',','isf',t))s.fsg+=(s.fsg!=''?',':'')"
++"+t;return 0};s.fs=function(x,f){var s=this;s.fsg='';s.pt(x,',','fsf"
++"',f);return s.fsg};s.c_d='';s.c_gdf=function(t,a){var s=this;if(!s."
++"num(t))return 1;return 0};s.c_gd=function(){var s=this,d=s.wd.locat"
++"ion.hostname,n=s.fpCookieDomainPeriods,p;if(!n)n=s.cookieDomainPeri"
++"ods;if(d&&!s.c_d){n=n?parseInt(n):2;n=n>2?n:2;p=d.lastIndexOf('.');"
++"if(p>=0){while(p>=0&&n>1){p=d.lastIndexOf('.',p-1);n--}s.c_d=p>0&&s"
++".pt(d,'.','c_gdf',0)?d.substring(p):d}}return s.c_d};s.c_r=function"
++"(k){var s=this;k=s.ape(k);var c=' '+s.d.cookie,i=c.indexOf(' '+k+'="
++"'),e=i<0?i:c.indexOf(';',i),v=i<0?'':s.epa(c.substring(i+2+k.length"
++",e<0?c.length:e));return v!='[[B]]'?v:''};s.c_w=function(k,v,e){var"
++" s=this,d=s.c_gd(),l=s.cookieLifetime,t;v=''+v;l=l?(''+l).toUpperCa"
++"se():'';if(e&&l!='SESSION'&&l!='NONE'){t=(v!=''?parseInt(l?l:0):-60"
++");if(t){e=new Date;e.setTime(e.getTime()+(t*1000))}}if(k&&l!='NONE'"
++"){s.d.cookie=k+'='+s.ape(v!=''?v:'[[B]]')+'; path=/;'+(e&&l!='SESSI"
++"ON'?' expires='+e.toGMTString()+';':'')+(d?' domain='+d+';':'');ret"
++"urn s.c_r(k)==v}return 0};s.eh=function(o,e,r,f){var s=this,b='s_'+"
++"e+'_'+s._in,n=-1,l,i,x;if(!s.ehl)s.ehl=new Array;l=s.ehl;for(i=0;i<"
++"l.length&&n<0;i++){if(l[i].o==o&&l[i].e==e)n=i}if(n<0){n=i;l[n]=new"
++" Object}x=l[n];x.o=o;x.e=e;f=r?x.b:f;if(r||f){x.b=r?0:o[e];x.o[e]=f"
++"}if(x.b){x.o[b]=x.b;return b}return 0};s.cet=function(f,a,t,o,b){va"
++"r s=this,r;if(s.apv>=5&&(!s.isopera||s.apv>=7))eval('try{r=s.m(f)?s"
++"[f](a):f(a)}catch(e){r=s.m(t)?s[t](e):t(e)}');else{if(s.ismac&&s.u."
++"indexOf('MSIE 4')>=0)r=s.m(b)?s[b](a):b(a);else{s.eh(s.wd,'onerror'"
++",0,o);r=s.m(f)?s[f](a):f(a);s.eh(s.wd,'onerror',1)}}return r};s.gtf"
++"set=function(e){var s=this;return s.tfs};s.gtfsoe=new Function('e',"
++"'var s=s_c_il['+s._in+'];s.eh(window,\"onerror\",1);s.etfs=1;var c="
++"s.t();if(c)s.d.write(c);s.etfs=0;return true');s.gtfsfb=function(a)"
++"{return window};s.gtfsf=function(w){var s=this,p=w.parent,l=w.locat"
++"ion;s.tfs=w;if(p&&p.location!=l&&p.location.host==l.host){s.tfs=p;r"
++"eturn s.gtfsf(s.tfs)}return s.tfs};s.gtfs=function(){var s=this;if("
++"!s.tfs){s.tfs=s.wd;if(!s.etfs)s.tfs=s.cet('gtfsf',s.tfs,'gtfset',s."
++"gtfsoe,'gtfsfb')}return s.tfs};s.mr=function(sess,q,ta){var s=this,"
++"dc=s.dc,t1=s.trackingServer,t2=s.trackingServerSecure,ns=s.visitorN"
++"amespace,unc=s.rep(s.fun,'_','-'),imn='s_i_'+s.fun,im,b,e,rs='http'"
++"+(s.ssl?'s':'')+'://'+(t1?(s.ssl&&t2?t2:t1):((ns?ns:(s.ssl?'102':un"
++"c))+'.'+(s.dc?s.dc:112)+'.2o7.net'))+'/b/ss/'+s.un+'/1/H.10-pdvu-2/"
++"'+sess+'?[AQB]&ndh=1'+(q?q:'')+(s.q?s.q:'')+'&[AQE]';if(s.isie&&!s."
++"ismac){if(s.apv>5.5)rs=s.fl(rs,4095);else rs=s.fl(rs,2047)}if(s.d.i"
++"mages&&s.apv>=3&&(!s.isopera||s.apv>=7)&&(s.ns6<0||s.apv>=6.1)){im="
++"s.wd[imn];if(!im)im=s.wd[imn]=new Image;im.src=rs;if(rs.indexOf('&p"
++"e=')>=0&&(!ta||ta=='_self'||ta=='_top'||(s.wd.name&&ta==s.wd.name))"
++"){b=e=new Date;while(e.getTime()-b.getTime()<500)e=new Date}return "
++"''}return '<im'+'g sr'+'c=\"'+rs+'\" width=1 height=1 border=0 alt="
++"\"\">'};s.gg=function(v){var s=this;return s.wd['s_'+v]};s.glf=func"
++"tion(t,a){if(t.substring(0,2)=='s_')t=t.substring(2);var s=this,v=s"
++".gg(t);if(v)s[t]=v};s.gl=function(v){var s=this;if(s.pg)s.pt(v,',',"
++"'glf',0)};s.gv=function(v){var s=this;return s['vpm_'+v]?s['vpv_'+v"
++"]:(s[v]?s[v]:'')};s.havf=function(t,a){var s=this,b=t.substring(0,4"
++"),x=t.substring(4),n=parseInt(x),k='g_'+t,m='vpm_'+t,q=t,v=s.linkTr"
++"ackVars,e=s.linkTrackEvents;s[k]=s.gv(t);if(s.lnk||s.eo){v=v?v+','+"
++"s.vl_l:'';if(v&&!s.pt(v,',','isf',t))s[k]='';if(t=='events'&&e)s[k]"
++"=s.fs(s[k],e)}s[m]=0;if(t=='visitorID')q='vid';else if(t=='pageURL'"
++"){q='g';s[k]=s.fl(s[k],255)}else if(t=='referrer'){q='r';s[k]=s.fl("
++"s[k],255)}else if(t=='vmk')q='vmt';else if(t=='charSet'){q='ce';if("
++"s[k]&&s[k].toUpperCase()=='AUTO')s[k]='ISO8859-1';else if(s[k]&&s.e"
++"m==2)s[k]='UTF-8'}else if(t=='visitorNamespace')q='ns';else if(t=='"
++"cookieDomainPeriods')q='cdp';else if(t=='cookieLifetime')q='cl';els"
++"e if(t=='variableProvider')q='vvp';else if(t=='currencyCode')q='cc'"
++";else if(t=='channel')q='ch';else if(t=='transactionID')q='xact';el"
++"se if(t=='campaign')q='v0';else if(s.num(x)){if(b=='prop')q='c'+n;e"
++"lse if(b=='eVar')q='v'+n;else if(b=='hier'){q='h'+n;s[k]=s.fl(s[k],"
++"255)}}if(s[k]&&t!='linkName'&&t!='linkType')s.qav+='&'+q+'='+s.ape("
++"s[k]);return ''};s.hav=function(){var s=this;s.qav='';s.pt(s.vl_t,'"
++",','havf',0);return s.qav};s.lnf=function(t,h){t=t?t.toLowerCase():"
++"'';h=h?h.toLowerCase():'';var te=t.indexOf('=');if(t&&te>0&&h.index"
++"Of(t.substring(te+1))>=0)return t.substring(0,te);return ''};s.ln=f"
++"unction(h){var s=this,n=s.linkNames;if(n)return s.pt(n,',','lnf',h)"
++";return ''};s.ltdf=function(t,h){t=t?t.toLowerCase():'';h=h?h.toLow"
++"erCase():'';var qi=h.indexOf('?');h=qi>=0?h.substring(0,qi):h;if(t&"
++"&h.substring(h.length-(t.length+1))=='.'+t)return 1;return 0};s.lte"
++"f=function(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';if(t&"
++"&h.indexOf(t)>=0)return 1;return 0};s.lt=function(h){var s=this,lft"
++"=s.linkDownloadFileTypes,lef=s.linkExternalFilters,lif=s.linkIntern"
++"alFilters;lif=lif?lif:s.wd.location.hostname;h=h.toLowerCase();if(s"
++".trackDownloadLinks&&lft&&s.pt(lft,',','ltdf',h))return 'd';if(s.tr"
++"ackExternalLinks&&(lef||lif)&&(!lef||s.pt(lef,',','ltef',h))&&(!lif"
++"||!s.pt(lif,',','ltef',h)))return 'e';return ''};s.lc=new Function("
++"'e','var s=s_c_il['+s._in+'],b=s.eh(this,\"onclick\");s.lnk=s.co(th"
++"is);s.t();s.lnk=0;if(b)return this[b](e);return true');s.bc=new Fun"
++"ction('e','var s=s_c_il['+s._in+'],f;if(s.d&&s.d.all&&s.d.all.cppXY"
++"ctnr)return;s.eo=e.srcElement?e.srcElement:e.target;eval(\"try{if(s"
++".eo&&(s.eo.tagName||s.eo.parentElement||s.eo.parentNode))s.t()}catc"
++"h(f){}\");s.eo=0');s.ot=function(o){var a=o.type,b=o.tagName;return"
++" (a&&a.toUpperCase?a:b&&b.toUpperCase?b:o.href?'A':'').toUpperCase("
++")};s.oid=function(o){var s=this,t=s.ot(o),p=o.protocol,c=o.onclick,"
++"n='',x=0;if(!o.s_oid){if(o.href&&(t=='A'||t=='AREA')&&(!c||!p||p.to"
++"LowerCase().indexOf('javascript')<0))n=o.href;else if(c){n=s.rep(s."
++"rep(s.rep(s.rep(''+c,\"\\r\",''),\"\\n\",''),\"\\t\",''),' ','');x="
++"2}else if(o.value&&(t=='INPUT'||t=='SUBMIT')){n=o.value;x=3}else if"
++"(o.src&&t=='IMAGE')n=o.src;if(n){o.s_oid=s.fl(n,100);o.s_oidt=x}}re"
++"turn o.s_oid};s.rqf=function(t,un){var s=this,e=t.indexOf('='),u=e>"
++"=0?','+t.substring(0,e)+',':'';return u&&u.indexOf(','+un+',')>=0?s"
++".epa(t.substring(e+1)):''};s.rq=function(un){var s=this,c=un.indexO"
++"f(','),v=s.c_r('s_sq'),q='';if(c<0)return s.pt(v,'&','rqf',un);retu"
++"rn s.pt(un,',','rq',0)};s.sqp=function(t,a){var s=this,e=t.indexOf("
++"'='),q=e<0?'':s.epa(t.substring(e+1));s.sqq[q]='';if(e>=0)s.pt(t.su"
++"bstring(0,e),',','sqs',q);return 0};s.sqs=function(un,q){var s=this"
++";s.squ[un]=q;return 0};s.sq=function(q){var s=this,k='s_sq',v=s.c_r"
++"(k),x,c=0;s.sqq=new Object;s.squ=new Object;s.sqq[q]='';s.pt(v,'&',"
++"'sqp',0);s.pt(s.un,',','sqs',q);v='';for(x in s.squ)s.sqq[s.squ[x]]"
++"+=(s.sqq[s.squ[x]]?',':'')+x;for(x in s.sqq)if(x&&s.sqq[x]&&(x==q||"
++"c<2)){v+=(v?'&':'')+s.sqq[x]+'='+s.ape(x);c++}return s.c_w(k,v,0)};"
++"s.wdl=new Function('e','var s=s_c_il['+s._in+'],r=true,b=s.eh(s.wd,"
++"\"onload\"),i,o,oc;if(b)r=this[b](e);for(i=0;i<s.d.links.length;i++"
++"){o=s.d.links[i];oc=o.onclick?\"\"+o.onclick:\"\";if((oc.indexOf(\""
++"s_gs(\")<0||oc.indexOf(\".s_oc(\")>=0)&&oc.indexOf(\".tl(\")<0)s.eh"
++"(o,\"onclick\",0,s.lc);}return r');s.wds=function(){var s=this;if(s"
++".apv>3&&(!s.isie||!s.ismac||s.apv>=5)){if(s.b&&s.b.attachEvent)s.b."
++"attachEvent('onclick',s.bc);else if(s.b&&s.b.addEventListener)s.b.a"
++"ddEventListener('click',s.bc,false);else s.eh(s.wd,'onload',0,s.wdl"
++")}};s.vs=function(x){var s=this,v=s.visitorSampling,g=s.visitorSamp"
++"lingGroup,k='s_vsn_'+s.un+(g?'_'+g:''),n=s.c_r(k),e=new Date,y=e.ge"
++"tYear();e.setYear(y+10+(y<1900?1900:0));if(v){v*=100;if(!n){if(!s.c"
++"_w(k,x,e))return 0;n=x}if(n%10000>v)return 0}return 1};s.dyasmf=fun"
++"ction(t,m){if(t&&m&&m.indexOf(t)>=0)return 1;return 0};s.dyasf=func"
++"tion(t,m){var s=this,i=t?t.indexOf('='):-1,n,x;if(i>=0&&m){var n=t."
++"substring(0,i),x=t.substring(i+1);if(s.pt(x,',','dyasmf',m))return "
++"n}return 0};s.uns=function(){var s=this,x=s.dynamicAccountSelection"
++",l=s.dynamicAccountList,m=s.dynamicAccountMatch,n,i;s.un.toLowerCas"
++"e();if(x&&l){if(!m)m=s.wd.location.host;if(!m.toLowerCase)m=''+m;l="
++"l.toLowerCase();m=m.toLowerCase();n=s.pt(l,';','dyasf',m);if(n)s.un"
++"=n}i=s.un.indexOf(',');s.fun=i<0?s.un:s.un.substring(0,i)};s.sa=fun"
++"ction(un){var s=this;s.un=un;if(!s.oun)s.oun=un;else if((','+s.oun+"
++"',').indexOf(un)<0)s.oun+=','+un;s.uns()};s.t=function(){var s=this"
++",trk=1,tm=new Date,sed=Math&&Math.random?Math.floor(Math.random()*1"
++"0000000000000):tm.getTime(),sess='s'+Math.floor(tm.getTime()/108000"
++"00)%10+sed,yr=tm.getYear(),vt=tm.getDate()+'/'+tm.getMonth()+'/'+(y"
++"r<1900?yr+1900:yr)+' '+tm.getHours()+':'+tm.getMinutes()+':'+tm.get"
++"Seconds()+' '+tm.getDay()+' '+tm.getTimezoneOffset(),tfs=s.gtfs(),t"
++"a='',q='',qs='';s.gl(s.vl_g);s.uns();if(!s.q){var tl=tfs.location,a"
++",o,i,x='',c='',v='',p='',bw='',bh='',j='1.0',k=s.c_w('s_cc','true',"
++"0)?'Y':'N',hp='',ct='',pn=0,ps;if(String&&String.prototype){j=\"1.1"
++"\";if(j.match){j=\"1.2\";if(tm.setUTCDate){j=\"1.3\";if(s.isie&&s.i"
++"smac&&s.apv>=5)j=\"1.4\";if(pn.toPrecision){j=\"1.5\";a=new Array;i"
++"f(a.forEach){j=\"1.6\";i=0;o=new Object;eval(\"try{i=new Iterator(o"
++")}catch(e){}\");if(i&&i.next)j=\"1.7\"}}}}}if(s.apv>=4)x=screen.wid"
++"th+'x'+screen.height;if(s.isns||s.isopera){if(s.apv>=3){v=s.n.javaE"
++"nabled()?'Y':'N';if(s.apv>=4){c=screen.pixelDepth;bw=s.wd.innerWidt"
++"h;bh=s.wd.innerHeight;}}s.pl=s.n.plugins}else if(s.isie){if(s.apv>="
++"4){v=s.n.javaEnabled()?'Y':'N';c=screen.colorDepth;if(s.apv>=5){bw="
++"s.d.documentElement.offsetWidth;bh=s.d.documentElement.offsetHeight"
++";if(!s.ismac&&s.b){eval(\"try{s.b.addBehavior('#default#homePage');"
++"hp=s.b.isHomePage(tl)?'Y':'N'}catch(e){}\");eval(\"try{s.b.addBehav"
++"ior('#default#clientCaps');ct=s.b.connectionType}catch(e){}\")}}}el"
++"se r=''}if(s.pl)while(pn<s.pl.length&&pn<30){ps=s.fl(s.pl[pn].name,"
++"100)+';';if(p.indexOf(ps)<0)p+=ps;pn++}s.q=(x?'&s='+s.ape(x):'')+(c"
++"?'&c='+s.ape(c):'')+(j?'&j='+j:'')+(v?'&v='+v:'')+(k?'&k='+k:'')+(b"
++"w?'&bw='+bw:'')+(bh?'&bh='+bh:'')+(ct?'&ct='+s.ape(ct):'')+(hp?'&hp"
++"='+hp:'')+(p?'&p='+s.ape(p):'')}if(s.usePlugins)s.doPlugins(s);var "
++"l=s.wd.location,r=tfs.document.referrer;if(!s.pageURL)s.pageURL=l;i"
++"f(!s.referrer)s.referrer=r;if(s.lnk||s.eo){var o=s.eo?s.eo:s.lnk;if"
++"(!o)return '';var p=s.gv('pageName'),w=1,t=s.ot(o),n=s.oid(o),x=o.s"
++"_oidt,h,l,i,oc;if(s.eo&&o==s.eo){while(o&&!n&&t!='BODY'){o=o.parent"
++"Element?o.parentElement:o.parentNode;if(!o)return '';t=s.ot(o);n=s."
++"oid(o);x=o.s_oidt}oc=o.onclick?''+o.onclick:'';if((oc.indexOf(\"s_g"
++"s(\")>=0&&oc.indexOf(\".s_oc(\")<0)||oc.indexOf(\".tl(\")>=0)return"
++" ''}ta=n?o.target:1;h=o.href?o.href:'';i=h.indexOf('?');h=s.linkLea"
++"veQueryString||i<0?h:h.substring(0,i);l=s.linkName?s.linkName:s.ln("
++"h);t=s.linkType?s.linkType.toLowerCase():s.lt(h);if(t&&(h||l))q+='&"
++"pe=lnk_'+(t=='d'||t=='e'?s.ape(t):'o')+(h?'&pev1='+s.ape(h):'')+(l?"
++"'&pev2='+s.ape(l):'');else trk=0;if(s.trackInlineStats){if(!p){p=s."
++"gv('pageURL');w=0}t=s.ot(o);i=o.sourceIndex;if(s.gg('objectID')){n="
++"s.gg('objectID');x=1;i=1}if(p&&n&&t)qs='&pid='+s.ape(s.fl(p,255))+("
++"w?'&pidt='+w:'')+'&oid='+s.ape(s.fl(n,100))+(x?'&oidt='+x:'')+'&ot="
++"'+s.ape(t)+(i?'&oi='+i:'')}}if(!trk&&!qs)return '';if(s.p_r)s.p_r()"
++";var code='';if(trk&&s.vs(sed))code=s.mr(sess,(vt?'&t='+s.ape(vt):'"
++"')+s.hav()+q+(qs?qs:s.rq(s.un)),ta);s.sq(trk?'':qs);s.lnk=s.eo=s.li"
++"nkName=s.linkType=s.wd.s_objectID=s.ppu='';if(s.pg)s.wd.s_lnk=s.wd."
++"s_eo=s.wd.s_linkName=s.wd.s_linkType='';return code};s.tl=function("
++"o,t,n){var s=this;s.lnk=s.co(o);s.linkType=t;s.linkName=n;s.t()};s."
++"ssl=(s.wd.location.protocol.toLowerCase().indexOf('https')>=0);s.d="
++"document;s.b=s.d.body;s.n=navigator;s.u=s.n.userAgent;s.ns6=s.u.ind"
++"exOf('Netscape6/');var apn=s.n.appName,v=s.n.appVersion,ie=v.indexO"
++"f('MSIE '),o=s.u.indexOf('Opera '),i;if(v.indexOf('Opera')>=0||o>0)"
++"apn='Opera';s.isie=(apn=='Microsoft Internet Explorer');s.isns=(apn"
++"=='Netscape');s.isopera=(apn=='Opera');s.ismac=(s.u.indexOf('Mac')>"
++"=0);if(o>0)s.apv=parseFloat(s.u.substring(o+6));else if(ie>0){s.apv"
++"=parseInt(i=v.substring(ie+5));if(s.apv>3)s.apv=parseFloat(i)}else "
++"if(s.ns6>0)s.apv=parseFloat(s.u.substring(s.ns6+10));else s.apv=par"
++"seFloat(v);s.em=0;if(String.fromCharCode){i=escape(String.fromCharC"
++"ode(256)).toUpperCase();s.em=(i=='%C4%80'?2:(i=='%U0100'?1:0))}s.sa"
++"(un);s.vl_l='visitorID,vmk,ppu,charSet,visitorNamespace,cookieDomai"
++"nPeriods,cookieLifetime,pageName,pageURL,referrer,currencyCode,purc"
++"haseID';s.vl_t=s.vl_l+',variableProvider,channel,server,pageType,tr"
++"ansactionID,campaign,state,zip,events,products,linkName,linkType';f"
++"or(var n=1;n<51;n++)s.vl_t+=',prop'+n+',eVar'+n+',hier'+n;s.vl_g=s."
++"vl_t+',trackDownloadLinks,trackExternalLinks,trackInlineStats,linkL"
++"eaveQueryString,linkDownloadFileTypes,linkExternalFilters,linkInter"
++"nalFilters,linkNames';s.pg=pg;s.gl(s.vl_g);if(!ss)s.wds()}",
+l=window.s_c_il,n=navigator,u=n.userAgent,v=n.appVersion,e=v.indexOf(
+'MSIE '),m=u.indexOf('Netscape6/'),a,i,s;if(l)for(i=0;i<l.length;i++){
+s=l[i];if(s.oun==un)return s;else if(s.fs(s.oun,un)){s.sa(un);return s
+}}if(e>0){a=parseInt(i=v.substring(e+5));if(a>3)a=parseFloat(i)}
+else if(m>0)a=parseFloat(u.substring(m+10));else a=parseFloat(v);if(a
+>=5&&v.indexOf('Opera')<0&&u.indexOf('Opera')<0){eval(c);return new
+s_c(un,pg,ss)}else s=s_c2f(c);return s(un,pg,ss)}function s_co(o){
+var s=s_gi("^",1,1);return s.co(o)}function s_gs(un){var s=s_gi(un,1,1
+);return s.t()}function s_dc(un){var s=s_gi(un,1);return s.t()}
+HTTP/1.1 200 OK
+Cache-Control: max-age=172800
+Date: Tue, 22 Jul 2008 04:35:45 GMT
+Content-Length: 1607
+Content-Type: image/jpeg
+Expires: Thu, 24 Jul 2008 01:45:52 GMT
+Last-Modified: Tue, 22 Jul 2008 01:01:09 GMT
+Accept-Ranges: bytes
+Server: Apache
+Connection: keep-alive
+
+ÿØÿà JFIF      ÿÛ C 		
+ $.' ",#(7),01444'9=82<.342ÿÛ C			2!!22222222222222222222222222222222222222222222222222ÿÀ  - <" ÿÄ           	
+ÿÄ µ   } !1AQa"q2‘¡#B±ÁRÑğ$3br‚	
+%&'()*456789:CDEFGHIJSTUVWXYZcdefghijstuvwxyzƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚáâãäåæçèéêñòóôõö÷øùúÿÄ        	
+ÿÄ µ  w !1AQaq"2B‘¡±Á	#3RğbrÑ
+$4á%ñ&'()*56789:CDEFGHIJSTUVWXYZcdefghijstuvwxyz‚ƒ„…†‡ˆ‰Š’“”•–—˜™š¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóôõö÷øùúÿÚ   ? Ç¶ø³®!„²ÙÊ
+º´{w0Ç‘‚1ì>cÇLwº7Ä-
+şXÖK¯³ÌÈ§«’9ºqïê1šğÒ³;”ÚÙ°2	Ï§~ÿ €üjE¸Ió–_—å úgåùRU$Œ>²·%‰Y[å=0i“²¨`¤×Ë±\J6åÀ]Ä€¯ş:?È§ËuvCÂ÷0ß¼£9<óÎãùÕ*ºˆúv(áà¹ˆïÒ¬,FÑĞzWÊ‚æaÆÿ ºC}ã€Ö–»ªY6ë]Fê[,bœà·^GCÓ¾j½¥÷é†u~8?ZŒd÷Àö¯Óş#x†Ês4÷1^ÀN
+H w
+ãë‘ÏJéâİª„™ÀÈ2ƒí€xªSAsÍ<;áıjo2vÊÕ
+ù×wQ“€qİ‰Õld×i?€tK4µ(Å°#…Hùpqää`xã¥`¦™§I+<É'–§"(¼µËvğTÇ‘Ó\é¶BV’İ#‘B¸QØÏà8>ÕÂ«ÓµÙ²äj÷2µ)a¿’;	¤»·ä+y|¹ÎTgaç£sÆO'I 01HÃuÈìÀ×Mg¦Ïo4—–×I¡£1 ‡îÜä8ö5&—¤6•)XîíNy‘n—qÚ«¤ò9ãŒsI×‡q?gÜÂ±Óîïæ{kHw6’@¤’Iìæ¤·Ñn¯Ù–ÏÊœÆ2È³!Àìz÷Ç×¥uwW7WSË$—³	YmŠ@€  >ñSÀÃ{AÖEäZıÊËqåI4l'İæ¾×fP¬zaxAÀÎ 
+{TëÓoŞv”R¼]Ì?"h7oW\‚0àÆúõÇãL£lÏ8ÅzÕÖ©-ÕÅİ±3M´Šy!ÎÀ¶7à üªk™½Óm%¼¦™o.­â İêkHÎ2øY6]Í'l!c
+ä°È-Û2;óÒ–3pc ğYs=	ç‘”Cnx˜ÈÄ¼_Ÿ»ŸëR´lLğù¬ªƒP2AãôÏéŞ¼u![ÈØHT¬®2N0Oºûsş8§f—,!1ªàí>`~ `úçÖ¡º™$0+›Œ¾ŞßÎ­Ëg	‡r‚¡rH©ı©¶·h9Wa#)ç‘0Ë–$ñƒ*xSEÉ_İÅnã< I Æ~”²0†Pˆ\n%NŒcŒ{ÓÑÌ’NO¨ÏéGº>DPŠõÖK…1;”;ëøœ{ş5V}bO4ù6åÓLy­ÅfŒÄˆì3ÆF:{œÓ|§Ú>t8ÈË&OZ´éîØr®çÿÙ

@@ -1,0 +1,11 @@
+GET /r10/Music/b2/84/42/mzi.zpankzmr.enc.jpg?downloadKey2=1217307283_f7a4220cd27538429ff08a051cb95dcc HTTP/1.1
+X-Apple-Tz: -25200
+Cookie: s_vi=[CS]v1|40070FEB-8191CED8[CE]
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: FAE87E1B-83405A4E0C5678B298C988200946EC58
+Accept-Encoding: gzip
+Connection: close
+Host: a1.phobos.apple.com
+

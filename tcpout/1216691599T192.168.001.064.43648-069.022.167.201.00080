@@ -1,0 +1,12 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=1A0EA971D77737948D017AA58B0C902D&CDDBMuiID=34427&an=Chicago%20Symphony%20Orchestra%20and%20Chorus%20%2F%20Sir%20Georg%20Solti&pn=Johann%20Sebastian%20Bach%3A%20Matth%C3%A4us-Passion%3A%20Arias%20and%20Choruses HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 87C80AC5-DE22265B0D84BD964D48057C78FCF459
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

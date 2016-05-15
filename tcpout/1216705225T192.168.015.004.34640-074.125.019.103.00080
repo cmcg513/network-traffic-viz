@@ -1,0 +1,85 @@
+GET /ig?hl=en HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: IGTP=TP=H4sIAAAAAAAAAEVOS07DMBT0s0UxEuIjQRUkFlE2SJaSuKYL6hNUXnGDChqXWpC4qh0CV-iyS07AHg7A0fpSqWI38-bzhkNCUmIyniaQEjEc6ezTt7F9trN3V1kfio_6LZMwPTan_BI9IAiyK2QnCcVEz5iZ8BtkIHKls2WMK12W6xCKedMUc1_3uEQ8i34Vol87Gwo89bXX5n4fpeJupFX6H--6rujcq1v6bl-xsLY6hI7MLe5l-P0C91ZP0UZX28PSgTnnCaogmNISD8NHsgFqmy3QNnwD_YE_GPzCFz1TUj7kcpyrycsiqA1DfcvQuQP7OdbiFgEAAA:LM=1216683923; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+If-Modified-Since: Mon, 21 Jul 2008 23:45:23 GMT
+If-None-Match: 4237551297837037643
+
+GET /ig/ui?action=viewsetup&xp=2008-04-29gfs2 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.google.com/ig?hl=en
+Cookie: IGTP=TP=H4sIAAAAAAAAAEVOS07DMBT0s0UxEuIjQRUkFlE2SJaSuKYL6hNUXnGDChqXWpC4qh0CV-iyS07AHg7A0fpSqWI38-bzhkNCUmIyniaQEjEc6ezTt7F9trN3V1kfio_6LZMwPTan_BI9IAiyK2QnCcVEz5iZ8BtkIHKls2WMK12W6xCKedMUc1_3uEQ8i34Vol87Gwo89bXX5n4fpeJupFX6H--6rujcq1v6bl-xsLY6hI7MLe5l-P0C91ZP0UZX28PSgTnnCaogmNISD8NHsgFqmy3QNnwD_YE_GPzCFz1TUj7kcpyrycsiqA1DfcvQuQP7OdbiFgEAAA:LM=1216683923; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /ig?hl=en HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: IGTP=TP=H4sIAAAAAAAAAEVOS07DMBT0s0UxEuIjQRUkFlE2SJaSuKYL6hNUXnGDChqXWpC4qh0CV-iyS07AHg7A0fpSqWI38-bzhkNCUmIyniaQEjEc6ezTt7F9trN3V1kfio_6LZMwPTan_BI9IAiyK2QnCcVEz5iZ8BtkIHKls2WMK12W6xCKedMUc1_3uEQ8i34Vol87Gwo89bXX5n4fpeJupFX6H--6rujcq1v6bl-xsLY6hI7MLe5l-P0C91ZP0UZX28PSgTnnCaogmNISD8NHsgFqmy3QNnwD_YE_GPzCFz1TUj7kcpyrycsiqA1DfcvQuQP7OdbiFgEAAA:LM=1216683923; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+If-Modified-Since: Tue, 22 Jul 2008 05:40:49 GMT
+If-None-Match: 4237551297837037643
+
+GET /ig/ui?action=viewsetup&xp=2008-04-29gfs2 HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.google.com/ig?hl=en
+Cookie: IGTP=TP=H4sIAAAAAAAAAEVOS07DMBT0s0UxEuIjQRUkFlE2SJaSuKYL6hNUXnGDChqXWpC4qh0CV-iyS07AHg7A0fpSqWI38-bzhkNCUmIyniaQEjEc6ezTt7F9trN3V1kfio_6LZMwPTan_BI9IAiyK2QnCcVEz5iZ8BtkIHKls2WMK12W6xCKedMUc1_3uEQ8i34Vol87Gwo89bXX5n4fpeJupFX6H--6rujcq1v6bl-xsLY6hI7MLe5l-P0C91ZP0UZX28PSgTnnCaogmNISD8NHsgFqmy3QNnwD_YE_GPzCFz1TUj7kcpyrycsiqA1DfcvQuQP7OdbiFgEAAA:LM=1216683923; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /search?q=sacramento+tourist&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: SS=Q0=bGVhdGhlciBiYWNrcGFjayAxNiI; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /mapdata?CxXRq0wCHaVKwvggEQwLFVYPTAIdbwTC-CASDAsV0atMAh2lSsL4IBMMCxU1u0wCHXD-wfggFAwLFRAjTQId9vvC-CAVDAsVLy5NAh3U18P4IBYMCxWWYEsCHaiwwfggFwwLFXOSTQIdB-LD-CAYDAsVsp9MAh0QG8L4IBkMCxVjCk0CHaOfw_ggGgxAqgFI3AFSAnVz HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.google.com/search?q=sacramento+tourist&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /verify/EAAAAGD8v6-mxMfscNmEGHCCe1I.gif HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: SNID=13=Y7qs2oIwQN3naKmhrHLIjzs7ko0g0gVsGVs3c-XgFQ=vzBOeZFcSmwFGY2M; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+

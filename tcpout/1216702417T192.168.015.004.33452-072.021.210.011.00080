@@ -1,0 +1,30 @@
+GET /gp/product/0345494997/ref=s9wishf_r3_at-rfc_g1?ie=UTF8&coliid=I2SBUL0HF19IZ7&colid=28H4EU3E4I35K&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=right-1&pf_rd_r=0VBJJK4TJGD3QP4XYRFA&pf_rd_t=101&pf_rd_p=280762101&pf_rd_i=507846 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: ubid-main=103-1302586-7514047; x-main=uiUngrTPA5eJ@UyKjyctbvG6GA48V1pp; at-main=2|x81uXqvnEVswEy//vlNA9u0uQ3RjlHSMHZ0qrV89E+mVpJsvLPyqosYgj8I0ELnWZwwTz+HojiM1AFLRGiGHBJvJFXxnDIG2Zf8stfZZZyHdMD/nOuHRF/dv63tvPB3eRRizWCzG5VMoPF6wTuq75uEkqGgqMttRlR0Qdq+sb2dDc2eAkCs1Ww==; session-id-time=1224399600l; session-id=002-7818855-9196047
+Connection: keep-alive
+Host: www.amazon.com
+
+GET /gp/yourstore/ref=pd_irl_gw HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/gp/product/0345494997/ref=s9wishf_r3_at-rfc_g1?ie=UTF8&coliid=I2SBUL0HF19IZ7&colid=28H4EU3E4I35K&pf_rd_m=ATVPDKIKX0DER&pf_rd_s=right-1&pf_rd_r=0VBJJK4TJGD3QP4XYRFA&pf_rd_t=101&pf_rd_p=280762101&pf_rd_i=507846
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: ubid-main=103-1302586-7514047; x-main=uiUngrTPA5eJ@UyKjyctbvG6GA48V1pp; at-main=2|x81uXqvnEVswEy//vlNA9u0uQ3RjlHSMHZ0qrV89E+mVpJsvLPyqosYgj8I0ELnWZwwTz+HojiM1AFLRGiGHBJvJFXxnDIG2Zf8stfZZZyHdMD/nOuHRF/dv63tvPB3eRRizWCzG5VMoPF6wTuq75uEkqGgqMttRlR0Qdq+sb2dDc2eAkCs1Ww==; session-id-time=1224399600l; session-id=002-7818855-9196047; session-token=Zh3C/p6tU7wGVjkC0Z/szDDwcyamAe0g+maG31hdsFvUSuys5GCw14jTagrFN0Ji3UKMD7W21QFGO7/KRxHKnGb0/BsT79P/tRMXF20+Dr/GJdnPUFsKqXiMcCQtUFb7Pj+b2gGS4XI1LuM9FjtjAIGzZy7f7RF06Rujfb9wrJ1ZgABa/Tx9DDhc6FwqzO2EusbdN/NTjd7ZxMD1CmicvilR1qqnwUEL
+Connection: keep-alive
+Host: www.amazon.com
+
+GET /gp/history/external/rhf-rec-handler-t1.html/ref=pd_rhf_dyn/002-7818855-9196047?ie=UTF8&rm=xhr&ra=rhf&id=a&tt=a&mp=1&vn=190&ps=&opt=0:0:0:0:0:0:0:0:0:0&orid=18859T944VK7NJJ357ZX HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.amazon.com/gp/yourstore/ref=pd_irl_gw
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: ubid-main=103-1302586-7514047; x-main=uiUngrTPA5eJ@UyKjyctbvG6GA48V1pp; at-main=2|x81uXqvnEVswEy//vlNA9u0uQ3RjlHSMHZ0qrV89E+mVpJsvLPyqosYgj8I0ELnWZwwTz+HojiM1AFLRGiGHBJvJFXxnDIG2Zf8stfZZZyHdMD/nOuHRF/dv63tvPB3eRRizWCzG5VMoPF6wTuq75uEkqGgqMttRlR0Qdq+sb2dDc2eAkCs1Ww==; session-id-time=1224399600l; session-id=002-7818855-9196047; session-token=Zh3C/p6tU7wGVjkC0Z/szDDwcyamAe0g+maG31hdsFvUSuys5GCw14jTagrFN0Ji3UKMD7W21QFGO7/KRxHKnGb0/BsT79P/tRMXF20+Dr/GJdnPUFsKqXiMcCQtUFb7Pj+b2gGS4XI1LuM9FjtjAIGzZy7f7RF06Rujfb9wrJ1ZgABa/Tx9DDhc6FwqzO2EusbdN/NTjd7ZxMD1CmicvilR1qqnwUEL
+Connection: keep-alive
+Host: www.amazon.com
+

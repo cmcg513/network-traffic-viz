@@ -1,0 +1,12 @@
+GET /?l=653196995&sz=728x90&wr=j&t=j&u=http%3A//www.orbitz.com/App/ViewHotelSearchResults%3Fnull%26retrieveParams%3Dtrue%26z%3D9171%26r%3D4h%26z%3D9172%26r%3D4i%26lastPage%3Dinterstitial&r= HTTP/1.1
+Host: afe.specificclick.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/ViewHotelSearchResults?null&retrieveParams=true&z=9171&r=4h&z=9172&r=4i&lastPage=interstitial
+Cookie: smc=059-DyPp64.26mRUSo6UIOZeI.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0R7-K-X7tTdyTB.0QT7IGlEm8Lm8G.0PLPyNn_rgyH7F.02UjqJwLi2Y8Lv.00M0fKxcketRmH; dmp=; dmc=059-DyPp64.26mRUSo6UIOZeI.26Qj2ScPgbjnYH.25_KqrHtWHxK0o.20dr2ScPgbjnYH.1rSDXvbaJw8yb5.1rNpXvbaJw8yb5.1pIE9traLUA1Fr.1pIB9traLUA1Fr.1pI69traLUA1Fr.1g_b2ScPgbjnYH.1a82zi0lPewgwh.1Va0CkY1CZY5BK.1Va-CkY1CZY5BK.1UG5ckTMEvrwOV.1Q0pWetT5F6pOU.1Q0jLjeeka6pb9.1Q-_k-KYxAbED_.1Q-o2LuodUFVkv.1Q-oD1oKwxREsz.1PNBqJwLi2Y8Lv.1PNBqJwLi2Y8Lv.1NAO25OJ8F7t83.1HEuf9knauznqB.1HEuf9knauznqB.1HEudDf62MYRhB.1GvIcIVlSuBVbR.1DpB----------.1DLKZAfxAU_G2I.1D4xdDf62MYRhB.188wuhgjKE0Cpn.0zzOuTjkGjaVoT.0ubS2ScPgbjnYH.0rAlTQGx57rRY9.0pz-hvFTKImeQj.0oclZ9OON8Wli4.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0atN9JGgMkzA6C.0R7-K-X7tTdyTB.0QT7IGlEm8Lm8G.0PLPyNn_rgyH7F.02UjqJwLi2Y8Lv.00M0fKxcketRmH; dmk=059-DyPp64.1UG5b1aGhAYM2MzPGh11z1P71GAm1.0pz-bhMa_--MhPL44r.0oclbYAz6PzlGAMYPa16sl7-AanPzA61z; smx=488574bf1BA1EE001FC9BA496; apfe=0^26mR; smk=059-DyPp64
+

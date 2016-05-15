@@ -1,0 +1,248 @@
+HTTP/1.0 200 OK
+Pragma: no-cache
+Cache-Control: no-cache
+Date: Tue, 22 Jul 2008 06:05:34 GMT
+Server: DAWGS/1.0 (Beta software_update_srv-d03a)
+Content-Type: text/plain
+Content-Length: 6623
+Connection: close
+
+<?xml version="1.0" ?>
+<ChannelInfo>
+  <Options>
+  <Refresh>43200</Refresh>
+  </Options>
+    <Channel Id="4">
+      <Version> 45 </Version>
+      <AssocApp Id="1091"/>
+      <App Id ="1091" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="5">
+      <Version> 5 </Version>
+      <AssocApp Id="1091"/>
+      <App Id ="1091" AppIdVer="1"/>
+      <App Id ="1091" AppIdVer="2"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="8">
+      <Version> 2 </Version>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="9">
+      <Version> 4 </Version>
+      <App Id ="1001" AppIdVer="2"/>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="15">
+      <Version> 26 </Version>
+      <App Id ="1006" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="16">
+      <Version> 16 </Version>
+      <App Id ="1006" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="19">
+      <Version> 37 </Version>
+      <App Id ="1002" AppIdVer="1"/>
+      <App Id ="1006" AppIdVer="1"/>
+      <App Id ="1058" AppIdVer="1"/>
+      <App Id ="1018" AppIdVer="1"/>
+      <App Id ="1001" AppIdVer="1"/>
+      <App Id ="1015" AppIdVer="1"/>
+      <App Id ="1001" AppIdVer="2"/>
+      <App Id ="1032" AppIdVer="2"/>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="20">
+      <Version> 29 </Version>
+      <App Id ="1001" AppIdVer="2"/>
+      <App Id ="1032" AppIdVer="2"/>
+      <App Id ="1091" AppIdVer="2"/>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="23">
+      <Version> 11 </Version>
+      <App Id ="1008" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="24">
+      <Version> 1 </Version>
+      <App Id ="1008" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="27">
+      <Version> 2 </Version>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="32">
+      <Version> 5 </Version>
+      <App Id ="1028" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="33">
+      <Version> 6 </Version>
+      <App Id ="1028" AppIdVer="1"/>
+      <App Id ="1028" AppIdVer="5"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="36">
+      <Version> 1 </Version>
+      <App Id ="1021" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="37">
+      <Version> 1 </Version>
+      <App Id ="1021" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="41">
+      <Version> 2 </Version>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="46">
+      <Version> 24 </Version>
+      <App Id ="1052" AppIdVer="1"/>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="50">
+      <Version> 7 </Version>
+      <App Id ="1039" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="51">
+      <Version> 1 </Version>
+      <App Id ="1039" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="54">
+      <Version> 3 </Version>
+      <App Id ="1030" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="55">
+      <Version> 1 </Version>
+      <App Id ="1030" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="58">
+      <Version> 2 </Version>
+      <Group Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="62">
+      <Version> 2 </Version>
+      <App Id ="1000" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="63">
+      <Version> 1 </Version>
+      <App Id ="1000" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="64">
+      <Version> 3 </Version>
+      <App Id ="1096" AppIdVer="2"/>
+    </Channel>
+    <Channel Id="67">
+      <Version> 5 </Version>
+      <App Id ="1055" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="68">
+      <Version> 5 </Version>
+      <App Id ="1055" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="71">
+      <Version> 13 </Version>
+      <App Id ="1043" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="72">
+      <Version> 10 </Version>
+      <App Id ="1043" AppIdVer="1"/>
+      <App Id ="1043" AppIdVer="4"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="75">
+      <Version> 13 </Version>
+      <App Id ="1071" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="76">
+      <Version> 6 </Version>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="80">
+      <Version> 1 </Version>
+      <App Id ="1078" AppIdVer="2"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="84">
+      <Version> 9 </Version>
+      <App Id ="2" AppIdVer="2"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="85">
+      <Version> 33 </Version>
+      <App Id ="2" AppIdVer="3"/>
+      <App Id ="2" AppIdVer="2"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="88">
+      <Version> 1 </Version>
+      <AssocApp Id="1092"/>
+      <App Id ="1092" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="89">
+      <Version> 2 </Version>
+      <AssocApp Id="1092"/>
+      <App Id ="1092" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="92">
+      <Version> 3 </Version>
+      <AssocApp Id="1090"/>
+      <App Id ="1090" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="93">
+      <Version> 1 </Version>
+      <AssocApp Id="1090"/>
+      <App Id ="1090" AppIdVer="1"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="96">
+      <Version> 75 </Version>
+      <App Id ="1071" AppIdVer="5"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="97">
+      <Version> 3 </Version>
+      <App Id ="1071" AppIdVer="4"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="100">
+      <Version> 13 </Version>
+      <AssocApp Id="1101"/>
+      <App Id ="2" AppIdVer="2"/>
+      <App Id ="1101" AppIdVer="2"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="101">
+      <Version> 12 </Version>
+      <AssocApp Id="1101"/>
+      <App Id ="2" AppIdVer="2"/>
+      <App Id ="2" AppIdVer="3"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+    <Channel Id="105">
+      <Version> 17 </Version>
+      <App Id ="1006" AppIdVer="4"/>
+      <App Id ="1006" AppIdVer="3"/>
+      <Association Id ="OCP Core"/>
+    </Channel>
+</ChannelInfo>

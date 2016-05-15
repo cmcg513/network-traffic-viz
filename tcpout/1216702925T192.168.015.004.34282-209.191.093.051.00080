@@ -1,0 +1,6 @@
+GET /yab/us?v=XM&prog=ymsgr&.intl=us&diffs=1&t=0&tags=short&rt=0&prog-ver=8.1.0.249&useutf8=1&legenc=codepage-1252 HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 5.5)
+Cookie: T=z=jnWhIBjtrhIB3a25/TYqdPCNDA3BjYzMTU2TjU3MjE-&a=YAE&sk=DAAszSVBqFLfLO&ks=EAAX5nEn_0nBpUqJEdstRVSDw--~A&d=c2wBTXpjd0FURTBOakl4T1RJd05UWS0BYQFZQUUBb2sBWlcwLQF0aXABR1o0V01BAXp6AWpuV2hJQmdXQQ--; Y=v=1&n=7tngdm3vg06tk&l=c0heedb02gk4h/o&p=f2302de013000000&r=ff&lg=us&intl=us
+Host: address.yahoo.com
+Cache-Control: no-cache
+

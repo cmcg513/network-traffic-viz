@@ -1,0 +1,156 @@
+GET /hc/15744040/y1.js?lpCallId=1216705822626-482&lpjson=1&site=15744040&cmd=mTagKnockPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3Db4ff%26r%3D9g%26z%3Db500%26r%3D9h%26lastPage%3Dinterstitial&id=8696284732&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer= HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: HumanClickKEY=7891278254370847114; HumanClickID=-1060217861657-1216608963:-1:-1:-1:-1; HumanClickID=-1060217861657
+
+GET /hc/15744040/y1.js?lpCallId=1216705822849-1000&lpjson=1&site=15744040&cmd=mTagStartPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3Db4ff%26r%3D9g%26z%3Db500%26r%3D9h%26lastPage%3Dinterstitial&id=8696284732&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&PAGEVAR%21unit=sales-dp&PAGEVAR%21language=english&PAGEVAR%21visitorActive=1&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709418439%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=webServerOverride%2CMTagDef HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216608963:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705822746
+
+GET /hc/15744040/y1.js?lpCallId=1216705823271-246&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3Db4ff%26r%3D9g%26z%3Db500%26r%3D9h%26lastPage%3Dinterstitial&id=8696284732&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709418439%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705822746
+
+GET /hc/15744040/y1.js?lpCallId=1216705833393-652&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3Db4ff%26r%3D9g%26z%3Db500%26r%3D9h%26lastPage%3Dinterstitial&id=8696284732&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709418439%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705822746
+
+GET /hc/15744040/y1.js?lpCallId=1216705843781-106&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3Db4ff%26r%3D9g%26z%3Db500%26r%3D9h%26lastPage%3Dinterstitial&id=8696284732&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709418439%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705822746
+
+GET /hc/15744040/y1.js?lpCallId=1216705854158-451&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3Db4ff%26r%3D9g%26z%3Db500%26r%3D9h%26lastPage%3Dinterstitial&id=8696284732&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709418439%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=b4ff&r=9g&z=b500&r=9h&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705822746
+
+GET /hc/15744040/y1.js?lpCallId=1216705867774-964&lpjson=1&site=15744040&cmd=mTagKnockPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3D681d%26r%3Dd9%26z%3D681e%26r%3Dda%26lastPage%3Dinterstitial&id=4743510209&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer= HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705822746
+
+GET /hc/15744040/y1.js?lpCallId=1216705867883-325&lpjson=1&site=15744040&cmd=mTagStartPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3D681d%26r%3Dd9%26z%3D681e%26r%3Dda%26lastPage%3Dinterstitial&id=4743510209&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&PAGEVAR%21unit=sales-dp&PAGEVAR%21language=english&PAGEVAR%21visitorActive=1&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709465184%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=webServerOverride%2CMTagDef HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705867678
+
+GET /hc/15744040/y1.js?lpCallId=1216705868012-158&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3D681d%26r%3Dd9%26z%3D681e%26r%3Dda%26lastPage%3Dinterstitial&id=4743510209&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709465184%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705867678
+
+GET /hc/15744040/y1.js?lpCallId=1216705878135-140&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3D681d%26r%3Dd9%26z%3D681e%26r%3Dda%26lastPage%3Dinterstitial&id=4743510209&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709465184%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705867678
+
+GET /hc/15744040/y1.js?lpCallId=1216705888500-911&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3D681d%26r%3Dd9%26z%3D681e%26r%3Dda%26lastPage%3Dinterstitial&id=4743510209&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709465184%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705867678
+
+GET /hc/15744040/y1.js?lpCallId=1216705898907-252&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3D681d%26r%3Dd9%26z%3D681e%26r%3Dda%26lastPage%3Dinterstitial&id=4743510209&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709465184%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705867678
+
+GET /hc/15744040/y1.js?lpCallId=1216705909280-56&lpjson=1&site=15744040&cmd=mTagInPage&page=http%3A//www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp%3Fz%3D681d%26r%3Dd9%26z%3D681e%26r%3Dda%26lastPage%3Dinterstitial&id=4743510209&javaSupport=true&visitorStatus=INSITE_STATUS&scriptVersion=1.1&activePlugin=none&cobrowse=true&pageWindowName=&cookie=OSC%3DIF0RLUvSX3%21-1988764343%21183216676%217001%21-1%3B%20OrbitzID%3D12166085658592592%3B%20OrbitzRegistration%3DN%2C0%2C0%2C0%3B%20BetaGroup%3D07/20/2008%2021%3A49%3A25%7CA%7Cfalse%3B%20TS75d464%3Df4a8ac9356ad16d7bbe86d08f96d6c2f70fe645ac8d494054883fab59a9c9cb1326da986%3B%20WT_FPC%3Did%3D70.134.85.172-1744146160.29944540%3Alv%3D1216709465184%3Ass%3D1216709283188%3B%20Axxd%3D1%3B%20AxData%3D%3B%20adRotator%3Dtrue%3B%20DataPersistence%3D%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C2%7C5%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7Cfalse%7C%7Cfalse%7Cfalse%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C6%7C%7CSacramento%2C%20CA%7C10/10/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C10/11/08%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C0%7C&title=Orbitz%3A%20Holiday%20Inn%20Express%20SACRAMENTO%20CONVENTION%20CENTER&referrer=&code_id_ok=INPAGE-DELAY-10 HTTP/1.1
+Host: sales.liveperson.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/shared/pagedef/results/hotelDetailsStandalone.jsp?z=681d&r=d9&z=681e&r=da&lastPage=interstitial
+Cookie: HumanClickKEY=1241033011856197585; HumanClickID=-1060217861657-1216705822:-1:-1:-1:-1; HumanClickID=-1060217861657; HumanClickACTIVE=1216705867678
+

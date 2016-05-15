@@ -1,0 +1,20 @@
+GET /watch?v=WaIR9dAZRR0 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.google.com/search?client=safari&rls=en-us&q=dark+knight+trailer&ie=UTF-8&oe=UTF-8
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: VISITOR_INFO1_LIVE=KQqq0E2AzIw; LOCALE_PREFERENCE=86d1d09eefe6b79b4068000ce05518a4dAUAAABlbl9VUw==; __utma=27069237.528624284.1197425507.1197425507.1197437254.2; PREF=cr=US&ul=en; use_hitbox=72c46ff6cbcdb7c5585c36411b6b334edAEAAAAw; watched_video_id_list=acd3454ca15c7136a17ccac13dd6f3a3WwYAAABzCwAAAGtZeXBFVzk0R3lVcwsAAABTVU5tTHVOZGlMOHMLAAAAV3ZvLWdfSnZVUklzCwAAAFhYTE9VMTdrVGxjcwsAAABqZFF3dC1ZTEZzSXMLAAAAQmhWVDQyTHJUd1U=
+Connection: keep-alive
+Host: www.youtube.com
+
+GET /get_video?video_id=WaIR9dAZRR0&t=OEgsToPDskLfwyl-KHVfUEOf08GAziPD HTTP/1.1
+Referer: http://www.youtube.com/watch?v=WaIR9dAZRR0
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: VISITOR_INFO1_LIVE=KQqq0E2AzIw; LOCALE_PREFERENCE=86d1d09eefe6b79b4068000ce05518a4dAUAAABlbl9VUw==; __utma=27069237.528624284.1197425507.1197425507.1197437254.2; PREF=cr=US&ul=en; use_hitbox=72c46ff6cbcdb7c5585c36411b6b334edAEAAAAw; watched_video_id_list=128f1bf70ca11795d28daf05cc09748eWwcAAABzCwAAAFdhSVI5ZEFaUlIwcwsAAABrWXlwRVc5NEd5VXMLAAAAU1VObUx1TmRpTDhzCwAAAFd2by1nX0p2VVJJcwsAAABYWExPVTE3a1RsY3MLAAAAamRRd3QtWUxGc0lzCwAAAEJoVlQ0MkxyVHdV; GEO=04435af6c63fce25774a0f63a024cf09cxYAAABVUyxjYSxtb250ZXJleSwsLCwsODI4
+Connection: keep-alive
+Host: www.youtube.com
+

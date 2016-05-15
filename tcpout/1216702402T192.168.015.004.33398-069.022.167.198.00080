@@ -1,0 +1,12 @@
+GET /WebObjects/MZStore.woa/wa/initiateSession?ix=2 HTTP/1.1
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+X-Apple-Store-Front: 143441
+X-Apple-Validation: 3137ACA9-7D8CED3772169055A29F56363DA86BFC
+Accept-Language: en-us, en;q=0.50
+Cookie: s_vi=[CS]v1|40070FEB-8191CED8[CE]
+X-Apple-Tz: -25200
+Accept-Encoding: gzip
+Connection: close
+If-Modified-Since: Fri, 18 Jul 2008 07:00:21 GMT
+Host: ax.phobos.apple.com.edgesuite.net
+

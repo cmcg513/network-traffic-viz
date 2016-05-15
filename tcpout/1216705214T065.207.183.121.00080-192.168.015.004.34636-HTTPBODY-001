@@ -1,0 +1,29 @@
+
+
+
+
+mpdData['head']=new mpdHeadObj('F', 'mi', 'mph', 'in', 'in');
+mpdData['loc']=new mpdLocObj('USCA0820','1','93950','Pacific Grove, CA',new Date('2008','6','21','22','40','39'),'PT','T72491001','CA','','sw','US','United States','California','','Pacific Grove');
+mpdData['dayf']=new mpdFObj('Jul 21, 10:40 PM PT',true);
+mpdData['dayf'].day[0]=new mpdFDObj(new Date('2008','6','21','0','0','0'),'Tonight','N/A','53','10','29','Partly Cloudy','7','North Northwest','NNW','0', '86');
+mpdData['dayf'].day[1]=new mpdFDObj(new Date('2008','6','22','0','0','0'),'Tue','66','54','10','30','Partly Cloudy','9','Northwest','NW','0', '70');
+mpdData['dayf'].day[2]=new mpdFDObj(new Date('2008','6','23','0','0','0'),'Wed','70','55','10','30','Partly Cloudy','9','West Northwest','WNW','0', '65');
+mpdData['dayf'].day[3]=new mpdFDObj(new Date('2008','6','24','0','0','0'),'Thu','68','54','10','30','Partly Cloudy','8','Northwest','NW','0', '71');
+mpdData['dayf'].day[4]=new mpdFDObj(new Date('2008','6','25','0','0','0'),'Fri','68','55','10','32','Sunny','8','Northwest','NW','0', '67');
+mpdData['dayf'].day[5]=new mpdFDObj(new Date('2008','6','26','0','0','0'),'Sat','69','56','10','32','Sunny','9','Northwest','NW','10', '65');
+mpdData['dayf'].day[6]=new mpdFDObj(new Date('2008','6','27','0','0','0'),'Sun','68','54','10','34','Mostly Sunny','9','West Northwest','WNW','0', '71');
+mpdData['dayf'].day[7]=new mpdFDObj(new Date('2008','6','28','0','0','0'),'Mon','66','56','10','34','Mostly Sunny','8','West Southwest','WSW','10', '77');
+mpdData['dayf'].day[8]=new mpdFDObj(new Date('2008','6','29','0','0','0'),'Tue','67','56','10','34','Mostly Sunny','8','West Southwest','WSW','10', '75');
+mpdData['dayf'].day[9]=new mpdFDObj(new Date('2008','6','30','0','0','0'),'Wed','67','55','10','32','Sunny','8','West Northwest','WNW','10', '77');
+mpdErr=true;
+mpdErrArray[mpdErrArray.length+1]='NO OR INVALID TRIGGER DATA IN REQUEST!!';
+graphTrgs=[];
+mpdErr=true;
+mpdErrArray[mpdErrArray.length+1]='NO OR INVALID DATA IN REQUEST!';
+mpdData['dayfgraph']=new mpdTGObj();
+svrWxAlertMode=0;
+svrWxAlertType='';
+mpdData['nwswxalrt']=new Array();
+mpdData['locvideo']=new mpdLocalVideoObj('false','null','/multimedia/videoplayer.html?clip=363&collection=regwxforecast','Western');
+mpdErr=true;
+mpdErrArray[mpdErrArray.length+1]= 'INVALID ADLIST OBJECT!';

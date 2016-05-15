@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?an=Radiohead%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20&pn=Karma%20Police%20EP%20or%20unreleased%20 HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 4E5A8A15-AF7374543BC9C76576EFBEB480875F95
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

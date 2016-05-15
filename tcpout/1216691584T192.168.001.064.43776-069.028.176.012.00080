@@ -1,0 +1,5 @@
+GET /production/mp3/fairgame/local-fairgame-633619.mp3?volomedia_src_url=http%3A%2F%2Fwww.publicbroadcasting.net%2Ffairgame%2F.jukebox%2Fmedia%2Ffairgame%2F633619%2Fmp3%2FfairGameSegs%2Fpodcast%2F2743%2F633619.mp3 HTTP/1.1
+User-Agent: iTunes/7.7 (Macintosh; N; Intel)
+Connection: close
+Host: stream-ai.publicbroadcasting.net
+

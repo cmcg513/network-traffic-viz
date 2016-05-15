@@ -1,0 +1,17 @@
+HTTP/1.1 302 Found
+Connection: close
+Date: Tue, 22 Jul 2008 05:59:41 GMT
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+X-AspNet-Version: 1.1.4322
+Pragma: no-cache
+Location: http://mail.live.com/
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Content-Type: text/html; charset=utf-8
+Content-Length: 138
+
+<html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href='http://mail.live.com/'>here</a>.</h2>
+</body></html>

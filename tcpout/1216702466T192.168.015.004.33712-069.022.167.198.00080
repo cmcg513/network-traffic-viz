@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=5B1480497C406AC99ECCD159FD0F1180&CDDBMuiID=1218466&an=Jill%20Sobule&pn=I%20Never%20Learned%20To%20Swim%20(1990%20-%202000) HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 152B322D-F723D71E37ACF4BA145DC13C8AC3435E
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

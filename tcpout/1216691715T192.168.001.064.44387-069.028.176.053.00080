@@ -1,0 +1,9 @@
+GET /web/radar/us_fat_closeradar_medium_usen.jpg HTTP/1.1
+User-Agent: CFNetwork/330.4
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: RMID=40070feb3e2cafc0; RMFD=011JxkvVO10P09|O10PgW|O10PiO|O10PiP; LocID=USCA0184; UserPreferences=3%7C+%7C0%7Creal%7Cfast%7C-1%7C-1%7C-1%7C-1%7C-1%7C+%7C+%7C+%7C+%7C+%7C-1%7CBusinessTravel%7C+%7C+%7C+%7C%7C%7C%7C%7C%7C%7C%7CUSCA0184%253A1%253ACarmel%2520Valley%252C%2520CA%255EUSNY0996%253A1%253ANew%2520York%252C%2520NY%255EUSVT0233%253A1%253AStowe%252C%2520VT%255E02138%253A4%253ACambridge%252C%2520MA%2520%252802138%2529%255EUSCA0987%253A1%253ASan%2520Francisco%252C%2520CA%255E93950%253A4%253APacific%2520Grove%252C%2520CA%2520%252893950%2529
+Connection: keep-alive
+Host: image.weather.com
+

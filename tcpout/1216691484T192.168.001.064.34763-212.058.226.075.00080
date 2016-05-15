@@ -1,0 +1,13 @@
+GET /rss/newsonline_world_edition/front_page/rss.xml HTTP/1.1
+Host: newsrss.bbc.co.uk
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+If-Modified-Since: Mon, 21 Jul 2008 14:25:59 GMT
+If-None-Match: "4786-452897c76cbc0"
+Cache-Control: max-age=0
+

@@ -1,0 +1,51 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 06:03:42 GMT
+Server: Apache/1.3.33 (Unix)
+Set-Cookie: up=87M63Y06OkWA0556; domain=.nytimes.com; path=/; expires=Thu, 25-Mar-21 21:10:21 GMT
+Set-Cookie: ups=87M63Y06OkWA0556; domain=.nytimes.com; path=/; expires=Tue, 22-Jul-08 06:33:42 GMT
+Set-Cookie: zFN=87M10870110800101; domain=.nytimes.com; path=/; expires=Wed, 28-Oct-09 05:10:21 GMT
+Set-Cookie: zFD=87M10870110800101; domain=.nytimes.com; path=/; expires=Wed, 28-Oct-09 05:10:21 GMT
+Set-Cookie: zGT=87M001; domain=.nytimes.com; path=/; expires=Wed, 28-Oct-09 05:10:21 GMT
+P3P: CP="IDC DSP COR DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0
+Expires: Tue, 22 Jul 2008 06:03:42 GMT
+Location: http://up.about.com/?rdl=1&d=1/&g=2&a=&r=http%3a%2f%2fwww%2egoogle%2ecom%2fsearch%3fhl%3den%26q%3dsend%2banonymous%2bmail&id=&s=&h=87M63Y06OkWA0556&hs=87M63Y06OkWA0556&t=14&x=87M63e1dOkWA02BW&f=&gt=87M001&u=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemail%2fSend%5fAnonymous%5fEmail%5fMessages%2ehtm
+Keep-Alive: timeout=15, max=95
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: image/gif
+
+0
+
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 06:04:28 GMT
+Server: Apache/1.3.33 (Unix)
+Set-Cookie: zFN=87M20870210800201; domain=.nytimes.com; path=/; expires=Wed, 28-Oct-09 05:11:07 GMT
+Set-Cookie: zFD=87M20870210800201; domain=.nytimes.com; path=/; expires=Wed, 28-Oct-09 05:11:07 GMT
+P3P: CP="IDC DSP COR DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0
+Expires: Tue, 22 Jul 2008 06:04:28 GMT
+Location: http://up.about.com/?rdl=1&d=1/&g=2&a=&r=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemail%2fSend%5fAnonymous%5fEmail%5fMessages%2ehtm&id=&s=&h=&hs=&t=14&x=87M64S1bOkWA00bc&f=87M10870110800101&gt=87M001&u=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fAnonymous%5fEmail%5fand%5fRemailer%5fServices%2ehtm
+Keep-Alive: timeout=15, max=80
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: image/gif
+
+0
+
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 06:04:38 GMT
+Server: Apache/1.3.33 (Unix)
+Set-Cookie: zFN=87M30870310800301; domain=.nytimes.com; path=/; expires=Wed, 28-Oct-09 05:11:17 GMT
+Set-Cookie: zFD=87M30870310800301; domain=.nytimes.com; path=/; expires=Wed, 28-Oct-09 05:11:17 GMT
+P3P: CP="IDC DSP COR DEVa TAIa OUR BUS UNI"
+Cache-Control: max-age=0
+Expires: Tue, 22 Jul 2008 06:04:38 GMT
+Location: http://up.about.com/?rdl=1&d=1/&g=2&a=&r=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fAnonymous%5fEmail%5fand%5fRemailer%5fServices%2ehtm&id=&s=&h=&hs=&t=4&x=87M64a1bOkWA081b&f=87M20870210800201&gt=87M001&u=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fgr%2fwill%5fself%5fdestr%2ehtm
+Keep-Alive: timeout=15, max=71
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: image/gif
+
+0
+

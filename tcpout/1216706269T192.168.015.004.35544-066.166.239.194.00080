@@ -1,0 +1,130 @@
+GET /include/style.css HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/graphics/nav_ani.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/graphics/nav_home_r2_c1.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/graphics/nav_home_r2_c3.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/graphics/nav_home_r2_c5.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/graphics/nav_home_r2_c7.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/graphics/nav_home_r2_c9.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/site/spacer.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/site/h_covers.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/site/h_editorials.gif HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/postcards/di-hard_pc.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/postcards/hillary-clinton_pc.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+
+GET /img/postcards/mccain-restrained_pc.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.annoy.com
+Connection: Keep-Alive
+Cookie: systemMessage=; ASPSESSIONIDQSDSRCSS=AEIKNIDCDICOMCNHKBECGKAO; __utma=27907948.4308592.1216706291.1216706291.1216706291.1; __utmb=27907948; __utmc=27907948; __utmz=27907948.1216706291.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none)
+

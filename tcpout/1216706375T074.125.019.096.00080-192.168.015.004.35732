@@ -1,0 +1,10 @@
+HTTP/1.1 302 Found
+P3P: policyref="http://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA PVD OTP OUR OTR IND OTC"
+Set-Cookie: Conversion=CmtCTEJtelhuZUZTTEd2RzRheW9RVHI1LWlvQi1yRDB6WGEzb2k0QklQV21QSUNvSTBHQ0FBUUFSZ0JPQUJRNWZQTmdnVmd5WWJxaHNpajlCbWdBZDZmelBzRHlBRUIyUVBjRzdQVDRCNGZIQRITCMbPhsbo0pQCFSUqagodUm9_kxgBIPqczKSr7pipywFIAQ; expires=Thu, 21-Aug-2008 05:59:59 GMT; path=/pagead/conversion/1064505310/
+Cache-Control: private
+Location: http://calendar.google.com?utm_campaign=en&utm_source=en-ha-na-us-bk&utm_medium=ha&utm_term=google%20calendar
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 22 Jul 2008 05:59:59 GMT
+Server: AdClickServer
+Content-Length: 0
+

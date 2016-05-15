@@ -1,0 +1,40 @@
+GET /html.ng/site=cnn&cnn_position=126x31_spon2&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=249715 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: CNNid=Ga50a8d1e-10598-1210984239-817; SelectedEdition=www; NGUserID=aa512ac-20077-1210984251-1; s_vi=[CS]v1|482E273E000030E7-A160B0E00003C13[CE]; s_pers=%20s_lastvisit%3D1213150211644%7C1307758211644%3B%20s_vnum%3D1213576247107%2526vn%253D4%7C1213576247107%3B%20s_invisit%3Dtrue%7C1213152102560%3B
+Connection: keep-alive
+Host: ads.cnn.com
+
+GET /html.ng/site=cnn&cnn_position=120x90_lft&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=175871 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: CNNid=Ga50a8d1e-10598-1210984239-817; SelectedEdition=www; NGUserID=aa512ac-20077-1210984251-1; s_vi=[CS]v1|482E273E000030E7-A160B0E00003C13[CE]; s_pers=%20s_lastvisit%3D1213150211644%7C1307758211644%3B%20s_vnum%3D1213576247107%2526vn%253D4%7C1213576247107%3B%20s_invisit%3Dtrue%7C1213152102560%3B
+Connection: keep-alive
+Host: ads.cnn.com
+
+GET /DartRichMedia_1_03.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_rgt2&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=28039
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: CNNid=Ga50a8d1e-10598-1210984239-817; SelectedEdition=www; NGUserID=aa512ac-20077-1210984251-1; s_vi=[CS]v1|482E273E000030E7-A160B0E00003C13[CE]; s_pers=%20s_lastvisit%3D1213150211644%7C1307758211644%3B%20s_vnum%3D1213576247107%2526vn%253D4%7C1213576247107%3B%20s_invisit%3Dtrue%7C1213152102560%3B
+Connection: keep-alive
+Host: ads.cnn.com
+
+GET /event.ng/Type=count&ClientType=2&ASeg=&AMod=&AdID=100871&FlightID=66953&TargetID=16044&SiteID=1588&EntityDefResetFlag=0&Segments=730,2743,3030,3285,8463,8796,9496,9563,9572,9779,9781,9853,10381,13760,14879,15539,16113,17251,17373&Targets=1515,16044,16045&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,2746,4413,4418,4429,47182,48063,49554,52263,52370,52509,52897,54682,54765,55058,55059,56058,56376&RawValues=&random=byAzhsK,beikyNRfdufWc HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_adlinks&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=130276
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: CNNid=Ga50a8d1e-10598-1210984239-817; SelectedEdition=www; NGUserID=aa512ac-20077-1210984251-1; s_vi=[CS]v1|482E273E000030E7-A160B0E00003C13[CE]; s_pers=%20s_lastvisit%3D1213150211644%7C1307758211644%3B%20s_vnum%3D1213576247107%2526vn%253D4%7C1213576247107%3B%20s_invisit%3Dtrue%7C1213152102560%3B
+Connection: keep-alive
+Host: ads.cnn.com:80
+

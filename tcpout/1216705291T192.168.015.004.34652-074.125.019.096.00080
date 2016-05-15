@@ -1,0 +1,34 @@
+GET /pagead/aclk?sa=L&ai=BCro0HnOFSKyxC6eyoQSY9ajOAonRnTup3eTTBca-4zyw2wYIABACGAIgtlQoAjgBUIuNk_v7_____wFgyY74hsij_BqgAbjYhP8DyAEByAK50oUE2QOsolTM-VKDu-ADEA&val=ChA1YmM1NDU0YzFmZWIxNjdhEOa1wJMEGgg9JzmyliFmiyAB&sig=AGiWqtw0Iq5iBPxMKBMlYb_bumqC6AJjgQ&adurl=http://www.hellosacramento.com/Attractions.cfm HTTP/1.1
+Host: www.googleadservices.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.google.com/search?q=sacramento+tourist&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-US:official&client=firefox-a
+
+GET /pagead/conversion/1071721528/?label=2omWCKGgPxC42IT_Aw&script=0 HTTP/1.1
+Host: www.googleadservices.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: Conversion=CoMBQkNybzBIbk9GU0t5eEM2ZXlvUVNZOWFqT0FvblJuVHVwM2VUVEJjYS00enl3MndZSUFCQUNHQUlndGxRb0FqZ0JVSXVOa192N19fX19fd0ZneVk3NGhzaWpfQnFnQWJqWWhQOER5QUVCeUFLNTBvVUUyUU9zb2xUTS1WS0R1LUFERUESEwjF9PbA5NKUAhUeLGoKHZgcH5IYASD975_F7piYwnNIAQ
+
+GET /pagead/conversion/1071891903/?random=1216705358084&cv=1&fst=1216705358084&num=1&fmt=1&value=1&label=PURCHASE&bg=666666&hl=en&gl=US&u_h=1050&u_w=1680&u_ah=1028&u_aw=1630&u_cd=32&u_his=1&u_tz=-420&u_java=true&u_nplug=9&u_nmime=86&ref=http%3A//www.sacramentohi.com/home.aspx&url=http%3A//www.sacramentohi.com/reservations.aspx HTTP/1.1
+Host: www.googleadservices.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.sacramentohi.com/reservations.aspx
+

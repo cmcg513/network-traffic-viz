@@ -1,0 +1,26 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script type="text/javascript"><!--
+function Now(){return(new Date).getTime()}function SetClass(id,c){document.getElementById(id).className=c}var ok=1;var rpts=0;var start=Now();var last=start;function Update(v){if(v!=ok){SetClass("m",v?"h":"");ok=v;if(!ok){(new Image).src="?ui=1&view=lr&seq="+ ++rpts+"&random="+Now()}}}var t;var dur=30000;var lastPct=0;var ravg=0;function Progress(pct,next){Update(1);var cur=Now();var pctL=pct-lastPct;
+var timeL=cur-last+1;var r=pctL/timeL;ravg=pct/(cur-start+1);if(pct){dur=2*(next-pct)/(0.5*ravg+0.5*r);dur=Math.min(30000,Math.max(10000,dur))}window.clearTimeout(t);t=window.setTimeout("Update(0)",dur);last=cur;lastPct=pct}function LoadDone(){window.clearTimeout(t);t=window.setTimeout("Update(0)",30000)}function SendJS(url){var xhr;try{xhr=new XMLHttpRequest}catch(e){var a=["MSXML2.XMLHTTP.5.0","MSXML2.XMLHTTP.4.0",
+"MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","MICROSOFT.XMLHTTP.1.0","MICROSOFT.XMLHTTP.1","MICROSOFT.XMLHTTP"];for(var i=0;i<a.length;i++){try{xhr=new ActiveXObject(a[i]);break}catch(e){}}}if(xhr){xhr.open("POST",url,true);xhr.setRequestHeader("Content-Type","application/x-www-form-urlencoded");var data="&js="+encodeURIComponent(top.js.document.body.innerHTML);xhr.send(data)}}Progress(0,1)
+-->
+</script>
+<style type="text/css">
+p{font-size:120%;width:600} .h{display:none}
+</style>
+</head>
+<body>
+<p>Loading...
+<p id=m class=h>This seems to be taking longer than usual.<br><br>
+If you are using a slow Internet connection, you can wait a bit longer for
+this page to finish loading, or just use
+<a href="?ui=html">basic HTML view</a> for now.<br><br>
+If you are using your normal Internet connection and you usually
+get past this loading step without any problems, please refresh this page in
+your browser. If you continue to have trouble loading your account, please
+<a style=color:#0000CC href="http://mail.google.com/support/bin/answer.py?answer=8767&src=sl&hl=en">visit the help center</a> for
+troubleshooting information.
+</body>
+</html>

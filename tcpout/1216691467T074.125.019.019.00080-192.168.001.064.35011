@@ -1,0 +1,17 @@
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Set-Cookie: GMAIL_AT=EXPIRED; Expires=Mon, 21-Jul-2008 01:51:30 GMT; Path=/mail
+Set-Cookie: gmailchat=EXPIRED; Expires=Mon, 21-Jul-2008 01:51:30 GMT; Path=/mail
+Set-Cookie: GMAIL_RTT=EXPIRED; Expires=Mon, 21-Jul-2008 01:51:30 GMT; Path=/mail
+Set-Cookie: GV=EXPIRED;Domain=mail.google.com;Path=/;Expires=Mon, 01-Jan-1990 00:00:00 GMT
+Set-Cookie: GV=EXPIRED;Domain=mail.google.com;Path=/mail;Expires=Mon, 01-Jan-1990 00:00:00 GMT
+Set-Cookie: GX=EXPIRED; Expires=Mon, 21-Jul-2008 01:51:30 GMT; Path=/mail
+Set-Cookie: GX=EXPIRED; Domain=.mail.google.com; Expires=Mon, 21-Jul-2008 01:51:30 GMT; Path=/mail
+Location: https://www.google.com/accounts/Logout?service=mail&continue=https%3A%2F%2Fwww.google.com%2Faccounts%2FServiceLogin%3Fservice%3Dmail%26passive%3Dtrue%26rm%3Dfalse%26continue%3Dhttp%253A%252F%252Fmail.google.com%252Fmail%252F%253Fui%253Dhtml%2526zy%253Dl%26bsv%3D1k96igf4806cy%26ltmpl%3Ddefault%26ltmplcache%3D2%26hl%3Den&hl=en
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Date: Tue, 22 Jul 2008 01:51:30 GMT
+Server: GFE/1.3
+

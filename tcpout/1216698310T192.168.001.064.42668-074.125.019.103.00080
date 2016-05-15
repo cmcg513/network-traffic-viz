@@ -1,0 +1,5 @@
+GET /calendar/ical/abnap6kk6o3jhj6k08h8b3k9p0%40group.calendar.google.com/public/basic.ics HTTP/1.1
+User-Agent: DAVKit/2.0 (10.5.4; wrbt) iCal 3.0.4
+Connection: close
+Host: www.google.com
+

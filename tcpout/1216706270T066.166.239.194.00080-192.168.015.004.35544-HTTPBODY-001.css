@@ -1,0 +1,43 @@
+BODY, TABLE, TR, TD, INPUT, TEXTAREA, SELECT, BUTTON {
+	font-family: Arial, Verdana, Trebuchet, Geneva, Helvetica, sans-serif;
+	font-size: 10pt;
+	vertical-align: top;
+}
+
+.fldStandard {
+	width: 400px;
+}
+
+.fldNumeric {
+	width: 30px;
+}
+
+.textareaStandard {
+	width: 400px;
+	height: 115px;
+}
+
+.list_Title {
+	font-weight:bold;
+}
+
+.list_Author {
+}
+
+.list_Date {
+}
+
+.doc_Title {
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+A {text-decoration:none}
+A:link, A:visited {color:"#FF0000"}
+A:hover {color:"#999999"}
+A:tlink {color:"#999999"}
+
+.FooterText {
+	font-size: 8pt;
+}
+

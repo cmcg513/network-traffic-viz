@@ -1,0 +1,5 @@
+GET /outlook/travel/businesstraveler/local/USCA0820 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.5)
+Host: www.weather.com
+Accept: */*
+

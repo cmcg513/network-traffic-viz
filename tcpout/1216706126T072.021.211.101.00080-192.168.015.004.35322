@@ -1,0 +1,26 @@
+HTTP/1.1 404 Not Found
+x-amz-request-id: A6AB040679297E9B
+x-amz-id-2: 08pxxnl517IMUf+6RDyWyVtWH3F9xOjvQGknN6tIMM7YyNRCI4oJaY3h6wnmv1TI
+Content-Type: application/xml
+Transfer-Encoding: chunked
+Date: Tue, 22 Jul 2008 05:55:50 GMT
+Server: AmazonS3
+
+128
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>imgsc/2/1/0/2/5/3/sc/270048600528.jpg</Key><RequestId>A6AB040679297E9B</RequestId><HostId>08pxxnl517IMUf+6RDyWyVtWH3F9xOjvQGknN6tIMM7YyNRCI4oJaY3h6wnmv1TI</HostId></Error>
+0
+
+HTTP/1.1 404 Not Found
+x-amz-request-id: A8CC34C031E57815
+x-amz-id-2: 2cDK2wvYFK7xFMLCpFJ/MKCLaWDRxu4x6DR8TUGXOE8z6dhJjlR5cEN36WQsNVze
+Content-Type: application/xml
+Transfer-Encoding: chunked
+Date: Tue, 22 Jul 2008 05:55:50 GMT
+Server: AmazonS3
+
+128
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchKey</Code><Message>The specified key does not exist.</Message><Key>imgsc/2/1/0/2/5/3/sc/270048600528.jpg</Key><RequestId>A8CC34C031E57815</RequestId><HostId>2cDK2wvYFK7xFMLCpFJ/MKCLaWDRxu4x6DR8TUGXOE8z6dhJjlR5cEN36WQsNVze</HostId></Error>
+0
+

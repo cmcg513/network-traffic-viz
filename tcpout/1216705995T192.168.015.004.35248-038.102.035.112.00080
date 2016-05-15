@@ -1,0 +1,11 @@
+GET /Default.aspx?query=%3Al%3Ahttp%3A//cgi.ebay.com/WILSONS-LEATHER-RUCKSACK-BROWN-BACKPACK-LARGE-BAG_W0QQitemZ140250545862QQihZ004QQcategoryZ63852QQssPageNameZWDVWQQrdZ1QQcmdZViewItem%3At%3AWILSONS%20LEATHER%20RUCKSACK%20BROWN%20BACKPACK%20LARGE%20BAG%20-%20eBay%20%28item%20140250545862%20end%20time%20Jul-24-08%2018%3A59%3A11%20PDT%29%3Ar%3Ahttp%3A//search.ebay.com/search/search.dll%3Ffrom%3DR40%26_trksid%3Dm37%26satitle%3Dleather+rucksack%26category0%3D%3Ac%3A/category11450/%2C/category4251/%2C/category63852/%3Ai%3A140250545862%3Ab%3A1%3Ap%3A8.99 HTTP/1.1
+Host: backupinfo.auctiva.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/WILSONS-LEATHER-RUCKSACK-BROWN-BACKPACK-LARGE-BAG_W0QQitemZ140250545862QQihZ004QQcategoryZ63852QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+

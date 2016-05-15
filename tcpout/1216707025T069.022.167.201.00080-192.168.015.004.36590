@@ -1,0 +1,9 @@
+HTTP/1.1 304 Not Modified
+Content-Type: text/css
+Last-Modified: Mon, 14 Jul 2008 16:54:03 GMT
+ETag: "1b9e6f0-436d-bd1a40c0"
+Cache-Control: private, no-transform, max-age=36299
+Date: Tue, 22 Jul 2008 06:10:49 GMT
+Connection: close
+X-Apple-Partner: origin.0
+

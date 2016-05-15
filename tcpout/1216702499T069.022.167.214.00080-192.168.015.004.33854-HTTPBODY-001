@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/33/e5/1c/mzi.obveewqh.enc.jpg?downloadKey2=1217307323_bbe4eccd27b59564ca3dd11951ba86ac</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Pink Floyd</string>
+    <key>playlistName</key><string>Delicate Sound of Thunder (Live)</string>
+    <key>artistId</key><string>487143</string>
+    <key>playlistId</key><string>170271271</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

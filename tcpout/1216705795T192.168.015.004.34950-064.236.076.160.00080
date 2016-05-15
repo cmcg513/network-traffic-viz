@@ -1,0 +1,48 @@
+GET /rtx/r.js?cmd=TVL&si=13655&xs=2&v=3.12&cb=28124 HTTP/1.1
+Host: anrtx.tacoda.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/module/tracking/tacoda.jsp
+Cookie: TID=13ur3of186a0fv; Xsd=$; TData=99999|^|50116|50506|#|50237|60190; Tcc=1216705747^20; ANRTT=50237^1^1217310545|60190^1^1217207386; Tsid=0^1216705686^1216707545|13655^1216705686^1216707545; Anxd=x
+
+GET /opt/r.js?cb=14570 HTTP/1.1
+Host: anrtx.tacoda.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/module/tracking/tacoda.jsp
+Cookie: TID=13ur3of186a0fv; Xsd=$; TData=99999|^|50116|50506|#|50237|60190; Tcc=1216705747^20; ANRTT=50237^1^1217310620|60190^1^1217207386; Tsid=0^1216705686^1216707620|13655^1216705686^1216707620; Anxd=x
+
+GET /rtx/r.js?cmd=TVL&si=13655&xs=2&v=3.12&cb=43536 HTTP/1.1
+Host: anrtx.tacoda.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/module/tracking/tacoda.jsp
+Cookie: TID=13ur3of186a0fv; Xsd=$; TData=99999|^|50116|50506|#|50237|60190; Tcc=1216705840^20; ANRTT=50237^1^1217310620|60190^1^1217207386; Tsid=0^1216705686^1216707620|13655^1216705686^1216707620; Anxd=x
+
+GET /opt/r.js?cb=68609 HTTP/1.1
+Host: anrtx.tacoda.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/shared/module/tracking/tacoda.jsp
+Cookie: TID=13ur3of186a0fv; Xsd=$; TData=99999|^|50116|50506|#|50237|60190; Tcc=1216705840^20; ANRTT=50237^1^1217310666|60190^1^1217207386; Tsid=0^1216705686^1216707666|13655^1216705686^1216707666; Anxd=x
+

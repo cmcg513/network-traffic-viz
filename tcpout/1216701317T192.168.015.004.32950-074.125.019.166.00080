@@ -1,0 +1,18 @@
+GET /pagead/show_ads.js HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_adlinks&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=130276
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: pagead2.googlesyndication.com
+
+GET /pagead/ads?client=ca-cnn-home_js&dt=1216701342467&hl=en&adsafe=high&oe=utf8&num_ads=3&output=js&correlator=1216701342467&channel=homepage&url=http%3A%2F%2Fwww.cnn.com%2F&ad_type=text&loc=http%3A%2F%2Fwww.cnn.com%2F&frm=1&ga_vid=1153325209520775700.1216701342&ga_sid=1216701342&ga_hid=1697953173&flash=9.0.124&u_h=800&u_w=1280&u_ah=778&u_aw=1237&u_cd=24&u_tz=-420&u_his=10&u_java=true&u_nplug=10&u_nmime=141 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://ads.cnn.com/html.ng/site=cnn&cnn_pagetype=main&cnn_position=336x280_adlinks&cnn_rollup=homepage&page.allowcompete=yes&params.styles=fs&tile=7679331076121&domId=130276
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: pagead2.googlesyndication.com
+

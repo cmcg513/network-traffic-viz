@@ -1,0 +1,6 @@
+var ANUT=1;
+var ANOO=0;
+var ANCCT=0;
+var ANSL='99999|^|#|60190';
+var ANMSL='*';
+ANRTXR();

@@ -1,0 +1,6 @@
+GET /onthemedia HTTP/1.1
+User-Agent: iTunes/7.7 (Macintosh; N; Intel)
+Accept-Encoding: gzip
+Connection: close
+Host: feeds.wnyc.org
+

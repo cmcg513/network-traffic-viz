@@ -1,0 +1,1246 @@
+
+
+
+body,p,ol, ul, .f12, .error, .promoText, .sixDevcontent, .sixDevcontentheader, .sixDevcontentform, .f12quickres,
+.ratesListingCell, .ratesAltListingCell, .tc_body, .tc_account_description, .tc_body_message, .tc_account_data,
+.tc_awaiting_approval, .mq_body_text, .ta_managed_account, .accountPointsNegative, .accountPointsPositive, .pslotHeader,
+.pslotBody, .accountStatusLabels, .cf12, .cf12alt, .tc_header_title, .mq_table_title, .mq_body_title  {
+	font-family: Arial, Helvetica, Geneva, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+a, a:visited { 
+	color: #333333; 
+}
+
+a:active, a:hover { 
+	color: #555555; 
+}
+
+.error{
+	font-weight: bold;
+	color: #CC0000;
+}
+
+h1, .f24{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+h2, .f18, .f18alt, .mq_header_title{
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h3, .f14{
+	font-size: 14px;
+	font-weight: bold;
+}
+.f16 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+h4, .f12blue, a.promoText, .f12steps, .f12eMeeting, .ratesRateCell, .ratesDescriptionCell, .ratesAltRateCell,
+.ratesAltDescriptionCell, .priorityBannerText, .tc_title_description, .tc_header_title, .mq_body_title, .teaser_title, 
+.accountStatusLabels {
+	font-weight: bold;
+}
+
+small, .f11, .login11, .priorityValue, .bookWithConfidence, .maxPeople, .mq_curres_table, .mq_account_table, 
+.accountStatusTableText, .accountStatusTableText2, #shareExperience , #shareExperience span.pslotHeader,
+#shareExperience span.pslotBody, .spacct11  {
+	font-size: 11px;
+}
+
+.f11bold, .cf11, .leftNav, .qresHomeOptionBold, .specText, .favSelect, .rateWhiteBox, .mq_account_table_title {
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.f10, .login10, .qresTop, .qresBottom, .qresHome, .qresHomeSubmit, .qresHomeSplit, .qresHomeOption, .c10 {
+	font-size: 10px;
+}
+
+.f8 {
+	font-size: 8px;
+}
+
+a.shlink, a.shlink:link, a.shlink:active, a.shlink:hover, a.shlink:visited {
+	text-decoration: underline;
+}
+
+.cf12, .cf12alt, .franHeader {
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+.cf16alt {
+	font-size: 16px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+.cf18 {
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+.login9, .f9emeetings {
+	font-size: 9px;
+}
+
+.qresHeader {
+	font-size: 16px;
+	font-weight: bold;
+}
+#quickResHeader {
+	margin: 0;
+	padding: 0;
+	}
+.qresHomeBox, .qresHomeOptionBox {
+	font-size: 10px;
+	border: 1px solid #000000;
+}
+
+.franHeaderLink, a.franHeaderLink, a.franHeaderLink:link, a.franHeaderLink:active, a.franHeaderLink:hover, a.franHeaderLink:visited {
+	font-size: 10px;
+	font-weight: bold;
+	text-decoration: underline;
+	padding-left: 5px;
+}
+
+a.leftNav, a.leftNav:visited, a.leftNav:active, a.leftNav:hover {
+	text-decoration: none;
+}
+#faves_break {
+	white-space: nowrap;
+	position: relative;
+	border-top: 1px solid black;
+	top: 9px;
+	width: 180px;
+	height: 1px;
+	text-align: center;
+	padding-bottom: 12px;
+	}
+#or {
+	background: white;
+	position: relative;
+	top: -8px;
+	}
+.f17alt {
+	font-size: 17px;
+	color: #002577;
+	font-weight: bold;
+}
+.f14alt {
+	font-size: 14px;
+	font-weight: bold;
+	border-bottom: thin solid black;
+}
+.f15alt {
+	font-size: 15px;
+	font-weight: bold;
+	border-bottom: thin solid black;
+}
+
+.cf14 {
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+.cf14np {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.f11Sort {
+	font-size: 11px;
+	padding: 3px;
+}
+.f11alt, .phoneNumber {
+	font-size: 15px;
+	font-weight: bold;	
+}
+	
+.f11stepsOn, .f11steps{
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.f11stepsPipe {
+	font-size: 14px;
+}
+
+.next11, a.next11, a.next11:visited{
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+}
+#progress {
+	width: 570px;
+	border-collapse: collapse;
+	border-spacing: 0px;
+	margin-top: 3px;
+	}
+#progress_bar { background-color: #c7c7c7; }
+#progress_bar td { height: 4px; }
+.progress_status { background-color: #6b6b6b; }
+#progress_labels { 
+	font-size: 11px; 
+	color: #000;
+	}
+#progress_labels td { 
+	border-top: 2px solid white;
+	white-space: nowrap;
+	padding-left: 2px;
+	padding-right: 2px;	
+	}
+#progress_step1 { 
+	border-right: 1px solid black; 
+	width: 20%;
+	}
+#progress_step2 { 
+	border-right: 1px solid black; 
+	width: 10%;
+	text-align: center;
+	}
+#progress_step3 { 
+	border-right: 1px solid black; 
+	width: 15%;
+	text-align: center;
+	}
+#progress_step4 { 
+	border-right: 1px solid black; 
+	width: 25%;
+	text-align: center;
+	}
+#progress_step5 { 
+	width: 20%;
+	text-align: center;
+	}
+
+
+
+.f14eMeeting {
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+.cf10, a.cf10, a.cf10:visited{
+	font-size: 10px;
+	font-weight: bold;
+    text-decoration: none;
+}
+
+
+input.buttonPrev11 {
+	font-size: 11px;
+ 	height: 20px;
+	width: 75px;
+	font-weight: bold;
+	border-style: none;
+}
+
+input.buttonNext11 {
+	font-size: 11px;
+ 	height: 20px;
+	width: 50px;
+	font-weight: bold;
+	border-style: none;
+}
+
+input.proceed100 {
+	font-family: "Gill Sans", sans-serif;
+	letter-spacing: 1.5px;
+ 	height: 20px;
+	width: 100px;
+	font-weight: bold;
+	border-style: none;
+}
+
+input.proceed175 {
+	font-family: "Gill Sans", sans-serif;
+	letter-spacing: 1.5px;
+ 	height: 20px;
+	width: 175px;
+	font-weight: bold;
+	border-style: none;
+}
+
+input.proceed200 {
+	font-family: "Gill Sans", sans-serif;
+	letter-spacing: 1.5px;
+ 	height: 20px;
+	width: 200px;
+	font-weight: bold;
+	border-style: none;
+}
+
+input.proceedAlt100 {
+	font-family: "Gill Sans", sans-serif;
+	letter-spacing: 1.5px;
+ 	height: 20px;
+	width: 100px;
+	font-weight: bold;
+	border-style: none;
+}
+
+input.proceedAlt175{
+	font-family: "Gill Sans", sans-serif;
+	letter-spacing: 1.5px;
+ 	height: 20px;
+	width: 175px;
+	font-weight: bold;
+	border-style: none;
+}
+
+input.proceedAlt200 {
+	font-family: "Gill Sans", sans-serif;
+	letter-spacing: 1.5px;
+ 	height: 20px;
+	width: 200px;
+	font-weight: bold;
+	border-style: none;
+}
+
+
+.f15lirg {
+	font-size: 15px;
+	font-weight: bold;	
+}
+
+.cf10link, .ratesDescLink, .ratesMoreLink, .ratesAltDescLink {
+	font-size: 10px;
+	text-decoration: underline;
+}
+.priorityDescription {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.f14alt_nu {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.pt_second_color, .sub_title, .selectacetagory, .pt_dropdown, .pt_second, .pt_larger_photo {
+	font-size:11px;
+	text-decoration:underline;
+}
+
+.pt_error_info {
+	font-size:11px;
+	text-decoration:none;
+}
+
+.beige_bar_title {
+	font-size:19px;
+	text-decoration:none;
+}
+
+.beige_bar_count {
+	font-size:14px;
+	text-decoration:none;
+}
+
+.photo_tour_tab_on_body, .photo_tour_tab_body, .photo_tour_tab_off_body {
+	font-size:15px;
+	text-decoration:none;
+}
+
+.pt_background {
+	text-decoration:none;
+}
+
+.pt_linktext {
+	text-decoration:underline;
+	font-size:10px
+}
+.tc_titles{
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.tc_error{
+	color: #CC0000;
+	font-style: italic
+}
+
+.mq_count {
+	border-style: solid;
+	border-width: thin;
+}
+
+.mq_table_title {
+	font-weight: bold;
+	height: 16px
+}
+
+.mq_table_content_false{
+}
+
+a.maxPeople:link, a.maxPeople:visited, a.maxPeople:hover{
+	font-size: 11px;
+	text-decoration: underline;
+}
+
+#china_post_option {
+	position: relative;
+	top: 4px;
+	font-size: 9pt;
+	float: right;
+}
+
+#china_post_pop_up {
+	font-size: 9px;
+	line-height: 200%;
+	width: 520px;
+	position: relative;
+	left: 10px;
+	top: 5px;
+}
+#china_post_pop_up b {
+	position: relative;
+	left: 18px;
+	font-size: 12px;
+	font-weight: bold;
+}
+#pop_images {
+	position: relative;
+	left: 18px;
+	top: -35px;
+	width: 500px;
+	text-align: center;
+}
+#pop_close {
+	float: right;
+	position: relative;
+	top: 30px;
+	border: 1px solid;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.china_cash_conf img {
+	float: left;
+	position: relative;
+	top: -6px;
+}
+.china_cash_conf br {
+	clear: both;
+}
+
+#chatTalkButtons  {
+	padding-bottom: 20px;
+}
+
+#chatTalkButtons table {
+	position: relative;
+	left: 0px;
+	font-size: 14px;
+	font-weight: bold;
+	width: 100%;
+}
+
+#chatTalkButtons a { 
+	font-size: 10px;
+	 }
+
+#chatTalkButtons img, #smartbutton img { 
+	border: 0;
+}
+
+.underscore {
+	width: 100%;
+	border-bottom: thin solid #000;
+}
+
+#averageNightRate{
+	position: absolute;
+	width: 236px;
+	height: 200px;
+}
+
+#popMessage{
+	padding: 20px 9px 30px 9px;
+	font: normal 11px Arial;
+	background-color: white;
+}
+	
+.f12red{
+	font-size: 12px;
+	color: red;
+}
+
+.acct11 {
+	font-size: 11px;
+	font-weight: bold;
+}
+
+input.buttonres11 {
+	font-size: 11px;
+ 	height: 20px;
+	width: 80px;
+	font-weight: bold;
+}
+
+.mp_account_nav, a.mp_account_nav:link, a.mp_account_nav:visited{
+	font-size: 11px;
+	font-weight: bold;
+}
+
+a.mp_account_nav:hover, a.mp_account_nav_active:visited{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.mp_account_nav2, a.mp_account_nav2:link, a.mp_account_nav2:visited{
+	font-size: 11px;
+}
+
+a.mp_account_nav2:hover, a.mp_account_nav_active2{
+	font-size: 11px;
+	text-decoration: underline;
+}
+
+.mp_cf11 {
+	font-size: 11px;
+	padding: 4px 4px 4px 4px;
+}
+
+.mq_curres_table_title{
+	font-size: 11px;
+	font-weight: bold;
+}
+
+#i_top_nav_extender_top {
+	position: absolute;
+	top: 1px;
+	left: 761px;
+	width:195px;
+	height:28px;
+}
+#i_top_nav_extender_bottom {
+	position: absolute;
+	top: 30px;
+	left: 761px;
+	width:195px;
+	height:20px;
+}
+.accountStatusTableTitle{
+	font-size: 11px;
+	padding: 9px 5px 5px 9px;
+	text-align: center;
+	font-weight: bold;
+}
+.accountStatusTable{
+	font-size: 11px;
+	padding: 7px 5px 5px 7px;
+}
+
+.accountStatusPointTotal {
+	font-size: 11px;
+	font-weight: bold;
+	padding: 9px 5px 5px 9px;
+	text-align: right;
+}
+
+#accountStatusTeaserBox {
+	margin-top: 2px;
+	position: absolute;
+	top: 185px;
+	left: 825px;
+	width: 172px;
+	padding: 0px 0px 0px 0px;
+	border: 1px solid black;
+}
+
+#accountStatusTeaserText {
+	text-align: justify;
+	padding: 10px 10px 10px 10px;
+}
+
+.rewardPointsTableTitle{
+	font-size: 11px;
+	padding: 9px 5px 5px 9px;
+	text-align: center;
+	font-weight: normal;
+}
+
+.rewardPointsTableRow1, .rewardPointsTableRow2{
+	font-size: 11px;
+	padding: 7px 5px 5px 7px;
+}
+
+.rewardPointsTableTotal, .rewardPointsTableTotal2{
+	font-size: 11px;
+	font-weight: bold;
+	padding: 7px 5px 5px 7px;
+}
+
+.accountStatusTable2 {
+	font-size: 11px;
+	padding-left: 3px;
+	padding-top: 2px;
+}
+
+/* 
+==========================================
+Begin Hotel Bill styles
+==========================================
+*/
+#billNotAvailable, #popUpPanelForHBAccess {
+	position: absolute;
+	left: -400px;
+	width: 236px;
+	height: 200px;
+}
+
+#popUpPanelForHBAccess table, #billNotAvailable table {
+	border: 1px solid #000;
+}
+
+.panelHeader {
+	text-align: center;
+	height: 28px;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.emailPanelHeader {
+	text-align: left;
+	padding-left: 9px;
+	height: 28px;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+#thanks {
+	text-align: left;
+	width: 716px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-size: 14px;
+}
+
+#printHotelBill table, #hotelBill table {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+#hotelBill {
+	border: 1px solid #000;
+	width: 716px;
+}
+
+#printHotelBill {
+	border: 1px solid #000;
+	width: auto;
+}
+
+#logoZone {
+	width: 166px;
+	height: 106px;
+	text-align: center;
+	padding-left: 19px;
+}
+
+#printLogoZone {
+	width: 166px;
+	height: 106px;
+	text-align: center;
+	padding-left: 19px;
+}
+
+#hotelInfo {
+	width: 344px;
+	text-align: center;
+}
+
+#printHotelInfo {
+	width: 344px;
+	text-align: center;
+}
+
+.hotelName {
+	font-size: 13px;
+	font-weight: bold;
+}
+
+.hb_printLink {
+	width: 140px;
+	font-size: 9px;
+	text-decoration: none;
+	text-align: center;
+	margin-right: 10px;	
+	margin-bottom: 5px;
+}
+
+.hb_printLink a {
+	float: left;
+	margin-left: 15px;
+}
+
+.hb_returnLink {
+	width: 55px;
+	text-align: center;
+	font-size: 13px;
+	margin-right: 15px;	
+}
+
+#headerBar {
+	height: 28px;
+	font-weight: bold;
+}
+.brandColor td {
+	height: 28px;
+	font-weight: bold;
+}
+
+.cp_brand_color { background: #98172A; }
+.cw_brand_color { background: #B70005; }
+.hi_brand_color { background: #08562D; }
+.ex_brand_color { background: #344D9D; }
+.fs_brand_color { background: #2277CC; }
+.sl_brand_color { background: #CED1D7; }
+.ss_brand_color { background: #A5005F; }
+.ic_brand_color { background: #393A35; }
+.in_brand_color { background: #2C2B71; }
+.sb_brand_color { background: #21647E; }
+
+.indented { 
+	margin-left: 10px;
+}
+
+#billingInfo {
+	width: 485px;
+	vertical-align: top;
+	padding-top: 3px;
+	padding-bottom: 12px;
+}
+
+#printBillingInfo {
+	width: 400px;
+	vertical-align: top;
+	padding-top: 3px;
+	padding-bottom: 12px;
+}
+
+.billingNudge {	
+	padding-left: 13px;
+}
+
+#roomSummary {
+	vertical-align: top;
+	padding-top: 3px;
+	padding-right: 30px;
+}
+
+#roomSummary table td {
+	padding-left: 10px;
+}
+
+#itemBar {
+	height: 28px;
+	font-weight: bold;
+}
+
+.itemDate {
+	width: 91px;
+	padding-left: 20px;
+	padding-right: 15px;
+	text-align: right;
+}
+
+.itemDesc {
+	width: 418px;
+	padding-left: 38px;
+	height: 22px;
+}
+
+.itemAmt {
+	width: 203px;
+	padding-right: 38px;
+	text-align: right;
+}
+
+#itemEnd {
+	height: 50px;
+}
+
+#itemBar .itemDate, #itemBar .itemDesc, #itemBar .itemAmt { 
+	border: 0; 
+} 
+
+#printItemBar .itemDate, #printItemBar .itemDesc, #printItemBar .itemAmt { 
+	border-left: 0;
+	border-right: 0;
+} 
+
+.pageBreak {
+	page-break-after: always;
+}
+
+#introText {
+	margin-bottom: 15px;
+}
+
+#billFooter {
+	height: 50px;
+	padding-bottom: 10px;
+}
+
+#billFooter .hb_printLink {
+	position: relative;
+	display: block;
+	float: left;
+	left: 210px;
+	top: 10px;
+	width: 55px;
+} 
+
+#billFooter .hb_emailLink {
+	position: relative;
+	display: block;
+	float: left;
+	left: 220px;
+	text-decoration: underline;
+	margin: 10px;
+}
+
+#billFooter .hb_returnLink {
+	position: relative;
+	display: block;
+	float: left;
+	left: 240px;
+	text-decoration: underline;
+	margin: 10px;
+}
+
+#printable_bill {
+	position: absolute;
+	left: -1000px;
+}
+
+#popUpPanel {
+	position: absolute;
+	width: 234px;
+	height: 200px;
+	left: -400px;
+}
+
+#popUpPanel table {
+	border: 1px solid #000;
+	background-color: white;
+}
+
+#panelHeaderText {
+	font-size: 13px;
+}
+
+#printHeaderBar {
+	height: 28px;
+	font-weight: bold;
+}
+
+#popMessage {
+	padding: 20px 9px 30px 9px;
+	font-size: 11px;
+}
+
+#emailPopPanel {
+	position: absolute;
+	left: -500px;
+	width: 388px;
+	height: 200px;
+}
+
+#emailPopPanel input {
+	width: 370px;
+}
+
+#emailPopPanel textarea {
+	width: 370px;
+	height: 75px;
+}
+
+.interstitial_text {
+	font-size: 14px;
+}
+
+#tabSet {
+	position: relative;
+	top: 1px;
+	width: 716px;
+	text-align: left;
+	font-size: 0;
+}
+	
+.rollOverContent {
+	z-index: 115;
+	font-family: Verdana sans-serif;
+	font-size: 11px;
+	padding-top: 12px;
+	padding-bottom: 12px;
+	padding-left: 9px;
+	padding-right: 9px;
+}
+
+.writingTipsContent{
+  margin-left: 8px;
+  margin-right: 8px;
+  height: 475px;
+  width: 338px
+}
+#calendarPanelSubmit {
+	margin-left: 20px;
+	}
+#calendar_pop_in {
+	position:absolute;
+	display:none;
+	left: 153px;
+	}
+#calendar_pop_out {
+	position:absolute;
+	display:none;
+	left: 153px;
+	}
+* html #calendar_pop_in {
+    left: 148px;
+	}
+* html #calendar_pop_out {
+	left: 148px;
+	}
+.hdRatesButton_popper {
+	position:relative;
+	}
+#calendar_panel {
+	width:190px;
+	height:100px;
+	border:1px solid black;
+	background-color:white;
+	padding:3px;
+	position:absolute;
+	left:587px;
+	top:-300px;
+	z-index:3;
+	}
+
+#hdRatesButton {
+	clear: both;
+	float: right;
+}
+#hdPackagesButton {
+	clear: both;
+	float: right;
+}	
+
+
+
+
+
+.cf11, .cf12, .cf18 {
+	color: #FFFFFF;
+	background-color: #017356;
+}
+
+a.shlink, a.shlink:link, a.shlink:active, a.shlink:hover, a.shlink:visited {
+	color: #EAEAD5;
+	background-color: #017356;
+}
+
+.cf12alt {
+	background-color: #CCCCCC;
+}
+
+.cf16alt, .f17alt, .f18alt {
+	color: #017356;
+}
+
+.franHeader, .franHeaderLink, a.franHeaderLink, a.franHeaderLink:link, a.franHeaderLink:active, a.franHeaderLink:hover, a.franHeaderLink:visited {
+	color: #FFFFFF;
+	background-color: #666666;
+}
+
+.leftNav, .f12blue {
+	color: #333399;
+}
+
+.login9 {
+	background-color: #2E3192;
+}
+
+.login10 {
+	color: #FFFFFF;
+	background-color: #333333;
+}
+
+.login11 {
+	color: #FFFFFF;
+	background-color: #333333;
+}
+
+.qresHeader {
+	color: #FFFFFF;
+	background-color: #868641;
+}
+
+.qresTop {
+	background-color: #B2C3C3;
+}
+
+.qresBottom {
+	background-color: #C4D3D3;
+}
+
+.specText {
+	color: #122C47;
+}
+
+.qresHome, .qresHomeSubmit {
+	color: #333333;
+	background-color: #CCCCCC;
+}
+
+.qresHomeBox {
+	color: #333333;
+	border: 1px solid #B3B3B3;
+	background-color: #CCCCCC;
+}
+
+.qresHomeOptionBox {
+	color: #333333;
+	border: 1px solid #000000;
+	background-color: #B3B3B3;
+}
+
+a.promoText, .qresHomeSplit {
+	color: #333333;
+}
+
+.qresHomeOptionBold, .qresHomeOption {
+	color: #333333;
+	background-color: #B3B3B3;
+}
+
+.favSelect{
+	color: #0000FF;
+}
+
+a, a:visited { 
+	color: #333333;
+}
+a:active, a:hover { 
+	color: #555555;
+}
+
+a.leftNav, a.leftNav:visited {
+	color: #2E3192;
+}
+a.leftNav:active, a.leftNav:hover {
+	color: #3A92C4;
+}
+
+.f12steps {
+	color: #52928C;
+}
+
+.f15alt, .f14alt {
+	color: #017356;
+	border-bottom: thin solid #000;
+}
+
+.cf14np, .cf14 {
+	color: #EAEAD5;
+	background-color: #017356;
+}
+
+.resBorder{ 
+	border: 2px solid #017356;
+}
+
+.f11Sort {
+	background-color: #EAEAD5;
+}
+
+.f11stepsOn, .f11alt {
+	color: #6B6D6C;
+}
+	
+.f11steps {
+	color: #B9B8B8;
+}
+
+.f9emeetings {
+	color: #666666;
+}
+
+input.proceed200, input.proceed175, input.proceed100, input.buttonNext11, input.buttonPrev11, .next11, a.next11, a.next11:visited{
+	color: #017356;
+	background-color: #EAEAD5;
+}
+
+.cf10, a.cf10, a.cf10:visited, .f14eMeeting, .f12eMeeting {
+	color: #017356;
+	background-color: #FFFFFF;
+}
+
+.emBorder{
+	border: 5px solid #017356;
+}
+ 
+input.proceedAlt200, input.proceedAlt175, input.proceedAlt100 {
+	color: #017356;
+	background-color: #FFFFFF;
+}
+
+.f15lirg {
+	color: #6B6D6C;
+}
+
+.c10, .cf10link {
+	color: #FFFFFF;
+}
+
+ .ratesDescLink, .ratesDescriptionCell, .ratesListingCell, .ratesRateCell {
+	background-color: #EAEAD5;
+}
+
+.ratesMoreLink {
+	background-color: #FFFFFF;
+}
+
+ .ratesAltDescLink, .ratesAltDescriptionCell, .ratesAltListingCell, .ratesAltRateCell {
+	background-color: #FFFFCC;
+}
+
+.priorityBanner {
+	background-color: #336699;
+}
+
+.priorityBannerText {
+	color: #FFFFFF;
+	background-color: #336699;
+}
+
+.f14alt_nu {
+	color: #002577;
+}
+
+.beige_bar_title, .pt_error_info {
+	color:#006531;
+}
+
+.sub_title, .selectacetagory {
+	color:#FFFFFF;
+}
+
+.photo_tour_tab_body {
+	background-color: #006531;
+	color:#FFFFFF;
+}
+
+.photo_tour_tab_body_border {
+	background-color: #006531;
+	color:#FFFFFF;
+}
+
+.photo_tour_tab_on_body_border .photo_tour_tab_on_body {
+	background-color: #C9C9C9;
+}
+
+.photo_tour_tab_off_body {
+	background-color: #808080;
+}
+ 
+.pt_linktext {
+	color:#FFFFFF;
+}
+
+.tc_titles{
+	color: #999999;
+}
+
+.tc_title_description{
+	color: #000099;
+}
+
+.tc_awaiting_approval{
+	color: #00CCFF;
+}
+
+.arrangerbox {
+	border-left: 2px solid #B4838A;
+	border-top: 2px solid #B4838A;
+	border-bottom: 2px solid #B4838A;
+	border-right: 2px solid #B4838A
+}
+
+.tc_error{
+	color: #CC0000;
+}
+
+.mq_count{
+	color: #FF0000;
+}
+
+.mq_table_title{
+	background-color: #E9E9D5;
+}
+
+.mq_table_content_true{
+	border: 1px solid #006633;
+}
+
+.mq_search_results_item{
+	border-top: 1px solid #006633;
+	border-bottom: 1px solid #006633;
+}
+
+.mq_search_results_item_true{
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+.mq_search_results_item_false{
+	border-top: 1px solid #000000;
+}
+
+.mq_account_table_title{
+	color: #FFFFFF;
+	background-color: #666666;
+	border: 1px solid #CCCCCC;
+}
+
+.maxPeople, a.maxPeople:visited a.maxPeople:link {
+	color: #2E3192;
+}
+
+a.maxPeople:hover {
+	color: #3A92C4;
+}
+
+.searchBackground {
+	background-color: #EAEAD5;
+}
+
+.underscore {
+	border-bottom: thin solid #000;
+}
+
+#averageNightRate table {
+	border: 1px solid #000;
+	background-color: #FFF;
+	}
+
+.f12red{
+	font-size: 12px;
+	color: red;
+}
+

@@ -1,0 +1,10 @@
+GET /.element/ssi/www/breaking_news/2.0/banner.html?&csiID=csi2 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: CNNid=Ga50a8d1e-10598-1210984239-817; SelectedEdition=www; s_vi=[CS]v1|482E273E000030E7-A160B0E00003C13[CE]; s_pers=%20s_lastvisit%3D1213150211644%7C1307758211644%3B%20s_vnum%3D1213576247107%2526vn%253D4%7C1213576247107%3B%20s_invisit%3Dtrue%7C1213152102560%3B
+Connection: keep-alive
+Host: www.cnn.com
+

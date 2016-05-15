@@ -1,0 +1,38 @@
+HTTP/1.1 200 OK
+Content-Length: 417
+Content-Type: text/xml; charset=UTF-8
+x-apple-asset-version: 46862
+X-Apple-Partner: origin.0
+Vary: Accept-Encoding
+x-webobjects-loadaverage: 0
+x-apple-application-instance: 235
+x-apple-date-generated: Tue, 22 Jul 2008 04:56:33 GMT
+x-apple-request-store-front: 143441
+x-apple-max-age: 3600
+Expires: Tue, 22 Jul 2008 04:56:33 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Tue, 22 Jul 2008 04:56:33 GMT
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>3004</integer>
+  <key>cover-art-url</key><string></string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

@@ -1,0 +1,11 @@
+GET /firefox?client=firefox-a&rls=org.mozilla:en-US:official HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.1) Gecko/2008070208 Firefox/3.0.1
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=12=mZ_XUTqUc1JporFQ0bSeWnq-C2x2qGNnPUpOsVPerV5kG9zC3WYWbuSEaLt8R1OGtHQaiuoDX-i_HEx2TifryLIi5vpgbGYWQa2EbdLdciYvBsxN3xlw70NJicVxuSac
+

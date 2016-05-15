@@ -1,0 +1,33 @@
+GET /safebrowsing/update?client=navclient-auto-ffox&appver=2.0.0.16&version=goog-white-domain:1:481,goog-white-url:1:371,goog-black-url:1:23289,goog-black-enchash:1:55650 HTTP/1.1
+Host: sb.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=13=VgKsAAQWBPuEpEWGpX89WxlWxk_5QWA1ig6Bi4Hza4GbI49iK7BsVihOa6tacqdjDkqK_dinLL5BEubMCkJDIEnM4NurWCZBtdK2oWWslLw3ysxTHcNJikbfEy52N4y_; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /safebrowsing/lookup?sourceid=firefox-antiphish&features=TrustRank&client=navclient-auto-ffox&appver=2.0.0.16&encver=1&nonce=1229808932&wrkey=MTr3l_7SPkk8G5biUBJr3iFn&encparams=10mxxLCOrTwoON3NFZqbGpHDv4kFaXWNRcpraMXYiN43xc%2Fq8fW908su0Z7sShaTx119YcUxNfQIwbAySwNtE6GJbbSUgMefI7VXPzvYWkLRjD35cabAGTqgP4UBdxjY%2BZ9nJuol3b9K%2BfyHrMRuZJPFuEvuo9wFP%2BgvJgwTLzvmEjhVAiwzvTE3qSeIOVtGtKGnbRsMJq6FQjge6XJ4GpvgZrdSw4Sf0%2FSjKpXkegidW4lq%2FD2eZw%3D%3D& HTTP/1.1
+Host: sb.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=13=VgKsAAQWBPuEpEWGpX89WxlWxk_5QWA1ig6Bi4Hza4GbI49iK7BsVihOa6tacqdjDkqK_dinLL5BEubMCkJDIEnM4NurWCZBtdK2oWWslLw3ysxTHcNJikbfEy52N4y_; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /safebrowsing/lookup?sourceid=firefox-antiphish&features=TrustRank&client=navclient-auto-ffox&appver=2.0.0.16&encver=1&nonce=1229808935&wrkey=MTr3l_7SPkk8G5biUBJr3iFn&encparams=ntviAqPBtB1DJ0lxahHjuch9i5XSGiJx%2FPe3olcu0TEp2dzPCrOOclWmQopS3yjUi4LnLBPqP7ruIfE4umSl0AqQWu9SbS4U563jYp0TL9pIR7FJVM5%2FSbB6ZgUGKGKUicutJglNKrgdIpTi1ZgSQirnz72MZEO38ddgsBVuECGczi1as7o0ZEzgMIPGTCVBQfHyvtyfJlp3gudsETpzlZXE9L0NKdER8ecMG5dCsyiLsKGKGfXEJg%3D%3D& HTTP/1.1
+Host: sb.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=13=VgKsAAQWBPuEpEWGpX89WxlWxk_5QWA1ig6Bi4Hza4GbI49iK7BsVihOa6tacqdjDkqK_dinLL5BEubMCkJDIEnM4NurWCZBtdK2oWWslLw3ysxTHcNJikbfEy52N4y_; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+

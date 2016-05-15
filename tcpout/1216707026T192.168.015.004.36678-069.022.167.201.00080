@@ -1,0 +1,12 @@
+GET /us/r1000/003/Music/53/96/6e/mzi.vosdnjkt.53x53-50.jpg HTTP/1.1
+X-Apple-Tz: -25200
+Cookie: s_vi=[CS]v1|4374FC15000046AB-A000B5E00000091[CE]
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/storeFront
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 88D1D777-815D0331C15A2BB4D6B83A630DF3DABD
+Accept-Encoding: gzip
+Connection: close
+Host: a1.phobos.apple.com
+

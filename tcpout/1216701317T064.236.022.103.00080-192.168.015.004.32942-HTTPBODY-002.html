@@ -1,0 +1,77 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+
+<script>
+        function cnnad_getTld (hostname)
+        {
+               var data = hostname.split(".");
+               if (data.length >= 2)
+               {
+                       return (data[data.length-2] + "." + data[data.length-1]);
+               }
+               return(null);
+        }
+ 
+        var cnnDocDomain = cnnad_getTld(location.hostname);
+        if(cnnDocDomain) {document.domain = cnnDocDomain;}
+
+	function cnnGetId(query) {
+		var keyValPairs = query.split('&');
+		if(!keyValPairs) {
+			keyValPairs = new Array();
+			keyValPairs[keyValPairs.length]=query;
+		}
+		for(var counter=0; counter < keyValPairs.length;counter++) {
+			var keyVal = keyValPairs[counter].split('=');
+			if(keyVal[0]=='domId') {
+				//alert("returning id: " + keyVal[1]);
+				return keyVal[1];
+			}
+		}
+	}
+			
+	function cnnSendData2() {
+		var docId = cnnGetId(decodeURIComponent(location.pathname.substring(9)));
+		var height = 300;
+		var width = 720;
+		top.cnnad_showAd(docId);
+		if ((height > 0)&&(width > 0))
+		{
+			top.cnnad_setAdSize(docId,height,width);
+		}
+	}
+</script> 
+</head>
+
+<body STYLE="background-color:transparent" onload="cnnSendData2()">
+<!--FlightID: 103470-->
+<script Language="JavaScript">
+
+var clk = 'http://ads.cnn.com/event.ng/Type%3dclick%26FlightID%3d103470%26AdID%3d193625%26TargetID%3d1095%26Values%3d1588%26Redirect%3d';
+
+var imp = '<img src="http://ads.cnn.com:80/event.ng/Type=count&ClientType=2&ASeg=&AMod=&AdID=193625&FlightID=103470&TargetID=1095&SiteID=1588&EntityDefResetFlag=0&Segments=730,2592,2743,3030,3285,8463,8796,9496,9779,9781,9853,10381,13760,14879,15539,16113,17251&Targets=1095,2742,1515&Values=30,46,50,61,73,82,93,100,110,150,1266,1588,2677,4405,4413,4418,4429,47182,48063,49554,52263,52509,52897,54682,54765,55058,55059,56058,56376&RawValues=&random=bvlqgim,beikyKbfdugcr" width=1 height=1 border=0>';
+
+var imp = escape(imp);
+
+var rand = 'bvlqgim,beikyKbfdugcr';
+
+var url_string = "http://www.cnn.com/cnn_adspaces/dart_ads/2007/12/21/orbitz.html?clk="+clk+"&imp="+imp+"&rand="+rand;
+
+var p_top= 100;
+
+var p_left= 100;
+
+var ad_id = "193625";
+
+var ad_id = (ad_id == "\$AdID\$") ? "" : ad_id;
+
+ad_pop = window.open(url_string,'ad_pop'+ad_id,'top='+p_top+',left='+p_left+',location=no,toolbar=no,directories=no,menubar=no,resizable=no,scrollbars=no,status=no,width=720,height=300');
+
+if (ad_pop) {ad_pop.blur();
+
+}document.onload = ad_pop;
+
+</script>
+</body>
+</html>

@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:52:49 GMT
+Server: Right Media Ad Server/407
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Set-Cookie: fl_inst=; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: uid=lastCounted=1216705942&uid=62e9b3c8-ddc1-11dc-bc97-001cc47410e4&_hmacv=1&_salt=2016398278&_keyid=k1&_hmac=12823a6783b5c8f36949df6589039e37808ee262; expires=Thu, 21-Aug-2008 05:52:49 GMT
+Set-Cookie: liday1=@)Y[lZOnGMN=9R>C<bBP; expires=Wed, 23-Jul-2008 00:00:00 GMT
+Set-Cookie: vuday1=R[O4cN=9R>H0XBt; expires=Wed, 23-Jul-2008 00:00:00 GMT
+Set-Cookie: fl_inst=1; expires=Sun, 18-Jan-2009 05:52:49 GMT
+Set-Cookie: pv1="b!!!!#!!2n@!*XCH!!Jm$!#RuF!!Nin!0]*R!?5%!)I-X?!x$$2!!T@)!!FDS!!d]t~~~~~:<ru[:A.`f~"; path=/; expires=Thu, 22-Jul-2010 05:52:49 GMT
+Set-Cookie: pc1="b!!!!#!!.'/!*XCH!!Jm$!#:sQ!!FWa!.+B8!?5%!)I-X?!x$$2!!U'J!!>k!!!X+5~~~~~:<rrf~~"; path=/; expires=Thu, 22-Jul-2010 05:52:49 GMT
+Set-Cookie: ih="b!!!!3!!]?U!!!!#:>44o!##Q6!!!!#:<ru_!##Q8!!!!#:<rr'!#2^a!!!!#:<rtt!#2_'!!!!#:<rv6!#2_5!!!!#:<rsS!#6LK!!!!#:<rqv!#:sQ!!!!#:<rr2!#:sa!!!!#:<rt3!#Dui!!!!$:<rtS!#GUb!!!!#:>(Z7!#RuF!!!!#:<ru[!#]gG!!!!#:<rqW!#^Ed!!!!$:<rfE!#^pJ!!!!#:>$_<!#b_a!!!!%:>44S"; path=/; expires=Thu, 22-Jul-2010 05:52:49 GMT
+Set-Cookie: vh="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: bh="b!!!!1!!*(h!!!!#:<rei!!*fW!!!!$:>(Wc!!+^-!!!!$:>(Wc!!,WL!!!!$:>(Wc!!-?2!!!!#:<rei!!-yu!!!!#:<rqv!!.%w!!!!#:<rrg!!.+B!!!!#:<rqv!!./l!!!!$:>(Wc!!.up!!!!$:>(Wc!!.xR!!!!$:>(Wc!!/pm!!!!$:>(Wc!!2C8!!!!#:<rr'!!3:c!!!!#:=TFP"; path=/; expires=Thu, 22-Jul-2010 05:52:49 GMT
+Set-Cookie: ia="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Tue, 22 Jul 2008 05:52:49 GMT
+Pragma: no-cache
+Content-Length: 769
+Content-Type: text/html
+Connection: close
+
+<html><body style="margin-left: 0%; margin-right: 0%; margin-top: 0%; margin-bottom: 0%"><script type="text/javascript">if (window.rm_crex_data) {rm_crex_data.push(406944);}
+</script><script>var tz = (new Date().getTimezoneOffset());
+var rurl = "http://ads.dotomi.com/ads.php?pid=12800&mtg=0&ms=21&btg=1&mp=1&dres=iframe&rwidth=160&rheight=600&pp=0&cg=21&tz=" + tz;
+var dotomiDmm = "http://usadmm.dotomi.com/dmm/servlet/dmm?rurl=" + escape(rurl) + "&pid=12800&dres=iframe&mtg=0&ms=21&btg=1&mp=1&rwidth=160&rheight=600&pp=0&cg=21&tz=" + tz + "&cturl=[INSERT ENCODED CLICK URL HERE]";
+document.write("<iframe width=160 height=600 marginwidth=0 marginheight=0 hspace=0 vspace=0 scrolling=no frameborder=0 src=\"" + dotomiDmm + "\"></iframe>");
+</script></body></html>

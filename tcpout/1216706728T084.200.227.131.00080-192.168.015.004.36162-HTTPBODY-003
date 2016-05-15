@@ -1,0 +1,220 @@
+$(document).ready(function(){
+	$.each($('.required'), function (key, element) {
+		$(element).keydown(function (event) {
+			timeoutFunction('validateForm', element.name, 500);
+		});
+	});
+	$('input.strength').parent('span').after('<span class="measure"><span class="l0 weaken">Passwortsicherheit</span></span>');
+	$('input.strength').parent('span').parent('p').addClass('pwd-o-meter');
+	
+	$('input#password').keydown(function(){
+		$('input.strength').parent('span').next().children().remove();
+		$('input.strength').parent('span').next().html(passwordStrength($('#password').val(), $('#username').val()))
+	})
+	
+	/*$('.bookmark').click(function() {
+		$(this).find(':checkbox').attr('checked', !$(this).find(':checkbox').attr('checked'));
+	});*/
+	
+
+	bookmark_edit = '0px';
+	bookmark_details = '0px';
+	bookmark_right = '0px';		
+		
+	$('.toggle-drawer').click(function() {
+		if ($('.bookmark .edit').css('width') == '0px') {
+			$('.bookmark .details').css('cursor', 'move');
+			$('.bookmark .details').draggable({
+				revert: true, 
+				delay: 100, 
+				helper: function() {
+					clone = $(this).clone();
+					$(clone).removeClass('bookmark');
+					$(clone).addClass('clonedBookmark');
+					return clone;
+				}, 
+				cursorAt: [20, 15, 0, 0],
+				opacity: 0.8,
+				cursor: 'move',
+				start: function(e, ui) {
+					$(this).css('opacity', 0.5);
+				},
+				stop: function(e, ui) {
+					$(this).css('opacity', 1);
+				},
+				scroll: true,
+				zIndex: 9999
+			});
+			$(".dele").droppable({
+				accept: ".details",
+				tolerance: 'pointer',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					
+					$.post(
+						'/bookmarks/edit',
+						'check['+ $(draggable).parent('div').attr('id').split('_')[1]+']=1&dele=Trash',
+						function (data) {
+							if (data) {
+								$(draggable).parent('div').slideUp("middle");
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						}
+					);
+				}
+			});
+			
+			$(".publ").droppable({
+				accept: ".details",
+				tolerance: 'pointer',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					
+					$.post(
+						'/bookmarks/edit',
+						'check['+ $(draggable).parent('div').attr('id').split('_')[1]+']=1&publ=Publ',
+						function (data) {
+							if (data) {
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						}
+					);
+				}
+			});
+			
+			$(".priv").droppable({
+				accept: ".details",
+				tolerance: 'pointer',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					
+					$.post(
+						'/bookmarks/edit',
+						'check['+ $(draggable).parent('div').attr('id').split('_')[1]+']=1&priv=Priv',
+						function (data) {
+							if (data) {
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						}
+					);
+				}
+			});
+			
+			$('.top li a.title').droppable({
+				accept: '.details',
+				accept: '.details',
+				tolerance: 'pointer',
+				hoverClass: 'droparea',
+				drop: function(ev, ui) {
+					$('.clonedBookmark').remove();
+					dropped = $.ui.ddmanager.current;
+					draggable = (dropped.currentItem || dropped.element);
+					folder = $(this);
+					folderName = $(folder).attr('id').replace(/folder-/, '');
+					$.post(
+						'/bookmarks/edit',
+						'check['+folderName+']='+$(draggable).parent('div').attr('id').split('_')[1]+'&folder=Folder',
+						function (data) {
+							if (data) {
+								if (document.location.pathname != '/bookmarks') {
+									$(draggable).parent('div').slideUp("middle");
+								}
+								$('#bm-manager-notification').replaceWith('');
+								$('#manager .tabable').append(data);
+								toggleNotice();
+								setTimeout("toggleNotice()", 3000);
+							} else {
+								// Fehlermeldung
+							}
+						});
+				}
+			});
+			
+			editBookmarkBar();
+			return false;
+		} else {
+			
+			editBookmarkBar();
+			return false;
+		}
+	});
+	
+	$('#check_all').click(function(){
+		if (!$('#check_all').attr('checked')) {
+			$.each($('.edit :checkbox'), function (key, element) {
+				if ($(element).attr('checked')) {
+					$(element).attr('checked', false);
+				}
+			});
+		} else {
+			$.each($('.edit :checkbox'), function (key, element) {
+				if ($(element).attr('checked') != true) {
+					$(element).attr('checked', true);
+				}
+			});
+		}
+	});
+});
+
+
+function validateForm(name) {
+	formName = "input#"+name;
+	formAction = $(formName).parents('form').attr('action');
+	if (!(data = $(formName).val())) {
+		data = '';
+	}
+	if (!(secondField = $(formName).removeClass('required').attr('class'))) {
+		secondData = '';
+	} else {
+		secondFormName = "input#"+secondField;
+		secondData = "&"+secondField+"="+$(secondFormName).val();
+	}
+	$.post(
+		formAction,
+		name+"="+data+secondData, 
+		function (json) {
+			if (json != true) {
+				$.each(json[name], function(key, value) {
+					$(formName).parent('span').next().remove();
+					$(formName).parent('span').after('<span class="validate incorrect">'+value+'</span>');
+				});
+			} else {
+				$(formName).parent('span').next().remove();
+				$(formName).parent('span').parent('p').removeClass('error');
+				$(formName).parent('span').after('<span class="validate correct">&nbsp;</span>');
+			}
+		}, 
+		"json"
+	);
+}
+
+function checkStrength() {
+	
+}
+
+var timeout = null;
+function timeoutFunction(functionName, name, time) {	
+	clearTimeout(timeout);
+	eval('timeout = setTimeout("'+functionName+'(\''+name+'\')", '+time+')');
+}

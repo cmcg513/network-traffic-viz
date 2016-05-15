@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Content-Length: 497
+Content-Type: text/xml; charset=UTF-8
+x-apple-asset-version: 46862
+X-Apple-Partner: origin.0
+Vary: Accept-Encoding
+x-webobjects-loadaverage: 0
+x-apple-application-instance: 349
+x-apple-date-generated: Tue, 22 Jul 2008 04:28:39 GMT
+x-apple-request-store-front: 143441
+x-apple-max-age: 3600
+Expires: Tue, 22 Jul 2008 04:55:28 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Tue, 22 Jul 2008 04:55:28 GMT
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns="http://www.apple.com/itms/" disableHistory="true" disableNavigation="true">
+
+      
+      <Protocol>
+        <plist version="1.0">
+          <dict>
+            
+            
+            
+  <key>status</key><integer>3004</integer>
+  <key>cover-art-url</key><string></string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+
+
+          </dict>
+        </plist>
+      </Protocol>
+      
+      
+    
+</Document>
+
+    
+
+

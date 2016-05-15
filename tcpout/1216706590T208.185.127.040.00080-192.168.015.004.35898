@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:03:34 GMT
+Server: Apache
+PRAGMA: no-cache
+P3P: CP="CAO DSP COR CURa ADMa DEVa OUR IND PHY ONL UNI COM NAV INT DEM PRE"
+Cache-Control: max-age=3600
+Expires: Tue, 22 Jul 2008 07:03:34 GMT
+Keep-Alive: timeout=15, max=93
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: application/x-javascript
+
+c  
+zDM(0,12);
+
+0
+

@@ -1,0 +1,859 @@
+
+
+
+
+
+
+
+#pcrLogin{
+  position: relative;
+  font-size:11px;
+  left: 0;
+  top: 160px;
+  width: 188px;
+  z-index: 0;
+}
+
+.pcrSignInInstn{
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 3px;
+  text-align: left;
+}
+
+.dontRememberCheckBox{
+  align: left;
+}
+
+#pcrLogo{
+ position: relative;
+ top: 2px;
+ width: 188px;
+ margin-left: 8px;
+}
+
+#pcrLoginForm{
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  top: 2px;
+  width: 180px;
+  margin-left: 8px;
+}
+
+
+#pcrLoginForm a{
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  text-decoration: Underline;
+}
+
+
+
+#pcrLoggedIn{
+  position: relative;
+  font-size:11px;
+  left: 0;
+  top: 160px;
+  width: 188px;
+  z-index: 0;
+}
+
+#pcrLoggedInLogo{
+ position: relative;
+ top: 2px;
+ width: 188px;
+ margin-left: 8px;
+}
+
+#pcrLoggedInForm{
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  top: 2px;
+  width: 180px;
+  margin-left: 8px;
+}
+
+#pcrLoggedInForm a{
+  font-weight: bold;
+  }
+
+.pcrLoggedInGreeting{
+  padding-bottom: 4px;
+  font-weight: bold;
+}
+
+.accountOverview{
+  padding-bottom: 2px;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.pcrImplicitSignIn{
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.pcrThisIsntMe{
+   font-weight: bold;
+
+}
+
+#pcrSignInForm{
+  display: none;
+}
+
+#viewAccount {
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  }
+
+#viewAccount a{
+ position: absolute;
+ align: right;
+  right: 2px;
+  }
+
+#balance {
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  }
+
+#balance a{
+ position: absolute;
+ align: right;
+  right: 2px;
+  }
+
+#status {
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  }
+
+
+
+
+#advSearchPCRLogin{
+  position: relative;
+  width: 180px;
+  top: 0px;
+  margin-left: 8px;
+}
+
+#viewAccountAdv {
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  }
+
+#viewAccountAdv a{
+  position: absolute;
+  align: right;
+  right: 2px;
+  }
+
+#balanceAdv {
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  }
+
+#balanceAdv a{
+  position: absolute;
+  align: right;
+  right: 2px;
+  }
+
+#statusAdv {
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  padding-top: 2px;
+  padding-bottom: 4px;
+  }
+
+#signOutAdv{
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  padding-top: 4px;
+  padding-bottom: 4px;
+ }
+
+
+#advSearchPCRLogo{
+  position: relative;
+  left: -10px;
+}
+
+#advSearchPCRLoginForm{
+  position: relative;
+  top: 5px;
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+}
+
+#advSearchPCRLoginForm a{
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    left: 5px;
+  }
+
+#advSearchDontRememberCheckBox{
+ margin-left: 0px;
+}
+
+#advSearchPCRLoggedIn{
+  position: relative;
+  width: 180px;
+  top: 0px;
+  margin-left: 8px;
+}
+
+#advSearchLoggedInPCRLogo{
+  position: relative;
+}
+
+#advSearchPCRLoggedInForm{
+  position: relative;
+  top: 5px;
+}
+
+#advPCRSignInForm{
+  position: relative;
+  display: none;
+}
+
+#advPinLabel{
+  position: relative;
+  padding-top: 2px;
+}
+
+#advPin{
+  position: relative;
+  padding-top: 4px;
+}
+
+#advSignInBtn{
+  position: relative;
+  padding-top: 6px;
+}
+
+#advPCRSignInFeatures{
+  position: relative;
+}
+
+#advIsntMe{
+  left: 0px;
+}
+
+#advIsntMe a{
+    font-family: Arial, sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    left: 0px;
+}
+
+#advImplicitSignIn{
+    left: 0px;
+}
+
+#advImplicitSignIn a{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    left: 0px;
+}
+
+
+
+#arrowBackEndErrorhome{
+  position: absolute;
+  left: 30px;
+
+   
+   
+	top: 252px;
+   
+
+}
+
+#arrow_pclubnumber{
+position: absolute;
+left: 20px;
+top: 48px;
+}
+
+#arrow_pclubpin{
+position: absolute;
+left: 10px;
+
+   
+   
+	top: 78px;
+   
+
+}
+
+
+
+#message_popup_pclubnumber {
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+Margin-left: 4px;
+
+   
+   
+	top: 260px;
+	width: 152px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+display: none;
+z-index:5;
+}
+
+#message_popup_pclubpin {
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+Margin-left: 4px;
+
+   
+   
+	top: 290px;
+	width: 152px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+display: none;
+z-index:5;
+}
+
+#messagefrombackend_popup{
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+left: 4px;
+top: 260px;
+
+   
+   
+	width: 152px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+display: none;
+z-index:5;
+}
+#messagefrombackend_popup a{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_popup a:active{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_popup a:hover{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_popup a:visited{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_popup a:link{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+#arrow_topstatus{
+position: absolute;
+top: 112px;
+left: 10px;
+}
+#topstatus_popup_pclubpin {
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+Margin-left: 4px;
+top: 327px;
+
+   
+   
+	width: 152px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+display: none;
+z-index:5;
+}
+#messagefrombackend_topstatus{
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+Margin-left: 4px;
+top: 327px;
+
+   
+   
+	width: 152px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+display: none;
+z-index:5;
+}
+#messagefrombackend_topstatus a{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_topstatus a:active{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_topstatus a:hover{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_topstatus a:visited{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+#messagefrombackend_topstatus a:link{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+ }
+
+
+
+#backendErrPopup{
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+left: 0px;
+top: 76px;
+
+   
+   
+	width: 150px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+display: none;
+z-index: 20;
+}
+#backendErrPopup a{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+  left: 0px;
+ }
+
+#backendErrPopup a:active{
+  color: #000000;
+ }
+
+#backendErrPopup a:hover{
+  color: #000000;
+ }
+
+#backendErrPopup a:visited{
+  color: #000000;
+ }
+
+#backendErrPopup a:link{
+  color: #000000;
+ }
+
+#arrowBackEndError{
+position: absolute;
+left: 40px;
+top: 67px;
+z-index: 20;
+}
+
+
+
+#clientErrPopup{
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+left: 0px;
+top: 76px;
+
+   
+   
+	width: 150px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+display: none;
+z-index:5;
+}
+
+#clientPinErrPopup{
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+left: 0px;
+
+   
+   
+	top: 110px;
+	width: 150px;
+   
+
+display: none;
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+z-index: 20;
+}
+
+
+#arrowPCNum{
+position: absolute;
+left: 40px;
+top: 30px;
+display: none;
+}
+
+#arrowPCPin{
+position: absolute;
+left: 30px;
+
+   
+   
+	top: 64px;
+   
+
+display: none;
+}
+
+
+
+#backendErrAdvTop{
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+left: 0px;
+top: 177px;
+
+   
+   
+	width: 150px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+z-index:5;
+display: none;
+}
+
+#backendErrAdvTop a{
+  font-family: Verdana;
+  font-size: 11px; 
+  color: #000000;
+  left: 0px;
+}
+
+#backendErrAdvTop a:active{
+color: #000000;
+}
+
+#backendErrAdvTop a:visited{
+color: #000000;
+}
+
+#backendErrAdvTop a:hover{
+color: #000000;
+}
+
+#backendErrAdvTop a:link{
+color: #000000;
+}
+
+#clientErrAdvTop{
+position: absolute;
+font-family: Verdana;
+padding: 10px 10px 10px 10px;
+font-size: 11px;
+left: 0px;
+top: 177px;
+
+   
+   
+	width: 150px;
+   
+
+background-color: #f7f7f7;
+border: 1px solid #b70005;
+color: #000000;
+z-index:5;
+display: none;
+}
+
+#arrowPinTopAdv{
+position: absolute;
+top: 36px;
+left: 25px;
+z-index:20;
+display: none;
+}
+
+
+
+#space{
+padding-bottom: 3px;
+}
+
+
+#i_top_status_faceplatePCRMessageRegisterButton a{
+  font-family: Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: red;
+}
+
+
+#hdLeftNavModuleFooter{
+
+}
+
+
+#advancedSearchChatButton{
+
+}
+
+
+#m2PerfectLocation, #m2PerfectLocationHeader, #m2PerfectLocationContent{
+
+}
+
+
+#m2PriorityClubHeader, #m2PriorityClub{
+
+}
+
+#profileSelectVisibleBrand{
+  width: 160px;
+}
+
+
+
+
+#pcrLoginForm{
+  color: #00693F;
+}
+
+#pcrLoginForm a:active{
+  color: #FF6600;
+}
+
+#pcrLoginForm a:hover{
+  color: #FF6600;
+}
+
+#pcrLoginForm a:visited{
+  color: #00693F;
+}
+
+#pcrLoginForm a:link{
+  color: #00693F;
+}
+
+#pcrLoggedInLogo{
+ margin-left: 0px;
+}
+
+#pcrLoggedInForm{
+  color: #00693F;
+}
+
+#pcrLoggedInForm a:active{
+  color: #FF6600;
+}
+
+#pcrLoggedInForm a:hover{
+  color: #FF6600;
+}
+
+#pcrLoggedInForm a:visited{
+  color: #00693F;
+}
+
+#pcrLoggedInForm a:link{
+  color: #00693F;
+}
+
+
+#advSearchPCRLogin{
+  margin-left: 4px;
+}
+
+#advSearchPCRLoginForm{
+  color: #FFFFFF;
+}
+
+#advSearchPCRLoginForm a:active{
+  color: #FFFFFF;
+}
+
+#advSearchPCRLoginForm a:hover{
+  color: #FFFFFF;
+}
+
+#advSearchPCRLoginForm a:visited{
+  color: #FFFFFF;
+}
+
+#advSearchPCRLoginForm a:link{
+  color: #FFFFFF;
+}
+
+#advSearchPCRLogo{
+  
+    
+  
+  margin-left: -10px;
+}
+
+#signOutAdv{
+  padding-top: 24px;
+ }
+
+
+
+
+#backendErrPopup{
+  left: 4px;
+  top: 92px;
+}
+
+#clientErrPopup{
+top: 92px;
+left: 4px;
+}
+
+#clientPinErrPopup{
+left: 4px;
+
+   
+   
+	top: 125px;
+   
+
+}
+
+
+#arrowBackEndError{
+top: 80px;
+}
+
+
+#backendErrAdvTop{
+ left: 4px;
+  top: 190px;
+}
+
+#clientErrAdvTop{
+ left: 4px;
+ top: 190px;
+}
+#topstatus_popup_pclubpin {
+
+   
+   
+	width: 152px;
+   
+
+}
+#messagefrombackend_topstatus{
+
+   
+   
+	width: 152px;
+   
+
+}
+
+
+
+
+
+
+
+#i_top_status_faceplateInt_content{
+left: 6px;
+top: 2px;
+}
+#viewAccountAdv a{
+  position: absolute;  
+  left: 142px;
+  }
+#balanceAdv a{
+  position: absolute; 
+  left: 128px;
+  }
+  #advSearchPCRLogo{
+ left: -20px;
+}

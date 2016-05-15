@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Content-Length: 793
+Content-Type: text/xml; charset=UTF-8
+x-apple-asset-version: 46862
+X-Apple-Partner: origin.0
+Vary: Accept-Encoding
+x-webobjects-loadaverage: 0
+x-apple-application-instance: 148
+x-apple-date-generated: Tue, 22 Jul 2008 04:55:08 GMT
+x-apple-request-store-front: 143441
+x-apple-max-age: 3600
+Expires: Tue, 22 Jul 2008 04:55:08 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Tue, 22 Jul 2008 04:55:08 GMT
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/y2003/m10/d20/h07/s05.fgosgotq.enc.jpg?downloadKey2=1217307308_edd7c715491cc64c46d81dd4d3234dee</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Nirvana</string>
+    <key>playlistName</key><string>Bleach</string>
+    <key>artistId</key><string>112018</string>
+    <key>playlistId</key><string>3243383</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

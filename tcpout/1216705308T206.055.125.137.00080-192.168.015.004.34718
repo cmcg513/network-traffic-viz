@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:42:12 GMT
+Server: Apache/2.0.54 (Unix) mod_ssl/2.0.54 OpenSSL/0.9.7a
+P3P: policyref="http://feed.validclick.com/w3c/p3p.xml", CP="ALL BUS LEG DSP COR ADM CUR DEV PSA OUR NAV INT"
+Connection: close
+Content-Length: 0
+Content-Type: text/html; charset=ISO-8859-1
+

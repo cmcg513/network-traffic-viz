@@ -1,0 +1,108 @@
+GET /images/blank.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /images/header/stubhub.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /images/send-to-mobile-green.jpg HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /images/navigationDot.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /images/corners/top_left.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /images/header/stubhub_bg.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /images/corners/bottom_right.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /styles/images/imgRightBg.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/styles/base.css
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+
+GET /styles/images/imgBottomBg.gif HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/styles/base.css
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic
+

@@ -1,0 +1,10 @@
+GET /pp550/images/utbkgnd.gif HTTP/1.1
+Accept: */*
+Referer: http://login.live.com/login.srf?wa=wsignin1.0&rpsnv=10&ct=1216706268&rver=4.5.2130.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&id=64855
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: login.live.com
+Connection: Keep-Alive
+Cookie: vv=550; MSPRequ=lt=1216706269&co=1&id=64855; MSPOK=uuid-1b3d01d8-4aca-406a-93ca-85d606994815; CkTst=G1216706269093
+

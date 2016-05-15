@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <topText>Auctiva Store:  budabing_bags</topText>
+  <bottomText>Click here to browse all my eBay items!</bottomText>
+  <emptyWindowText>My Store Window is currently updating item info</emptyWindowText>
+  <auctionCloseMessage>The Auction Is Closed</auctionCloseMessage>
+  <buttonLink>http://www.auctiva.com/stores/viewstore.aspx?id=658194</buttonLink>
+  <itemLink>http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=</itemLink>
+  <time>7/21/2008 10:52:58 PM</time>
+  <cacheExpiration>7/22/2008 12:52:58 AM</cacheExpiration>
+  <adultCategories />
+  <maxItems>16</maxItems>
+  <textModified>true</textModified>
+  <tokenValid>true</tokenValid>
+  <itemData>
+    <item>
+      <itemNumber>250269918009</itemNumber>
+      <linkText>DESIGNER INSPIRED RED LEATHER LIKE QUILTED HAND BAG!!!!</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250269918009.jpg</imageURL>
+      <endTime>7/22/2008 12:02:16 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>19.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260262022437</itemNumber>
+      <linkText>NEW LARGE BLACK SOFT LEATHER LAPTOP BRIEFCASE BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260262022437.jpg</imageURL>
+      <endTime>7/22/2008 12:02:18 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>64.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>1060</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260262022449</itemNumber>
+      <linkText>NEW LADIES BROWN SOFT LEATHER ORGANISER MESSENGER BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260262022449.jpg</imageURL>
+      <endTime>7/22/2008 12:02:20 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>49.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260262022447</itemNumber>
+      <linkText>DARK RED ITALIAN LEATHER BACKPACK RUCKSACK BAG </linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260262022447.jpg</imageURL>
+      <endTime>7/22/2008 12:02:20 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>27.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260262406875</itemNumber>
+      <linkText>NEW GORGEOUS LADIES BROWN ITALIAN LEATHER BRIEFCASE BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260262406875.jpg</imageURL>
+      <endTime>7/23/2008 12:02:19 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>44.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>1060</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>250270288961</itemNumber>
+      <linkText>NEW VINTAGE BROWN UNISEX LEATHER BRIEFCASE BAG SATCHEL</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250270288961.jpg</imageURL>
+      <endTime>7/23/2008 12:02:20 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>44.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>1060</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>250270289002</itemNumber>
+      <linkText>NEW GORGEOUS LADIES BROWN ITALIAN LEATHER BRIEFCASE BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250270289002.jpg</imageURL>
+      <endTime>7/23/2008 12:02:24 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>29.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260262409167</itemNumber>
+      <linkText>NEW LADIES BLACK SOFT LEATHER ORGANISER MESSENGER BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260262409167.jpg</imageURL>
+      <endTime>7/23/2008 12:05:31 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>49.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>250270292785</itemNumber>
+      <linkText>NEW VINTAGE OLIVE GREEN LEATHER BRIEFCASE MESSENGER BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250270292785.jpg</imageURL>
+      <endTime>7/23/2008 12:10:26 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>44.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>91247</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>250270293434</itemNumber>
+      <linkText>NEW VISCONTI JET BLACK LEATHER MESSENGER BAG SATCHEL</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250270293434.jpg</imageURL>
+      <endTime>7/23/2008 12:11:50 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>44.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>91247</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260262414264</itemNumber>
+      <linkText>NEW VISCONTI VINTAGE LEATHER ACROSS BODY MESSENGER BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260262414264.jpg</imageURL>
+      <endTime>7/23/2008 12:12:50 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>34.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>91247</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>250270294228</itemNumber>
+      <linkText>VINTAGE BROWN LARGE UNISEX LEATHER LAPTOP MESSENGER BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250270294228.jpg</imageURL>
+      <endTime>7/23/2008 12:13:36 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>44.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>1060</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260262499352</itemNumber>
+      <linkText>DESIGNER INSPIRED BLACK CHAIN CELEBS QUILTED HAND BAG </linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260262499352.jpg</imageURL>
+      <endTime>7/23/2008 3:50:38 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>19.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>250230030210</itemNumber>
+      <linkText>NEW BLACK RETRO VINTAGE ITALIAN LEATHER BRIEFCASE BAG </linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250230030210.jpg</imageURL>
+      <endTime>7/24/2008 2:38:02 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>39.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>250271450957</itemNumber>
+      <linkText>NEW VISCONTI JET BLACK LEATHER BRIEFCASE MESSENGER BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/250271450957.jpg</imageURL>
+      <endTime>7/26/2008 11:48:59 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>44.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>91247</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263620396</itemNumber>
+      <linkText>DESIGNER INSPIRED BROWN CHAIN CELEBS QUILTED HAND BAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/6/5/8/1/9/4/sc/260263620396.jpg</imageURL>
+      <endTime>7/26/2008 11:51:22 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>19.99</buyNowPrice>
+      <adult>False</adult>
+      <category>3</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+  </itemData>
+</windowSettings>

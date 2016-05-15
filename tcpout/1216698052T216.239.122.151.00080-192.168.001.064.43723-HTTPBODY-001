@@ -1,0 +1,618 @@
+<?xml version="1.0" ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<?xml-stylesheet title="XSL_formatting" href="/css/ne05/xsl/xslt-rss.xml" type="text/xsl"  media="screen"?>
+
+<rss version="2.0">
+
+
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+      
+
+
+
+
+<channel>
+<title>CNET News.com</title>
+<link>http://www.news.com/</link>
+<description>Tech news and business reports by CNET News.com. Focused on information technology, core topics include computers, hardware, software, networking, and Internet media.</description>
+<language>en-us</language>
+<copyright>Copyright 1995-2008 CNET Networks, Inc. All rights reserved.</copyright>
+<pubDate>Mon, 21 Jul 2008 20:40:07 PDT</pubDate>
+<lastBuildDate>Mon, 21 Jul 2008 20:40:07 PDT</lastBuildDate>
+<category domain="syndic8">14171</category>
+<category>CNET News.com</category>
+<generator>CNET</generator>
+<docs>http://www.news.com/2009-1090-980549.html</docs>
+<ttl>20</ttl>
+<image>
+<title>CNET News.com</title>
+<url>http://i.i.com.com/cnwk.1d/i/ne/gr/prtnr/rss_logo.gif</url>
+<link>http://www.news.com/</link>
+<width>88</width>
+<height>31</height>
+</image>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Apple getting ready for &apos;product transition&apos;</title>
+<link>http://news.cnet.com/8301-13579_3-9996169-37.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Sometime over the next few months, it will be out with the old and in with the new at Apple. But what&apos;s in store: new iPods, new Macs, or something else altogether?</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13579_3-9996169-37.html</guid>
+	<pubDate>Mon, 21 Jul 2008 17:16:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Amazon S3: For now at least, sometimes you have to reboot the cloud</title>
+<link>http://news.cnet.com/8301-1001_3-9995937-92.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Don&apos;t be surprised by Amazon&apos;s S3 outage, and don&apos;t be complacent about it. But think carefully before you say cloud computing is doomed.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-1001_3-9995937-92.html</guid>
+	<pubDate>Mon, 21 Jul 2008 16:55:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Ixia kicks off competitive upgrade program</title>
+<link>http://news.cnet.com/8301-10784_3-9996031-7.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Ixia has launched a &quot;Switch to Ixia&quot; campaign.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-10784_3-9996031-7.html</guid>
+	<pubDate>Mon, 21 Jul 2008 16:35:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Brocade swinging for the fences with switching </title>
+<link>http://news.cnet.com/8301-1035_3-9996033-94.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Company&apos;s acquisition of Foundry gives it a chance to unify storage and communication networks and fight a much bigger fight beyond the storage back-end alone.   </description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-1035_3-9996033-94.html</guid>
+	<pubDate>Mon, 21 Jul 2008 15:39:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Brocade to acquire Foundry Networks</title>
+<link>http://news.cnet.com/8301-1035_3-9995947-94.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Brocade makes bid to be a leading enterprise storage and networking provider.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-1035_3-9995947-94.html</guid>
+	<pubDate>Mon, 21 Jul 2008 14:36:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Nissans to use ICP Solar battery chargers</title>
+<link>http://news.cnet.com/8301-11128_3-9995866-54.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Nissan is partnering with ICP Solar to add solar battery chargers to new vehicles.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-11128_3-9995866-54.html</guid>
+	<pubDate>Mon, 21 Jul 2008 14:25:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Ultrasonic frogs discovered in China</title>
+<link>http://news.cnet.com/8301-10787_3-9992579-60.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Researchers have discovered the existence of frogs in central China whose ears can tune to different frequencies. No joke.&#10;</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-10787_3-9992579-60.html</guid>
+	<pubDate>Mon, 21 Jul 2008 14:01:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Live blog of Apple&apos;s third-quarter 2008 earnings call</title>
+<link>http://news.cnet.com/8301-13579_3-9995936-37.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Check back for updates as Apple executives explain what lifted the company to record Mac sales between April and June.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13579_3-9995936-37.html</guid>
+	<pubDate>Mon, 21 Jul 2008 13:58:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Mac shipments set an Apple record</title>
+<link>http://news.cnet.com/8301-13579_3-9995867-37.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Strong Mac sales lift Apple above Wall Street&apos;s expectations for its third quarter, and the company follows its usual practice of guiding well below analyst forecasts.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13579_3-9995867-37.html</guid>
+	<pubDate>Mon, 21 Jul 2008 13:40:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>CNET News Daily Podcast: Hacker conference proves nothing is private on the Net    </title>
+<link>http://news.cnet.com/8301-11424_3-9995926-90.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Reporter Elinor Mills checks in to tell us what she learned at the Last HOPE conference about security. </description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-11424_3-9995926-90.html</guid>
+	<pubDate>Mon, 21 Jul 2008 13:25:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+
+	<item>
+	<title>Photos: Tracking Last HOPE hackers</title>
+<link>http://news.cnet.com/2300-1029_3-6244063-1.html?part=rss&amp;tag=6244063&amp;subj=news</link>
+	<description>The New York conference, where attendees are tracked via RFID, attracts hacker celebrities including the guys behind the phone phreaker movement and the TV-B-Gone remote control.</description>
+	<category>Security</category>
+	<guid isPermaLink="false">http://news.cnet.com/2300-1029_3-6244063-1.html</guid>
+	<pubDate>Mon, 21 Jul 2008 13:02:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Windows Home Server update released</title>
+<link>http://news.cnet.com/8301-13860_3-9995865-56.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Microsoft has finished its Power Pack 1, which adds some minor features and fixes a bug that can lead to data corruption.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13860_3-9995865-56.html</guid>
+	<pubDate>Mon, 21 Jul 2008 12:49:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>&apos;Dark Knight&apos; available online over opening weekend</title>
+<link>http://news.cnet.com/8301-1023_3-9995806-93.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>update At the same time the movie racks up record box-office business, a copy of the hit film makes its way online. </description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-1023_3-9995806-93.html</guid>
+	<pubDate>Mon, 21 Jul 2008 12:14:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Column: Will you be ditching your antivirus app anytime soon?</title>
+<link>http://news.cnet.com/8301-10789_3-9994679-57.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>As malware seems to be proliferating at an alarming rate, security vendors appear ready to rethink their approach to blocking code that may be harmful to your PC.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-10789_3-9994679-57.html</guid>
+	<pubDate>Mon, 21 Jul 2008 11:38:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>More problems reported with Apple&apos;s MobileMe Mail</title>
+<link>http://news.cnet.com/8301-13579_3-9995728-37.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>The MobileMe service has gotten off to a rocky start, and now some customers are reporting great difficulty in accessing their e-mail.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13579_3-9995728-37.html</guid>
+	<pubDate>Mon, 21 Jul 2008 11:28:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+
+	<item>
+	<title>Photos: Great Red Spot eats &apos;Baby&apos;</title>
+<link>http://news.cnet.com/2300-11397_3-6244036-1.html?part=rss&amp;tag=6244036&amp;subj=news</link>
+	<description>A recently discovered hurricane-like storm on Jupiter&apos;s surface, called Baby Red Spot, was sucked up by the Great Red Spot.</description>
+	<category>Cutting Edge</category>
+	<guid isPermaLink="false">http://news.cnet.com/2300-11397_3-6244036-1.html</guid>
+	<pubDate>Mon, 21 Jul 2008 11:05:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+
+	<item>
+	<title>At Last HOPE conference, everyone can hack it</title>
+<link>http://news.cnet.com/At-Last-HOPE-conference%2C-everyone-can-hack-it/2009-1043_3-6243957.html?part=rss&amp;tag=2547-1_3-0-5&amp;subj=news</link>
+	<description>Gathering in New York brings together the hacker community for sessions on hacking the usual (computer systems) and not so usual (the media, food, and sex).&#13;&#10;</description>
+	<category>Personal Tech</category>
+	<guid isPermaLink="false">http://news.cnet.com/At-Last-HOPE-conference%2C-everyone-can-hack-it/2009-1043_3-6243957.html</guid>
+	<pubDate>Mon, 21 Jul 2008 10:33:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>How&apos;s your luggage handled? Bagcam watches</title>
+<link>http://news.cnet.com/8301-13554_3-9995617-33.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>A mini camera placed by a frequent-flier hacker inside luggage gives a peek behind the curtains of airline security. Surprisingly, the bagcam itself has yet to raise TSA suspicion.</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13554_3-9995617-33.html</guid>
+	<pubDate>Mon, 21 Jul 2008 10:33:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Carl Icahn blinks, takes Yahoo board seat</title>
+<link>http://news.cnet.com/8301-13953_3-9995655-80.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>If Icahn was so adamant about ousting Jerry Yang from the CEO spot and doing a deal with Microsoft, what softened his stance? </description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13953_3-9995655-80.html</guid>
+	<pubDate>Mon, 21 Jul 2008 10:19:00 PDT</pubDate>
+</item>
+
+	
+	
+        
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+
+	<item>
+	<title>Cold boot encryption-bypassing source code published</title>
+<link>http://news.cnet.com/8301-13578_3-9995579-38.html?part=rss&amp;subj=news&amp;tag=2547-1_3-0-5</link>
+	<description>Source code is now available to utilities that can bypass programs like Microsoft&apos;s BitLocker and Apple&apos;s FileVault in some circumstances.&#10;</description>
+	<category></category>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13578_3-9995579-38.html</guid>
+	<pubDate>Mon, 21 Jul 2008 09:54:00 PDT</pubDate>
+</item>
+
+
+
+<item>
+	<title>Intel cuts chip prices up to 31 percent</title>
+<link>http://news.cnet.com/8301-13924_3-9995430-64.html?part=rss&amp;tag=rsspr.6244035&amp;subj=news</link><description>&lt;p&gt;Featured links from the CNET Blog Network&lt;/p&gt;&#13;&#10;&#13;&#10;&lt;p&gt;&#13;&#10;&lt;a href=&quot;http://news.cnet.com/8301-13924_3-9995430-64.html?tag=bnpr&quot;&gt;Intel cuts chip prices up to 31 percent&lt;/a&gt;--Cuts to prices of dominant chipmaker&apos;s processor prices are limited in number and degree. Largest cut comes to the desktop Core 2 Duo E8500, at 3.16GHz. p&gt;&#13;&#10;&#13;&#10;&lt;p&gt;&#13;&#10;&lt;a href=&quot;http://news.cnet.com/8301-13846_3-9995360-62.html?tag=bnpr&quot;&gt;Replay Solutions on &apos;TiVo for software&apos;&lt;/a&gt;--CEO Jonathan Lindo discusses how enterprise Java developers, like those at game companies, would use its bug replication software to fix applications faster and more effectively.&lt;/p&gt;&#13;&#10;&#13;&#10;&lt;p&gt;&#13;&#10;&lt;a href=&quot;http://news.cnet.com/8301-13639_3-9995331-42.html?tag=bnpr&quot;&gt;Dispose of brigade&apos;s database on the battlefield&lt;/a&gt;--Fujitsu adds a hand crank to hard drive degausser for emergency use.&lt;/p&gt;&#13;&#10;&#13;&#10;&lt;p&gt;&#13;&#10;&lt;a href=&quot;http://news.cnet.com/8301-13554_3-9995118-33.html?tag=bnpr&quot;&gt;Hacking Medeco locks&lt;/a&gt;--The Last HOPE conference is as much for people interested in hacking the real world as it is for computer techies.&lt;/p&gt;&#13;&#10;</description>
+	<guid isPermaLink="false">http://news.cnet.com/8301-13924_3-9995430-64.html</guid>
+	<pubDate>Mon, 21 Jul 2008 08:48:00 PDT</pubDate>
+</item>
+</channel>
+</rss>

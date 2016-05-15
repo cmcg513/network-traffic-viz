@@ -1,0 +1,37 @@
+GET /pagead/show_ads.js HTTP/1.1
+Accept: */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+If-Modified-Since: Thu, 10 Jul 2008 22:39:02 GMT; length=21929
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+
+GET /pagead/ads?client=ca-pub-5610096668098413&dt=1216706294718&lmt=1216706294&format=160x600_as&output=html&correlator=1216706294718&url=http%3A%2F%2Fwww.annoy.com%2Fhome.html&color_bg=FFFFFF&color_text=000000&color_link=CC0033&color_url=CC0033&color_border=CC0033&ad_type=text_image&ref=http%3A%2F%2Fwww.annoy.com%2F&frm=0&cc=321&ga_vid=4308592.1216706291&ga_sid=1216706291&ga_hid=1935782013&ga_fc=true&flash=6.0.88.0&u_h=778&u_w=1050&u_ah=744&u_aw=1050&u_cd=32&u_tz=60&u_his=4&u_java=true HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.annoy.com/home.html
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+
+GET /pagead/js/graphics.js HTTP/1.1
+Accept: */*
+Referer: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-5610096668098413&dt=1216706294718&lmt=1216706294&format=160x600_as&output=html&correlator=1216706294718&url=http%3A%2F%2Fwww.annoy.com%2Fhome.html&color_bg=FFFFFF&color_text=000000&color_link=CC0033&color_url=CC0033&color_border=CC0033&ad_type=text_image&ref=http%3A%2F%2Fwww.annoy.com%2F&frm=0&cc=321&ga_vid=4308592.1216706291&ga_sid=1216706291&ga_hid=1935782013&ga_fc=true&flash=6.0.88.0&u_h=778&u_w=1050&u_ah=744&u_aw=1050&u_cd=32&u_tz=60&u_his=4&u_java=true
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+
+GET /pagead/abglogo/abg-en-100c-ffffff.png HTTP/1.1
+Accept: */*
+Referer: http://pagead2.googlesyndication.com/pagead/ads?client=ca-pub-5610096668098413&dt=1216706294718&lmt=1216706294&format=160x600_as&output=html&correlator=1216706294718&url=http%3A%2F%2Fwww.annoy.com%2Fhome.html&color_bg=FFFFFF&color_text=000000&color_link=CC0033&color_url=CC0033&color_border=CC0033&ad_type=text_image&ref=http%3A%2F%2Fwww.annoy.com%2F&frm=0&cc=321&ga_vid=4308592.1216706291&ga_sid=1216706291&ga_hid=1935782013&ga_fc=true&flash=6.0.88.0&u_h=778&u_w=1050&u_ah=744&u_aw=1050&u_cd=32&u_tz=60&u_his=4&u_java=true
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: pagead2.googlesyndication.com
+Connection: Keep-Alive
+

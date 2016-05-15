@@ -1,0 +1,47 @@
+document.write('<!-- Template Id = 1 Template Name = Banner Creative (Flash) -->\n<!-- Copyright 2002 DoubleClick Inc., All rights reserved. -->\n<script src=\"http://m1.2mdn.net/879366/DartRichMedia_1_03.js\"><\/script>');document.write('\n');
+ 
+var dcswf = "http://m1.2mdn.net/1420759/lmb_lre_MenuStTextAdGryHDCNPBd_FedHold2_AV133_529_0608_300x250.swf"; 
+var dcgif = "http://m1.2mdn.net/1420759/lmb_lre_MenuStTextAdGryHDCNPBd_FedHold2_AV133_529_0608_300x250.gif"; 
+var advurl = "http://ad.doubleclick.net/click%3Bh=v8/3705/17/1b8/%2a/w%3B203471105%3B6-0%3B0%3B27294857%3B4307-300/250%3B27167947/27185826/1%3B%3B%7Esscs%3D%3fhttp://ad.yieldmanager.com/click,WaUDADByBQD9RQ4AcYEEAAIAAkoAAP8AAAACFgIAAgOTrgEAe6UGAAK2BgAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14tsptoru%2FM%3D674272.12804985.13083877.1442997%2FD%3Dnews%2FS%3D8903239%3ALREC%2F_ylt%3DAvpW2gWyHLM0Ywg0wcXVevJH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Do51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406809%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,https://www.lowermybills.com/servlet/LMBServlet?the_action=NavigateHomeLoansAdRedirect&sourceid=27294857-203471105-27185826&moid=20166";
+var dcadvurl = escape(advurl);
+var dcminversion = 5;
+var dcmaxversion = 8;
+var plugin = false;
+var dccreativewidth = "300";
+var dccreativeheight = "250";
+var dcwmode = "opaque";
+var dcbgcolor = "";
+
+if (((navigator.appName == "Netscape") && (navigator.userAgent.indexOf("Mozilla") != -1) && (parseFloat(navigator.appVersion) >= 4) && (navigator.javaEnabled()) && navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"] && navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin)) {
+var plugname=navigator.plugins['Shockwave Flash'].description;var plugsub=plugname.substring(plugname.indexOf("."),-1); var plugsubstr=plugsub.substr(-1)
+if( plugsubstr >= dcminversion) { plugin = true;}
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0 && (navigator.userAgent.indexOf("Windows 95")>=0 || navigator.userAgent.indexOf("Windows 98")>=0 || navigator.userAgent.indexOf("Windows NT")>=0) && document.all) 
+{
+document.write('<script language=VBScript>' + '\n' +
+   'dcmaxversion = '+dcmaxversion + '\n' +
+   'dcminversion = '+dcminversion + '\n' +
+   'Do' + '\n' +
+    'On Error Resume Next' + '\n' +
+    'plugin = (IsObject(CreateObject(\"ShockwaveFlash.ShockwaveFlash.\" & dcmaxversion & \"\")))' + '\n' +
+    'If plugin = true Then Exit Do' + '\n' +
+    'dcmaxversion = dcmaxversion - 1' + '\n' +
+    'Loop While dcmaxversion >= dcminversion' + '\n' +
+  '<\/script>');
+}
+if ( plugin )  {
+ document.write('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"');
+ document.write(' codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=3,0,0,0" ');
+ document.write(' ID=FLASH_AD WIDTH="'+ dccreativewidth +'" HEIGHT="'+ dccreativeheight +'">');
+ document.write('<PARAM NAME=movie VALUE="' + dcswf + '?ct=US&st=CA&ac=831&zp=93940&bw=2&dma=205&city=13939&clickTAG='+ dcadvurl +'"><PARAM NAME=quality VALUE=autohigh><PARAM NAME=bgcolor VALUE=#'+ dcbgcolor +'><PARAM NAME=wmode VALUE='+ dcwmode +'>'); 
+ document.write('<EMBED src="' + dcswf + '?ct=US&st=CA&ac=831&zp=93940&bw=2&dma=205&city=13939&clickTAG='+ dcadvurl +'" quality=autohigh');
+ document.write(' swLiveConnect=TRUE WIDTH="'+ dccreativewidth +'" HEIGHT="'+ dccreativeheight +'" bgcolor=#'+ dcbgcolor);
+ document.write(' TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">');
+ document.write('</EMBED>');
+ document.write('</OBJECT>');
+} else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0)){
+ document.write('<A TARGET="_blank" HREF="http://ad.doubleclick.net/click%3Bh=v8/3705/17/1b8/%2a/w%3B203471105%3B6-0%3B0%3B27294857%3B4307-300/250%3B27167947/27185826/1%3B%3B%7Esscs%3D%3fhttp://ad.yieldmanager.com/click,WaUDADByBQD9RQ4AcYEEAAIAAkoAAP8AAAACFgIAAgOTrgEAe6UGAAK2BgAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14tsptoru%2FM%3D674272.12804985.13083877.1442997%2FD%3Dnews%2FS%3D8903239%3ALREC%2F_ylt%3DAvpW2gWyHLM0Ywg0wcXVevJH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Do51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406809%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,https://www.lowermybills.com/servlet/LMBServlet?the_action=NavigateHomeLoansAdRedirect&sourceid=27294857-203471105-27185826&moid=20166"><IMG SRC="' + dcgif + '" BORDER=0></A>');
+}
+//-->
+
+document.write('<NOEMBED><A TARGET=\"_blank\" HREF=\"http://ad.doubleclick.net/click%3Bh=v8/3705/17/1b8/%2a/w%3B203471105%3B6-0%3B0%3B27294857%3B4307-300/250%3B27167947/27185826/1%3B%3B%7Esscs%3D%3fhttp://ad.yieldmanager.com/click,WaUDADByBQD9RQ4AcYEEAAIAAkoAAP8AAAACFgIAAgOTrgEAe6UGAAK2BgAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14tsptoru%2FM%3D674272.12804985.13083877.1442997%2FD%3Dnews%2FS%3D8903239%3ALREC%2F_ylt%3DAvpW2gWyHLM0Ywg0wcXVevJH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Do51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406809%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,https://www.lowermybills.com/servlet/LMBServlet?the_action=NavigateHomeLoansAdRedirect&sourceid=27294857-203471105-27185826&moid=20166\"><IMG SRC=\"http://m1.2mdn.net/1420759/lmb_lre_MenuStTextAdGryHDCNPBd_FedHold2_AV133_529_0608_300x250.gif\" BORDER=0></A></NOEMBED><NOSCRIPT><A TARGET=\"_blank\" HREF=\"http://ad.doubleclick.net/click%3Bh=v8/3705/17/1b8/%2a/w%3B203471105%3B6-0%3B0%3B27294857%3B4307-300/250%3B27167947/27185826/1%3B%3B%7Esscs%3D%3fhttp://ad.yieldmanager.com/click,WaUDADByBQD9RQ4AcYEEAAIAAkoAAP8AAAACFgIAAgOTrgEAe6UGAAK2BgAAAAAAAAAAAAAAAAAAAAAAAAAAANJohUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D14tsptoru%2FM%3D674272.12804985.13083877.1442997%2FD%3Dnews%2FS%3D8903239%3ALREC%2F_ylt%3DAvpW2gWyHLM0Ywg0wcXVevJH2ocA%2FY%3DYAHOO%2FEXP%3D1216709869%2FL%3Dwp3_O0WTVvof1OaePr8KWw3kRoZbDEiFaM0AC5oj%2FB%3Do51hANj8fbY-%2FJ%3D1216702669777136%2FA%3D5406809%2FR%3D0%2F%2A%24,http%3A%2F%2Fnews.yahoo.com%2Fs%2Fap%2F20080722%2Fap_on_re_us%2Fwiesel_accosted,https://www.lowermybills.com/servlet/LMBServlet?the_action=NavigateHomeLoansAdRedirect&sourceid=27294857-203471105-27185826&moid=20166\"><IMG SRC=\"http://m1.2mdn.net/1420759/lmb_lre_MenuStTextAdGryHDCNPBd_FedHold2_AV133_529_0608_300x250.gif\" BORDER=0></A></NOSCRIPT>');

@@ -1,0 +1,10 @@
+GET /pp550/images/LiveID16nc.gif?1216706385015 HTTP/1.1
+Accept: */*
+Referer: http://login.live.com/login.srf?wa=wsignin1.0&rpsnv=10&ct=1216706384&rver=4.5.2130.0&wp=MBI&wreply=http:%2F%2Fmail.live.com%2Fdefault.aspx&id=64855
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: login.live.com
+Connection: Keep-Alive
+Cookie: wlidperf=throughput=17255.813953488374&latency=0.172; vv=550; MSPRequ=lt=1216706385&co=1&id=64855; MSPOK=uuid-311759d5-7bde-496d-9cd7-f4aa3fc6cfe3; CkTst=G1216706385015
+

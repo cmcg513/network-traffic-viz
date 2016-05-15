@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r40/Music/5d/bb/1b/mzi.pzbnmctx.enc.jpg?downloadKey2=1217307332_3614332ec2363544d2910e15f5b4069a</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Santana</string>
+    <key>playlistName</key><string>Into the Night (feat. Chad Kroeger) - Single</string>
+    <key>artistId</key><string>468315</string>
+    <key>playlistId</key><string>263952365</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

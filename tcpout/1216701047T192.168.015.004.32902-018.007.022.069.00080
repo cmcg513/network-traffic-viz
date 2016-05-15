@@ -1,0 +1,10 @@
+GET /newsoffice/research28281.jpg HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://web.mit.edu/newsoffice/research.html
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __utmz=242276382.1210898699.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utmz=228848666.1210958229.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=242276382.1959501921.1210898699.1210898699.1212884101.2; __utma=228848666.1814383169.1210958229.1213416562.1216701067.23; __utmc=228848666; __utmb=228848666.1.10.1216701067
+Connection: keep-alive
+Host: web.mit.edu
+

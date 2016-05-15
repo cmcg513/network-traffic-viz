@@ -1,0 +1,66 @@
+GET /aw/pics/vit/route66/hdr2_route66.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Leather-Briefcase-Laptop-Case-Satchel-Backpack_W0QQitemZ230272285878QQihZ013QQcategoryZ52364QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/route66/ftr1_route66.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Leather-Briefcase-Laptop-Case-Satchel-Backpack_W0QQitemZ230272285878QQihZ013QQcategoryZ52364QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/route66/ftr3_route66.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Leather-Briefcase-Laptop-Case-Satchel-Backpack_W0QQitemZ230272285878QQihZ013QQcategoryZ52364QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/route66/hdr2bkgd_route66.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Leather-Briefcase-Laptop-Case-Satchel-Backpack_W0QQitemZ230272285878QQihZ013QQcategoryZ52364QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/route66/ftr1bkgd_route66.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Leather-Briefcase-Laptop-Case-Satchel-Backpack_W0QQitemZ230272285878QQihZ013QQcategoryZ52364QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/route66/ftr3bkgd_route66.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Leather-Briefcase-Laptop-Case-Satchel-Backpack_W0QQitemZ230272285878QQihZ013QQcategoryZ52364QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+

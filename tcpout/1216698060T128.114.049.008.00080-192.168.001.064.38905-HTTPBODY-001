@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="http://engineering.ucsc.edu">
+<title>Research Seminars - Baskin School of Engineering, UC Santa Cruz</title>
+<link>http://engineering.ucsc.edu</link>
+<description>Research Seminars - Baskin School of Engineering, UC Santa Cruz</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 2008, UC Regents</dc:rights>
+<dc:date>2000-08-23T07:00+00:00</dc:date>
+<dc:publisher>webmaster@soe.ucsc.edu</dc:publisher>
+<dc:creator>webmaster@soe.ucsc.edu</dc:creator>
+<dc:subject>Research Seminars - Baskin School of Engineering, UC Santa Cruz</dc:subject>
+<syn:updateBase>1901-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<taxo:topics>
+  <rdf:Bag>
+    <rdf:li resource="http://dmoz.org/Science/Technology/Academia" />
+    <rdf:li resource="http://dmoz.org/Science/Technology/Academia/Engineering_Colleges" />
+    <rdf:li resource="http://dmoz.org/Science/Technology/Electrical_Engineering/Education" />
+    <rdf:li resource="http://dmoz.org/Science/Technology/Academia/Research_Centers_and_Laboratories" />
+    <rdf:li resource="http://dmoz.org/Science/Technology/Computational_Engineering" />
+    <rdf:li resource="http://dmoz.org/Computers/Computer_Science" />
+    <rdf:li resource="http://dmoz.org/Computers/Software/Software_Engineering" />
+    <rdf:li resource="http://dmoz.org/Computers/Robotics/Education" />
+    <rdf:li resource="http://dmoz.org/Science/Technology/Nanotechnology" />
+    <rdf:li resource="http://dmoz.org/Science/Biology/Biotechnology" />
+  </rdf:Bag>
+</taxo:topics>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.soe.ucsc.edu/events/seminars/cs/2008/05/22/index.html" />
+  <rdf:li rdf:resource="http://www.soe.ucsc.edu/events/seminars/istm/2008/05/23/index.html" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://www.soe.ucsc.edu/_images/slug-new.gif" />
+</channel>
+<image rdf:about="http://www.soe.ucsc.edu/_images/slug-new.gif">
+<title>Baskin School of Engineering, UC Santa Cruz</title>
+<url>http://www.soe.ucsc.edu/_images/slug-new.gif</url>
+<link>http://engineering.ucsc.edu/</link>
+<dc:creator>webmaster@soe.ucsc.edu</dc:creator>
+</image>
+<item rdf:about="http://www.soe.ucsc.edu/events/seminars/cs/2008/05/22/index.html">
+<title>Faster and Better: A Machine Learning Approach to Corner Detection </title>
+<link>http://www.soe.ucsc.edu/events/seminars/cs/2008/05/22/index.html</link>
+<description>Corner detection is used for a large variety of computer vision tasks, such as object detection and recognition, tracking and image registration and stitching. The repeatability and efficiency of a corner detector determines how likely it is to be useful in a real- world application. The repeatability is important because the same scene viewed from different positions should yield features which correspond to the same real-world 3D locations.  The efficiency is important because this determines whether the detector combined with further processing can operate at frame rate.
+
+This presentation is about the FAST corner detector. Firstly this consists of a new heuristic which can be optimized for speed effectively using machine learning so that it can process live video using  less than 3% of the CPU budget on a modern machine.  Secondly, by using the definition of good corner detection, we generalize the FAST detector so that we can optimize it for repeatability with little loss of efficiency.  Finally, a thorough experimental comparison demonstrates that the new detector produces significant improvements in repeatability, yielding a detector that is both very fast and very high quality.
+</description>
+<dc:creator>webmaster@soe.ucsc.edu</dc:creator>
+<dc:date>2008-05-27T14:00:00</dc:date>
+<dc:subject>Computer Science Research Seminars - Baskin School of Engineering, UC Santa Cruz</dc:subject>
+</item>
+<item rdf:about="http://www.soe.ucsc.edu/events/seminars/istm/2008/05/23/index.html">
+<title>Online advertising: business models, technologies and issues</title>
+<link>http://www.soe.ucsc.edu/events/seminars/istm/2008/05/23/index.html</link>
+<description>Internet advertising revenues in the United States totaled $16.9 billion for 2006, up 35 percent versus 2005 revenues of $12.5 billion (according to the Interactive Advertising Bureau). Fueled by these growth rates and the desire to provide added incentives and opportunities for both advertisers and publishers, alternative business models to online advertising are been developed. This tutorial will review the main business models of online advertising including: the pay-per-impression model (CPM); and the pay-per-click model (CPC); and a relative new comer, the pay-per-action model (CPA), where an action could be a product purchase, a site visit, a customer lead, or an email signup.
+
+The tutorial will also discuss in detail the technology being leveraged to automatically target ads within these business models; this largely derives from the fields of machine learning, statistical, information retrieval and economics. Challenges such as click fraud (the spam of online advertising), deception, privacy and other open issues will also be discussed. Web 2.0 applications such as social networks, and video/photo-sharing pose new challenges for online advertising. These will also be discussed.
+</description>
+<dc:creator>webmaster@soe.ucsc.edu</dc:creator>
+<dc:date>2008-05-27T18:00:00</dc:date>
+<dc:subject>Information Systems &#x26; Technology Management Research Seminars - Baskin School of Engineering, UC Santa Cruz</dc:subject>
+</item>
+</rdf:RDF>

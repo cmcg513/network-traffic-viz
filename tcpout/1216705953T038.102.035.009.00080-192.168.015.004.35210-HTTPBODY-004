@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <topText>Check out these other items that I have on eBay right now!</topText>
+  <bottomText>Click here to browse all my eBay items!</bottomText>
+  <emptyWindowText>My Store Window is currently updating item info</emptyWindowText>
+  <auctionCloseMessage>The Auction Is Closed</auctionCloseMessage>
+  <buttonLink>http://www.auctiva.com/stores/viewstore.aspx?id=832718</buttonLink>
+  <itemLink>http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=</itemLink>
+  <time>7/21/2008 10:53:39 PM</time>
+  <cacheExpiration>7/22/2008 12:53:39 AM</cacheExpiration>
+  <adultCategories>4952,4793,1604,882,1605,4954,4955,4956,379,4957,4796,4797,4798,322,4799,4794,7322,4801,4802,4803,1273,4804,30119,1274,4811,4812,4815,4813,613,4818,4816,4817,4814,320,4821,4822,4827,4824,4825,323,4826,4823,558,923,4833,1606,4829,4830,4831,321,4832</adultCategories>
+  <maxItems>16</maxItems>
+  <textModified>false</textModified>
+  <tokenValid>true</tokenValid>
+  <itemData>
+    <item>
+      <itemNumber>130238990479</itemNumber>
+      <linkText>BURBERRY MEN PURE WOOL NOVA CHECK PLAID JACKET COAT L</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130238990479.jpg</imageURL>
+      <endTime>7/22/2008 12:49:58 AM</endTime>
+      <curPrice>102.50</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>3002</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130238990483</itemNumber>
+      <linkText>CAbi LINEN PANTS TROUSERS CHINOS BROWN 4 S</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130238990483.jpg</imageURL>
+      <endTime>7/22/2008 12:50:02 AM</endTime>
+      <curPrice>10.03</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>57989</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130238990488</itemNumber>
+      <linkText>FOSSIL BROWN LEATHER BAG PURSE HANDBAG</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130238990488.jpg</imageURL>
+      <endTime>7/22/2008 12:50:06 AM</endTime>
+      <curPrice>0.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>140249743463</itemNumber>
+      <linkText>MOROCCAN VINTAGE KAFTAN HIJAB LONG SHIRT L</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/140249743463.jpg</imageURL>
+      <endTime>7/22/2008 12:50:11 AM</endTime>
+      <curPrice>0.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63861</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>140249743470</itemNumber>
+      <linkText>NICOLE MILLER LIMITED FITTED PURPLE MONKEY DRESS 8 M</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/140249743470.jpg</imageURL>
+      <endTime>7/22/2008 12:50:17 AM</endTime>
+      <curPrice>9.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63861</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>140249743482</itemNumber>
+      <linkText>PEDLETON VIRGIN WOOL PINK FITTED JACKET BLAZER COAT 8 M</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/140249743482.jpg</imageURL>
+      <endTime>7/22/2008 12:50:21 AM</endTime>
+      <curPrice>9.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63860</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130238990631</itemNumber>
+      <linkText>TIE DYE BATIK BOHO HIPPIE VEST TOP SHIRT PONCHO 1 SIZE</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130238990631.jpg</imageURL>
+      <endTime>7/22/2008 12:50:26 AM</endTime>
+      <curPrice>0.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63866</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>140249743867</itemNumber>
+      <linkText>MEXICAN EMBROIDERED WHITE RUCHED BABYDOLL TOP SHIRT S M</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/140249743867.jpg</imageURL>
+      <endTime>7/22/2008 12:53:22 AM</endTime>
+      <curPrice>0.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63866</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130238990969</itemNumber>
+      <linkText>HAWAIIN HAWAII RUCHED BABYDOLL STRAPLESS DRESS S</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130238990969.jpg</imageURL>
+      <endTime>7/22/2008 12:53:42 AM</endTime>
+      <curPrice>0.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63861</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>140249743947</itemNumber>
+      <linkText>SILK WHITE LONG FITTED COCTAIL DRESS CRYSTAL BEADS M</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/140249743947.jpg</imageURL>
+      <endTime>7/22/2008 12:54:11 AM</endTime>
+      <curPrice>8.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63861</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130238991110</itemNumber>
+      <linkText>GYPSY BOHO HIPPIE RAYON SHEER TIE DYE LONG  SKIRT 1.SZ</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130238991110.jpg</imageURL>
+      <endTime>7/22/2008 12:55:49 AM</endTime>
+      <curPrice>23.15</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63866</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130239241338</itemNumber>
+      <linkText>FUNKY PEOPLE BOHO HIPPIE PAISLEY BABYDOLL SHIRT TOP S</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130239241338.jpg</imageURL>
+      <endTime>7/22/2008 10:32:46 PM</endTime>
+      <curPrice>1.04</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63866</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130239241348</itemNumber>
+      <linkText>HANNAH MONTANA PINK-GOLD HOOD HOODED TOP SHIRT L 10 12</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130239241348.jpg</imageURL>
+      <endTime>7/22/2008 10:32:52 PM</endTime>
+      <curPrice>0.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>11476</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>130239241358</itemNumber>
+      <linkText>HANNAH MONTANA PINK-GOLD TRACK SUIT CAPRI PANTS L 10 12</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/130239241358.jpg</imageURL>
+      <endTime>7/22/2008 10:32:58 PM</endTime>
+      <curPrice>0.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>11476</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>140250007927</itemNumber>
+      <linkText>LUX URBAN OUTFITTERS BABYDOLL RUCHED OLIVE DRESS TOP S</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/140250007927.jpg</imageURL>
+      <endTime>7/22/2008 10:33:01 PM</endTime>
+      <curPrice>8.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63861</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>140250007938</itemNumber>
+      <linkText>LUX URBAN OUTFITTERS SHRUG BOLERO JACKET TOP S</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/8/3/2/7/1/8/sc/140250007938.jpg</imageURL>
+      <endTime>7/22/2008 10:33:05 PM</endTime>
+      <curPrice>8.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63860</eBaySiteID>
+    </item>
+  </itemData>
+</windowSettings>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/b2/84/42/mzi.zpankzmr.enc.jpg?downloadKey2=1217307283_f7a4220cd27538429ff08a051cb95dcc</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Rob &amp; Goldie</string>
+    <key>playlistName</key><string>The Shadow</string>
+    <key>artistId</key><string>126003814</string>
+    <key>playlistId</key><string>255003967</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

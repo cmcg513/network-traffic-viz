@@ -1,0 +1,10 @@
+GET /news/feeds/rss2/0,2610,3,00.xml HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Tue, 27 May 2008 18:13:25 GMT
+If-None-Match: eVHyYtKvhTtJ5zc2zwZicJ1khaY
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.wired.com
+

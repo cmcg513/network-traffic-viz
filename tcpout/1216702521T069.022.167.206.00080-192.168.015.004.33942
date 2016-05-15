@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Content-Length: 825
+Content-Type: text/xml; charset=UTF-8
+x-apple-asset-version: 46864
+X-Apple-Partner: origin.0
+Vary: Accept-Encoding
+x-webobjects-loadaverage: 0
+x-apple-application-instance: 469
+x-apple-date-generated: Tue, 22 Jul 2008 04:55:45 GMT
+x-apple-request-store-front: 143441
+x-apple-max-age: 3600
+Expires: Tue, 22 Jul 2008 04:55:45 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Tue, 22 Jul 2008 04:55:45 GMT
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/y2005/m03/d28/h22/s06.fesshdfr.enc.jpg?downloadKey2=1217307345_6a27935604c6935710fe5bfb3542143f</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Simon &amp; Garfunkel</string>
+    <key>playlistName</key><string>Bridge Over Troubled Water</string>
+    <key>artistId</key><string>461503</string>
+    <key>playlistId</key><string>54422378</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

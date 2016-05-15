@@ -1,0 +1,10 @@
+GET /pixel?id=94635&t=2 HTTP/1.1
+Accept: */*
+Referer: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=300x250&site=140455&section_code=12804230&cb=1216706342866901&ycg=&yyob=&pub_redirect_unencoded=1&pub_redirect=http://us.ard.yahoo.com/SIG=151t17duk/M=674272.12804230.13083170.11084775/D=know/S=2115300547:LREC/Y=YAHOO/EXP=1216713542/L=00DYDNFJu9zds5DxSIV3DgG3RoZbDEiFdyYABwjT/B=Xrs_FULEYrk-/J=1216706342866901/A=5404802/R=0/*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: ad.yieldmanager.com
+Connection: Keep-Alive
+Cookie: uid=created=1216706320&lastCounted=1216706320&uid=3bd8dcf2-57b3-11dd-9907-001cc410e82c&_hmacv=1&_salt=2005464076&_keyid=k1&_hmac=ace8aa7446099f36773784126bd831e9397ef96a; vuday1=.F2MJN=9R>!2_Em; ih="b!!!!$!#0]v!!!!#:>49<!#_SR!!!!#:>49!"; liday1=6Em!EN=9R>OvHLh; fl_inst=1; bh="b!!!!#!!0nx!!!!#:>49<"
+

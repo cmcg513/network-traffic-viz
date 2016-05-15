@@ -1,0 +1,22 @@
+GET /auctions/file1/1_26/8s.jpg HTTP/1.1
+Host: www.toroleather.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/LEATHER-BACKPACK-RUCKSACK-CARRY-ON-SLING-BAG-TOTE_W0QQitemZ8275033232QQihZ017QQcategoryZ52358QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /auctions/file1/1_26/4s.jpg HTTP/1.1
+Host: www.toroleather.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/LEATHER-BACKPACK-RUCKSACK-CARRY-ON-SLING-BAG-TOTE_W0QQitemZ8275033232QQihZ017QQcategoryZ52358QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+

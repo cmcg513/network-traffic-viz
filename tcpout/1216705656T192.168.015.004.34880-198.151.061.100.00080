@@ -1,0 +1,11 @@
+GET / HTTP/1.1
+Host: orbitz.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: OSC=ID51BwPzhz!-942743848!183181860!7001!-1; OrbitzID=12166085658592592; OrbitzRegistration=N,0,0,0; BetaGroup=07/20/2008 21:49:25|A|false; WT_FPC=id=70.134.85.172-1744146160.29944540:lv=1216612558363:ss=1216612174166; Axxd=1
+

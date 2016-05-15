@@ -1,0 +1,55 @@
+GET /ti/bluebutton/bb_tplftcrn.gif HTTP/1.1
+Host: ti2.auctiva.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Custom-Colombian-Leather-Back-Pack-Laptop-Saddle-Bag_W0QQitemZ350080599677QQihZ022QQcategoryZ52361QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /ti/bluebutton/bb_btmlftcrn.gif HTTP/1.1
+Host: ti2.auctiva.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Custom-Colombian-Leather-Back-Pack-Laptop-Saddle-Bag_W0QQitemZ350080599677QQihZ022QQcategoryZ52361QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /web/imghost0.gif HTTP/1.1
+Host: ti2.auctiva.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Custom-Colombian-Leather-Back-Pack-Laptop-Saddle-Bag_W0QQitemZ350080599677QQihZ022QQcategoryZ52361QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /web/auctivablue88x33.gif HTTP/1.1
+Host: ti2.auctiva.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Custom-Colombian-Leather-Back-Pack-Laptop-Saddle-Bag_W0QQitemZ350080599677QQihZ022QQcategoryZ52361QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /ti/bluebutton/bb_tpbg.gif HTTP/1.1
+Host: ti2.auctiva.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Custom-Colombian-Leather-Back-Pack-Laptop-Saddle-Bag_W0QQitemZ350080599677QQihZ022QQcategoryZ52361QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+

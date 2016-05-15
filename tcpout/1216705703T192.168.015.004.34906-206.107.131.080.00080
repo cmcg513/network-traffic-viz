@@ -1,0 +1,12 @@
+GET /cgi-bin/ads/ad13655a.cgi/v=2.1S/sz=728x90a/NZ/1989/NF/RETURN-CODE/JS/ HTTP/1.1
+Host: anad.tacoda.net
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.orbitz.com/App/PerformDataPersistence?&retrieveParams=true&z=5015&r=2c
+Cookie: TID=13ur3of186a0fv; Xsd=$; TData=99999|^|50116|50506|#|50237|60190; Tcc=1216705747^20; ANRTT=50237^1^1217310526|60190^1^1217207386; /SC=1; /PC=1; /ad13655.11565=,CFC-Puu.2va.1,GFC; Tsid=0^1216705686^1216707526|13655^1216705686^1216707526; Anxd=x
+

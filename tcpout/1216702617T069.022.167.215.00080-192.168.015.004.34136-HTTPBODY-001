@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r40/Music/0d/95/80/mzi.ttjaniax.enc.jpg?downloadKey2=1217307441_6cd274c34f7060adbb53bdfd3e399454</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>The Art Ensemble of Chicago</string>
+    <key>playlistName</key><string>Nice Guys</string>
+    <key>artistId</key><string>14856473</string>
+    <key>playlistId</key><string>272064483</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

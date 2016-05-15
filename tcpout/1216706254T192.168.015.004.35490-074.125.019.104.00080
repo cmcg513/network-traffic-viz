@@ -1,0 +1,59 @@
+GET /intl/en-GB/images/toolbar_sm.png HTTP/1.1
+Accept: */*
+Referer: http://www.google.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=12=mIYIMwRy7BkT_gh2VmeAozfrsxDxGoeUEh5jRx5FdCdsWS5Pnoe8cOm8j0ldtXvd9o7ngti0HdeDoQXD-4Iboq9gIpUurw13HEhQDriEtSZvUBO_lUoLS6vj0eiD5iRu
+
+GET /images/dl_btn_mid.gif HTTP/1.1
+Accept: */*
+Referer: http://www.google.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=12=mIYIMwRy7BkT_gh2VmeAozfrsxDxGoeUEh5jRx5FdCdsWS5Pnoe8cOm8j0ldtXvd9o7ngti0HdeDoQXD-4Iboq9gIpUurw13HEhQDriEtSZvUBO_lUoLS6vj0eiD5iRu
+
+GET /search?hl=en&q=how+to+annoy+people HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.google.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=12=mIYIMwRy7BkT_gh2VmeAozfrsxDxGoeUEh5jRx5FdCdsWS5Pnoe8cOm8j0ldtXvd9o7ngti0HdeDoQXD-4Iboq9gIpUurw13HEhQDriEtSZvUBO_lUoLS6vj0eiD5iRu
+
+GET / HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=12=mIYIMwRy7BkT_gh2VmeAozfrsxDxGoeUEh5jRx5FdCdsWS5Pnoe8cOm8j0ldtXvd9o7ngti0HdeDoQXD-4Iboq9gIpUurw13HEhQDriEtSZvUBO_lUoLS6vj0eiD5iRu
+
+GET /search?hl=en&q=sending+anonymous+mail HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.google.com/
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: SS=Q0=aG93IHRvIGFubm95IHBlb3BsZQ; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=12=mIYIMwRy7BkT_gh2VmeAozfrsxDxGoeUEh5jRx5FdCdsWS5Pnoe8cOm8j0ldtXvd9o7ngti0HdeDoQXD-4Iboq9gIpUurw13HEhQDriEtSZvUBO_lUoLS6vj0eiD5iRu
+
+GET /search?hl=en&q=i+want+to+harass+my+teacher HTTP/1.1
+Accept: image/gif, image/x-xbitmap, image/jpeg, image/pjpeg, application/x-shockwave-flash, */*
+Referer: http://www.google.com/search?hl=en&q=sending+anonymous+mail
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.google.com
+Connection: Keep-Alive
+Cookie: SS=Q0=c2VuZGluZyBhbm9ueW1vdXMgbWFpbA; PREF=ID=8fc081df5e738a3c:TM=1210743469:LM=1210743469:S=PiBsyJkS6cu-UEXV; NID=13=tJ7LtEc6z12iH4BP_IPyV0gGhi4aLcZoJcjAf7l-9JQ2AeoD8oWG9NJtOp7T5tuskkNgEKMRAn9P49vI4Easp6NpBuJWaDr5pEv4yh6XE0UboY5r3KgJSFshpsI-TfmV
+

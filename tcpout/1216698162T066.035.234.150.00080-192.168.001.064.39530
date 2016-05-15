@@ -1,0 +1,9 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 03:43:05 GMT
+Server: Apache
+X-Powered-By: PHP/5.2.0
+Location: http://www.vmware.com/noupdate.txt
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+

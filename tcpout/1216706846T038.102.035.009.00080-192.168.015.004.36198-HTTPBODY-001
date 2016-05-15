@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <topText>Check out these other items that I have on eBay right now!</topText>
+  <bottomText>Click here to browse all my eBay items!</bottomText>
+  <emptyWindowText>My Store Window is currently updating item info</emptyWindowText>
+  <auctionCloseMessage>The Auction Is Closed</auctionCloseMessage>
+  <buttonLink>http://www.auctiva.com/stores/viewstore.aspx?id=774112</buttonLink>
+  <itemLink>http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=</itemLink>
+  <time>7/21/2008 11:07:50 PM</time>
+  <cacheExpiration>7/22/2008 1:07:50 AM</cacheExpiration>
+  <adultCategories>4952,4793,1604,882,1605,4954,4955,4956,379,4957,4796,4797,4798,322,4799,4794,7322,4801,4802,4803,1273,4804,30119,1274,4811,4812,4815,4813,613,4818,4816,4817,4814,320,4821,4822,4827,4824,4825,323,4826,4823,558,923,4833,1606,4829,4830,4831,321,4832</adultCategories>
+  <maxItems>16</maxItems>
+  <textModified>false</textModified>
+  <tokenValid>true</tokenValid>
+  <itemData>
+    <item>
+      <itemNumber>310061217751</itemNumber>
+      <linkText>Womens Long Sleeve Red Turtleneck Shirt 1X 18 20  NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/310061217751.jpg</imageURL>
+      <endTime>7/22/2008 8:37:24 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>9.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63868</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>310061218117</itemNumber>
+      <linkText>Misses Essentials  Long Sleeve Sweater 14 16 Large NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/310061218117.jpg</imageURL>
+      <endTime>7/22/2008 8:38:40 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>14.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63885</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>310061218339</itemNumber>
+      <linkText>Womens Essentials Long Sleeve Sweater 26 28 W 3X  NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/310061218339.jpg</imageURL>
+      <endTime>7/22/2008 8:39:36 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>14.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63885</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>280177499459</itemNumber>
+      <linkText>Appalachian Anglers Boone NC L  Large T Shirt Tan  NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/280177499459.jpg</imageURL>
+      <endTime>7/22/2008 12:48:20 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>6.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>15687</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>280177499478</itemNumber>
+      <linkText>iRide Breckenridge Snowboard Colorado T Shirt 2XL XXL </linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/280177499478.jpg</imageURL>
+      <endTime>7/22/2008 12:48:23 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>6.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>15687</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>280177610505</itemNumber>
+      <linkText>2 Vail Colorado Ball Cap His &amp; Hers Embroidered  NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/280177610505.jpg</imageURL>
+      <endTime>7/22/2008 5:40:11 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>14.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>52366</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>280177648910</itemNumber>
+      <linkText>Loyola University  LU  Ball Cap Purple NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/280177648910.jpg</imageURL>
+      <endTime>7/22/2008 7:23:08 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>6.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>52366</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>270139164490</itemNumber>
+      <linkText>Misses  Gap Sleeveless Tank  Shirt  L Large</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/270139164490.jpg</imageURL>
+      <endTime>7/22/2008 7:35:53 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>4.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63869</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>280177655684</itemNumber>
+      <linkText>Vail Colorado Ball Cap Embroidered White NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/280177655684.jpg</imageURL>
+      <endTime>7/22/2008 7:38:15 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>5.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>52366</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>270139177223</itemNumber>
+      <linkText>Embroidered Marching Ants  Chef Hat White</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/270139177223.jpg</imageURL>
+      <endTime>7/22/2008 8:10:10 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>7.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>20666</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>270048974560</itemNumber>
+      <linkText>Boys Sweat Shirt Size 14 - 16 Blue</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/270048974560.jpg</imageURL>
+      <endTime>7/22/2008 10:00:14 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>3.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>15617</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>270062607860</itemNumber>
+      <linkText>Womens Plus Size Dress Pants Size 26 / 28 W</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/270062607860.jpg</imageURL>
+      <endTime>7/22/2008 10:31:07 PM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>10.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63863</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>280212031515</itemNumber>
+      <linkText>Curvation Women's Sensual &amp; Liveable Bra 40DD 40 DD NWT</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/280212031515.jpg</imageURL>
+      <endTime>7/23/2008 5:29:18 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>10.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63853</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>270149764976</itemNumber>
+      <linkText>Vintage Cat Figurine Statue Ceramic Gray White</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/270149764976.jpg</imageURL>
+      <endTime>7/23/2008 6:14:50 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>6.25</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>37855</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>270049081238</itemNumber>
+      <linkText>Witchblade Nottingham  New in Box</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/270049081238.jpg</imageURL>
+      <endTime>7/23/2008 6:41:01 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>6.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>348</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>270049081246</itemNumber>
+      <linkText>Merona Women Sweater Vest Plus Size 3 X  Red</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/7/7/4/1/1/2/sc/270049081246.jpg</imageURL>
+      <endTime>7/23/2008 6:41:02 AM</endTime>
+      <curPrice />
+      <buyNow>true</buyNow>
+      <buyNowPrice>10.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>15775</eBaySiteID>
+    </item>
+  </itemData>
+</windowSettings>

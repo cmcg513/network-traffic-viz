@@ -1,0 +1,11 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=9B42DBDC5C7C73452E28198A395E322A&CDDBMuiID=28114&an=Beths%2C%20Pieterson%2C%20Bijlsma%2C%20de%20Leeuw&pn=Messiaen%3A%20Quatuor%20pour%20la%20fin%20du%20temps HTTP/1.1
+X-Dsid: 46103215
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 67DE7CF0-8E3F534F1584AC7B4F812A9721FD3793
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

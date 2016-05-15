@@ -1,0 +1,30 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:59:04 GMT
+Server: Right Media Ad Server/407
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Set-Cookie: fl_inst=; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: uid=created=1216706320&lastCounted=1216706320&uid=3bd8dcf2-57b3-11dd-9907-001cc410e82c&_hmacv=1&_salt=2005464076&_keyid=k1&_hmac=ace8aa7446099f36773784126bd831e9397ef96a; expires=Thu, 21-Aug-2008 05:59:04 GMT
+Set-Cookie: liday1=6Em!EN=9R>OvHLh; expires=Wed, 23-Jul-2008 00:00:00 GMT
+Set-Cookie: vuday1=.F2MJN=9R>!2_Em; expires=Wed, 23-Jul-2008 00:00:00 GMT
+Set-Cookie: fl_inst=1; expires=Sun, 18-Jan-2009 05:59:04 GMT
+Set-Cookie: pv1="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: pc1="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: ih="b!!!!$!#0]v!!!!#:>49<!#_SR!!!!#:>49!"; path=/; expires=Thu, 22-Jul-2010 05:59:04 GMT
+Set-Cookie: vh="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: bh="b!!!!#!!0nx!!!!#:>49<"; path=/; expires=Thu, 22-Jul-2010 05:59:04 GMT
+Set-Cookie: ia="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Tue, 22 Jul 2008 05:59:04 GMT
+Pragma: no-cache
+Content-Length: 1205
+Content-Type: text/html
+Connection: close
+
+<html><body style="margin-left: 0%; margin-right: 0%; margin-top: 0%; margin-bottom: 0%"><script type="text/javascript">if (window.rm_crex_data) {rm_crex_data.push(712891);}
+</script><SCRIPT>
+document.write("<scr"+"ipt src='http://afe.specificclick.net?l=808551479&sz=300x250&wr=j&t=j&u="+escape(document.location)+"&r="+escape(document.referrer)+"'></scri"+"pt>");
+</SCRIPT>
+<NOSCRIPT>
+<A HREF="http://ad.yieldmanager.com/click,IFQEAIxxBQC74AoAkiUEAAIABAAAAP8AAAACFwIAAgLONAQAOTUGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACh3hUgAAAAA,http%3A%2F%2Fus.ard.yahoo.com%2FSIG%3D151t17duk%2FM%3D674272.12804230.13083170.11084775%2FD%3Dknow%2FS%3D2115300547%3ALREC%2FY%3DYAHOO%2FEXP%3D1216713542%2FL%3D00DYDNFJu9zds5DxSIV3DgG3RoZbDEiFdyYABwjT%2FB%3DXrs_FULEYrk-%2FJ%3D1216706342866901%2FA%3D5404802%2FR%3D0%2F%2A%24,http%3A%2F%2Fanswers.yahoo.com%2Fquestion%2Findex%3B_ylt%3Damlyeej4isxica1bposaltejzkix%3B_ylv%3D3%3Fqid%3D20061027171536aarz2zv,[default_href]"> <IMG SRC="[default_img_src]" WIDTH=300 HEIGHT=250 border=0 ALT="Click Here!"></IMG></A>
+</NOSCRIPT><script type="text/Javascript">document.write('<img height="1" width="1" src="http://ad.yieldmanager.com/pixel?id=94635&t=2" />');
+</script></body></html>

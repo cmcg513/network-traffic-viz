@@ -1,0 +1,13 @@
+GET /images/di/37/32/55/624767336e5f32753146614c4c57394e583267-100x100-0-0.jpg HTTP/1.1
+Host: di1.shopping.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://search-desc.ebay.com/leather-backpack-laptop_W0QQcatrefZC5QQdfspZ32QQfclZ3QQfromZR7QQfrppZ50QQfsooZ2QQfsopZ32QQftsZ2QQnojsprZyQQpfidZ0QQsacatZQ2d1QQsofocusZbs
+If-Modified-Since: Mon, 14 Jul 2008 12:36:39 GMT
+If-None-Match: "-203428091"
+

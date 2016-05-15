@@ -1,0 +1,196 @@
+<html>
+<head>
+	<title>DM</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<script language="JavaScript" type="text/javascript">try {document.domain="dotomi.com";}catch(e){}</script>
+	<script language="JavaScript" type="text/javascript">
+		function DMO(){
+			this.startTime = new Date().valueOf();
+			this.dmc = "http://shoebuy.direct-messaging.com";
+			this.trid = 8099195156;
+			this.trmagic = 1739135686;
+			this.pid = 12900;
+			this.mediasize = 18;
+			this.mediaWidth = 728;
+			this.mediaHeight = 90;
+			this.flashVersion = 6;
+			this.companyId = 2137;
+			this.msgCampId = 1099;
+			this.templateId = 1111;
+			this.formId = 101;
+			this.promoId = 6;
+			this.sourceId = 2;
+			this.keywordPd = "%3Ckeyword_pd+keyword%3D%22Australian+Bag+Outfitters%22+%2F%3E";
+			this.menuSrc = "";
+			this.menuParams = "";
+			this.objectSrc = "http://dmmres.dotomi.com/dmm/servlet/render?tid=1111&comId=2137&ver=1";
+			this.flag = null;
+			this.clickURL = new Array("http%3A%2F%2Fwww.shoebuy.com%2Fcgi-bin%2Fsbref.cgi%3Flink%3Ddotomi%26path%3D");
+			this.eventURL = "http://usadmm.dotomi.com/dmm/servlet/op?trid=8099195156&trmagic=1739135686&pid=12900&pp=0&cg=21&ms=18&comId=2137&parentMsgId=1100&msgCampId=1099&launch=1298&tid=1111&type=1&fid=101&promoId=6&sourceId=2&is_control=false&is_test=false&tz=420&mid=3190292992&impn=1&rfrh=07d6b175af093182721aecc85a78689a&keyword_pd=%3Ckeyword_pd+keyword%3D%22Australian+Bag+Outfitters%22+%2F%3E";
+			this.actionLog = "http://usadmm.dotomi.com/dmm/servlet/action_log";
+			this.clickable = true;
+			this.cturl = "%5BINSERT+ENCODED+CLICK+URL+HERE%5D";
+			this.flashVars = "category=+Australian+Bag+Outfitters+Products&img_name=http%3A%2F%2Fi.shoebuy.com%2Fpi%2Faboge%2Faboge202442_115235_lg.jpg&";
+			this.cgid = "21";
+			this.messageType = 1;
+			this.timer = 0;
+			this.keepAliveCounter = 0;
+			this.timerObj = null;
+
+			this.open = function(u,t,f){
+				if (u){
+					if (f){
+						window.open(u,t,f);
+					}else{
+						if (t){
+							window.open(u,t);
+						}else{
+							window.open(u,"_blank");
+						}
+					}
+				}
+			};
+			this.handleCommand = function(c,a,fs){
+				if(c.indexOf("FSCommand") != -1){
+					c = c.split(":")[1];
+				}
+				if(!fs && navigator.userAgent.toLowerCase().indexOf("opera") == -1 && navigator.userAgent.toLowerCase().indexOf("safari") == -1){
+					return;
+				}
+				if(fs && navigator.userAgent.toLowerCase().indexOf("safari") != -1){
+					return;
+				}
+				if (this.flag == null){
+					this.flag = fs;
+				}
+				if (this.flag == fs){
+					switch (c){
+						case "clickprev":
+						case "click":
+							var phase = (c=="click"?20:10);
+							if (this.clickable) {
+								var i = 0;
+								var frame = 0;
+								var rurl = "";
+								a = eval(a);
+								if(a){
+									i = a[0];
+									if(a.length > 1){
+										frame = a[1];
+									}
+									if(a.length>2){
+                                        if (a[2] == null || a[2].match(/^(http)/) == null) {
+                                            break;
+                                        }
+                                        if(fs){
+                                            rurl = a[2];
+                                        }else{
+                                            rurl = escape(a[2]);
+                                        }
+									} else{
+										rurl = this.clickURL[i];
+									}
+								}else{
+									i = 0;
+									rurl = this.clickURL[0];
+									frame = 0;
+								}
+								this.open(this.getRurl(i,phase,rurl,frame),"_blank");
+							}
+							break;
+						case "banner_load":
+						case "banner_show":
+						case "banner_live":
+							this.doLog(c,a);
+							break;
+						case "template_info":
+						break;
+                        default:
+                            if (c == null || c.match(/^(http)/) == null) {
+                                break;
+                            }
+                            this.open(c,"_blank",a);
+                        break;
+                    }
+				}
+			};
+			this.getRurl = function(i,phase,rurl,frame){
+				if(rurl == null || rurl == "")
+					rurl = this.clickURL[0];
+				return (this.eventURL+"&opid=2&rurli="+i+"&phase="+phase+"&frame="+frame+"&rurl="+rurl+"&cturl="+this.cturl);
+			};
+			this.doLog = function(logType, dt){
+				var arr = new Array();
+				arr[0] = dt - this.startTime;
+				arr[1] = window.screenLeft + "x" + window.screenTop;
+				arr[2] = screen.availWidth + "x" + screen.availHeight;
+				arr[3] = screen.width + "x" + screen.height;
+				if (window.innerWidth){
+					arr[4] = window.innerWidth + "x" + window.innerHeight;
+				}else{
+					arr[4] = window.document.body.clientWidth + "x" + window.document.body.clientHeight;
+				}
+				document.getElementById("log_image").src = this.actionLog + "?action=" + logType + "&trid=" + this.trid + "&trmagic=" + this.trmagic + "&value=" + arr.join(",");
+			};
+			this.docLoaded = function(){
+				try {
+					if (false) {
+						this.initMenu();
+					}
+					checkPlayer();
+				}catch(e){}
+			};
+		};
+		function handleCommand(c,a,fs){
+			dmo.flag = null;
+			dmo.handleCommand(c,a,fs);
+		}
+		function DM_DoFSCommand(c,a){
+			handleCommand(c,a,true);
+		}
+		function checkPlayer(){
+			var player = (navigator.appName.indexOf("Microsoft") != -1)? DM : document.DM;
+			if(player.PercentLoaded() == 100){
+				dmo.doLog("banner_show", new Date().valueOf());
+				if (dmo.timer > 0) {
+					keepAlive(false);
+				}
+			}else{
+				setTimeout("checkPlayer()",100);
+			}
+		}
+		function keepAlive(fire){
+			if(dmo.keepAliveCounter < 300){
+				if (fire) { dmo.doLog("banner_live", new Date().valueOf()); }
+				dmo.timerObj = setTimeout("keepAlive(true)", dmo.keepAliveCounter < 5 ? 1000 : dmo.timer);
+				dmo.keepAliveCounter ++;
+			}
+		}
+		var dmo = new DMO();
+		if (navigator.appName && navigator.appName.indexOf("Microsoft") != -1 && navigator.userAgent.indexOf("Windows") != -1 && navigator.userAgent.indexOf("Windows 3.1") == -1) {
+				document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+				document.write('on error resume next \n');
+				document.write('Sub DM_FSCommand(ByVal command, ByVal args)\n');
+				document.write('  call handleCommand(command, args,true)\n');
+				document.write('end sub\n');
+				document.write('</SCRIPT\> \n')
+		}
+	</script>
+</head>
+<body onload="dmo.docLoaded()" bgcolor="#FFFFFF" bottommargin="0" rightmargin="0" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+<table dir="ltr" align="center" height="100%" cellpadding="0" cellspacing="0" border="0">
+	<tr>
+		<td valign="middle" align="center">
+			<DIV id=flashPos>
+            <script type="text/javascript" src="http://usweb.dotomi.com/renderer//banner_renderer.js"></script>
+
+			</td>
+	</tr>
+</table>
+<img id="log_image" width="0" height="0" alt="">
+<img id="view_notify" width="0" height="0" alt="" src="http://usadmm.dotomi.com/dmm/servlet/view?trid=8099195156&trmagic=1739135686&pid=12900&pp=0&cg=21&ms=18&comId=2137&parentMsgId=1100&msgCampId=1099&launch=1298&tid=1111&type=1&fid=101&promoId=6&sourceId=2&is_control=false&is_test=false&tz=420&mid=3190292992&impn=1&rfrh=07d6b175af093182721aecc85a78689a&keyword_pd=%3Ckeyword_pd+keyword%3D%22Australian+Bag+Outfitters%22+%2F%3E">
+
+
+</body>
+</html>

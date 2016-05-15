@@ -1,0 +1,9 @@
+GET /arstechnica/BAaf HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __qca=1214012247-40622860-32803587; __utmz=199748606.1214061270.2.2.utmccn=(organic)|utmcsr=google|utmctr=ars+technica|utmcmd=organic; __utma=199748606.933491179.1214028419.1214328405.1214369298.6
+Connection: keep-alive
+Host: feeds.arstechnica.com
+

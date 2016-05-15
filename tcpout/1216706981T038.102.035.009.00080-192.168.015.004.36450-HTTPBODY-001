@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <topText>Check out these other items that I have on eBay right now!</topText>
+  <bottomText>Click here to browse all my eBay items!</bottomText>
+  <emptyWindowText>My Store Window is currently updating item info</emptyWindowText>
+  <auctionCloseMessage>The Auction Is Closed</auctionCloseMessage>
+  <buttonLink>http://www.auctiva.com/stores/viewstore.aspx?id=473189</buttonLink>
+  <itemLink>http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=</itemLink>
+  <time>7/21/2008 11:10:05 PM</time>
+  <cacheExpiration>7/22/2008 1:10:05 AM</cacheExpiration>
+  <adultCategories>4952,4793,1604,882,1605,4954,4955,4956,379,4957,4796,4797,4798,322,4799,4794,7322,4801,4802,4803,1273,4804,30119,1274,4811,4812,4815,4813,613,4818,4816,4817,4814,320,4821,4822,4827,4824,4825,323,4826,4823,558,923,4833,1606,4829,4830,4831,321,4832</adultCategories>
+  <maxItems>16</maxItems>
+  <textModified>false</textModified>
+  <tokenValid>true</tokenValid>
+  <itemData>
+    <item>
+      <itemNumber>260263271145</itemNumber>
+      <linkText>ARIAT Italy Zip Up Ankle Boots Shoes Womens 7 B</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263271145.jpg</imageURL>
+      <endTime>7/22/2008 1:26:47 PM</endTime>
+      <curPrice>59.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>65.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263271157</itemNumber>
+      <linkText>BOSTONIAN Italy Black Wing Tip Oxford Shoes Mens 12 M D</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263271157.jpg</imageURL>
+      <endTime>7/22/2008 1:26:50 PM</endTime>
+      <curPrice>59.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>69.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263271179</itemNumber>
+      <linkText>DANSKO Burgundy Mary Jane Clog Shoes Womens 37 6.5 - 7</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263271179.jpg</imageURL>
+      <endTime>7/22/2008 1:26:52 PM</endTime>
+      <curPrice>49.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>55.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263271195</itemNumber>
+      <linkText>Doc DR. MARTENS Brown Loafers Shoes Mens 10 10.5 M NEW</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263271195.jpg</imageURL>
+      <endTime>7/22/2008 1:26:55 PM</endTime>
+      <curPrice>59.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>69.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079868148</itemNumber>
+      <linkText>DR. MARTENS RARE Original England Shoes Mens 9 uk 8</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079868148.jpg</imageURL>
+      <endTime>7/22/2008 1:26:57 PM</endTime>
+      <curPrice>49.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>55.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263271245</itemNumber>
+      <linkText>JOHNSTON &amp; MURPHY Italy Brown Oxford Shoes Mens 13 M  D</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263271245.jpg</imageURL>
+      <endTime>7/22/2008 1:27:03 PM</endTime>
+      <curPrice>59.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>65.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079868279</itemNumber>
+      <linkText>Rare Doc DR. MARTENS Mary Jane Shoes Womens 10 Black</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079868279.jpg</imageURL>
+      <endTime>7/22/2008 1:27:09 PM</endTime>
+      <curPrice>59.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>65.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079868988</itemNumber>
+      <linkText>BIRKENSTOCK BIRKY Sandals Shoes Mens 11 / 44 R Wide</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079868988.jpg</imageURL>
+      <endTime>7/22/2008 1:30:28 PM</endTime>
+      <curPrice>49.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>55.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263272602</itemNumber>
+      <linkText>ECCO Black Loafer Mules Shoes Womens 40 9 ~ 9.5</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263272602.jpg</imageURL>
+      <endTime>7/22/2008 1:30:29 PM</endTime>
+      <curPrice>39.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>45.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263272606</itemNumber>
+      <linkText>ALLEN EDMONDS Denton Black Oxford Shoes Mens 10 3E Wide</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263272606.jpg</imageURL>
+      <endTime>7/22/2008 1:30:29 PM</endTime>
+      <curPrice>59.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>65.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079868997</itemNumber>
+      <linkText>Rare Doc DR. MARTENS Mary Jane Shoes Womens 9  ROCKSTAR</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079868997.jpg</imageURL>
+      <endTime>7/22/2008 1:30:30 PM</endTime>
+      <curPrice>39.99</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079868998</itemNumber>
+      <linkText>Doc DR. MARTENS England Double Strap Shoes Womens 8 UK6</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079868998.jpg</imageURL>
+      <endTime>7/22/2008 1:30:31 PM</endTime>
+      <curPrice>49.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>55.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079869000</itemNumber>
+      <linkText>ALLEN EDMONDS Maxfield Loafer Mens Shoes 10 3E EEE $345</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079869000.jpg</imageURL>
+      <endTime>7/22/2008 1:30:31 PM</endTime>
+      <curPrice>59.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>65.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079869003</itemNumber>
+      <linkText>SAS Black Loafers Mules Comfort Shoes Womens 8 W Wide</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079869003.jpg</imageURL>
+      <endTime>7/22/2008 1:30:32 PM</endTime>
+      <curPrice>45.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>49.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>260263276694</itemNumber>
+      <linkText>DANSKO Black Casual Shoes Womens 41 / 10.5 - 11 / $120</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/260263276694.jpg</imageURL>
+      <endTime>7/22/2008 1:40:18 PM</endTime>
+      <curPrice>49.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>59.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63889</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>350079873138</itemNumber>
+      <linkText>GUCCI Loafers Shoes Mens 41.5 / 7.5  - 8 Mint Vintage</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/4/7/3/1/8/9/sc/350079873138.jpg</imageURL>
+      <endTime>7/22/2008 1:45:32 PM</endTime>
+      <curPrice>119.99</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>125.99</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63850</eBaySiteID>
+    </item>
+  </itemData>
+</windowSettings>

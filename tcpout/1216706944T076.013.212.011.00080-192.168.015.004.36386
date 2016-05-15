@@ -1,0 +1,24 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:09:28 GMT
+Server: Right Media Ad Server/407
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Set-Cookie: fl_inst=; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: uid=lastCounted=1216705942&uid=62e9b3c8-ddc1-11dc-bc97-001cc47410e4&_hmacv=1&_salt=2120163509&_keyid=k1&_hmac=da289294926b033bbc4db93b07462281f5090432; expires=Thu, 21-Aug-2008 06:09:28 GMT
+Set-Cookie: lifb=+:^OYdB2l,+A6991[*p^,1#FX; expires=Tue, 22-Jul-2008 17:58:29 GMT
+Set-Cookie: vuday1=R[O4sN=9R>sOiJW; expires=Wed, 23-Jul-2008 00:00:00 GMT
+Set-Cookie: fl_inst=1; expires=Sun, 18-Jan-2009 06:09:28 GMT
+Set-Cookie: pv1="b!!!!%!!2n@!*XCH!!Jm$!#RuF!!Nin!0]*R!?5%!)I-X?!x$$2!!T@)!!FDS!!d]t~~~~~:<ru[:A.`f~!!1ak!!!*`!!U'@!#QRm!!NIi!$xxB!?5%!*ERU=![`s1!!H2b!!d/9~~~~~~:>48w:?2w9M.jTN!!*f[!!!*`!!U'@!#2HR!!FZ#!(R^X!!5/$*an_@!x$$2!!H2b!!O5m!!X-R~~~~~:>4@P:BH*Z~"; path=/; expires=Thu, 22-Jul-2010 06:09:28 GMT
+Set-Cookie: pc1="b!!!!#!!.'/!*XCH!!Jm$!#:sQ!!FWa!.+B8!?5%!)I-X?!x$$2!!U'J!!>k!!!X+5~~~~~:<rrf~~"; path=/; expires=Thu, 22-Jul-2010 06:09:28 GMT
+Set-Cookie: ih="b!!!!>!!]?U!!!!#:>44o!!dcA!!!!#:>47b!##Q6!!!!#:<ru_!##Q8!!!!#:<rr'!#2HR!!!!%:>4@P!#2^a!!!!#:<rtt!#2_'!!!!#:<rv6!#2_5!!!!#:<rsS!#5-H!!!!#:>4@f!#6LK!!!!#:<rqv!#:sQ!!!!#:<rr2!#:sa!!!!#:<rt3!#DTH!!!!$:>47r!#Dui!!!!$:<rtS!#GUb!!!!#:>(Z7!#I,I!!!!#:>48o!#L-u!!!!':>4AY!#NtK!!!!#:>45`!#QRm!!!!#:>48w!#RuF!!!!#:<ru[!#]gG!!!!#:<rqW!#^Ed!!!!$:<rfE!#^pJ!!!!#:>$_<!#_D#!!!!#:>4=s!#b_a!!!!%:>44S!#ey)!!!!#:>49r"; path=/; expires=Thu, 22-Jul-2010 06:09:28 GMT
+Set-Cookie: vh="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: bh="b!!!!4!!*(h!!!!#:<rei!!*fW!!!!$:>(Wc!!+^-!!!!$:>(Wc!!,WL!!!!$:>(Wc!!-?2!!!!#:<rei!!-yu!!!!#:<rqv!!.%w!!!!#:<rrg!!.+B!!!!#:<rqv!!./l!!!!$:>(Wc!!.up!!!!$:>(Wc!!.xR!!!!$:>(Wc!!/pm!!!!$:>(Wc!!0+B!!!!#:>4@f!!04b!!!!#:>4@f!!1%Q!!!!#:>4@f!!2C8!!!!#:<rr'!!3:c!!!!#:=TFP"; path=/; expires=Thu, 22-Jul-2010 06:09:28 GMT
+Set-Cookie: ia="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Tue, 22 Jul 2008 06:09:28 GMT
+Pragma: no-cache
+Content-Length: 1141
+Content-Type: text/html
+Connection: close
+
+<html><body style="margin-left: 0%; margin-right: 0%; margin-top: 0%; margin-bottom: 0%"><script type="text/javascript">if (window.rm_crex_data) {rm_crex_data.push(904055);}
+</script><IFRAME SRC="http://ad.doubleclick.net/adi/N1727.yahoo/B2567553.15;sz=160x600;click0=http://ad.yieldmanager.com/click,jgIAAFloBQB3yw0AJzADAAAARAAAAAAAAwACGAIACgI8.QMAgd8EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJh5hUgAAAAA,http%3A%2F%2Fpn1.ard.yahoo.com%2FSIG%3D15cgla83k%2FM%3D621216.12796317.13078505.12225377%2FD%3Deb_cmptr%2FS%3D97553668%3ASKY%2FY%3DEBAY_US%2FE%3Debay%3A%2FEXP%3D1216714168%2FL%3DqoRD79j8fU8jASHXQnAf7JbGRoZbDEiFeZgAAVOW%2FB%3D.lgnA9j8fc8-%2FJ%3D1216706968089212%2FA%3D5334030%2FR%3D0%2F%2A%24,http%3A%2F%2Fpn1.adserver.yahoo.com%2Fa%3Ff%3D97553668%26p%3Deb_cmptr%26c%3Dsh%26rand%3D1216706967%26pd_x%3D20%26pn%3Debay%26kw%3Dleather%2Bbackpack%2Blaptop%26l%3Dsky%26pd_id%3Dny%252bshz2prbmdj6wvny%252bsez2pra2dj6wjkykndjsapa%252bdj6x9ny%252bseq%253d%253d%26sig%3D22pv8s4xcdd2zat.e3rspw--,;ord=1216706968?" WIDTH=160 HEIGHT=600 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR='#000000'></iframe></body></html>

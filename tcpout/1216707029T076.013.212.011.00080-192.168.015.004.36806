@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 06:10:54 GMT
+Server: Right Media Ad Server/407
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Set-Cookie: fl_inst=; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: uid=lastCounted=1216705942&uid=62e9b3c8-ddc1-11dc-bc97-001cc47410e4&_hmacv=1&_salt=847723877&_keyid=k1&_hmac=5f8606245ee193ba27d27f8c56cde1f6d82eb0d2; expires=Thu, 21-Aug-2008 06:10:54 GMT
+Set-Cookie: lifb=+:^OYdB2l,+A6991[*p^,1#FX; expires=Tue, 22-Jul-2008 17:58:29 GMT
+Set-Cookie: liday1=FZTd6)^fjV@)Y[l8E*3'9ETlL@P6roKlCUuZOnGMZo`mpZ8AMzN=9R>BiB=@; expires=Wed, 23-Jul-2008 00:00:00 GMT
+Set-Cookie: vuday1=R[O4vN=9R>0M=im; expires=Wed, 23-Jul-2008 00:00:00 GMT
+Set-Cookie: fl_inst=1; expires=Sun, 18-Jan-2009 06:10:54 GMT
+Set-Cookie: pv1="b!!!!'!!2n@!*XCH!!Jm$!#RuF!!Nin!0]*R!?5%!)I-X?!x$$2!!T@)!!FDS!!d]t~~~~~:<ru[:A.`f~!!1ak!!!*`!!U'@!#QRm!!NIi!$xxB!?5%!*ERU=![`s1!!H2b!!d/9~~~~~~:>48w:?2w9M.jTN!!*f[!!!*`!!U'@!#2HR!!FZ#!(R^X!!5/$*an_@!x$$2!!H2b!!O5m!!X-R~~~~~:>4@P:BH*Z~!!09[!!!*`!!U'A!#@r[!!R_3!*q6q!?5%!*an_>![:Z-!!H2b!!jEx~~~~~~:>4Ay:>f2o!!.vL"; path=/; expires=Thu, 22-Jul-2010 06:10:54 GMT
+Set-Cookie: pc1="b!!!!#!!.'/!*XCH!!Jm$!#:sQ!!FWa!.+B8!?5%!)I-X?!x$$2!!U'J!!>k!!!X+5~~~~~:<rrf~~"; path=/; expires=Thu, 22-Jul-2010 06:10:54 GMT
+Set-Cookie: ih="b!!!!A!!]?U!!!!#:>44o!!dcA!!!!#:>47b!!ow6!!!!#:>4BZ!##Q6!!!!#:<ru_!##Q8!!!!#:<rr'!#%1#!!!!#:>4B<!#2HR!!!!%:>4@P!#2^a!!!!#:<rtt!#2_'!!!!#:<rv6!#2_5!!!!#:<rsS!#5-H!!!!#:>4@f!#6LK!!!!#:<rqv!#:sQ!!!!#:<rr2!#:sa!!!!#:<rt3!#@r[!!!!#:>4Ay!#DTH!!!!$:>47r!#Dui!!!!$:<rtS!#GUb!!!!#:>(Z7!#I,I!!!!#:>48o!#L-u!!!!':>4AY!#NtK!!!!#:>45`!#QRm!!!!#:>48w!#RuF!!!!#:<ru[!#]gG!!!!#:<rqW!#^Ed!!!!$:<rfE!#^pJ!!!!#:>$_<!#_D#!!!!#:>4=s!#b_a!!!!%:>44S!#ey)!!!!#:>49r"; path=/; expires=Thu, 22-Jul-2010 06:10:54 GMT
+Set-Cookie: vh="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: bh="b!!!!6!!*(h!!!!#:<rei!!*fW!!!!$:>(Wc!!+^-!!!!$:>(Wc!!,WL!!!!$:>(Wc!!-?2!!!!#:<rei!!-yu!!!!#:<rqv!!.%w!!!!#:<rrg!!.+B!!!!#:<rqv!!./l!!!!$:>(Wc!!.up!!!!$:>(Wc!!.xR!!!!$:>(Wc!!/pm!!!!$:>(Wc!!0+B!!!!$:>4B<!!04b!!!!$:>4B=!!0nv!!!!#:>4BZ!!1%/!!!!#:>4B<!!1%Q!!!!#:>4@f!!2C8!!!!#:<rr'!!3:c!!!!#:=TFP"; path=/; expires=Thu, 22-Jul-2010 06:10:54 GMT
+Set-Cookie: ia="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Cache-Control: no-store
+Last-Modified: Tue, 22 Jul 2008 06:10:54 GMT
+Pragma: no-cache
+Content-Length: 539
+Content-Type: text/html
+Connection: close
+
+<html><body style="margin-left: 0%; margin-right: 0%; margin-top: 0%; margin-bottom: 0%"><script type="text/javascript">if (window.rm_crex_data) {rm_crex_data.push(541639);}
+</script><IFRAME SRC="http://servedby.advertising.com/site=733079/bnum=1216707054/size=728090/tags=1/optn=1" scrolling="no" width="728" height="90" frameborder="0" marginheight="0" marginwidth="0">
+
+</IFRAME><script type="text/Javascript">document.write('<img height="1" width="1" src="http://ad.yieldmanager.com/pixel?id=94635&t=2" />');
+</script></body></html>

@@ -1,0 +1,436 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 01:53:27 GMT
+Server: Apache
+Set-Cookie: JSESSIONID=76F7C18351DB46068B825499B85BFE57; Path=/
+Set-Cookie: JSESSIONID=76F7C18351DB46068B825499B85BFE57
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: application/xml
+
+1ff8
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/media/national/ondemand/rss/style/fairgame.xsl" ?>
+<?xml-stylesheet type="text/css" href="/media/national/ondemand/rss/style/fairgame.css" ?>
+
+<!--
+Podcast
+
+A podcast is a multimedia file that is distributed by subscription (paid or unpaid) over the Internet using syndication 
+feeds, for playback on mobile devices and personal computers. Like radio, it can mean both the content and the method 
+of broadcast. The latter may also be termed podcasting. The host or author of a podcast is often called a podcaster.
+
+Though podcasters web sites may also offer direct download or streaming of their content, a podcast is distinguished from 
+other digital audio formats by its ability to be downloaded automatically using software capable of reading feed formats 
+such as RSS or Atom.
+
+http://en.wikipedia.org/wiki/Podcast
+-->
+
+
+<rss xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:g-core="http://base.google.com/ns/1.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" version="2.0">
+  <channel>
+    <title>PRI: Fair Game with Faith Salie</title>
+    <link>http://morefairgame.org</link>
+    <description>Fair Game from PRI with Faith Salie is a new satirical news and entertainment program distributed nationally on Public Radio. Hosted by Faith Salie, possibly the only Rhodes Scholar doing comedy today, Fair Game covers the important stories of the day and uses insightful humor to tease out what it all means. The show also features newsmaker and celebrity interviews, live music, and regular appearances by the country's best comedians. Think of it as a variety show for the highest common denominator.</description>
+    <language>en-us</language>
+    <copyright>Copyright 2008, PRI</copyright>
+    <pubDate>Mon, 21 Jul 2008 04:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Jul 2008 01:24:52 GMT</lastBuildDate>
+    <generator>Public Podcaster</generator>
+    <ttl>30</ttl>
+    <itunes:owner>
+      <itunes:email>mlieber@pri.org</itunes:email>
+      <itunes:name>Public Radio International</itunes:name>
+    </itunes:owner>
+    <itunes:image href="http://media.publicbroadcasting.net/fairgame/ondemand/podcast/podcastImage_2743.jpg" />
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>Fair Game, PRI, Faith Salie, matthew dowd, andy borowitz, girl talk, barbara kopple</itunes:keywords>
+    <itunes:subtitle>A new satirical news and entertainment program from PRI.</itunes:subtitle>
+    <itunes:summary>Fair Game from PRI with Faith Salie is a new satirical news and entertainment program distributed nationally on Public Radio. Hosted by Faith Salie, possibly the only Rhodes Scholar doing comedy today, Fair Game covers the important stories of the day and uses insightful humor to tease out what it all means. The show also features newsmaker and celebrity interviews, live music, and regular appearances by the country's best comedians. Think of it as a variety show for the highest common denominator.</itunes:summary>
+    <itunes:author>Public Radio International</itunes:author>
+    <image>
+      <title>PRI: Fair Game with Faith Salie</title>
+      <url>http://media.publicbroadcasting.net/fairgame/ondemand/podcast/podcastImage_2743_small.jpg</url>
+      <link>http://morefairgame.org</link>
+    </image>
+    <item>
+      <title>Psychologist Steven Pinker</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=633619&amp;podcastId=2743</link>
+      <description>Steven Pinker, a Harvard psychology professor, explains how curse words and other naughty language are part of our brain&apos;s make-up. But that&apos;s still no excuse, kids.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/633619/mp3/fairGameSegs/podcast/2743/633619.mp3" length="8223547" type="audio/mpeg" />
+      <pubDate>Mon, 21 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/633619/mp3/fairGameSegs/podcast/2743/633619.mp3</guid>
+      <itunes:duration>00:00:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>Steven Pinker, a Harvard psychology professor, explains how curse words and other naughty language are part of our brain&apos;s make-up. But that&apos;s still no excuse, kids.</itunes:subtitle>
+      <itunes:summary>Steven Pinker, a Harvard psychology professor, explains how curse words and other naughty language are part of our brain&apos;s make-up. But that&apos;s still no excuse, kids.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/633619_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/633619_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Iraqi-born Artist Wafaa Bilal</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=590271&amp;podcastId=2743</link>
+      <description>He is living in a tiny gallery space in Chicago for a month for his performance called Domestic Tension. Through his website, you can control a paint ball gun and try to hit him with pellets.  In Iraq, more than two dozen Iraqis were reported killed yesterday.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/590271/mp3/arts/podcast/2743/590271.mp3" length="5802877" type="audio/mpeg" />
+      <pubDate>Fri, 18 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/590271/mp3/arts/podcast/2743/590271.mp3</guid>
+      <itunes:duration>00:11:54</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>WAFAA BILAL, FLAT FILE GALLERY, DOMESTIC TENSION</itunes:keywords>
+      <itunes:subtitle>He is living in a tiny gallery space in Chicago for a month for his performance called Domestic Tension. Through his website, you can control a paint ball gun and try to hit him with pellets.  In Iraq, more than two dozen Iraqis were reported killed</itunes:subtitle>
+      <itunes:summary>He is living in a tiny gallery space in Chicago for a month for his performance called Domestic Tension. Through his website, you can control a paint ball gun and try to hit him with pellets.  In Iraq, more than two dozen Iraqis were reported killed yesterday.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/590271_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/590271_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Outward Bound: PTSD</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=710014&amp;podcastId=2743</link>
+      <description>Afghanistan combat veteran Kyle Stozek and New York Times reporter Conrad Mulcahy talk about post-traumatic stress disorder and a new outdoor education program that helps soldiers who suffer from it.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/710014/mp3/fairGameSegs/podcast/2743/710014.mp3" length="5753030" type="audio/mpeg" />
+      <pubDate>Thu, 17 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/710014/mp3/fairGameSegs/podcast/2743/710014.mp3</guid>
+      <itunes:duration>
+8
+00:12:02
+1ff8
+</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>AFGHANISTAN KYLE STOZEK, CONRAD MULCAHY</itunes:keywords>
+      <itunes:subtitle>Afghanistan combat veteran Kyle Stozek and New York Times reporter Conrad Mulcahy talk about post-traumatic stress disorder and a new outdoor education program that helps soldiers who suffer from it.</itunes:subtitle>
+      <itunes:summary>Afghanistan combat veteran Kyle Stozek and New York Times reporter Conrad Mulcahy talk about post-traumatic stress disorder and a new outdoor education program that helps soldiers who suffer from it.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/710014_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/710014_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Dr. Naif Al-Mutawa</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=589659&amp;podcastId=2743</link>
+      <description>He is creator of The 99, a new comic book rooted in the principles of Islam.  The 99 refers to the ninety-nine attributes of Allah: Strength, honor, wisdom... Each of these attributes is infused into a gem that, when held or worn by the right person, infuses them with that power.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/589659/mp3/fairGameSegs/podcast/2743/589659.mp3" length="6329296" type="audio/mpeg" />
+      <pubDate>Wed, 16 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/589659/mp3/fairGameSegs/podcast/2743/589659.mp3</guid>
+      <itunes:duration>00:12:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>DR. NAIF AL-MUTAWA, THE 99, TESHKEEL COMICS</itunes:keywords>
+      <itunes:subtitle>He is creator of The 99, a new comic book rooted in the principles of Islam.  The 99 refers to the ninety-nine attributes of Allah: Strength, honor, wisdom... Each of these attributes is infused into a gem that, when held or worn by the right person,</itunes:subtitle>
+      <itunes:summary>He is creator of The 99, a new comic book rooted in the principles of Islam.  The 99 refers to the ninety-nine attributes of Allah: Strength, honor, wisdom... Each of these attributes is infused into a gem that, when held or worn by the right person, infuses them with that power.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+    </item>
+    <item>
+      <title>Sharon Matola</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=681168&amp;podcastId=2743</link>
+      <description>Sharon Matola, Director of the Belize Zoo, talks to Faith about her battle to save the bird known as the scarlet macaw.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/681168/mp3/fairGameSegs/podcast/2743/681168.mp3" length="6375777" type="audio/mpeg" />
+      <pubDate>Tue, 15 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/681168/mp3/fairGameSegs/podcast/2743/681168.mp3</guid>
+      <itunes:duration>00:13:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>SHARON MATOLA, BELIZE ZOO, SCARLET MACAW</itunes:keywords>
+      <itunes:subtitle>Sharon Matola, Director of the Belize Zoo, talks to Faith about her battle to save the bird known as the scarlet macaw.</itunes:subtitle>
+      <itunes:summary>Sharon Matola, Director of the Belize Zoo, talks to Faith about her battle to save the bird known as the scarlet macaw.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/681168_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/681168_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Spider Woman Cheryl Hayashi</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=645652&amp;podcastId=2743</link>
+      <description>Spider researcher Cheryl Hayashi, who recently won a MacArthur fellowship for her work on spider silk, will tell us how our soldiers might be wearing spiderwebs in their next war.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/645652/mp3/fairGameSegs/podcast/2743/645652.mp3" length="5272332" type="audio/mpeg" />
+      <pubDate>Mon, 14 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/645652/mp3/fairGameSegs/podcast/2743/645652.mp3</guid>
+      <itunes:duration>00:11:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>CHERYL HAYASHI</itunes:keywords>
+      <itunes:subtitle>Spider researcher Cheryl Hayashi, who recently won a MacArthur fellowship for her work on spider silk, will tell us how our soldiers might be wearing spiderwebs in their next war.</itunes:subtitle>
+      <itunes:summary>Spider researcher Cheryl Hayashi, who recently won a MacArthur fellowship for her work on spider silk, will tell us how our soldiers might be wearing spiderwebs in their next war.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/645652_mediaImage.gif" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/645652_mediaImage.gif" />
+    </item>
+    <item>
+      <title>Author Tim Weiner</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=620419&amp;podcastId=2743</link>
+      <description>Yesterday the CIA declassified an internal report from 2005 describing their work against Al Qaeda. It&apos;s not a glowing review. Tim Weiner covers intelligence issues for The New York Times and talks about his new book, Legacy of Ashes: The History of the CIA.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/620419/mp3/arts/podcast/2743/620419.mp3" length="5594319" type="audio/mpeg" />
+      <pubDate>Fri, 11 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/620419/mp3/arts/podcast/2743/620419.mp3</guid>
+      <itunes:duration>00:11:28</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>TIM WEINER, LEGACY OF ASHES</itunes:keywords>
+      <itunes:subtitle>Yesterday the CIA declassified an internal report from 2005 describing their work against Al Qaeda. It&apos;s not a glowing review. Tim Weiner covers intelligence issues for The New York Times and talks about his new book, Legacy of Ashes: The History</itunes:subtitle>
+      <itunes:summary>Yesterday the CIA declassified an internal report from 2005 describing their work against Al Qaeda. It&apos;s not a glowing review. Tim Weiner covers intelligence issues for The New York Times and talks about his new book, Legacy of Ashes: The History of the CIA.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/620419_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/620419_mediaIm
+8
+age.jpg"
+1ff8
+ />
+    </item>
+    <item>
+      <title>Essayist George Saunders</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=635701&amp;podcastId=2743</link>
+      <description>Satirist and MacArthur genius George Saunders will tell us about his new book of essays, The Braindead Megaphone, which includes pieces published in The New Yorker and GQ.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/635701/mp3/fairGameSegs/podcast/2743/635701.mp3" length="4963675" type="audio/mpeg" />
+      <pubDate>Wed, 09 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/635701/mp3/fairGameSegs/podcast/2743/635701.mp3</guid>
+      <itunes:duration>00:10:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>GEORGE SAUNDERS, BRAINDEAD MEGAPHONE</itunes:keywords>
+      <itunes:subtitle>Satirist and MacArthur genius George Saunders will tell us about his new book of essays, The Braindead Megaphone, which includes pieces published in The New Yorker and GQ.</itunes:subtitle>
+      <itunes:summary>Satirist and MacArthur genius George Saunders will tell us about his new book of essays, The Braindead Megaphone, which includes pieces published in The New Yorker and GQ.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/635701_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/635701_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Ambassador John Bolton</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=658545&amp;podcastId=2743</link>
+      <description>We&apos;ll speak with former U.N. ambassador John Bolton. His new book is &quot;Surrender is Not an Option&quot; and he&apos;s after the Iranians, the North Koreans, The White House, and the State Department.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/658545/mp3/arts/podcast/2743/658545.mp3" length="6831950" type="audio/mpeg" />
+      <pubDate>Tue, 08 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/658545/mp3/arts/podcast/2743/658545.mp3</guid>
+      <itunes:duration>00:14:17</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>We&apos;ll speak with former U.N. ambassador John Bolton. His new book is &quot;Surrender is Not an Option&quot; and he&apos;s after the Iranians, the North Koreans, The White House, and the State Department.</itunes:subtitle>
+      <itunes:summary>We&apos;ll speak with former U.N. ambassador John Bolton. His new book is &quot;Surrender is Not an Option&quot; and he&apos;s after the Iranians, the North Koreans, The White House, and the State Department.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/658545_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/658545_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Actor Steve Buscemi</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=606177&amp;podcastId=2743</link>
+      <description>He made his name playing menacing creeps in indie films such as &quot;Reservoir Dogs,&quot; &quot;Fargo,&quot; and &quot;The Big Lebowski.&quot; He recently co-wrote, directed and co-starred in a film called &quot;Interview.&quot;</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/606177/mp3/arts/podcast/2743/606177.mp3" length="7510673" type="audio/mpeg" />
+      <pubDate>Mon, 07 Jul 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/606177/mp3/arts/podcast/2743/606177.mp3</guid>
+      <itunes:duration>00:15:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>STEVE BUSCEMI</itunes:keywords>
+      <itunes:subtitle>He made his name playing menacing creeps in indie films such as &quot;Reservoir Dogs,&quot; &quot;Fargo,&quot; and &quot;The Big Lebowski.&quot; He recently co-wrote, directed and co-starred in a film called &quot;Interview.&quot;</itunes:subtitle>
+      <itunes:summary>He made his name playing menacing creeps in indie films such as &quot;Reservoir Dogs,&quot; &quot;Fargo,&quot; and &quot;The Big Lebowski.&quot; He recently co-wrote, directed and co-starred in a film called &quot;Interview.&quot;</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/606177_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/606177_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Garrison Keillor</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=641937&amp;podcastId=2743</link>
+      <description>Garrison Keillor, famed yarn-spinner and host of the long-running public radio show A Prairie Home Companion, talks about his latest Lake Wobegon novel, titled Pontoon.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/641937/mp3/arts/podcast/2743/641937.mp3" length="5545893" type="audio/mpeg" />
+      <pubDate>Mon, 30 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/641937/mp3/arts/podcast/2743/641937.mp3</guid>
+      <itunes:duration>00:11:36</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>LAKE WOEBEGON</itunes:keywords>
+      <itunes:subtitle>Garrison Keillor, famed yarn-spinner and host of the long-running public radio show A Prairie Home Companion, talks about his latest Lake Wobegon novel, titled Pontoon.</itunes:subtitle>
+      <itunes:summary>Garrison Keillor, famed yarn-spinner and host of the long-running public radio show A Prairie Home Companion, talks about his latest Lake Wobegon novel, titled Pontoon.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/641937_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/641937_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Jack Handey</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=694042&amp;podcastId=2743</link>
+      <description>Faith talks to writer Jack Handey about his new book of essays,</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/694042/mp3/fairGameSegs/podcast/2743/694042.mp3" length="6696358" type="audio/mpeg" />
+      <pubDate>Fri, 27 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/694042/mp3/fairGameSegs/podcast/2743/694042.mp3</guid>
+      <itunes:duration>00:14:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>JACK HANDEY</itunes:keywords>
+      <itunes:
+8
+subtitle
+1ff8
+>Faith talks to writer Jack Handey about his new book of essays,</itunes:subtitle>
+      <itunes:summary>Faith talks to writer Jack Handey about his new book of essays,</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/694042_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/694042_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Slash</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=662859&amp;podcastId=2743</link>
+      <description>Legendary rock guitarist Slash discusses his days with Guns N&apos; Roses, his childhood, and his new band, Velvet Revolver. He&apos;s released a memoir, just in time for the holidays - but don&apos;t give it to grandma.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/662859/mp3/fairGameSegs/podcast/2743/662859.mp3" length="6674792" type="audio/mpeg" />
+      <pubDate>Thu, 26 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/662859/mp3/fairGameSegs/podcast/2743/662859.mp3</guid>
+      <itunes:duration>00:13:58</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>Legendary rock guitarist Slash discusses his days with Guns N&apos; Roses, his childhood, and his new band, Velvet Revolver. He&apos;s released a memoir, just in time for the holidays - but don&apos;t give it to grandma.</itunes:subtitle>
+      <itunes:summary>Legendary rock guitarist Slash discusses his days with Guns N&apos; Roses, his childhood, and his new band, Velvet Revolver. He&apos;s released a memoir, just in time for the holidays - but don&apos;t give it to grandma.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/662859_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/662859_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Director Kevin Smith</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=651741&amp;podcastId=2743</link>
+      <description>Millions know him as the slacker behind the movie &quot;Clerks,&quot; but Kevin Smith sure is busy now. This fall he&apos;s directing some of TV&apos;s hottest shows, and he&apos;s publishing his diaries.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/651741/mp3/fairGameSegs/podcast/2743/651741.mp3" length="5101808" type="audio/mpeg" />
+      <pubDate>Wed, 25 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/651741/mp3/fairGameSegs/podcast/2743/651741.mp3</guid>
+      <itunes:duration>00:10:29</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>Millions know him as the slacker behind the movie &quot;Clerks,&quot; but Kevin Smith sure is busy now. This fall he&apos;s directing some of TV&apos;s hottest shows, and he&apos;s publishing his diaries.</itunes:subtitle>
+      <itunes:summary>Millions know him as the slacker behind the movie &quot;Clerks,&quot; but Kevin Smith sure is busy now. This fall he&apos;s directing some of TV&apos;s hottest shows, and he&apos;s publishing his diaries.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/651741_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/651741_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Director Jonathan Demme</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=658538&amp;podcastId=2743</link>
+      <description>Jonathan Demme, the Oscar-winning director of The Silence of the Lambs, talks about his new documentary Jimmy Carter Man from Plains.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/658538/mp3/fairGameSegs/podcast/2743/658538.mp3" length="5741907" type="audio/mpeg" />
+      <pubDate>Tue, 24 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/658538/mp3/fairGameSegs/podcast/2743/658538.mp3</guid>
+      <itunes:duration>00:12:01</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>JONATHAN DEMME, MAN FROM PLAINS</itunes:keywords>
+      <itunes:subtitle>Jonathan Demme, the Oscar-winning director of The Silence of the Lambs, talks about his new documentary Jimmy Carter Man from Plains.</itunes:subtitle>
+      <itunes:summary>Jonathan Demme, the Oscar-winning director of The Silence of the Lambs, talks about his new documentary Jimmy Carter Man from Plains.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/658538_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/658538_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>James Lipton</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=656429&amp;podcastId=2743</link>
+      <description>James Lipton has led a colorful life that led him to heading the Actors Studio MFA program at Pace University, and from there, worldwide fame as the host of Bravo&apos;s Inside the Actors Studio.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/656429/mp3/fairGameSegs/podcast/2743/656429.mp3" length="5274003" type="audio/mpeg" />
+      <pubDate>Mon, 23 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/656429/mp3/fairGameSegs/podcast/2743/656429.mp3</guid>
+      <itunes:duration>00:11:02</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>JAMES LIPTON</itunes:keywords>
+      <itunes:subtitle>James Lipton has led a colorful life that led him to heading the Actors Studio MFA program at Pace University, and from there, worldwide fame as the host of Bravo&apos;s Inside the Actors Studio.</itunes:subtitle>
+      <itunes:summary>James Lipton has led a colorful life that led him to heading the Actors Studio MFA program at Pace University, and from there, worldwide fame as the host of Bravo&apos;s Inside the Actors Studio.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/656429_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/656429_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Actor Lauren Graham</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=668357&amp;podcastId=2743</link>
+      <description>Lauren Graham, of Gilmore Girls fame, talks to Faith about her role in the new indie film &quot;Birds of America.&quot;</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/668357/mp3/fairGameSegs/podcast
+8
+/2743/66
+172b
+8357.mp3" length="6592282" type="audio/mpeg" />
+      <pubDate>Fri, 20 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/668357/mp3/fairGameSegs/podcast/2743/668357.mp3</guid>
+      <itunes:duration>00:13:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>LAUREN GRAHAM, BIRDS OF AMERICA</itunes:keywords>
+      <itunes:subtitle>Lauren Graham, of Gilmore Girls fame, talks to Faith about her role in the new indie film &quot;Birds of America.&quot;</itunes:subtitle>
+      <itunes:summary>Lauren Graham, of Gilmore Girls fame, talks to Faith about her role in the new indie film &quot;Birds of America.&quot;</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/668357_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/668357_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Norah Jones</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=697259&amp;podcastId=2743</link>
+      <description>Faith talks to singer Norah Jones about her acting debut in the Wong Kar Wai film &quot;My Blueberry Nights.&quot;</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/697259/mp3/fairGameSegs/podcast/2743/697259.mp3" length="6344648" type="audio/mpeg" />
+      <pubDate>Thu, 19 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/697259/mp3/fairGameSegs/podcast/2743/697259.mp3</guid>
+      <itunes:duration>00:13:16</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>MY BLUEBERRY NIGHTS</itunes:keywords>
+      <itunes:subtitle>Faith talks to singer Norah Jones about her acting debut in the Wong Kar Wai film &quot;My Blueberry Nights.&quot;</itunes:subtitle>
+      <itunes:summary>Faith talks to singer Norah Jones about her acting debut in the Wong Kar Wai film &quot;My Blueberry Nights.&quot;</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/697259_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/697259_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Actor Anthony Hopkins</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=643423&amp;podcastId=2743</link>
+      <description>He might be best known as Dr. Hannibal Lector, but his friends call him Tony. Sir Anthony Hopkins talks about his new movie, Slipstream.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/643423/mp3/fairGameSegs/podcast/2743/643423.mp3" length="6838432" type="audio/mpeg" />
+      <pubDate>Wed, 18 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/643423/mp3/fairGameSegs/podcast/2743/643423.mp3</guid>
+      <itunes:duration>00:14:18</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>HANNIBAL LECTOR</itunes:keywords>
+      <itunes:subtitle>He might be best known as Dr. Hannibal Lector, but his friends call him Tony. Sir Anthony Hopkins talks about his new movie, Slipstream.</itunes:subtitle>
+      <itunes:summary>He might be best known as Dr. Hannibal Lector, but his friends call him Tony. Sir Anthony Hopkins talks about his new movie, Slipstream.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/643423_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/643423_mediaImage.jpg" />
+    </item>
+    <item>
+      <title>Robert Reich</title>
+      <link>http://www.publicbroadcasting.net/fairgame/.jukebox?action=viewMedia&amp;mediaId=710564&amp;podcastId=2743</link>
+      <description>Faith talks to Robert Reich, former Secretary of Labor and now Professor of Public Policy, about the state of the economy.</description>
+      <source url="http://morefairgame.org">fairgame</source>
+      <enclosure url="http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/710564/mp3/fairGameSegs/podcast/2743/710564.mp3" length="9020621" type="audio/mpeg" />
+      <pubDate>Tue, 17 Jun 2008 04:00:00 GMT</pubDate>
+      <author>mlieber@pri.org</author>
+      <guid isPermaLink="false">http://www.publicbroadcasting.net/fairgame/.jukebox/media/fairgame/710564/mp3/fairGameSegs/podcast/2743/710564.mp3</guid>
+      <itunes:duration>00:18:52</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords />
+      <itunes:subtitle>Faith talks to Robert Reich, former Secretary of Labor and now Professor of Public Policy, about the state of the economy.</itunes:subtitle>
+      <itunes:summary>Faith talks to Robert Reich, former Secretary of Labor and now Professor of Public Policy, about the state of the economy.</itunes:summary>
+      <itunes:author>Public Radio International</itunes:author>
+      <media:thumbnail url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/710564_mediaImage.jpg" />
+      <media:content url="http://media.publicbroadcasting.net/fairgame/ondemand/mediaImages/710564_mediaImage.jpg" />
+    </item>
+  </channel>
+</rss>
+
+
+
+0
+

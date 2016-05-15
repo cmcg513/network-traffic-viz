@@ -1,0 +1,18 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 03:44:01 GMT
+Server: Apache/2.2.3 (Red Hat)
+Location: http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml
+Content-Length: 341
+Keep-Alive: timeout=20, max=368
+Connection: Keep-Alive
+Content-Type: text/html; charset=iso-8859-1
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>302 Found</title>
+</head><body>
+<h1>Found</h1>
+<p>The document has moved <a href="http://newsrss.bbc.co.uk/rss/newsonline_world_edition/front_page/rss.xml">here</a>.</p>
+<hr>
+<address>Apache/2.2.3 (Red Hat) Server at fxfeeds.mozilla.com Port 80</address>
+</body></html>

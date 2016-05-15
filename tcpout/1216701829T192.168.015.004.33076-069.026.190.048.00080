@@ -1,0 +1,30 @@
+GET /us.yimg.com/i/identity/nopic_48.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://kids.yahoo.com/parents/blog/1001/141--Is+'The+Dark+Knight'+for+Kids?
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: BX=37nj6vp2l27d1&b=3&s=f7
+Connection: keep-alive
+Host: us.i1.yimg.com
+
+GET /us.yimg.com/i/us/sch/gr2/shine_btm.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://kids.yahoo.com/parents/blog/1001/141--Is+'The+Dark+Knight'+for+Kids?
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: BX=37nj6vp2l27d1&b=3&s=f7
+Connection: keep-alive
+Host: us.i1.yimg.com
+
+GET /us.yimg.com/p/i/bcst/yp/ygmovies/2284/67920399.jpg HTTP/1.1
+Referer: http://kids.yahoo.com/parents/blog/1001/141--Is+'The+Dark+Knight'+for+Kids?
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: BX=37nj6vp2l27d1&b=3&s=f7
+Connection: keep-alive
+Host: us.i1.yimg.com
+

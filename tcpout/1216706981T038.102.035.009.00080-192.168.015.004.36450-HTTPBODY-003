@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<windowSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <topText>Auctiva Store: GreenWaveClothing.Com</topText>
+  <bottomText>Click here to browse all my eBay items!</bottomText>
+  <emptyWindowText>My Store Window is currently updating item info</emptyWindowText>
+  <auctionCloseMessage />
+  <buttonLink>http://www.auctiva.com/stores/viewstore.aspx?id=352216</buttonLink>
+  <itemLink>http://cgi.ebay.com/ws/eBayISAPI.dll?ViewItem&amp;item=</itemLink>
+  <time>7/21/2008 11:11:45 PM</time>
+  <cacheExpiration>7/22/2008 1:11:45 AM</cacheExpiration>
+  <adultCategories>4952,4793,1604,882,1605,4954,4955,4956,379,4957,4796,4797,4798,322,4799,4794,7322,4801,4802,4803,1273,4804,30119,1274,4811,4812,4815,4813,613,4818,4816,4817,4814,320,4821,4822,4827,4824,4825,323,4826,4823,558,923,4833,1606,4829,4830,4831,321,4832</adultCategories>
+  <maxItems>16</maxItems>
+  <textModified>true</textModified>
+  <tokenValid>true</tokenValid>
+  <itemData>
+    <item>
+      <itemNumber>230272271607</itemNumber>
+      <linkText>BLACK HOBO UNDER THE CANOPY LEATHER BAG BACK PACK PURSE</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/3/5/2/2/1/6/sc/230272271607.jpg</imageURL>
+      <endTime>7/23/2008 6:38:53 PM</endTime>
+      <curPrice>29.95</curPrice>
+      <buyNow>false</buyNow>
+      <buyNowPrice />
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+    <item>
+      <itemNumber>230272271621</itemNumber>
+      <linkText>BROWN  HOBO UNDER THE CANOPY LEATHER BAG BACK PACK PU</linkText>
+      <imageURL>http://scimg.auctiva.com/imgsc/3/5/2/2/1/6/sc/230272271621.jpg</imageURL>
+      <endTime>7/23/2008 6:38:55 PM</endTime>
+      <curPrice>29.95</curPrice>
+      <buyNow>true</buyNow>
+      <buyNowPrice>39.95</buyNowPrice>
+      <adult>False</adult>
+      <category>0</category>
+      <eBaySiteID>63852</eBaySiteID>
+    </item>
+  </itemData>
+</windowSettings>

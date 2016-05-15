@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+	<allow-access-from domain="*.ebay.com" secure="false"/>
+	<allow-access-from domain="*.ebay.au" secure="false"/>
+	<allow-access-from domain="*.ebay.at" secure="false"/>
+	<allow-access-from domain="*.ebay.be" secure="false"/>
+	<allow-access-from domain="*.ebay.ca" secure="false"/>
+	<allow-access-from domain="*.ebay.com.cn" secure="false"/>
+	<allow-access-from domain="*.ebay.fr" secure="false"/>
+	<allow-access-from domain="*.ebay.de" secure="false"/>
+	<allow-access-from domain="*.ebay.com.hk" secure="false"/>
+	<allow-access-from domain="*.ebay.in" secure="false"/>
+	<allow-access-from domain="*.ebay.ie" secure="false"/>
+	<allow-access-from domain="*.ebay.it" secure="false"/>
+	<allow-access-from domain="*.ebay.com.my" secure="false"/>
+	<allow-access-from domain="*.ebay.nl" secure="false"/>
+	<allow-access-from domain="*.ebay.nz" secure="false"/>
+	<allow-access-from domain="*.ebay.ph" secure="false"/>
+	<allow-access-from domain="*.ebay.pl" secure="false"/>
+	<allow-access-from domain="*.ebay.sg" secure="false"/>
+	<allow-access-from domain="*.ebay.es" secure="false"/>
+	<allow-access-from domain="*.ebay.ch" secure="false"/>
+	<allow-access-from domain="*.ebay.co.uk" secure="false"/>
+	<allow-access-from domain="*.ebaystatic.com" secure="false"/>
+	<allow-access-from domain="*.verve8media.com" secure="false"/>
+	<allow-access-from domain="*.westernfreight.com" secure="false"/>
+</cross-domain-policy>

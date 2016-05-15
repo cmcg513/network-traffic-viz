@@ -1,0 +1,11 @@
+GET /bag.xml?ix=2&dsid=211964837 HTTP/1.1
+X-Apple-Tz: -25200
+Cookie: s_vi=[CS]v1|40070FEB-8191CED8[CE]; NSC_gjobodf-qpe10-mc=44c7273f2975
+X-Apple-Store-Front: 143441
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: FD1E17D1-A1A576C4F240149181E35DD6A3FAEA09
+Accept-Encoding: gzip
+Connection: close
+Host: phobos.apple.com
+

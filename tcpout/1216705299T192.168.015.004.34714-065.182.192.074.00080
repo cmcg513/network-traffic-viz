@@ -1,0 +1,13 @@
+GET /inc/threecolumnlayout/getNearbyNeighborhoods.cfm?lat=38.58136&long=-121.493042&parentPage=/Attractions.cfm HTTP/1.1
+Host: www.hellosacramento.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/javascript, text/html, application/xml, text/xml, */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+X-Requested-With: XMLHttpRequest
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: LOGGEDIN=False; COOKIECHECK=1; HelloSacramento.com_1=Z; __utma=244430620.1789644574.1216705321.1216705321.1216705321.1; __utmb=244430620.2.10.1216705321; __utmc=244430620; __utmz=244430620.1216705321.1.1.utmccn=(organic)|utmcsr=google|utmctr=sacramento+tourist|utmcmd=organic; __utmv=244430620.RealDomain%3Awww.hellosacramento.com
+

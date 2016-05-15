@@ -1,0 +1,42 @@
+/*       Source:  Local Cache                                                                 */
+/*     Location:  rsrc:56012:/html/css/info.css                                               */
+/*      Machine:  10.16.140.101                                                               */
+/*    Generated:  July 21st 2008 8:53:34 PM PDT                                               */
+/*    HTTP Host:  static.ak.fbcdn.net                                                         */
+
+.home_main_item h5{border-bottom:solid 1px #D8DFEA;margin:0px;padding:0px 0px 2px;font-size:11px;}
+.infocontent{margin:10px 20px;}
+.halfwidth{margin:10px 20px;width:270px;float:left;}
+.halfwidth p{line-height:16px;margin:10px 0px;padding:0px;}
+.halfwidth table{margin:10px 0px;padding:0px;width:270px;}
+.halfwidth table td{padding:2px 0px;}
+.halfwidth table .title{color:grey;}
+.fullwidth{margin:20px;}
+.home_main_item h4{border-bottom:solid 1px #D8DFEA;margin:0px;padding:0px 0px 2px;font-size:13px;}
+.halfwidth{margin:10px 20px;width:270px;float:left;display:inline;}
+.halfwidth p{line-height:16px;margin:10px 0px;padding:0px;}
+.halfwidth table{margin:10px 0px;padding:0px;width:270px;}
+.halfwidth table td{padding:2px 0px;}
+.halfwidth table .title{color:#666;}
+.fullwidth{margin:20px;}
+* html .aboutleft{margin:0;padding:0;display:inline;}
+* html .aboutright{f\loat:right;margin:0;c\lear:both;}
+#newscoverage h5{margin:10px 0px 5px;font-weight:normal;font-size:11px;}
+#newscoverage a{line-height:16px;}
+#faqindex{line-height:16px;margin-bottom:-15px;padding:15px 20px 0px;}
+#faqindex h4{margin:10px 0px 5px;}
+#faqanswers{line-height:16px;padding:10px 20px 10px;}
+#faqanswers h4{display:inline;}
+#faqanswers p{padding-right:180px;}
+.parents#privacy_settings{padding:0px 20px 0px 5px;display:block;}
+.parents#privacy_settings img{padding:7px 0 0 0;}
+.parents#privacy_settings .caption{padding:0 0 8px 5px;font-size:10px;line-height:11px;}
+.about #content{padding:0 20px 20px 20px;}
+.about #tabs{margin:0 0 20px 0;padding-top:20px;}
+.about .leftcolumn{float:left;padding-right:20px;width:283px;}
+.about .rightcolumn{float:left;width:283px;}
+.halfwidth{margin:0;float:none;}
+#suggestions_form .clearfix{padding-bottom:10px;}
+#suggestions_form label{display:block;width:100px;float:left;padding:4px 10px;text-align:left;}
+#suggestions_form textarea{height:100px;width:370px;float:left;}
+#suggestions_form .inputtext{width:370px;float:left;}

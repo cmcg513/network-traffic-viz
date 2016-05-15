@@ -1,0 +1,13 @@
+GET /WebObjects/MZStore.woa/wa/com.apple.jingle.appserver.MZDirectAction/fontStyles HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/storeFront
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 0A9B1D81-C33865CAC50E85A55E1725EC9DBDAA0F
+If-Modified-Since: Tue, 22 Jul 2008 06:10:17 GMT
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

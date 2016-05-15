@@ -1,0 +1,337 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 01:59:37 GMT
+Server: Apache
+Cache-Control: no-cache
+Pragma: no-cache
+Vary: Accept-Encoding
+Transfer-Encoding: chunked
+Content-Type: text/html;charset=ISO-8859-1
+
+2066
+
+
+
+
+
+
+
+
+
+<HTML>
+
+<HEAD>
+
+
+
+
+
+<TITLE>Pacific Grove Weather Forecast and Conditions California  (93950)</TITLE>
+
+
+<script type="text/javascript">var ts_pagename="/outlook/travel/businesstraveler/local";var ts_adCategory="vertical";var ts_adChannel="businesstravel";var ts_adFamily="travel";var ts_adSubchannel="";var ts_contentType="geo";var ts_detail="";var ts_level1="LOCALWX";var ts_level2="travel";var ts_level3="businesstraveler";var ts_level4="local";var ts_level5="";var ts_level6="";
+var omn_locid="93950";var omn_locytpe="4";var omn_locname="Pacific_Grove";var omn_cityName="Pacific_Grove";var omn_locstate="CA";var omn_zipcode="93950";var omn_loccountry="US";var omn_dmaCode="828";
+</script>
+<META name="Description" CONTENT="Pacific Grove weather forecast and weather conditions for 93950.  Today&#39;s Pacific Grove California weather plus a 36 hour forecast and Doppler radar from weather.com.">
+<META name="Keywords" CONTENT="Pacific Grove weather, Pacific Grove weather forecast, Pacific Grove weather conditions, Pacific Grove California weather ">
+
+
+<!-- MJX config controlled by pif_btrav_36hr_short -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+OAS_MJX_on = true; // when true, this allows the MJX ad request to be made
+OAS_spoof = '/p/f/r/p/5day/us/ca/828/pacific_grove/93950.';
+OAS_listpos = 'PageCounter,HeaderSpon,WxSpon,PageSpon,PageSpon2,PdSearch,PageSpon3,PageSpon4,PList1,PList2,PList3,PList4,PList5,PList6,Hidden1,Hidden2';
+OAS_query = 'context=trvl_btrav_36hr&pdsrch=300x170&temp=59&uv=0&humid=72&dew=50&wind=8&cond=cloud_smoke&templ1=53&temph2=66&templ2=54&temph3=70&templ3=56&';
+CM_tag = 'trvl_btrav_pif';
+// -->
+</SCRIPT>
+
+
+<!-- externals version 5.28.2208 @ 6:25 PM modified by JME -->
+<script type="text/javascript">
+var css='style_sheet.css?01272008';if(typeof(pageType)!="undefined"&&pageType=="920"){css="global.css?01272008";}
+if(typeof(usingGrids)!="undefined"&&usingGrids=="yes"){css="global_grids.css?01272008";}
+document.write('<LI'+'NK REL="style'+'sheet" TYPE="text/css"  HREF="http://c.imwx.com/web/common/header/stylesheet/'+css+'">');
+</script>
+
+<!--[if IE 6]>
+<style type="text/css">
+img.transparent{behavior: url(/common/scripts/pngTransparent.htc);}
+</style>
+<![endif]-->
+
+<LINK REL="alternate" TYPE="application/rss+xml" TITLE="The Weather Channel:  National Weather Outlook [RSS]"  HREF="http://www.weather.com/rss/national/rss_nwf_rss.xml">
+<LINK REL="alternate" TYPE="application/rss+xml" TITLE="The Weather Channel Blog [RSS]" HREF="http://blogs.weather.com/blog/weather/index.xml?from=autodiscovery">
+<META HTTP-EQUIV="MSThemeCompatible" Content="Yes">
+<meta http-equiv="imagetoolbar" content="no">
+<script type="text/javascript">
+<!--
+isMinNS4=(document.layers)?1:0;isMinIE4=(document.all)?1:0;isMinIE5=(document.getElementById&&document.all)?1:0;isNS6=(document.getElementById&&!document.all)?1:0;isMac=(navigator.platform.match(/^Mac/))?1:0;isWin=(navigator.platform.match(/^Win/))?1:0;isLinux=(navigator.platform.match(/^Linux/))?1:0;
+
+var popup;var dateNow=new Date();var haton=0;
+
+function initialize_ad_array(adS)
+{
+  adS['uk.weather.com'] = new Array('uk.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['br.weather.com'] = new Array('br.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['fr.weather.com'] = new Array('fr.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['de.weather.com'] = new Array('de.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['espanol.weather.com'] = new Array('espanol.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['desktop3.weather.com'] = new Array('desktop3.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['desktop.weather.com'] = new Array('desktop.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['adstest.weather.com'] = new Array('adstest.weather.com','http://adstest.weather.com/RealMedia/a'+'ds/');
+  adS['photo.weather.com'] = new Array('www.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['registration.weather.com'] = new Array('registration.weather.com','https://registration.weather.com/RealMedia/a'+'ds/');
+  adS['desktopfw.weather.com'] = new Array('desktopfw.weather.com','http://www.weather.com/RealMedia/a'+'ds/');
+  adS['adstest.forgetaway.weather.com'] = new Array('adstest.weather.com','http://adstest.weather.com/RealMedia/a'+'ds/');
+  adS['adstest.climate.weather.com'] = new Array('adstest.weather.com','http://adstest.weather.com/RealMedia/a'+'ds/');
+  adS['adstest.epic.weather.com'] = new Array('adstest.weather.com','http://adstest.weather.com/RealMedia/a'+'ds/');
+}
+// -->
+</script>
+<script type="text/javascript" src="http://j.imwx.com/global/common/elements/javascript/ext-divtools.js?01272008" ></script>
+<script type="text/javascript" src="http://j.imwx.com/global/common/elements/javascript/triggerParams-stdLauncher.js" ></script>
+<script type="text/javascript" src="/common/severe/modules/siteconfig.js?08182007"></script><script type="text/javascript">
+
+<!--
+
+// <!--#if expr="" -->
+var remoteAddr="172.16.118.30";
+// <!--#endif -->
+// 
+
+var adTest=GetCookie("oas_host_cookie");
+
+function regenerate2(){return;}
+
+function initialize_dom_severe_scroll(){return;}
+
+function onPageStart(){regenerate2();if(isMinNS4&&document.images["holdspace"]){thisX=document.images["holdspace"].x;thisY=document.images["holdspace"].y;thisElement=makeObjectNS4();}
+if(document.getElementById)initialize_dom_severe_scroll();}
+
+window.onload = onPageStart;
+
+var adS=new Array();
+initialize_ad_array(adS);
+
+OAS_url ='http://www.weather.com/RealMedia/a'+'ds/';
+OAS_host = window.location.hostname;
+
+if (adS[OAS_host]){OAS_url=adS[OAS_host][1];OAS_host = adS[OAS_host][0];
+}else{OAS_host='www.weather.com';}
+
+// special ads test code
+if (adTest)
+{
+    if ((remoteAddr.indexOf("10.") == 0)||
+        (remoteAddr.indexOf("169.254.") == 0)||
+        (remoteAddr.indexOf("192.168.") == 0)||
+        (remoteAddr.indexOf("216.133.140.1") == 0)||
+		(remoteAddr.indexOf("216.133.140.2") == 0))
+       {
+	 OAS_host=adTest;
+       }
+  }
+
+OAS_target="_top";OAS_version=10;OAS_rn='001234567890';OAS_rns='1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring(2,11);
+function OAS_NORMAL(pos) {
+if (OAS_MJX_on){
+  document.write('<A HREF="' + OAS_url + 'click_nx.a'+'ds/nx.weather.com/noads/1' + OAS_rns + '@' + pos + '?keywords=no" TARGET=' + OAS_target + '>');
+  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.a'+'ds/nx.weather.com/noads/1' + OAS_rns + '@' + pos + '?keywords=no" BORDER=0><\/A>'); }
+}
+function OAS_RICH(pos) {OAS_NORMAL(pos);}
+
+var queryString=new Object;function parseParameter(){var temp_query=new RegExp('^[^\\?]+\\?(.*)$');if(!temp_query.test(location))return false;var array=temp_query.exec(location);queryString.QUERY_STRING=array[1];var params=queryString.QUERY_STRING.split(/&/);for(var i=0;i<params.length;i++){var keys=params[i].split(/=/);queryString[keys[0]]=unescape(keys[1]);}}
+
+function paramValue(key){if(key==null){alert("param() function has been used incorrectly.\nUSAGE: param(key)");return false;}
+return queryString[key];}
+	parseParameter();
+
+if(typeof(OAS_query)=='undefined'){}else{var partnerCookie=GetCookie("partner");if(partnerCookie == 'google') {if(GetCookie("pCounter")!= 1) {SetCookie ("pCounter", "1", "", "/", ".weather.com");}}var idType=searchTermType();var fromParam=paramValue('from');var dwcobrand=paramValue('dwcobrand');var byear=getUserPreferences("13");var age=0;var gender=getUserPreferences("14");if(byear.length>0&&gender.length>0){var oq=OAS_query;var now=new Date();var thisYear=now.getFullYear();age=thisYear-Number(byear);if(oq==""){oq="age="+age+"&gender="+gender.toLowerCase();}else{oq=oq+"&age="+age+"&gender="+gender.toLowerCase();}if(partnerCookie!=''){oq=oq+"&cobrand="+partnerCookie;}if(partnerCookie==''&&dwcobrand!='undefined'){oq=oq+"&cobrand="+dwcobrand;}if(idType!=''){oq=oq+"&idtype="+idType;}if(fromParam == 'homedepot'){oq=oq+"&vanity=homedepot";}if(gnSiteMode=='severe'){oq=oq+"&mode=severe"}else if(gnSiteMode=='alert'){oq=oq+"&mode=alert"}else{oq=oq+"&mode=normal"}var gotFV=GetCookie("fv");if(gotFV.length > 0){currentCount = parseInt(gotFV);if(currentCount==-1){
+286d
+}else{viewNumber = currentCount + 1;if(viewNumber > 3)viewNumber = -1;SetCookie ("fv", viewNumber,"", "/", ".weather.com");}}else{SetCookie ("fv", 1,"", "/", ".weather.com");}var gotFV = GetCookie("fv");
+if(gotFV.length>0){oq=oq+"&vw="+gotFV;}OAS_query=oq;}}
+
+function updAdsTwoOASQuery() {if(typeof(OAS_query)=='undefined'){}else{var partnerCookie=GetCookie("partner");if(partnerCookie == 'google') {if(GetCookie("pCounter")!= 1) {SetCookie ("pCounter", "1", "", "/", ".weather.com");}}var idType=searchTermType();var fromParam=paramValue('from');var dwcobrand=paramValue('dwcobrand');var byear=getUserPreferences("13");var age=0;var gender=getUserPreferences("14");if(byear.length>0&&gender.length>0){var oq=OAS_query;var now=new Date();var thisYear=now.getFullYear();age=thisYear-Number(byear);if(oq==""){oq="age="+age+"&gender="+gender.toLowerCase();}else{oq=oq+"&age="+age+"&gender="+gender.toLowerCase();}if(partnerCookie!=''){oq=oq+"&cobrand="+partnerCookie;}if(partnerCookie==''&&dwcobrand!='undefined'){oq=oq+"&cobrand="+dwcobrand;}
+if(idType!=''){oq=oq+"&idtype="+idType;}if(fromParam == 'homedepot'){oq=oq+"&vanity=homedepot";}if(gnSiteMode=='severe'){oq=oq+"&mode=severe"}else if(gnSiteMode=='alert'){oq=oq+"&mode=alert"}else{oq=oq+"&mode=normal"}var gotFV=GetCookie("fv");if(gotFV.length > 0){currentCount = parseInt(gotFV);if(currentCount==-1){}else{viewNumber = currentCount + 1;if(viewNumber > 3)viewNumber = -1;SetCookie ("fv", viewNumber,"", "/", ".weather.com");}}else{SetCookie ("fv", 1,"", "/", ".weather.com");}
+var gotFV = GetCookie("fv");if(gotFV.length>0){var findFv= oq.indexOf("vw=");if (findFv ==-1){oq=oq+"&vw="+gotFV;}else{oq=oq.substring(0,findFv) + "vw=" + gotFV;}}OAS_query=oq;}}}
+	
+var vsearch=paramValue('search');var upcookie=GetCookie("UserPreferences");if(upcookie>0&&vsearch!="search"){updateCookieExpDate("UserPreferences");updateCookieExpDate("RMID");}
+
+var customization_pathname = (window.location.pathname.indexOf("/weather/my")>=0)?1:0;
+if(customization_pathname==0){var myPrefsCookie=GetCookie("MyPrefs");if(myPrefsCookie.length>1){updateCookieUnescape("MyPrefs");}}
+
+//-->
+</script>
+<SCRIPT type="text/javascript">
+<!--
+OAS_version = 11;
+if (!isMinIE4 && !isMinIE5 && !isNS6 && !isMinNS4) OAS_version = 10;
+if (OAS_MJX_on){
+if (OAS_version >= 11) document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.a'+'ds/' + OAS_host + OAS_spoof + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
+}
+//-->
+</script>
+<SCRIPT type="text/javascript">
+<!--
+function OAS_AD(pos) {(OAS_version >= 11) ? OAS_RICH(pos) : OAS_NORMAL(pos);}
+//-->
+</script>
+<script type="text/javascript">
+
+var query = new Object;
+function parse(){var pat_query=new RegExp('^[^\\?]+\\?(.*)$');if(!pat_query.test(location))return false;var array=pat_query.exec(location);query.QUERY_STRING=array[1];var params=query.QUERY_STRING.split(/&/);for(var i=0;i<params.length;i++){var keys=params[i].split(/=/);query[keys[0]]=unescape(keys[1]);}}
+function param(key){if(key==null){alert("param() function has been used incorrectly.\nUSAGE: param(key)");return false;}
+return query[key];}
+parse();
+</script>
+<script type="text/javascript">
+var pageName = new String(window.location.pathname);
+</script>
+<script type="text/javascript">var mx_hash=new
+ Object();mx_hash["cobrand"]=partnerCookie;if(typeof(ts_pagename)!='undefined'){mx_hash["pagename"]=ts_pagename;}else{mx_hash["pagename"]="";}if(typeof(ts_level1)!='undefined'){mx_hash["level1"]=ts_level1;}else{mx_hash["level1"]="UNCATEGORIZED";}if(typeof(ts_level2)!='undefined'){mx_hash["level2"]=ts_level2;}else{mx_hash["level2"]="";}if(typeof(ts_level3)!='undefined'){mx_hash["level3"]=ts_level3;}else{mx_hash["level3"]="";}if(typeof(ts_level4)!='undefined'){mx_hash["level4"]=ts_level4;}else{mx_hash["level4"]="";}if(typeof(ts_level5)!='undefined'){mx_hash["level5"]=ts_level5;}else{mx_hash["level5"]="";}if(typeof(ts_level6)!='undefined'){mx_hash["level6"]=ts_level6;}else{mx_hash["level6"]="";}if(typeof(ts_detail)!='undefined'){mx_hash["detail"]=ts_detail;}else{mx_hash["detail"]="";}if(typeof(ts_adCategory)!='undefined'){mx_hash["ad_category"]=ts_adCategory;}else{mx_hash["adCategory"]="";}if(typeof(ts_contentType)!='undefined'){mx_hash["content_type"]=ts_contentType;}else{mx_hash["content_type"]="";}if(typeof(ts_adFamily)!='undefined'){mx_hash["ad_family"]=ts_adFamily;}else{mx_hash["ad_family"]="";}if(typeof(ts_adChannel)!='undefined'){mx_hash["ad_channel"]=ts_adChannel;}else{mx_hash["ad_channel"]="";}mx_hash["declaration_state"]=getUserPreferences("16");mx_hash["urg"]=getUserPreferences("14");mx_hash["ura"]=getUserPreferences("13");mx_hash["urz"]=getUserPreferences("23");if(typeof(OAS_query)!='undefined'){var matchCondition=new RegExp(/cond=\w*/gi);condition=OAS_query.match(matchCondition);if(condition!=null){mx_hash["wxcond"]=condition[0].replace(/cond=/,"");}}if(typeof(OAS_query)!='undefined'){var matchContext=new RegExp(/context=\w*/gi);context=OAS_query.match(matchContext);if(context!=null){mx_hash["oas_context"]=context[0].replace(/context=/,"");}}if(typeof(OAS_query)!='undefined'){var matchSevere=new RegExp(/severe=\w*/gi);severeCondition=OAS_query.match(matchSevere);if(severeCondition!=null){mx_hash["severe"]=severeCondition[0].replace(/severe=/,"");}}if(typeof(omn_locid)!='undefined'){mx_hash["locid"]=omn_locid;}else{mx_hash["locid"]="";}if(typeof(omn_locytpe)!='undefined'){mx_hash["loctype"]=omn_locytpe;}else{mx_hash["loctype"]="";}if(typeof(omn_locname)!='undefined'){mx_hash["locname"]=omn_locname;}else{mx_hash["locname"]="";}if(typeof(omn_dmaCode)!='undefined'){mx_hash["dma"]=omn_dmaCode;}else{mx_hash["dma"]="";}if(typeof(omn_cityName)!='undefined'){mx_hash["city"]=omn_cityName;}else{mx_hash["city"]="";}if(typeof(omn_locstate)!='undefined'){mx_hash["state"]=omn_locstate;}else{mx_hash["state"]="";}if(typeof(omn_zipcode)!='undefined'){mx_hash["zipcode"]=omn_zipcode;}else{mx_hash["zipcode"]="";}if(typeof(omn_loccountry)!='undefined'){mx_hash["country"]=omn_loccountry;}else{mx_hash["country"]="";}if(typeof(omn_dmaCode)!='undefined'){mx_hash["dma"]=omn_dmaCode;}else{mx_hash["dma"]="";}var categoryID="";if(typeof(ts_level1)!=""){categoryID=mx_hash["level1"];}if(typeof(ts_level2)!=""){categoryID=categoryID+"-"+mx_hash["level2"];}if(typeof(ts_level3)!=""){categoryID=categoryID+"-"+mx_hash["level3"];}if(typeof(ts_level4)!=""){categoryID=categoryID+"-"+mx_hash["level4"];}mx_hash["category_id"]=categoryID;mx_hash["refurl"]=document.referrer;mx_hash["desturl"]=document.URL;mx_hash["rm_id"]=GetCookie("RMID");mx_hash["urs_id"]=getUserPreferences("2");if(typeof(gnSiteMode)!=""){mx_hash["sitemode"]=gnSiteMode;}else{mx_hash["sitemode"]="";}if(typeof(OAS_spoof)!='undefined'){mx_hash["oas_spoof"]=OAS_spoof;}else{mx_hash["oas_spoof"]="";}mx_hash["qstring_hash"]=queryString;if(GetCookie("partner")=="beta2"){mx_hash["beta_flag"]="beta";}else{mx_hash["beta_flag"]="prod";}if(typeof(fromParam)!='undefined'){mx_hash["from"]=fromParam;}else{mx_hash["from"]="";}</script>
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+if ("93950" != ""){
+		if ("" != ""){
+			setUserPreferences("11","93950");
+			setUserPreferences("10","Pacific Grove, CA (93950)")}}
+</SCRIPT>
+
+
+
+            
+            <style type="text/css">
+			.resultsHeaderText{background-color:#C9D3E8;font-family:Arial,Verdana;font-size:11px;color:#455b73;padding:3px 5px 3px 5px;}.yesterdayTitle{background-color:#C9D3E8;font-family:Arial,Verdana;font-size:11px;color:#455b73;font-weight:bold;padding:5px 5px 5px 5px;width:100%;}.yesterdayCells{background-color:#C9D3E8;font-family:Arial,Verdana;font-size:11px;color:#455b73;padding:3px 11px 3px 11px;}.wkndButtonA{background-color:#9dAED4;}.wkndButtonB{background-color:#647AA9;}.bottomBorder{background-color:#647AA9;height:20px;padding:0px 0px 0px 11px;font-family:Arial,Verdana;font-size:10px;color:#FFFFFF;}.vbgA{background-color:#C9D3E8;}.vbgB{background-color:#9DAED4;}.vbgC{background-color:#647AA9;}.vbgE{background-color:#DDE5F5;}.locLinker{background-color:#DAE0F3;border-color:#ADA6D4;solid 1px;padding:10px;}.wxTrigger,.wxTrigger:link,.wxTrigger:visited,.wxTrigger:hover{color:#CD0706;font-size:10px;}.dtW{background-color:#9DAED4;height:18px;color:#95A0A5;}.dtA{background-color:#C9D3E8;height:18px;color:#95A0A5;}.dtB{background-color:#647AA9;height:18px;}.fbgA{background-color:#FFFFFF;border:solid;border-color:#CAD3A4;border-width:1px 1px 1px 1px;width:55px;height:55px;}.calCnt{border-color:#CAD3A4;border:solid;border-width:1px 1px 1px 1px;padding:0px 0px 0px 0px;height:180px;}.calCur{background-color:#FCF5C6;border:solid;border-color:#CAD3A4;border-width:1px 1px 1px 1px;padding:0px 0px 0px 0px;height:180px;}.pTextA{font-size:10px;color:#95A0A5;}.cTextA{font-size:10px;color:#455B73;}.aTextA{font-size:10px;color:#455B73;}.climoTextA{font-size:10px;color:#647AA9;}.vlgnd{font-size:10px;color:#455B73;background-color:#F7F6E7;padding:2px 2px 5px 5px;}P.cSp{margin:12px 0px 0px 0px;}P.currSp{margin:5px 0px 0px 0px;}.pollBanner{background-image:url(http://image.weather.com/web/activities/polling/dailytraveler_banner.jpg);background-repeat:repeat-y;width:288;height:67;}.pollQues{background-image:url(http://image.weather.com/web/activities/polling/dailytraveler_ques.gif);background-repeat:repeat-y;margin:0;padding:8;}.pollBody{background-image:url(http://image.weather.com/web/activities/polling/dailytraveler_body_strip.gif);background-repeat:repeat-y;margin:0;padding:10;}BODY.pollResult{background-image:url(http://image.weather.com/web/activities/polling/dailytraveler_body_strip.gif);background-color:white;background-repeat:repeat-y;margin:0;padding:0;}.pollResultsTitle{background-color:#C5AD75;font-size:16px;color:#FFFFFF;padding:11px;}.pollResultsBackground{background-color:#C5AD75;border:solid;border-width:0px 0px 1px 0px;border-color:FFFFFF;}.pollResultsAdCell{background-color:#C5AD75;font-size:14px;color:#FFFFFF;}.pollResultsBar{background-color:#C5AD75;vertical-align:middle;margin-top:5px;}
+			</style>
+            
+
+    
+
+
+
+
+
+</HEAD>
+
+
+
+<BODY bgcolor="#FFFFFF" link="#004371" vlink="#004371" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" ondragstart="return false" ondrag="return false" ondragend="return false" onselectstart="return false" onselect="return false">
+
+368a
+
+
+
+
+<script type="text/javascript">
+    var partnerCookie = GetCookie("partner");
+	if (partnerCookie == ''){
+		var rmidcookie = GetCookie("RMID");
+		if ((((rmidcookie.substring(6,8)).toLowerCase()) == '79') || (((rmidcookie.substring(6,8)).toLowerCase()) == '7a') || (((rmidcookie.substring(6,8)).toLowerCase()) == '7b') || (((rmidcookie.substring(6,8)).toLowerCase()) == '7f') || (((rmidcookie.substring(6,8)).toLowerCase()) == '7e') || (((rmidcookie.substring(6,8)).toLowerCase()) == '7d') || (((rmidcookie.substring(6,8)).toLowerCase()) == '7c')) {
+		    var expdate = new Date ();
+		    FixCookieDate (expdate);
+		    expdate.setTime (expdate.getTime() + (24 * 60 * 60 * 1000 * 365));
+		    SetCookie ("partner", "beta2", expdate, "/", ".weather.com");
+			var currLoc = window.location;
+			if (currLoc.indexOf("?") > -1) {var eol = currLoc.indexOf("?");
+				currLoc = currLoc.substring(0, eol);}
+			window.location = "/common/beta/entry.html?next="+currLoc;
+		}
+	}
+</script>
+<CENTER>
+<IMG SRC="http://i.imwx.com/web/blank.gif" WIDTH=1 HEIGHT=1 BORDER=0 ID="alTrack" Style="position:absolute;top:0px;left:1px;">
+<script type="text/javascript">
+alU = 'http://misc.weather.com/common/tracking/';
+alCntr = 0;
+	function actionLib(actionID) {
+		alCntr++;
+		var rURL = alU + OAS_rns + '_' + alCntr + '/' + actionID + '.html';
+		document.getElementById("alTrack").src=rURL;
+	}
+</script>
+
+
+<!--Setting the season string to be used sitewide
+String season = "";
+season = summer; -->
+
+
+
+
+
+
+<!-- Last updated by: dwetteroth -->
+
+
+
+
+<SCRIPT LANGUAGE="JavaScript1.2">
+<!--
+if (document.referrer) {
+	thisDF = document.referrer;
+} else {
+	thisDF = "";
+}
+if (thisDF.search(/usatoday.com/) != -1) {
+	midstring = " contains ";
+	document.write ('<MAP NAME="weather_nav_Map"><AREA SHAPE="rect" ALT="" COORDS="657,0,768,27" HREF="http://asp.usatoday.com/weather/weatherfront.aspx"><AREA SHAPE="rect" ALT="" COORDS="536,0,652,27" HREF="http://www.usatoday.com/tech/front.htm"><AREA SHAPE="rect" ALT="" COORDS="418,0,534,27" HREF="http://www.usatoday.com/life/front.htm"><AREA SHAPE="rect" ALT="" COORDS="300,0,414,27" HREF="http://www.usatoday.com/sports/front.htm"><AREA SHAPE="rect" ALT="" COORDS="184,0,296,27" HREF="http://www.usatoday.com/money/front.htm"><AREA SHAPE="rect" ALT="" COORDS="67,0,180,27" HREF="http://www.usatoday.com/news/front.htm"><AREA SHAPE="rect" ALT="" COORDS="0,0,65,27" HREF="http://www.usatoday.com/usafront.htm"></MAP><IMG SRC="http://image.weather.com/web/common/logos/usatodayback.gif" WIDTH=774 HEIGHT=28 BORDER=0 USEMAP="#weather_nav_Map">');
+}
+//-->
+</SCRIPT>
+
+		
+
+
+
+
+
+
+
+
+<IMG SRC="http://i.imwx.com/web/blank.gif" WIDTH=1 HEIGHT=2 alt="" border=0><br>
+<script src="http://j.imwx.com/common/urs/md5.js"></script>
+<script src="http://j.imwx.com/common/header/javascript/globalnav.js?10042006"></script>
+<TABLE cellpadding="0" cellspacing="0" border="0"><TR><TD><DIV id="parent">
+<!-- call server for data -->
+<script type="text/javascript">
+var getTwcLocId=getUserPreferences("11");
+var getHugmeLocationType=getUserPreferences("22");
+if (getTwcLocId && getTwcLocId!=" " && getHugmeLocationType && getHugmeLocationType!=" " && location.hostname.match("community.weather.com") == null){
+document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.2 SRC="http://www.weather.com/weather/mpdwcr/hugmedata"><\/script>');}
+if (location.hostname.match("community.weather.com") == null){document.write('<scr' + 'ipt type="text/javascript"src="http://j.imwx.com/common/header/javascript/hat.js"><\/script>');}
+</script>
+
+
+<!-- BEGIN THE PRIMARY NAVIGATION -->
+<script type="text/javascript" src="http://j.imwx.com/common/header/javascript/hd.js" ></script><DIV id="hbBannerMenuContainer">
+<DIV id="hdNavDiv" style=""><!--[if !IE]>  Navigation <![endif]-->
+	<table id="hdNavTable" cellpadding="0" cellspacing="0">
+    <tr valign="bottom">		<td id="hdM0" onmouseover="hdNav.up(0)" onmouseout="hdNav.down(0)"><a href="http://www.weather.com/" onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'globalnav'});">Home</a></td>				<script type="text/javascript">
+			if(gnSiteMode=='headline'||gnSiteMode=='severe'||gnSiteMode=='alert'){
+				inSeasonName=gnSeasonTab;
+				if(gnSiteMode=='severe'){
+					document.writeln("<td id='hdM1' onmouseover='hdNav.up(1)' onmouseout='hdNav.down(1)'><span class='hdSevere' style='background:#c00;color:#fff;font-weight:bold;padding:0 3px;'>!</span> "+gnSeasonTab+"</td>");
+				}
+				if(gnSiteMode=='alert'){
+					document.writeln("<td id='hdM1' onmouseover='hdNav.up(1)' onmouseout='hdNav.down(1)'><span class='hdSevere' style='background:#c00;color:#fff;font-weight:bold;padding:0 3px;'>!</span> "+gnSeasonTab+"</td>");								
+				}
+				if(gnSiteMode=='headline'){
+					document.writeln("<td id='hdM1' onmouseover='hdNav.up(1)' onmouseout='hdNav.down(1)'><span class='hdSevere' style='background:#c00;color:#fff;font-weight:bold;padding:0 3px;'>!</span> "+gnSeasonTab+"</td>");
+				}
+			}
+			else {
+				document.writeln("<td id='hdM1' onmouseover='hdNav.up(1)' onmouseout='hdNav.down(1)'>Weather News</td>");
+			}
+		</script>		<td id="hdM2" onmouseover="hdNav.up(2)" onmouseout="hdNav.down(2)">Travel</td>				<td id="hdM3" onmouseover="hdNav.up(3)" onmouseout="hdNav.down(3)">Driving & Traffic</td>				<td id="hdM4" onmouseover="hdNav.up(4)" onmouseout="hdNav.down(4)">Healthy Living</td>				<td id="hdM5" onmouseover="hdNav.up(5)" onmouseout="hdNav.down(5)">Home & Family</td>				<td id="hdM6" onmouseover="hdNav.up(6)" onmouseout="hdNav.down(6)">Sports & Recreation</td>				<td id="hdM7" onmouseover="hdNav.up(7)" onmouseout="hdNav.down(7)">Climate &amp; Green</td>				<td id="hdM8" onmouseover="hdNav.up(8)" onmouseout="hdNav.down(8)">The Weather Channel TV</td>		
+
+
+<!-- begin the secondary navigation -->
+<div id="headerPipe2"></div>
+				</tr>
+            </table>		
+		<DIV id="hdMI0" class="navSecond navSecondDown" onmouseover="hdNav.up(0)" onmouseout="hdNav.down(0)">	<a id="home_weather.com_home" href="http://www.weather.com/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >weather.com home</a>					<a id="home_my_page" href="http://www.weather.com/weather/my/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >My Page</a>					<a id="home_weather.com_gold" href="http://www.weather.com/services/weathergold.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >weather.com Gold</a>									<a id="home_site_map" href="http://www.weather.com/common/home/siteindex.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Site Map</a>				</DIV><DIV id="hdMI1" class="navSecond navSecondDown" onmouseover="hdNav.up(1)" onmouseout="hdNav.down(1)">	<a id="weather_news_news_and_video" href="http://www.weather.com/newscenter/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >News and Video</a>					<a id="weather_news_severe_weather_alerts" href="http://www.weather.com/newscenter/alerts/national/severeWxAlertsNational.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Severe Weather Alerts</a>					<a id="weather_news_national_forecast" href="http://www.weather.com/newscenter/fcstsummary.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >National Forecast</a>					<a id="weather_news_hurricane_season" href="http://www.weather.com/newscenter/hurricanecentral/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Hurricane Season</a>					<a id="weather_news_storm_watch" href="http://www.weather.com/newscenter/stormwatch/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Storm Watch</a>					<a id="weather_news_weather_blog" href="http://www.weather.com/blog/weather/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Weather Blog</a>					<a id="weather_news_weatherready_safety_tips" href="http://www.weather.com/ready/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >WeatherREADY Safety Tips</a>								</DIV><DIV id="hdMI2" class="navSecond navSecondDown" onmouseover="hdNav.up(2)" onmouseout="hdNav.down(2)">	<a id="travel_vacation_&_travel_planner" href="http://www.weather.com/activities/travel/vacationplanner/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Vacation & Travel Planner</a>					<a id="travel_flights_&_business_travel" href="http://www.weather.com/activities/travel/businesstraveler"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Flights & Business Travel</a>					<a id="travel_green_travel" href="http://www.weather.com/activities/travel/vacationplanner/greentravel/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Green Travel</a>					<a id="travel_honeymoon_planner" href="http://www.weather.com/activities/events/weddings/honeymoon/index.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Honeymoon Planner</a>					<a id="travel_vacation_home_rentals" href="http://www.weather.com/activities/travel/forgetaway.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Vacation Home Rentals</a>				</DIV><DIV id="hdMI3" class="navSecond navSecondDown" onmouseover="hdNav.up(3)" onmouseout="hdNav.down(3)">					<a id="driving_&_traffic_road_crew" href="http://www.weather.com/activities/driving/roadcrew/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Road Crew</a>					<a id="driving_&_traffic_traffic_reports" href="http://www.weather.com/activities/driving/rushhour"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Traffic Reports</a>					<a id="driving_&_traffic_interstate_driving_forecast" href="http://www.weather.com/activities/driving/interstate"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Interstate Driving Forecast</a>					<a id="driving_&_traffic_green_vehicles" href="http://www.weather.com/activities/driving/greenvehicle"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Green Vehicles</a>					<a id="driving_&_traffic_auto_advice_&_safety" href="http://www.weather.com/activities/driving/drivingsafety/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Auto Advice & Safety</a>					<a id="driving_&_traffic_scenic_drive_ideas" href="http://www.weather.com/activities/driving/scenicdrives"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Scenic Drive Ideas</a>				</DIV><DIV id="hdMI4" class="navSecond navSecondDown" onmouseover="hdNav.up(4)" onmouseout="hdNav.down(4)">	<a id="healthy_living_seasonal_health" href="http://www.weather.com/activities/health/seasonal-health.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Seasonal Health</a>					<a id="healthy_living_aches_&_pains" href="http://www.weather.com/activities/health/achesandpains"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Aches & Pains</a>					<a id="healthy_living_air_quality_&_pollution" href="http://www.weather.com/activities/health/airquality"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Air Quality & Pollution</a>					<a id="healthy_living_allergies_&_pollen_count" href="http://www.weather.com/activities/health/allergies/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Allergies & Pollen Count</a>					<a id="healthy_living_cold_&_flu" href="http://www.weather.com/activities/health/coldandflu"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Cold & Flu</a>					<a id="healthy_living_fitness_&_exercise" href="http://www.weather.com/activities/health/fitness"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Fitness & Exercise</a>					<a id="healthy_living_mosquito_forecast" href="http://www.weather.com/activities/homeandgarden/home/mosquito/index.html"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Mosquito Forecast</a>					<a id="healthy_living_skin_protection" href="http://www.weather.com/activities/health/skin"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Skin Protection</a>				</DIV><DIV id="hdMI5" class="navSecond navSecondDown" onmouseover="hdNav.up(5)" onmouseout="hdNav.down(5)">	<a id="home_&_family_festivals,_fairs_&_concerts" href="http://www.weather.com/activities/events/special"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Festivals, Fairs & Concerts</a>					<a id="home_&_family_holidays" href="http://www.weather.com/activities/homeandgarden/holidays"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Holidays</a>					<a id="home_&_family_home_improvement" href="http://www.weather.com/activities/homeandgarden/home"  onmousedown="setClick();" 
+3d91
+onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Home Improvement</a>					<a id="home_&_family_lawn_&_garden" href="http://www.weather.com/activities/homeandgarden/garden"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Lawn & Garden</a>					<a id="home_&_family_pets" href="http://www.weather.com/activities/homeandgarden/pets"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Pets</a>					<a id="home_&_family_outdoor_entertaining" href="http://www.weather.com/activities/homeandgarden/home/picnic/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Outdoor Entertaining</a>					<a id="home_&_family_schoolday_weather" href="http://www.weather.com/activities/homeandgarden/schoolday"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Schoolday Weather</a>					<a id="home_&_family_wedding_planner" href="http://www.weather.com/activities/events/weddings"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Wedding Planner</a>								</DIV><DIV id="hdMI6" class="navSecond navSecondDown" onmouseover="hdNav.up(6)" onmouseout="hdNav.down(6)">					<a id="sports_&_recreation_boat_&_beach" href="http://www.weather.com/activities/recreation/boatandbeach"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Boat & Beach</a>					<a id="sports_&_recreation_golf_course_weather" href="http://www.weather.com/activities/recreation/golf"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >Golf Course Weather</a>					<a id="sports_&_recreation_mlb_stats_&_schedule" href="http://www.weather.com/activities/events/mlb"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'secondarynav'});" >MLB Stats & Schedule</a>					<a id="sports_&_recreation_outdoors_&_fishing" href="http://www.weather.com/activities/recreation/outdoors/"  onmousedown="setClick();" onMouseUp="this.href=intelliTrak({'href':this.href,'from':'se0
+

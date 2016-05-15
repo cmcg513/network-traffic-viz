@@ -1,0 +1,12 @@
+GET /us/r10/Music/y2003/m3/d9/h2/s01.odbbbkvr.53x53-50.jpg HTTP/1.1
+X-Apple-Tz: -25200
+Cookie: s_vi=[CS]v1|4374FC15000046AB-A000B5E00000091[CE]
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/storeFront
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: D61DA2F1-2DF331C04FD4117E018964B8E35F404E
+Accept-Encoding: gzip
+Connection: close
+Host: a1.phobos.apple.com
+

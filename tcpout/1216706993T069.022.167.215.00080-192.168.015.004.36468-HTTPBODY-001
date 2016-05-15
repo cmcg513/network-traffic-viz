@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document xmlns="http://www.apple.com/itms/">
+
+
+  <Protocol>
+    <plist version="1.0">
+      <dict>
+        
+      </dict>
+    </plist>
+  </Protocol>
+
+  <View height="166">
+    <Include url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/com.apple.jingle.appserver.MZDirectAction/fontStyles" target="main"></Include>
+    <FontStyle name="textColor" color="181818"></FontStyle>
+
+  <View rightInset="0" bottomInset="0" minWidth="760" leftInset="0" height="166" topInset="0" backColor="6e8eb9">
+
+      
+      <Test value="7.0.0" comparison="greater or equal" property="iTunes version">
+        <PictureView topInset="0" horizontalBehavior="stretch" height="550" url="/images/gradient/blue_short.jpg"></PictureView>
+      </Test>
+      
+
+      
+        
+         
+          
+          <MatrixView rightInset="5" rowFormat="100%" leftInset="5" height="155" topInset="6" columnFormat="160,5,100%">
+            <VBoxView stretchiness = "1">
+  
+  
+    
+    <View>
+  
+    
+      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284763875&amp;s=143441" inhibitDragging="false" draggingName="Magic Tour Highlights (Live)" target="main">
+    <Test comparison="greater or equal" value="7.0.0" property="iTunes version">
+  
+  <View>
+    <PictureButtonView leftInset="0" width="160" mask="/images/masks/splish.png" url="http://a1.phobos.apple.com/us/r30/Features/8a/ce/b8/dj.izifnwyr.jpg" height="72"></PictureButtonView>
+    <PictureView leftInset="0" width="160" topInset="0" transparentClicks="1" height="72" url="/images/masks/splish_shadow.png"></PictureView>
+  </View>
+
+</Test>
+<Test comparison="less" value="7.0.0" property="iTunes version">
+  
+  <View>
+    <PictureView leftInset="0" width="160" topInset="0" height="72" url="http://a1.phobos.apple.com/us/r30/Features/8a/ce/b8/dj.izifnwyr.jpg"></PictureView>
+    <PictureView leftInset="0" width="160" topInset="0" transparentClicks="1" height="72" url="/images/overlay/splish_overlay_6e8eb9.png"></PictureView>
+  </View>
+
+</Test>
+  </GotoURL>
+
+
+
+    
+    
+  
+  
+  
+  
+</View>
+    <View height="6" />
+  
+  
+    
+
+  
+  
+  <VBoxView bottomInset="0">
+    
+      <FontStyle name="normalTitleFontStyle" color="ffffff"></FontStyle>
+      <FontStyle name="normalTextFontStyle" color="000000"></FontStyle>
+    
+    
+      
+
+
+  <VBoxView rightInset="0" leftInset="0" topInset="0">
+
+  
+  
+    <View>
+      <HBoxView leftInset="0" rightInset="0">
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topl.png"></PictureView>
+        <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_293c5c_100_top.png" bottomInset="0"></PictureView>
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topr.png"></PictureView>
+      </HBoxView>
+      <VBoxView topInset="0" bottomInset="0">
+        <View stretchiness="1"/>
+        
+    <HBoxView rightInset="7" topInset="0" bottomInset="0" leftInset="10">
+  
+    <View stretchiness="1">
+      <TextView topInset="1" truncation="right" leftInset="1" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="normalTitleFontStyle"><Color color="1c1c1c"><b>INSIDE THE STORE</b></Color></SetFontStyle></TextView>
+      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/storeFront" inhibitDragging="false" draggingName="INSIDE THE STORE" target="main">
+    <TextView topInset="0" truncation="right" leftInset="0" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="normalTitleFontStyle"><b>INSIDE THE STORE</b></SetFontStyle></TextView>
+  </GotoURL>
+
+
+
+    </View>
+    
+    
+    
+      <View width="5" />
+    
+    
+    
+      <VBoxView topInset="1">
+  <View stretchiness="1"></View>
+  
+        
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/storeFront" inhibitDragging="false" draggingName="INSIDE THE STORE" target="main">
+    <PictureButtonView width="12" topInset="0" picts="plain,pressed,rollover" transparentClicks="1" rightInset="0" url="/images/arrowoutline/arrow_ffffff_r.png" height="12"></PictureButtonView>
+  </GotoURL>
+
+
+
+      
+  <View stretchiness="1"></View>
+</VBoxView>
+    
+   
+  
+</HBoxView>
+
+  
+        <View stretchiness="1"/>
+      </VBoxView>
+    </View>
+  
+
+  
+  
+</VBoxView>
+
+
+
+
+    
+    
+  </VBoxView>
+    
+  
+
+
+    <VBoxView bottomInset="0" topInset="0" stretchiness="1">
+
+  
+  
+
+  
+  
+    <View stretchiness="1">
+      <Test comparison="less" value="7.0.0" property="iTunes version">
+  
+        <VBoxView stretchiness="1">
+          
+          <MatrixView topInset="0" columnFormat="1,100%,1" rowFormat="100%" bottomInset="0" stretchiness="1">
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+            <View topInset="0" bottomInset="0">
+              
+              <View rightInset="0" topInset="0" bottomInset="0" leftInset="0" backColor="7492bc"></View>
+            </View>
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+          </MatrixView>
+          
+            <HBoxView leftInset="0" rightInset="0">
+              <PictureView leftInset="0" width="11" height="11" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botl.png" bottomInset="0"></PictureView>
+              <View rightInset="0" leftInset="0" stretchiness="1" backColor="7492bc">
+                <View rightInset="0" bottomInset="0" leftInset="0" height="1" backColor="476186"></View>
+              </View>
+              <PictureView width="11" height="11" rightInset="0" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botr.png" bottomInset="0"></PictureView>
+            </HBoxView>
+          
+          
+        </VBoxView>
+      
+</Test>
+      <Test comparison="greater or equal" value="7.0.0" property="iTunes version">
+  
+        <View rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(116,146,188)" mask="/images/masks/ornament_fill_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(71,97,134)" mask="/images/masks/ornament_stroke_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+</View>
+
+      
+</Test>
+
+      <VBoxView topInset="5" leftInset="8">
+      <VBoxView>
+        
+          <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewEssentialsLandingPage" inhibitDragging="false" target="main"><TextView topInset="0" leftInset="0" styleSet="basic10" textJust="left"><SetFontStyle normalStyle="textColor">iTunes Essentials</SetFontStyle></TextView></GotoURL>
+        
+        
+        <View height="1" />
+        
+          <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAllVideos" inhibitDragging="false" target="main"><TextView topInset="0" leftInset="0" styleSet="basic10" textJust="left"><SetFontStyle normalStyle="textColor">Music Videos</SetFontStyle></TextView></GotoURL>
+        
+        
+        <View height="1" />
+        
+          <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewGenre?id=32" inhibitDragging="false" target="main"><TextView topInset="0" leftInset="0" styleSet="basic10" textJust="left"><SetFontStyle normalStyle="textColor">TV Shows</SetFontStyle></TextView></GotoURL>
+        
+        
+        <View height="1" />
+        <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewGenre?id=50000024" inhibitDragging="false" target="main"><TextView topInset="0" leftInset="0" styleSet="basic10" textJust="left"><SetFontStyle normalStyle="textColor">Audiobooks</SetFontStyle></TextView></GotoURL>
+        <View height="5" />
+      </VBoxView>
+    </VBoxView>
+
+      
+        
+        
+
+        
+
+        <Test comparison="lt" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureView leftInset="1" width="4" topInset="0" horizontalBehavior="tile" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_l.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureButtonView leftInset="0" width="11" topInset="0" cap-bottom="11" cap-top="11" cap-left="11" url="/images/masks/ornament_shadow_flat_l.png" bottomInset="0"></PictureButtonView>
+        
+</Test>
+
+        <Test rightInset="0" comparison="lt" value="7.0.0" property="iTunes version">
+  
+          <PictureView width="4" topInset="0" horizontalBehavior="tile" rightInset="1" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_r.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test rightInset="0" comparison="ge" value="7.0.0" property="iTunes version">
+  
+          <PictureButtonView width="11" topInset="0" cap-bottom="11" cap-top="11" rightInset="0" url="/images/masks/ornament_shadow_flat_r.png" bottomInset="0" cap-right="11"></PictureButtonView>
+        
+</Test>
+
+        <Test comparison="lt" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureView leftInset="11" horizontalBehavior="tile" height="5" rightInset="11" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_b.png" bottomInset="1"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureButtonView leftInset="11" rightInset="11" url="/images/masks/ornament_shadow_bot.png" bottomInset="0" height="4"></PictureButtonView>
+        
+</Test>
+      
+
+    </View>
+  
+</VBoxView>
+  
+  
+</VBoxView>
+
+            <View />
+            
+
+
+
+
+  <MatrixView rightInset="0" bottomInset="0" leftInset="0" topInset="0" height="155" columnFormat="54%,5,23%,5,23%" rowFormat="100%">
+    <FontStyle name="miniTitleFontStyle" color="ffffff"></FontStyle>
+    <FontStyle name="miniTextFontStyle" color="181818"></FontStyle>
+    
+      
+        
+        
+
+  
+  
+  <VBoxView rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+    
+    
+      
+
+
+  <VBoxView rightInset="0" leftInset="0" topInset="0">
+
+  
+  
+    <View>
+      <HBoxView leftInset="0" rightInset="0">
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topl.png"></PictureView>
+        <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_293c5c_100_top.png" bottomInset="0"></PictureView>
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topr.png"></PictureView>
+      </HBoxView>
+      <VBoxView topInset="0" bottomInset="0">
+        <View stretchiness="1"/>
+        
+    <HBoxView rightInset="7" topInset="0" bottomInset="0" leftInset="10">
+  
+    <View stretchiness="1">
+      <TextView topInset="1" truncation="right" leftInset="1" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTitleFontStyle"><Color color="1c1c1c"><b>MUSIC: NEW RELEASES</b></Color></SetFontStyle></TextView>
+      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewRoom?fcId=186000347&amp;id=1" inhibitDragging="false" draggingName="Music: New Releases" target="main">
+    <TextView topInset="0" truncation="right" leftInset="0" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTitleFontStyle"><b>MUSIC: NEW RELEASES</b></SetFontStyle></TextView>
+  </GotoURL>
+
+
+
+    </View>
+    
+    
+    
+      <View width="5" />
+    
+    
+    
+      <VBoxView topInset="1">
+  <View stretchiness="1"></View>
+  
+        
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewRoom?fcId=186000347&amp;id=1" inhibitDragging="false" draggingName="Music: New Releases" target="main">
+    <PictureButtonView width="12" topInset="0" picts="plain,pressed,rollover" transparentClicks="1" rightInset="0" url="/images/arrowoutline/arrow_ffffff_r.png" height="12"></PictureButtonView>
+  </GotoURL>
+
+
+
+      
+  <View stretchiness="1"></View>
+</VBoxView>
+    
+   
+  
+</HBoxView>
+
+  
+        <View stretchiness="1"/>
+      </VBoxView>
+    </View>
+  
+
+  
+  
+</VBoxView>
+
+
+
+
+    
+    
+      <View bottomInset="0" topInset="0" stretchiness="1">
+        <VBoxView bottomInset="0" topInset="0" stretchiness="1">
+
+  
+  
+
+  
+  
+    <View stretchiness="1">
+      <Test comparison="less" value="7.0.0" property="iTunes version">
+  
+        <VBoxView stretchiness="1">
+          
+          <MatrixView topInset="0" columnFormat="1,100%,1" rowFormat="100%" bottomInset="0" stretchiness="1">
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+            <View topInset="0" bottomInset="0">
+              
+              <View rightInset="0" topInset="0" bottomInset="0" leftInset="0" backColor="7492bc"></View>
+            </View>
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+          </MatrixView>
+          
+            <HBoxView leftInset="0" rightInset="0">
+              <PictureView leftInset="0" width="11" height="11" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botl.png" bottomInset="0"></PictureView>
+              <View rightInset="0" leftInset="0" stretchiness="1" backColor="7492bc">
+                <View rightInset="0" bottomInset="0" leftInset="0" height="1" backColor="476186"></View>
+              </View>
+              <PictureView width="11" height="11" rightInset="0" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botr.png" bottomInset="0"></PictureView>
+            </HBoxView>
+          
+          
+        </VBoxView>
+      
+</Test>
+      <Test comparison="greater or equal" value="7.0.0" property="iTunes version">
+  
+        <View rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(116,146,188)" mask="/images/masks/ornament_fill_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(71,97,134)" mask="/images/masks/ornament_stroke_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+</View>
+
+      
+</Test>
+
+      <VBoxView></VBoxView>
+
+      
+        
+        
+
+        
+
+        <Test comparison="lt" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureView leftInset="1" width="4" topInset="0" horizontalBehavior="tile" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_l.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureButtonView leftInset="0" width="11" topInset="0" cap-bottom="11" cap-top="11" cap-left="11" url="/images/masks/ornament_shadow_flat_l.png" bottomInset="0"></PictureButtonView>
+        
+</Test>
+
+        <Test rightInset="0" comparison="lt" value="7.0.0" property="iTunes version">
+  
+          <PictureView width="4" topInset="0" horizontalBehavior="tile" rightInset="1" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_r.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test rightInset="0" comparison="ge" value="7.0.0" property="iTunes version">
+  
+          <PictureButtonView width="11" topInset="0" cap-bottom="11" cap-top="11" rightInset="0" url="/images/masks/ornament_shadow_flat_r.png" bottomInset="0" cap-right="11"></PictureButtonView>
+        
+</Test>
+
+        <Test comparison="lt" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureView leftInset="11" horizontalBehavior="tile" height="5" rightInset="11" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_b.png" bottomInset="1"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureButtonView leftInset="11" rightInset="11" url="/images/masks/ornament_shadow_bot.png" bottomInset="0" height="4"></PictureButtonView>
+        
+</Test>
+      
+
+    </View>
+  
+</VBoxView>
+        <MatrixView rowFormat="100%">
+          
+          
+            
+              
+              <VBoxView rightInset="6" topInset="5" bottomInset="2" leftInset="10">
+                <VBoxView>
+  
+
+  <MatrixView topInset="0" columnFormat="50%,10,50%,10" stretchiness="1">
+  
+    
+    
+      <HBoxView bottomInset="6">
+        
+        
+          
+
+
+
+
+
+  <VBoxView minWidth="120" stretchiness="1">
+    <MatrixView columnFormat="64,3,100%" rowFormat="*">
+      
+      
+        
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284871433&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284871433&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r1c1" inhibitDragging="false" draggingName="Nas" target="main">
+    
+          
+          
+          
+            
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="2" verticalAlignment="top" shadowHeight="4" horizontalAlignment="left" height="53" rightInset="0" reflection="0" url="http://a1.phobos.apple.com/us/r1000/042/Music/75/da/3d/mzi.jghcnppg.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="false"></PictureView>  
+
+
+
+  
+
+          
+          
+        
+  </GotoURL>
+
+
+
+      
+
+      <View />
+      
+      <VBoxView rightInset="0" topInset="0" leftInset="0" stretchiness="1">
+      
+        
+        
+          <HBoxView rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1">
+            
+              <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+                
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284871433&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284871433&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r1c1" inhibitDragging="false" draggingName="Nas" target="main">
+    <B>Nas</B>
+  </GotoURL>
+
+
+
+              </SetFontStyle></TextView>
+              <View width="3" />
+            
+            
+            
+              
+                
+                
+              
+              
+            
+            
+          </HBoxView>
+        
+        
+        
+
+      
+      
+      
+
+        
+        
+          
+            <TextView topInset="3" truncation="right" leftInset="0" squishiness="1" rightInset="0" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+              
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=35307" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=35307&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r1c1" inhibitDragging="false" draggingName="Nas" target="main">
+    
+                Nas
+              
+  </GotoURL>
+
+
+
+            </SetFontStyle></TextView>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+
+        
+
+        <VBoxView>
+
+          
+          
+          
+
+          
+          
+          
+            
+            
+              
+              
+            
+            
+            
+          
+          
+
+        </VBoxView>
+
+        
+        
+          
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+          
+            <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewContentsUserReviews?playlistId=284871433" inhibitDragging="false" target="main">
+              <HBoxView topInset="3">
+  
+  <PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView>
+  <TextView topInset="0" truncation="right" leftInset="0" styleSet="basic11" textJust="left" maxLines="1"><b><Color color="000000">&#189;</Color></b></TextView>
+  
+</HBoxView>
+            </GotoURL>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+        
+        
+
+        
+          
+        
+
+        
+        
+        
+
+      </VBoxView>
+      
+    </MatrixView>
+  </VBoxView>
+
+
+
+
+
+        
+      </HBoxView>
+      <View></View>
+    
+      <HBoxView bottomInset="6">
+        
+        
+          
+
+
+
+
+
+  <VBoxView minWidth="120" stretchiness="1">
+    <MatrixView columnFormat="64,3,100%" rowFormat="*">
+      
+      
+        
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284712572&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284712572&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r1c2" inhibitDragging="false" draggingName="The Greatest Story Ever Told" target="main">
+    
+          
+          
+          
+            
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="2" verticalAlignment="top" shadowHeight="4" horizontalAlignment="left" height="53" rightInset="0" reflection="0" url="http://a1.phobos.apple.com/us/r1000/001/Music/67/48/a2/mzi.ldiyvkax.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="false"></PictureView>  
+
+
+
+  
+
+          
+          
+        
+  </GotoURL>
+
+
+
+      
+
+      <View />
+      
+      <VBoxView rightInset="0" topInset="0" leftInset="0" stretchiness="1">
+      
+        
+        
+          <HBoxView rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1">
+            
+              <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+                
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284712572&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284712572&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r1c2" inhibitDragging="false" draggingName="The Greatest Story Ever Told" target="main">
+    <B>The Greatest Story Ever Told</B>
+  </GotoURL>
+
+
+
+              </SetFontStyle></TextView>
+              <View width="3" />
+            
+            
+            
+              
+                
+                
+              
+              
+            
+            
+          </HBoxView>
+        
+        
+        
+
+      
+      
+      
+
+        
+        
+          
+            <TextView topInset="3" truncation="right" leftInset="0" squishiness="1" rightInset="0" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+              
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=1287120" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=1287120&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r1c2" inhibitDragging="false" draggingName="David Banner" target="main">
+    
+                David Banner
+              
+  </GotoURL>
+
+
+
+            </SetFontStyle></TextView>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+
+        
+
+        <VBoxView>
+
+          
+          
+          
+
+          
+          
+          
+            
+            
+              
+              
+            
+            
+            
+          
+          
+
+        </VBoxView>
+
+        
+        
+          
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+          
+            <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewContentsUserReviews?playlistId=284712572" inhibitDragging="false" target="main">
+              <HBoxView topInset="3">
+  
+  <PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView>
+  
+  
+</HBoxView>
+            </GotoURL>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+        
+        
+
+        
+          
+        
+
+        
+        
+        
+
+      </VBoxView>
+      
+    </MatrixView>
+  </VBoxView>
+
+
+
+
+
+        
+      </HBoxView>
+      <View></View>
+    
+    
+  
+    
+    
+      <HBoxView bottomInset="0">
+        
+        
+          
+
+
+
+
+
+  <VBoxView minWidth="120" stretchiness="1">
+    <MatrixView columnFormat="64,3,100%" rowFormat="*">
+      
+      
+        
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284763875&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284763875&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r2c1" inhibitDragging="false" draggingName="Magic Tour Highlights (Live)" target="main">
+    
+          
+          
+          
+            
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="2" verticalAlignment="top" shadowHeight="4" horizontalAlignment="left" height="53" rightInset="0" reflection="0" url="http://a1.phobos.apple.com/us/r1000/009/Music/43/8d/30/mzi.tqlfdsxz.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="false"></PictureView>  
+
+
+
+  
+
+          
+          
+        
+  </GotoURL>
+
+
+
+      
+
+      <View />
+      
+      <VBoxView rightInset="0" topInset="0" leftInset="0" stretchiness="1">
+      
+        
+        
+          <HBoxView rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1">
+            
+              <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+                
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284763875&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284763875&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r2c1" inhibitDragging="false" draggingName="Magic Tour Highlights (Live)" target="main">
+    <B>Magic Tour Highlights (Live)</B>
+  </GotoURL>
+
+
+
+              </SetFontStyle></TextView>
+              <View width="3" />
+            
+            
+            
+              
+                
+                
+              
+              
+            
+            
+          </HBoxView>
+        
+        
+        
+
+      
+      
+      
+
+        
+        
+          
+            <TextView topInset="3" truncation="right" leftInset="0" squishiness="1" rightInset="0" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+              
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=178834" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=178834&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r2c1" inhibitDragging="false" draggingName="Bruce Springsteen" target="main">
+    
+                Bruce Springsteen &amp; The E Street Band
+              
+  </GotoURL>
+
+
+
+            </SetFontStyle></TextView>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+
+        
+
+        <VBoxView>
+
+          
+          
+          
+
+          
+          
+          
+            
+            
+              
+              
+            
+            
+            
+          
+          
+
+        </VBoxView>
+
+        
+        
+          
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+          
+            <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewContentsUserReviews?playlistId=284763875" inhibitDragging="false" target="main">
+              <HBoxView topInset="3">
+  
+  <PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView>
+  <TextView topInset="0" truncation="right" leftInset="0" styleSet="basic11" textJust="left" maxLines="1"><b><Color color="000000">&#189;</Color></b></TextView>
+  
+</HBoxView>
+            </GotoURL>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+        
+        
+
+        
+          
+        
+
+        
+        
+        
+
+      </VBoxView>
+      
+    </MatrixView>
+  </VBoxView>
+
+
+
+
+
+        
+      </HBoxView>
+      <View></View>
+    
+      <HBoxView bottomInset="0">
+        
+        
+          
+
+
+
+
+
+  <VBoxView minWidth="120" stretchiness="1">
+    <MatrixView columnFormat="64,3,100%" rowFormat="*">
+      
+      
+        
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284567095&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284567095&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r2c2" inhibitDragging="false" draggingName="Pushin&#39; Me Away - Single" target="main">
+    
+          
+          
+          
+            
+  <PictureView leftInset="0" proportional="1" width="53" topInset="0" shadowWidth="2" verticalAlignment="top" shadowHeight="4" horizontalAlignment="left" height="53" rightInset="0" reflection="0" url="http://a1.phobos.apple.com/us/r1000/052/Music/3e/4b/01/mzi.oolspyzm.53x53-50.jpg" addShadowSizes="true" shouldBeVisible="false"></PictureView>  
+
+
+
+  
+
+          
+          
+        
+  </GotoURL>
+
+
+
+      
+
+      <View />
+      
+      <VBoxView rightInset="0" topInset="0" leftInset="0" stretchiness="1">
+      
+        
+        
+          <HBoxView rightInset="0" topInset="0" bottomInset="0" leftInset="0" stretchiness="1">
+            
+              <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+                
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284567095&amp;s=143441" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284567095&amp;s=143441&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r2c2" inhibitDragging="false" draggingName="Pushin&#39; Me Away - Single" target="main">
+    <B>Pushin' Me Away - Single</B>
+  </GotoURL>
+
+
+
+              </SetFontStyle></TextView>
+              <View width="3" />
+            
+            
+            
+              
+                
+                
+              
+              
+            
+            
+          </HBoxView>
+        
+        
+        
+
+      
+      
+      
+
+        
+        
+          
+            <TextView topInset="3" truncation="right" leftInset="0" squishiness="1" rightInset="0" styleSet="basic10" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">
+              
+  <GotoURL draggingURL="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=114342891" url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewArtist?id=114342891&amp;ign-lr=MUSIC%3A+NEW+RELEASES-Lockup_r2c2" inhibitDragging="false" draggingName="Jonas Brothers" target="main">
+    
+                Jonas Brothers
+              
+  </GotoURL>
+
+
+
+            </SetFontStyle></TextView>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+        
+
+
+        
+
+        <VBoxView>
+
+          
+          
+          
+
+          
+          
+          
+            
+            
+              
+              
+            
+            
+            
+          
+          
+
+        </VBoxView>
+
+        
+        
+          
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+        
+        
+
+        
+
+        
+        
+
+        
+
+        
+        
+        
+
+        
+        
+          
+            <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewContentsUserReviews?playlistId=284567095" inhibitDragging="false" target="main">
+              <HBoxView topInset="3">
+  
+  <PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView><PictureView leftInset="0" width="13" topInset="0" transparentClicks="true" height="13" url="/images/colored_assets/stars/rating_star_000000.png"></PictureView>
+  
+  
+</HBoxView>
+            </GotoURL>
+          
+          
+        
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+        
+          
+        
+        
+
+        
+          
+        
+
+        
+        
+        
+
+      </VBoxView>
+      
+    </MatrixView>
+  </VBoxView>
+
+
+
+
+
+        
+      </HBoxView>
+      <View></View>
+    
+    
+  
+</MatrixView>
+
+
+  
+</VBoxView>
+
+
+
+
+              </VBoxView>
+              
+            
+            
+            
+          
+        </MatrixView>
+      </View>
+    
+  </VBoxView>
+    
+  
+
+ 
+      
+    
+      
+        <View height="0"></View> 
+        
+
+  
+  
+  <VBoxView rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+    
+    
+      
+
+
+  <VBoxView rightInset="0" leftInset="0" topInset="0">
+
+  
+  
+    <View>
+      <HBoxView leftInset="0" rightInset="0">
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topl.png"></PictureView>
+        <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_293c5c_100_top.png" bottomInset="0"></PictureView>
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topr.png"></PictureView>
+      </HBoxView>
+      <VBoxView topInset="0" bottomInset="0">
+        <View stretchiness="1"/>
+        
+    <HBoxView rightInset="7" topInset="0" bottomInset="0" leftInset="10">
+  
+    <View stretchiness="1">
+      <TextView topInset="1" truncation="right" leftInset="1" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTitleFontStyle"><Color color="1c1c1c"><b>TOP SONGS</b></Color></SetFontStyle></TextView>
+      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewTop?id=1&amp;popId=1" inhibitDragging="false" draggingName="TOP SONGS" target="main">
+    <TextView topInset="0" truncation="right" leftInset="0" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTitleFontStyle"><b>TOP SONGS</b></SetFontStyle></TextView>
+  </GotoURL>
+
+
+
+    </View>
+    
+    
+    
+      <View width="5" />
+    
+    
+    
+      <VBoxView topInset="1">
+  <View stretchiness="1"></View>
+  
+        
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewTop?id=1&amp;popId=1" inhibitDragging="false" draggingName="TOP SONGS" target="main">
+    <PictureButtonView width="12" topInset="0" picts="plain,pressed,rollover" transparentClicks="1" rightInset="0" url="/images/arrowoutline/arrow_ffffff_r.png" height="12"></PictureButtonView>
+  </GotoURL>
+
+
+
+      
+  <View stretchiness="1"></View>
+</VBoxView>
+    
+   
+  
+</HBoxView>
+
+  
+        <View stretchiness="1"/>
+      </VBoxView>
+    </View>
+  
+
+  
+  
+</VBoxView>
+
+
+
+
+    
+    
+      <View bottomInset="0" topInset="0" stretchiness="1">
+        <VBoxView bottomInset="0" topInset="0" stretchiness="1">
+
+  
+  
+
+  
+  
+    <View stretchiness="1">
+      <Test comparison="less" value="7.0.0" property="iTunes version">
+  
+        <VBoxView stretchiness="1">
+          
+          <MatrixView topInset="0" columnFormat="1,100%,1" rowFormat="100%" bottomInset="0" stretchiness="1">
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+            <View topInset="0" bottomInset="0">
+              
+              <View rightInset="0" topInset="0" bottomInset="0" leftInset="0" backColor="7492bc"></View>
+            </View>
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+          </MatrixView>
+          
+            <HBoxView leftInset="0" rightInset="0">
+              <PictureView leftInset="0" width="11" height="11" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botl.png" bottomInset="0"></PictureView>
+              <View rightInset="0" leftInset="0" stretchiness="1" backColor="7492bc">
+                <View rightInset="0" bottomInset="0" leftInset="0" height="1" backColor="476186"></View>
+              </View>
+              <PictureView width="11" height="11" rightInset="0" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botr.png" bottomInset="0"></PictureView>
+            </HBoxView>
+          
+          
+        </VBoxView>
+      
+</Test>
+      <Test comparison="greater or equal" value="7.0.0" property="iTunes version">
+  
+        <View rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(116,146,188)" mask="/images/masks/ornament_fill_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(71,97,134)" mask="/images/masks/ornament_stroke_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+</View>
+
+      
+</Test>
+
+      <VBoxView></VBoxView>
+
+      
+        
+        
+
+        
+
+        <Test comparison="lt" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureView leftInset="1" width="4" topInset="0" horizontalBehavior="tile" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_l.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureButtonView leftInset="0" width="11" topInset="0" cap-bottom="11" cap-top="11" cap-left="11" url="/images/masks/ornament_shadow_flat_l.png" bottomInset="0"></PictureButtonView>
+        
+</Test>
+
+        <Test rightInset="0" comparison="lt" value="7.0.0" property="iTunes version">
+  
+          <PictureView width="4" topInset="0" horizontalBehavior="tile" rightInset="1" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_r.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test rightInset="0" comparison="ge" value="7.0.0" property="iTunes version">
+  
+          <PictureButtonView width="11" topInset="0" cap-bottom="11" cap-top="11" rightInset="0" url="/images/masks/ornament_shadow_flat_r.png" bottomInset="0" cap-right="11"></PictureButtonView>
+        
+</Test>
+
+        <Test comparison="lt" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureView leftInset="11" horizontalBehavior="tile" height="5" rightInset="11" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_b.png" bottomInset="1"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureButtonView leftInset="11" rightInset="11" url="/images/masks/ornament_shadow_bot.png" bottomInset="0" height="4"></PictureButtonView>
+        
+</Test>
+      
+
+    </View>
+  
+</VBoxView>
+        <MatrixView rowFormat="100%">
+          
+          <MatrixView rightInset="6" topInset="5" columnFormat="14,3,100%" bottomInset="2" leftInset="5" stretchiness="1">
+            
+            
+            
+              
+              
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="0" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">1.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?i=278945614&amp;id=278945586&amp;s=143441" inhibitDragging="false" draggingName="I Kissed a Girl" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="0" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>I Kissed a Girl</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Katy Perry</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">2.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?i=282040183&amp;id=282040182&amp;s=143441" inhibitDragging="false" draggingName="7 Things" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>7 Things</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Miley Cyrus</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">3.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?i=282915416&amp;id=282915380&amp;s=143441" inhibitDragging="false" draggingName="Burnin&#39; Up" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>Burnin&#39; Up</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Jonas Brothers</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">4.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?i=282656467&amp;id=282656418&amp;s=143441" inhibitDragging="false" draggingName="Viva la Vida" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>Viva la Vida</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Coldplay</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">5.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?i=278290418&amp;id=278290390&amp;s=143441" inhibitDragging="false" draggingName="Forever" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>Forever</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Chris Brown</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+              
+              
+            
+          </MatrixView>
+        </MatrixView>
+      </View>
+    
+  </VBoxView>
+    
+  
+
+ 
+      
+    
+      
+        <View height="0"></View> 
+        
+
+  
+  
+  <VBoxView rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+    
+    
+      
+
+
+  <VBoxView rightInset="0" leftInset="0" topInset="0">
+
+  
+  
+    <View>
+      <HBoxView leftInset="0" rightInset="0">
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topl.png"></PictureView>
+        <PictureView leftInset="0" topInset="0" horizontalBehavior="tile" stretchiness="1" rightInset="0" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_293c5c_100_top.png" bottomInset="0"></PictureView>
+        <PictureView width="7" topInset="0" height="20" url="/images/boxcolor2/boxcolor_293c5c_100_topr.png"></PictureView>
+      </HBoxView>
+      <VBoxView topInset="0" bottomInset="0">
+        <View stretchiness="1"/>
+        
+    <HBoxView rightInset="7" topInset="0" bottomInset="0" leftInset="10">
+  
+    <View stretchiness="1">
+      <TextView topInset="1" truncation="right" leftInset="1" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTitleFontStyle"><Color color="1c1c1c"><b>TOP ALBUMS</b></Color></SetFontStyle></TextView>
+      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewTop?id=1&amp;popId=11" inhibitDragging="false" draggingName="TOP ALBUMS" target="main">
+    <TextView topInset="0" truncation="right" leftInset="0" stretchiness="1" rightInset="0" styleSet="basic11" textJust="left" maxLines="1"><SetFontStyle normalStyle="miniTitleFontStyle"><b>TOP ALBUMS</b></SetFontStyle></TextView>
+  </GotoURL>
+
+
+
+    </View>
+    
+    
+    
+      <View width="5" />
+    
+    
+    
+      <VBoxView topInset="1">
+  <View stretchiness="1"></View>
+  
+        
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewTop?id=1&amp;popId=11" inhibitDragging="false" draggingName="TOP ALBUMS" target="main">
+    <PictureButtonView width="12" topInset="0" picts="plain,pressed,rollover" transparentClicks="1" rightInset="0" url="/images/arrowoutline/arrow_ffffff_r.png" height="12"></PictureButtonView>
+  </GotoURL>
+
+
+
+      
+  <View stretchiness="1"></View>
+</VBoxView>
+    
+   
+  
+</HBoxView>
+
+  
+        <View stretchiness="1"/>
+      </VBoxView>
+    </View>
+  
+
+  
+  
+</VBoxView>
+
+
+
+
+    
+    
+      <View bottomInset="0" topInset="0" stretchiness="1">
+        <VBoxView bottomInset="0" topInset="0" stretchiness="1">
+
+  
+  
+
+  
+  
+    <View stretchiness="1">
+      <Test comparison="less" value="7.0.0" property="iTunes version">
+  
+        <VBoxView stretchiness="1">
+          
+          <MatrixView topInset="0" columnFormat="1,100%,1" rowFormat="100%" bottomInset="0" stretchiness="1">
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+            <View topInset="0" bottomInset="0">
+              
+              <View rightInset="0" topInset="0" bottomInset="0" leftInset="0" backColor="7492bc"></View>
+            </View>
+            <View width="1" topInset="0" bottomInset="0" backColor="476186"></View>
+          </MatrixView>
+          
+            <HBoxView leftInset="0" rightInset="0">
+              <PictureView leftInset="0" width="11" height="11" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botl.png" bottomInset="0"></PictureView>
+              <View rightInset="0" leftInset="0" stretchiness="1" backColor="7492bc">
+                <View rightInset="0" bottomInset="0" leftInset="0" height="1" backColor="476186"></View>
+              </View>
+              <PictureView width="11" height="11" rightInset="0" url="/images/boxcolor2/boxcolor_ornament_7492bc_476186_100_botr.png" bottomInset="0"></PictureView>
+            </HBoxView>
+          
+          
+        </VBoxView>
+      
+</Test>
+      <Test comparison="greater or equal" value="7.0.0" property="iTunes version">
+  
+        <View rightInset="0" topInset="0" bottomInset="0" leftInset="0">
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(116,146,188)" mask="/images/masks/ornament_fill_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+    <PictureButtonView leftInset="0" topInset="0" cap="11" rightInset="0" color="rgb(71,97,134)" mask="/images/masks/ornament_stroke_flat.png" bottomInset="0">
+      
+    </PictureButtonView>
+  
+</View>
+
+      
+</Test>
+
+      <VBoxView></VBoxView>
+
+      
+        
+        
+
+        
+
+        <Test comparison="lt" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureView leftInset="1" width="4" topInset="0" horizontalBehavior="tile" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_l.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" property="iTunes version" leftInset="0">
+  
+          <PictureButtonView leftInset="0" width="11" topInset="0" cap-bottom="11" cap-top="11" cap-left="11" url="/images/masks/ornament_shadow_flat_l.png" bottomInset="0"></PictureButtonView>
+        
+</Test>
+
+        <Test rightInset="0" comparison="lt" value="7.0.0" property="iTunes version">
+  
+          <PictureView width="4" topInset="0" horizontalBehavior="tile" rightInset="1" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_r.png" bottomInset="11"></PictureView>
+        
+</Test>
+        <Test rightInset="0" comparison="ge" value="7.0.0" property="iTunes version">
+  
+          <PictureButtonView width="11" topInset="0" cap-bottom="11" cap-top="11" rightInset="0" url="/images/masks/ornament_shadow_flat_r.png" bottomInset="0" cap-right="11"></PictureButtonView>
+        
+</Test>
+
+        <Test comparison="lt" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureView leftInset="11" horizontalBehavior="tile" height="5" rightInset="11" verticalBehavior="tile" url="/images/boxcolor2/boxcolor_shadow_b.png" bottomInset="1"></PictureView>
+        
+</Test>
+        <Test comparison="ge" value="7.0.0" bottomInset="0" property="iTunes version">
+  
+          <PictureButtonView leftInset="11" rightInset="11" url="/images/masks/ornament_shadow_bot.png" bottomInset="0" height="4"></PictureButtonView>
+        
+</Test>
+      
+
+    </View>
+  
+</VBoxView>
+        <MatrixView rowFormat="100%">
+          
+          <MatrixView rightInset="6" topInset="5" columnFormat="14,3,100%" bottomInset="2" leftInset="5" stretchiness="1">
+            
+            
+            
+              
+              
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="0" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">1.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284301051&amp;s=143441" inhibitDragging="false" draggingName="Mamma Mia! (The Movie Soundtrack)" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="0" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>Mamma Mia! (The Movie Soundtrack)</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Various Artists</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">2.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=282656418&amp;s=143441" inhibitDragging="false" draggingName="Viva la Vida" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>Viva la Vida</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Coldplay</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">3.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284530501&amp;s=143441" inhibitDragging="false" draggingName="The Dark Knight (Original Motion Picture Soundtrack)" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>The Dark Knight (Original Motion Picture Soundtrack)</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Hans Zimmer</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">4.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=284871433&amp;s=143441" inhibitDragging="false" draggingName="Nas" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>Nas</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">Nas</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+                  
+                  
+
+                    
+
+                    
+
+	                    
+	                      
+	                    
+                        
+	                      <TextView topInset="2" rightInset="0" styleSet="basic10" textJust="right"><SetFontStyle normalStyle="miniTextFontStyle">5.</SetFontStyle></TextView><View/>
+	                      
+  <GotoURL url="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/viewAlbum?id=373015&amp;s=143441" inhibitDragging="false" draggingName="ABBA - Gold - Greatest Hits" target="main">
+    
+	                        <VBoxView rightInset="0" topInset="2" leftInset="0">
+	                          
+	                            
+	                            
+	                              
+	                              
+	                                
+	                                
+  
+    <TextView topInset="0" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle"><b>ABBA - Gold - Greatest Hits</b></SetFontStyle></TextView>
+  
+
+
+
+	                                
+	                                
+	                                
+	                              
+	                              
+	                            
+	                          
+	                          <TextView topInset="1" truncation="right" leftInset="0" squishiness="1" rightInset="6" styleSet="basic10" maxLines="1"><SetFontStyle normalStyle="miniTextFontStyle">ABBA</SetFontStyle></TextView>
+	                        </VBoxView>
+	                      
+  </GotoURL>
+
+
+
+	                    
+
+                    
+
+                  
+                
+              
+              
+            
+          </MatrixView>
+        </MatrixView>
+      </View>
+    
+  </VBoxView>
+    
+  
+
+ 
+      
+    
+  </MatrixView>
+
+
+
+            <View />
+          </MatrixView>  
+        
+
+        
+      
+      
+
+      
+
+    </View>
+  </View>
+
+</Document>
+

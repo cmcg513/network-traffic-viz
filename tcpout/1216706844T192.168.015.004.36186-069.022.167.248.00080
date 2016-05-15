@@ -1,0 +1,55 @@
+GET /aw/pics/icon/iconOpenWindow_20x20.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/Nascar-Jeff-Gordon-Back-Pack-Laptop-Case-24-NWT_W0QQitemZ280247730020QQihZ018QQcategoryZ25501QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/gif_56x14.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/NWT-AUSTRALIAN-KAKADU-SATCHEL-LEATHER-CANVAS-BAG_W0QQitemZ110273043652QQihZ001QQcategoryZ2021QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/outdooractivities/hdr1_outdooractivities.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/NWT-AUSTRALIAN-KAKADU-SATCHEL-LEATHER-CANVAS-BAG_W0QQitemZ110273043652QQihZ001QQcategoryZ2021QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/outdooractivities/hdr1bkgd_outdooractivities.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/NWT-AUSTRALIAN-KAKADU-SATCHEL-LEATHER-CANVAS-BAG_W0QQitemZ110273043652QQihZ001QQcategoryZ2021QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+
+GET /aw/pics/vit/outdooractivities/ftr1bkgd_outdooractivities.gif HTTP/1.1
+Host: pics.ebaystatic.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://cgi.ebay.com/NWT-AUSTRALIAN-KAKADU-SATCHEL-LEATHER-CANVAS-BAG_W0QQitemZ110273043652QQihZ001QQcategoryZ2021QQssPageNameZWDVWQQrdZ1QQcmdZViewItem
+

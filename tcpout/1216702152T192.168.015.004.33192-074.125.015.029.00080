@@ -1,0 +1,18 @@
+GET /crossdomain.xml HTTP/1.1
+Referer: http://www.youtube.com/watch?v=WaIR9dAZRR0
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: s3.ytimg.com
+
+GET /vi/j3JtIkTktz0/1.jpg HTTP/1.1
+Referer: http://www.youtube.com/watch?v=WaIR9dAZRR0
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: s3.ytimg.com
+

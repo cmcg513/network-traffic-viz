@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/f0/67/ff/mzi.tdajbzez.enc.jpg?downloadKey2=1217307263_569480d7b63c0d746202387470388f6f</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Arleen Augér, Atlanta Symphony Chorus, Atlanta Symphony Orchestra, Richard Stilwell &amp; Robert Shaw</string>
+    <key>playlistName</key><string>Brahms: Ein Deutsches Requiem (German Requiem)</string>
+    <key>artistId</key><string>2226003</string>
+    <key>playlistId</key><string>105193566</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

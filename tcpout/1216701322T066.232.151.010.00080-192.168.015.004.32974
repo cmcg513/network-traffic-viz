@@ -1,0 +1,146 @@
+HTTP/1.1 200 OK
+Content-Length: 218
+Content-Type: text/xml
+Last-Modified: Mon, 22 Aug 2005 17:55:45 GMT
+Accept-Ranges: bytes
+ETag: "5e10c3b842a7c51:304"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Tue, 22 Jul 2008 04:35:23 GMT
+
+<?xml version="1.0"?>
+<!DOCTYPE cross-domain-policy SYSTEM "http://www.macromedia.com/xml/dtds/cross-domain-policy.dtd">
+<cross-domain-policy>
+<allow-access-from domain="*" secure="false"/>
+</cross-domain-policy>
+HTTP/1.1 200 OK
+Content-Length: 2398
+Content-Type: text/xml
+Last-Modified: Mon, 28 Apr 2008 15:42:38 GMT
+Accept-Ranges: bytes
+ETag: "d8118f7c46a9c81:304"
+Server: Microsoft-IIS/6.0
+X-Powered-By: ASP.NET
+Date: Tue, 22 Jul 2008 04:35:23 GMT
+
+<codes>
+	<gamecode value="bingbing">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="stacker">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="know">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="soccer">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="othrow">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="tearitup">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="curling">
+		<clickcount percentage="0.0" />
+	</gamecode>
+	
+	<gamecode value="basketball">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="hockey">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="cornhole">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="oflingo">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="kickoff">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="golf">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="orbuku">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="blackjack">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="dunk">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="shuffle">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="gondo">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="hotel">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="island">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="pool">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="fish">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="ski">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="airdog">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="path">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="football">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="baseball">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="volleyball">
+		<clickcount percentage="0.1" />
+	</gamecode>
+
+	<gamecode value="run">
+		<clickcount percentage="0.0" />
+	</gamecode>
+
+	<gamecode value="puttputt">
+		<clickcount percentage="0.0" />
+	</gamecode>
+</codes>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/r10/Music/39/ba/ca/mzi.ylfqlyap.enc.jpg?downloadKey2=1217307256_2b528ae3441843502f22e7b93ba0b342</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Classical Kids</string>
+    <key>playlistName</key><string>Tchaikovsky Discovers America</string>
+    <key>artistId</key><string>252181981</string>
+    <key>playlistId</key><string>252181979</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

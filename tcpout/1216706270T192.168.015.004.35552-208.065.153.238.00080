@@ -1,0 +1,14 @@
+GET /v/MntVapXKUFA HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.youtube.com
+Connection: Keep-Alive
+
+GET /swf/l.swf?video_id=MntVapXKUFA&rel=1&eurl=&iurl=http%3A//i.ytimg.com/vi/MntVapXKUFA/default.jpg&t=OEgsToPDskJGebPHdBtncOBaJwqitYsT HTTP/1.1
+Accept: */*
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: www.youtube.com
+Connection: Keep-Alive
+

@@ -1,0 +1,12 @@
+GET /result_redir.php?key=tag-4857-1-296657324134&affID=4857&id=LFPvAffVC1&sitehost=www.HolidayInnSacramento.com HTTP/1.1
+Host: feed.validclick.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: HID=4857
+

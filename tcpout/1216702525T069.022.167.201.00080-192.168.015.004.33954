@@ -1,0 +1,44 @@
+HTTP/1.1 200 OK
+Content-Length: 821
+Content-Type: text/xml; charset=UTF-8
+x-apple-asset-version: 46862
+X-Apple-Partner: origin.0
+Vary: Accept-Encoding
+x-webobjects-loadaverage: 0
+x-apple-application-instance: 138
+x-apple-date-generated: Tue, 22 Jul 2008 04:55:49 GMT
+x-apple-request-store-front: 143441
+x-apple-max-age: 3600
+Expires: Tue, 22 Jul 2008 04:55:49 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+Date: Tue, 22 Jul 2008 04:55:49 GMT
+Connection: close
+
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r40/Features/8b/f1/1f/dj.tnxjntvz.enc.jpg?downloadKey2=1217307349_326868d5343b18857a20a9ca423b1aa8</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Simon &amp; Garfunkel</string>
+    <key>playlistName</key><string>Wednesday Morning, 3 A.M.</string>
+    <key>artistId</key><string>461503</string>
+    <key>playlistId</key><string>255005761</string>
+    <key>matchType</key><string>2</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

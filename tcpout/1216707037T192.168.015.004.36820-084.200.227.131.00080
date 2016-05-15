@@ -1,0 +1,30 @@
+GET /images/list_bullet.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://linkarena.com/
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: PHPSESSID=7195f69d7573c4d8c549ee8e667cff47
+Connection: keep-alive
+Host: linkarena.com
+
+GET /images/tab-donkey.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://linkarena.com/tags/business
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: PHPSESSID=7195f69d7573c4d8c549ee8e667cff47
+Connection: keep-alive
+Host: linkarena.com
+
+GET /images/zebra.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://linkarena.com/tags/business
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: PHPSESSID=7195f69d7573c4d8c549ee8e667cff47
+Connection: keep-alive
+Host: linkarena.com
+

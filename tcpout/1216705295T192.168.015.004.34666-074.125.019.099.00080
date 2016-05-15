@@ -1,0 +1,48 @@
+GET /maps?file=api&v=2&key=ABQIAAAAxlNjcILiMUNra09cJ_A5shS0thOkyG-zPvtW2Z_6HBcxJ1iTnRTcCrgRdQThLDDTHSM6aLN8MMCvGg HTTP/1.1
+Host: maps.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /intl/en_us/mapfiles/119/maps2.api/main.js HTTP/1.1
+Host: maps.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: __utmz=173272373.1206979215.4.4.utmccn=(referral)|utmcsr=mail.google.com|utmcct=/mail/|utmcmd=referral; __utma=173272373.1398790265.1198643490.1205253829.1206979215.4; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /maps/vp?spn=0.058776,0.05991&z=13&key=ABQIAAAAxlNjcILiMUNra09cJ_A5shS0thOkyG-zPvtW2Z_6HBcxJ1iTnRTcCrgRdQThLDDTHSM6aLN8MMCvGg&vp=38.58136,-121.493042 HTTP/1.1
+Host: maps.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+
+GET /intl/en_us/mapfiles/119/maps2.api/mod_control_api.js HTTP/1.1
+Host: maps.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: */*
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://www.hellosacramento.com/Attractions.cfm
+Cookie: __utmz=173272373.1206979215.4.4.utmccn=(referral)|utmcsr=mail.google.com|utmcct=/mail/|utmcmd=referral; __utma=173272373.1398790265.1198643490.1205253829.1206979215.4; rememberme=false; MPRF=H4sIAAAAAAAAAAvSEs0rb2OSNWA6_FtJjospNFiKyddRidM3MyUlJ7U4tUKL0zkxN6koMyU9teL3oxvfPyoBACEewC0zAAAA; __utmz=173272373.1212786908.7.7.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; __utmx=173272373.00000983192309928271:2:; __utma=173272373.1398790265.1198643490.1212695605.1212786908.7; PREF=ID=5bc5454c1feb167a:TM=1114643174:LM=1207629782:FV=2:GM=1:IG=3:S=D9lMGbYjU0nFAqMX; __utmxx=173272373.00000983192309928271:1216134266:2592000; NID=12=S-gHu-_-QJPemWhmsR3J0PW_o2zEs1lidu84akUyubUi9CZGF9wnpg2ZzZCwLSxGk9758vkZEOiUZzMdQdjN8nRqyA00fA6jsD5jObYVAwfhO_HLRPhnvlTSsVyo47qe; TZ=420; GMAIL_RTT=61; S=static_files=Canv8wBry0Q
+

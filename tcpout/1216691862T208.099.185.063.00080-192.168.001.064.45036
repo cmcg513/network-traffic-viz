@@ -1,0 +1,7 @@
+HTTP/1.1 304 Not Modified
+Date: Tue, 22 Jul 2008 01:58:06 GMT
+Server: Apache/2.2.6 (Debian) PHP/5.2.4-2 with Suhosin-Patch
+Connection: Keep-Alive
+Keep-Alive: timeout=15, max=100
+ETag: "3f8a82-4758-4529269d34940"
+

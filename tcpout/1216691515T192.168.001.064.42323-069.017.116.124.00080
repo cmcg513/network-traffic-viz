@@ -1,0 +1,29 @@
+GET /comics.php?n=1045 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __utmz=180107493.1211429768.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); __utma=180107493.4005672680921627600.1211429766.1215843621.1216492615.12
+Connection: keep-alive
+Host: www.phdcomics.com
+
+GET /comics/archive/phd072108s.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.phdcomics.com/comics.php?n=1045
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __utmz=180107493.1211429768.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); t=1; __utmb=180107493; __utmc=180107493; __utma=180107493.4005672680921627600.1211429766.1216492615.1216691540.13
+Connection: keep-alive
+Host: www.phdcomics.com
+
+GET /newspapers/preview/phd072108.gif HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.phdcomics.com/comics.php?n=1045
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: __utmz=180107493.1211429768.1.1.utmccn=(direct)|utmcsr=(direct)|utmcmd=(none); t=1; __utmb=180107493; __utmc=180107493; __utma=180107493.4005672680921627600.1211429766.1216492615.1216691540.13
+Connection: keep-alive
+Host: www.phdcomics.com
+

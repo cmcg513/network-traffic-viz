@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+
+  <plist version="1.0">
+    <dict>
+      
+      
+      
+      
+  <key>status</key><integer>0</integer>
+  <key>cover-art-url</key><string>http://a1.phobos.apple.com/us/r10/Music/f7/a0/42/mzi.junvgdhw.enc.jpg?downloadKey2=1217307388_52436e5b0ea22676187557ece70c13f2</string>
+  <key>request-delay-seconds</key><string>.1</string>
+  
+    <key>artistName</key><string>Wanda Landowska</string>
+    <key>playlistName</key><string>Bach: The Well-Tempered Clavier, Book I</string>
+    <key>artistId</key><string>697355</string>
+    <key>playlistId</key><string>187648344</string>
+    <key>matchType</key><string>0</string>
+  
+
+
+      
+      
+    </dict>
+  </plist>
+
+

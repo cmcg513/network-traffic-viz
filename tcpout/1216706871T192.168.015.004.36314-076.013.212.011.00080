@@ -1,0 +1,12 @@
+GET /pixel?id=94635&t=2 HTTP/1.1
+Host: ad.yieldmanager.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X; en-US; rv:1.8.1.16) Gecko/20080702 Firefox/2.0.0.16
+Accept: image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.7,he;q=0.3
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Referer: http://ad.yieldmanager.com/st?ad_type=iframe&ad_size=160x600&site=140060&section_code=12796317&cb=1216706895000551&ycg=&yyob=&promote_sizes=1&pub_redirect_unencoded=1&pub_redirect=http://pn1.ard.yahoo.com/SIG=15chq48m0/M=621216.12796317.13078505.12225377/D=eb_cmptr/S=97553668:SKY/Y=EBAY_US/E=ebay:/EXP=1216714095/L=z_v3nNj8fU8jASHXQnAf7EsRRoZbDEiFeU4ADzti/B=NUwnA9j8fc8-/J=1216706895000551/A=5334030/R=0/*
+Cookie: testbounce="testing"; bh="b!!!!2!!*(h!!!!#:<rei!!*fW!!!!$:>(Wc!!+^-!!!!$:>(Wc!!,WL!!!!$:>(Wc!!-?2!!!!#:<rei!!-yu!!!!#:<rqv!!.%w!!!!#:<rrg!!.+B!!!!#:<rqv!!./l!!!!$:>(Wc!!.up!!!!$:>(Wc!!.xR!!!!$:>(Wc!!/pm!!!!$:>(Wc!!1%Q!!!!#:>4@f!!2C8!!!!#:<rr'!!3:c!!!!#:=TFP"; ih="b!!!!>!!]?U!!!!#:>44o!!dcA!!!!#:>47b!##Q6!!!!#:<ru_!##Q8!!!!#:<rr'!#2HR!!!!%:>4@P!#2^a!!!!#:<rtt!#2_'!!!!#:<rv6!#2_5!!!!#:<rsS!#5-H!!!!#:>4@f!#6LK!!!!#:<rqv!#:sQ!!!!#:<rr2!#:sa!!!!#:<rt3!#DTH!!!!$:>47r!#Dui!!!!$:<rtS!#GUb!!!!#:>(Z7!#I,I!!!!#:>48o!#L-u!!!!#:>4>Y!#NtK!!!!#:>45`!#QRm!!!!#:>48w!#RuF!!!!#:<ru[!#]gG!!!!#:<rqW!#^Ed!!!!$:<rfE!#^pJ!!!!#:>$_<!#_D#!!!!#:>4=s!#b_a!!!!%:>44S!#ey)!!!!#:>49r"; pc1="b!!!!#!!.'/!*XCH!!Jm$!#:sQ!!FWa!.+B8!?5%!)I-X?!x$$2!!U'J!!>k!!!X+5~~~~~:<rrf~~"; uid=lastCounted=1216705942&uid=62e9b3c8-ddc1-11dc-bc97-001cc47410e4&_hmacv=1&_salt=2187964754&_keyid=k1&_hmac=cc521589bee444be8555b2e2b2a263ea9dc47507; pv1="b!!!!%!!2n@!*XCH!!Jm$!#RuF!!Nin!0]*R!?5%!)I-X?!x$$2!!T@)!!FDS!!d]t~~~~~:<ru[:A.`f~!!1ak!!!*`!!U'@!#QRm!!NIi!$xxB!?5%!*ERU=![`s1!!H2b!!d/9~~~~~~:>48w:?2w9M.jTN!!*f[!!!*`!!U'@!#2HR!!FZ#!(R^X!!5/$*an_@!x$$2!!H2b!!O5m!!X-R~~~~~:>4@P:BH*Z~"; liday1=FZTd6)^fjV@)Y[l8E*3'9ETlL@P6roZOnGMZo`mpN=9R>wY124; vuday1=R[O4pN=9R>?Om%X; lifb=+:^OYdB2l,+A6991[*p^,1#FX; fl_inst=1
+

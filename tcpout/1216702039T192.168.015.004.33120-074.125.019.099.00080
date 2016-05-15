@@ -1,0 +1,9 @@
+GET /search?q=dark+knight+trailer&ie=UTF-8&oe=UTF-8 HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: SS=Q0=b2xtZWMgZmVhdHVyZXM; UserLocale=en_US; __utma=173272373.94735706.1198685705.1198685705.1207584751.2; __utmz=173272373.1207584751.2.2.utmccn=(referral)|utmcsr=video.google.com|utmcct=/|utmcmd=referral; S=gafe=OSOt0QHRLZ4; TZ=420; GMAIL_RTT=286; NID=12=YxfQ3yAv9gAZxu9AEqFpCZsDd8oXgyFVH-D8aFoq2dyC29kztbBj4um2S9NwdEnLzCbnzIM2aZUBkRYbl8Llzyk5tQG5fRpdJvDiQpV2uWqCcpwLvdceimwwo19k4245; rememberme=false; PREF=ID=03a34c1c1ac5713a:LD=en:NR=50:TM=1043099084:LM=1204658897:L=0Y6wyVjXJs_p1l8-0hMewyJ_GHuJdrjcA:DV=AA:GM=1:S=MDS7gtwin7CNfCJn
+Connection: keep-alive
+Host: www.google.com
+

@@ -1,0 +1,12 @@
+GET /WebObjects/MZStoreServices.woa/wa/coverArtMatch?CDDBMediaID=9B42DBDC5C7C73452E28198A395E322A&CDDBMuiID=28114&an=Vera%20Beths%2C%20George%20Pieterson%2C%20Anner%20Bijlsma%2C%20Reinbert%20de%20Leeuw&pn=Messiaen%3A%20Quatuor%20pour%20la%20fin%20du%20temps HTTP/1.1
+X-Dsid: 10969092
+X-Apple-Tz: -25200
+X-Apple-Store-Front: 143441-1
+Referer: http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wa/ministoreV2?source=music
+User-Agent: iTunes/7.7 (Macintosh; U; Intel Mac OS X 10.5.4)
+Accept-Language: en-us, en;q=0.50
+X-Apple-Validation: 159ADDC5-E254EF940A2BE540180B94C43E0FA307
+Accept-Encoding: gzip
+Connection: close
+Host: ax.phobos.apple.com.edgesuite.net
+

@@ -1,0 +1,59 @@
+GET /dastat/ping.js?ADN&si=11775&cb=14551 HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemail/Send_Anonymous_Email_Messages.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: anrtx.tacoda.net
+Connection: Keep-Alive
+
+GET /opt/r.js?cb=83515 HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemail/Send_Anonymous_Email_Messages.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: anrtx.tacoda.net
+Connection: Keep-Alive
+Cookie: TID=148au1n08ffll7; Xsd=$; ANRTT=60190^1^1217311415; Tsid=0^1216706615^1216708415|11775^1216706615^1216708415; TData=99999|^|#|60190; Anxd=x
+
+GET /rtx/r.js?cmd=ADN&si=11775&xs=2&v=3.12&cb=20628 HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemailservices/Anonymous_Email_and_Remailer_Services.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: anrtx.tacoda.net
+Connection: Keep-Alive
+Cookie: TID=148au1n08ffll7; Xsd=$; ANRTT=60190^1^1217311415; Tsid=0^1216706615^1216708415|11775^1216706615^1216708415; TData=99999|^|#|60190; Anxd=x; Tcc=1216706635^20
+
+GET /rtx/r.js?cmd=ADN&si=11775&xs=2&v=3.12&cb=2325 HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/od/anonymousemailservices/gr/will_self_destr.htm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: anrtx.tacoda.net
+Connection: Keep-Alive
+Cookie: TID=148au1n08ffll7; Xsd=$; ANRTT=60190^1^1217311420; Tsid=0^1216706615^1216708420|11775^1216706615^1216708420; TData=99999|^|#|60190; Anxd=x; Tcc=1216706635^20
+
+GET /dastat/ping.js?ADN&si=11775&cb=37601 HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/gi/dynamic/zoffsitetopad.htm?zi=1/XJ&sdn=email&cdn=compute&tm=17&gps=101_1829_788_511&f=00&su=p284.9.336.ip_p504.1.336.ip_&tt=4&bt=1&bts=1&zu=http%3A//www.willselfdestruct.com/secure/submit&REF=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fgr%2fwill%5fself%5fdestr%2ehtm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: anrtx.tacoda.net
+Connection: Keep-Alive
+Cookie: TID=148au1n08ffll7; Xsd=$; ANRTT=60190^1^1217311420; Tsid=0^1216706615^1216708430|11775^1216706615^1216708430; TData=99999|^|#|60190; Anxd=x; Tcc=1216706635^20
+
+GET /opt/r.js?cb=56910 HTTP/1.1
+Accept: */*
+Referer: http://email.about.com/gi/dynamic/zoffsitetopad.htm?zi=1/XJ&sdn=email&cdn=compute&tm=17&gps=101_1829_788_511&f=00&su=p284.9.336.ip_p504.1.336.ip_&tt=4&bt=1&bts=1&zu=http%3A//www.willselfdestruct.com/secure/submit&REF=http%3a%2f%2femail%2eabout%2ecom%2fod%2fanonymousemailservices%2fgr%2fwill%5fself%5fdestr%2ehtm
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: anrtx.tacoda.net
+Connection: Keep-Alive
+Cookie: TID=148au1n08ffll7; Xsd=$; ANRTT=60190^1^1217311447; Tsid=0^1216706615^1216708447|11775^1216706615^1216708447; TData=99999|^|#|60190; Anxd=x; Tcc=1216706635^20
+

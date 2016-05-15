@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Date: Tue, 22 Jul 2008 05:58:56 GMT
+Server: Microsoft-IIS/6.0
+P3P: policyref=http://www.eyeblaster.com/p3p/Eyeblaster-served-p3p2.xml,CP="NOI DEVa OUR BUS UNI"
+X-Powered-By: ASP.NET
+Connection: Keep-Alive
+Content-type: text/html
+Expires: Sun, 05-Jun-2005 22:00:00 GMT
+Cache-Control: no-store
+Pragma: no-cache
+Set-Cookie: A2=3Lq0582l06E00000820weB; expires=Thu, 31-Dec-2037 22:00:00 GMT; domain=.serving-sys.com; path=/
+Cache-control: no-cache
+Set-Cookie: B2=25ge0820weB; expires=Thu, 31-Dec-2037 22:00:00 GMT; domain=.serving-sys.com; path=/
+Cache-control: no-cache
+Set-Cookie: C3=0dyu820weB0000g00_; expires=Thu, 31-Dec-2037 22:00:00 GMT; domain=.serving-sys.com; path=/
+Cache-control: no-cache
+Set-Cookie: D3=0dyu03rz820weB; expires=Thu, 31-Dec-2037 22:00:00 GMT; domain=.serving-sys.com; path=/
+Cache-control: no-cache
+Set-Cookie: eyeblaster=BWVal=&BWDate=&debuglevel=&FLV=6.088&RES=0&WMPV=9; expires=Thu, 31-Dec-2037 22:00:00 GMT; domain=bs.serving-sys.com; path=/
+Cache-control: no-cache
+Content-Length: 0
+

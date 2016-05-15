@@ -1,0 +1,11 @@
+GET /firefox?client=firefox-a&rls=org.mozilla:en-US:official HTTP/1.1
+Host: www.google.com
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; en-US; rv:1.9b5) Gecko/2008032619 Firefox/3.0b5
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Cookie: PREF=ID=d54a577ae7a019ef:LD=en:NR=100:TM=1177989979:LM=1210910723:L=0dR0s7pc8UjCP9E5mEw7xLmR8cBdl3V0OBA:GM=1:S=OxMu6EsjlNpojNtk; rememberme=true; NID=10=oo8_VR75Ir_b7UC3VkLFnKppvlluRtDbP2YzQ2mCeUmFxzO-GnlOxrIf32CpiXbrApsAutWUcfumtNwuwTs8avvqmYDzxN_PXTa_mxwxo0dOf_oW0wOIyIUHw23ZlbOd; SID=DQAAAHcAAACQ9KsH7V6iUhoMrCunfUVNsP3emarXf-JwtBQGPPh8uP6D_KnYwIIaq3WNubKdea1awIMlzDoNlGOz7wh_TwTD_LK-5MuvZOm7AKp8-ZBfwaAbarjZsdmoZWAn7gPABfTaWjkodTnRhsjpdvJFa3iq5R2glhMleY9PL5a832gPhQ
+

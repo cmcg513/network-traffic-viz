@@ -1,0 +1,10 @@
+GET /adi/N2870.cnn/B2094897;sz=720x300;click=http://ads.cnn.com/event.ng/Type=click&FlightID=103470&AdID=193625&TargetID=1095&Values=1588&Redirect=;ord=bvlqgim,beikyKbfdugcr? HTTP/1.1
+User-Agent: Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_4; en-us) AppleWebKit/525.18 (KHTML, like Gecko) Version/3.1.2 Safari/525.20.1
+Referer: http://www.cnn.com/cnn_adspaces/dart_ads/2007/12/21/orbitz.html?clk=http://ads.cnn.com/event.ng/Type%3dclick%26FlightID%3d103470%26AdID%3d193625%26TargetID%3d1095%26Values%3d1588%26Redirect%3d&imp=%3Cimg%20src%3D%22http%3A//ads.cnn.com%3A80/event.ng/Type%3Dcount%26ClientType%3D2%26ASeg%3D%26AMod%3D%26AdID%3D193625%26FlightID%3D103470%26TargetID%3D1095%26SiteID%3D1588%26EntityDefResetFlag%3D0%26Segments%3D730%2C2592%2C2743%2C3030%2C3285%2C8463%2C8796%2C9496%2C9779%2C9781%2C9853%2C10381%2C13760%2C14879%2C15539%2C16113%2C17251%26Targets%3D1095%2C2742%2C1515%26Values%3D30%2C46%2C50%2C61%2C73%2C82%2C93%2C100%2C110%2C150%2C1266%2C1588%2C2677%2C4405%2C4413%2C4418%2C4429%2C47182%2C48063%2C49554%2C52263%2C52509%2C52897%2C54682%2C54765%2C55058%2C55059%2C56058%2C56376%26RawValues%3D%26random%3Dbvlqgim%2CbeikyKbfdugcr%22%20width%3D1%20height%3D1%20border%3D0%3E&rand=bvlqgim,beikyKbfdugcr
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: id=80000151fac1d6d
+Connection: keep-alive
+Host: ad.doubleclick.net
+

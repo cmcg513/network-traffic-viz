@@ -1,0 +1,8 @@
+GET /sparkle/update.php?osVersion=10.5.4&cputype=7&cpusubtype=4&model=MacBook1,1&ncpu=2&lang=en&appName=Adium.app&appVersion=1.2.7&cpuFreqMHz=2000&ramMB=2048&FirstSubmission=no&IMServices=&generation=2&type=release HTTP/1.1
+User-Agent: Adium/1.2.7 (Mac OS X) Sparkle/1.1
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Host: www.adiumx.com
+

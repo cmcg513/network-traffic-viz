@@ -1,0 +1,9 @@
+GET /vi/PA4PzCxbmKA/default.jpg HTTP/1.1
+Accept: */*
+Referer: http://www.youtube.com/watch?v=b34U3-CutuU
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+Host: s1.ytimg.com
+Connection: Keep-Alive
+

@@ -1,0 +1,11 @@
+GET /news/feeds/rss2/0,2610,3,00.xml HTTP/1.1
+User-Agent: Apple-PubSub/65.1.1
+If-Modified-Since: Tue, 27 May 2008 18:00:39 GMT
+If-None-Match: Wb4diL2IAUHn3R32JW9oafUppko
+Accept: */*
+Accept-Language: en-us
+Accept-Encoding: gzip, deflate
+Cookie: v1st=473B4C3F8F00D1FD; __qca=1198128694-99785635-49854350; mbox=PC#1202372080412-475184.05#1272780695|check#true#1209708755|session#1209708694502-971549#1209710555; __utma=238032518.124258512.1198128695.1214666137.1215740827.11; __utmz=238032518.1215740827.11.6.utmccn=(organic)|utmcsr=google|utmctr=iphone+2.0|utmcmd=organic
+Connection: keep-alive
+Host: www.wired.com
+

@@ -1,0 +1,20 @@
+HTTP/1.1 302 Found
+Date: Tue, 22 Jul 2008 05:59:04 GMT
+Server: Right Media Ad Server/407
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR NID CURa ADMa DEVa PSAa PSDa OUR BUS COM INT OTC PUR STA"
+Set-Cookie: fl_inst=; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: uid=created=1216706320&lastCounted=1216706320&uid=3bd8dcf2-57b3-11dd-9907-001cc410e82c&_hmacv=1&_salt=1117880729&_keyid=k1&_hmac=1f3593c64e4634551f9b6e1f0eab78e46ceef586; expires=Thu, 21-Aug-2008 05:59:04 GMT
+Set-Cookie: fl_inst=1; expires=Sun, 18-Jan-2009 05:59:04 GMT
+Set-Cookie: pv1="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: pc1="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: ih="b!!!!$!#0]v!!!!#:>49<!#_SR!!!!#:>49!"; path=/; expires=Thu, 22-Jul-2010 05:59:04 GMT
+Set-Cookie: vh="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Set-Cookie: bh="b!!!!$!!0+B!!!!#:>49<!!0nx!!!!#:>49<"; path=/; expires=Thu, 22-Jul-2010 05:59:04 GMT
+Set-Cookie: ia="b"; path=/; expires=Mon, 01-Mar-2004 00:00:00 GMT
+Location: http://ad.yieldmanager.com/pixel?id=95431&t=2
+Cache-Control: no-store
+Last-Modified: Tue, 22 Jul 2008 05:59:04 GMT
+Pragma: no-cache
+Content-Length: 0
+Connection: close
+
